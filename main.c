@@ -96,7 +96,7 @@ int main()
 										
 					memcpy(&cmd_id, &elf_data[cmd_offset+0x10000], sizeof(u32));
 					cmd_id = swap32(cmd_id);
-					sprintf(temp, "\tCommand ID : 0x%02X\n", cmd_id); fputs(temp, fo);
+					sprintf(temp, "\t[GX] Command ID : 0x%02X\n", cmd_id); fputs(temp, fo);
 					
 					//memcpy(&val32, &elf_data[cmd_offset+0x10000+4], sizeof(u32));
 					//val32 = swap32(val32);
@@ -106,13 +106,70 @@ int main()
 					{
 						case 0x00 :
 						{
-							fputs("\tNetEMU ID : 0x01\n", fo);
-							fputs("\t\tCommand TODO !\n", fo);
+							fputs("\t[Net] Command ID : 0x01\n", fo);
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							
+							u64 func_offset;
+							memcpy(&func_offset, &elf_data[cmd_offset+0x10000+0x10], sizeof(u64));
+							func_offset = swap64(func_offset);
+							sprintf(temp, "\t\t[GX] Function offset : 0x%X\n", func_offset); fputs(temp, fo);
+							
+							fputs("\t\t[Net] Function ID : ", fo);
+							switch(func_offset)
+							{
+								case 0x34068 :
+								{
+									fputs("0x02\n", fo);
+									break;
+								}
+								case 0x34144 :
+								{
+									fputs("0x03\n", fo);
+									break;
+								}
+								case 0x36EF0 :
+								{
+									fputs("0x0A\n", fo);
+									break;
+								}
+								case 0x34354 :
+								{
+									fputs("0x0B\n", fo);
+									break;
+								}
+								case 0x365F0 :
+								{
+									fputs("0x0F\n", fo);
+									break;
+								}
+								case 0x36510 :
+								{
+									fputs("0x10\n", fo);
+									break;
+								}
+								case 0x36430 :
+								{
+									fputs("0x11\n", fo);
+									break;
+								}
+								case 0x36FC8 :
+								{
+									fputs("0x2C\n", fo);
+									break;
+								}
+								default :
+									fputs("unk\n", fo);
+									break;
+									
+							}
+							
 							break;
 						}
 						case 0x01 :
 						{
-							fputs("\tNetEMU ID : 0x02\n", fo);
+							fputs("\t[Net] Command ID : 0x02\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -120,13 +177,13 @@ int main()
 						}
 						case 0x02 :
 						{
-							fputs("\tNetEMU ID : 0x03\n", fo);
+							fputs("\t[Net] Command ID : 0x03\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x03 :
 						{
-							fputs("\tNetEMU ID : 0x04\n", fo);
+							fputs("\t[Net] Command ID : 0x04\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -134,19 +191,19 @@ int main()
 						}
 						case 0x04 :
 						{
-							fputs("\tNetEMU ID : 0x05\n", fo);
+							fputs("\t[Net] Command ID : 0x05\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x05 :
 						{
-							fputs("\tNetEMU ID : 0x06\n", fo);
+							fputs("\t[Net] Command ID : 0x06\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x06 :
 						{
-							fputs("\tNetEMU ID : 0x07\n", fo);
+							fputs("\t[Net] Command ID : 0x07\n", fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
@@ -156,7 +213,7 @@ int main()
 						case 0x07 :
 						{
 							
-							fputs("\tNetEMU ID : 0x08\n", fo);
+							fputs("\t[Net] Command ID : 0x08\n", fo);
 							
 							u64 Data_offset;
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
@@ -175,7 +232,7 @@ int main()
 						}
 						case 0x08 :
 						{
-							fputs("\tNetEMU ID : 0x09\n", fo);
+							fputs("\t[Net] Command ID : 0x09\n", fo);
 								
 							u64 Data_offset;
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
@@ -215,7 +272,7 @@ int main()
 						}
 						case 0x09 :
 						{
-							fputs("\tNetEMU ID : 0x0B\n", fo);
+							fputs("\t[Net] Command ID : 0x0B\n", fo);
 							
 							u64 Data_offset;
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
@@ -288,7 +345,7 @@ int main()
 						}
 						case 0x0A :
 						{
-							fputs("\tNetEMU ID : 0x0C\n", fo);
+							fputs("\t[Net] Command ID : 0x0C\n", fo);
 							
 							memcpy(&val16, &elf_data[cmd_offset+0x10000+8], sizeof(val16));
 							val16 = swap16(val16);
@@ -302,7 +359,7 @@ int main()
 						}
 						case 0x0B :
 						{
-							fputs("\tNetEMU ID : 0x0D\n", fo);
+							fputs("\t[Net] Command ID : 0x0D\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -310,7 +367,7 @@ int main()
 						}
 						case 0x0C :
 						{
-							fputs("\tNetEMU ID : 0x0E\n", fo);
+							fputs("\t[Net] Command ID : 0x0E\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -318,7 +375,7 @@ int main()
 						}
 						case 0x0D :
 						{
-							fputs("\tNetEMU ID : 0x0F\n", fo);
+							fputs("\t[Net] Command ID : 0x0F\n", fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
@@ -332,7 +389,7 @@ int main()
 						}
 						case 0x0E :
 						{
-							fputs("\tNetEMU ID : 0x10\n", fo);
+							fputs("\t[Net] Command ID : 0x10\n", fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
@@ -346,7 +403,7 @@ int main()
 						}
 						case 0x0F :
 						{
-							fputs("\tNetEMU ID : 0x11\n", fo);
+							fputs("\t[Net] Command ID : 0x11\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -354,7 +411,7 @@ int main()
 						}
 						case 0x10 :
 						{
-							fputs("\tNetEMU ID : 0x12\n", fo);
+							fputs("\t[Net] Command ID : 0x12\n", fo);
 							
 							u64 Data_offset;
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
@@ -379,7 +436,7 @@ int main()
 						}
 						case 0x11 :
 						{
-							fputs("\tNetEMU ID : 0x13\n", fo);
+							fputs("\t[Net] Command ID : 0x13\n", fo);
 							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
 							val64 = swap64(val64);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val64); fputs(temp, fo);
@@ -387,13 +444,13 @@ int main()
 						}
 						case 0x12 :
 						{
-							fputs("\tNetEMU ID : 0x14\n", fo);
+							fputs("\t[Net] Command ID : 0x14\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x13 :
 						{
-							fputs("\tNetEMU ID : 0x15\n", fo);
+							fputs("\t[Net] Command ID : 0x15\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -401,13 +458,13 @@ int main()
 						}
 						case 0x14 :
 						{
-							fputs("\tNetEMU ID : 0x16\n", fo);
+							fputs("\t[Net] Command ID : 0x16\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x15 :
 						{
-							fputs("\tNetEMU ID : 0x17\n", fo);
+							fputs("\t[Net] Command ID : 0x17\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -416,19 +473,19 @@ int main()
 						case 0x16 :
 						case 0x17 :
 						{
-							fputs("\tNetEMU ID : 0x18 or 0x19 or 0x1A\n", fo);
+							fputs("\t[Net] Command ID : 0x18 or 0x19 or 0x1A\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x18 :
 						{
-							fputs("\tNetEMU ID : 0x1B\n", fo);
+							fputs("\t[Net] Command ID : 0x1B\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x19 :
 						{
-							fputs("\tNetEMU ID : 0x1C\n", fo);
+							fputs("\t[Net] Command ID : 0x1C\n", fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+8], sizeof(val8));
 							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
@@ -445,7 +502,7 @@ int main()
 						}
 						case 0x1A :
 						{
-							fputs("\tNetEMU ID : 0x1D\n", fo);
+							fputs("\t[Net] Command ID : 0x1D\n", fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+8], sizeof(val8));
 							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
@@ -462,7 +519,7 @@ int main()
 						}
 						case 0x1B :
 						{
-							fputs("\tNetEMU ID : 0x1E\n", fo);
+							fputs("\t[Net] Command ID : 0x1E\n", fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+8], sizeof(val8));
 							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
@@ -479,7 +536,7 @@ int main()
 						}
 						case 0x1C :
 						{
-							fputs("\tNetEMU ID : 0x1F\n", fo);
+							fputs("\t[Net] Command ID : 0x1F\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -487,7 +544,7 @@ int main()
 						}
 						case 0x1D :
 						{
-							fputs("\tNetEMU ID : 0x20\n", fo);
+							fputs("\t[Net] Command ID : 0x20\n", fo);
 							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
 							val64 = swap64(val64);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val64); fputs(temp, fo);
@@ -495,7 +552,7 @@ int main()
 						}
 						case 0x1E :
 						{
-							fputs("\tNetEMU ID : 0x21\n", fo);
+							fputs("\t[Net] Command ID : 0x21\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -503,7 +560,7 @@ int main()
 						}
 						case 0x1F :
 						{
-							fputs("\tNetEMU ID : 0x22\n", fo);
+							fputs("\t[Net] Command ID : 0x22\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -511,7 +568,7 @@ int main()
 						}
 						case 0x20 :
 						{
-							fputs("\tNetEMU ID : 0x24\n", fo);
+							fputs("\t[Net] Command ID : 0x24\n", fo);
 							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
 							val64 = swap64(val64);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val64); fputs(temp, fo);
@@ -519,13 +576,13 @@ int main()
 						}
 						case 0x21 :
 						{
-							fputs("\tNetEMU ID : 0x25\n", fo);
+							fputs("\t[Net] Command ID : 0x25\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x22 :
 						{
-							fputs("\tNetEMU ID : 0x26\n", fo);
+							fputs("\t[Net] Command ID : 0x26\n", fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
@@ -540,7 +597,7 @@ int main()
 						}
 						case 0x23 :
 						{
-							fputs("\tNetEMU ID : 0x27\n", fo);
+							fputs("\t[Net] Command ID : 0x27\n", fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
@@ -555,7 +612,7 @@ int main()
 						}
 						case 0x24 :
 						{
-							fputs("\tNetEMU ID : 0x28\n", fo);
+							fputs("\t[Net] Command ID : 0x28\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -563,7 +620,7 @@ int main()
 						}
 						case 0x25 :
 						{
-							fputs("\tNetEMU ID : 0x29\n", fo);
+							fputs("\t[Net] Command ID : 0x29\n", fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
@@ -577,19 +634,19 @@ int main()
 						}
 						case 0x26 :
 						{
-							fputs("\tNetEMU ID : 0x2A\n", fo);
+							fputs("\t[Net] Command ID : 0x2A\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x27 :
 						{
-							fputs("\tNetEMU ID : 0x2B\n", fo);
+							fputs("\t[Net] Command ID : 0x2B\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x28 :
 						{
-							fputs("\tNetEMU ID : 0x2C\n", fo);
+							fputs("\t[Net] Command ID : 0x2C\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -597,13 +654,13 @@ int main()
 						}
 						case 0x29 :
 						{
-							fputs("\tNetEMU ID : 0x2D\n", fo);
+							fputs("\t[Net] Command ID : 0x2D\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x2A :
 						{
-							fputs("\tNetEMU ID : 0x2E\n", fo);
+							fputs("\t[Net] Command ID : 0x2E\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
@@ -611,7 +668,7 @@ int main()
 						}
 						case 0x2B :
 						{
-							fputs("\tNetEMU ID : 0x2F\n", fo);
+							fputs("\t[Net] Command ID : 0x2F\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
 							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
