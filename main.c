@@ -104,12 +104,18 @@ int main()
 				
 					switch(cmd_id)
 					{
-						case 0x01 :
+						case 0x00 :
 						{
 							fputs("\tNetEMU ID : 0x01\n", fo);
+							fputs("\t\tCommand TODO !\n", fo);
+							break;
+						}
+						case 0x01 :
+						{
+							fputs("\tNetEMU ID : 0x02\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x02 :
@@ -123,7 +129,7 @@ int main()
 							fputs("\tNetEMU ID : 0x04\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x04 :
@@ -144,7 +150,67 @@ int main()
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							break;
+						}
+						case 0x07 :
+						{
+							
+							fputs("\tNetEMU ID : 0x08\n", fo);
+							
+							u64 Data_offset;
+							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
+							Data_offset = swap64(Data_offset);
+							sprintf(temp, "\t\tData Offset : 0x%X\n", Data_offset); fputs(temp, fo);
+										
+							for(j=0; j < 8; j++) {
+								memcpy(&val32, &elf_data[Data_offset+0x10000], sizeof(u32));
+								val32 = swap32(val32);
+								sprintf(temp, "\t\t\tParam %d : 0x%08X\n", j+1, val32); fputs(temp, fo);
+								
+								Data_offset+=4;
+							}
+							
+							break;
+						}
+						case 0x08 :
+						{
+							fputs("\tNetEMU ID : 0x09\n", fo);
+								
+							u64 Data_offset;
+							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
+							Data_offset = swap64(Data_offset);
+							sprintf(temp, "\t\tData Offset : 0x%X\n", Data_offset); fputs(temp, fo);
+							
+							u32 Data_Number;
+							memcpy(&Data_Number, &elf_data[cmd_offset+0x10000+0x10], sizeof(u32));
+							Data_Number = swap32(Data_Number);
+							sprintf(temp, "\t\tData Number : 0x%X\n", Data_Number); fputs(temp, fo);
+							
+							for(j=0; j < Data_Number; j++) {
+								memcpy(&val32, &elf_data[Data_offset+0x10000], sizeof(u32));
+								val32 = swap32(val32);
+								sprintf(temp, "\t\t\tOffset : 0x%08X\n", j+1, val32); fputs(temp, fo);
+								
+								memcpy(&val32, &elf_data[Data_offset+0x10000+4], sizeof(u32));
+								val32 = swap32(val32);
+								sprintf(temp, "\t\t\tOriginal 1 : 0x%08X\n", val32); fputs(temp, fo);
+								
+								memcpy(&val32, &elf_data[Data_offset+0x10000+8], sizeof(u32));
+								val32 = swap32(val32);
+								sprintf(temp, "\t\t\tOriginal 2 : 0x%08X\n", val32); fputs(temp, fo);
+								
+								memcpy(&val32, &elf_data[Data_offset+0x10000+0xC], sizeof(u32));
+								val32 = swap32(val32);
+								sprintf(temp, "\t\t\tPatched 1 : 0x%08X\n", val32); fputs(temp, fo);
+								
+								memcpy(&val32, &elf_data[Data_offset+0x10000+0x10], sizeof(u32));
+								val32 = swap32(val32);
+								sprintf(temp, "\t\t\tPatched 2 : 0x%08X\n", val32); fputs(temp, fo);
+								
+								Data_offset += 0x18;
+							}
+							
 							break;
 						}
 						case 0x09 :
@@ -226,11 +292,11 @@ int main()
 							
 							memcpy(&val16, &elf_data[cmd_offset+0x10000+8], sizeof(val16));
 							val16 = swap16(val16);
-							sprintf(temp, "\t\tParam 1 : 0x%X\n", val16); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 1 : 0x%08X\n", val16); fputs(temp, fo);
 							
 							memcpy(&val16, &elf_data[cmd_offset+0x10000+0xA], sizeof(val16));
 							val16 = swap16(val16);
-							sprintf(temp, "\t\tParam 2 : 0x%X\n", val16); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 2 : 0x%08X\n", val16); fputs(temp, fo);
 							
 							break;
 						}
@@ -239,7 +305,7 @@ int main()
 							fputs("\tNetEMU ID : 0x0D\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x0C :
@@ -247,7 +313,35 @@ int main()
 							fputs("\tNetEMU ID : 0x0E\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							break;
+						}
+						case 0x0D :
+						{
+							fputs("\tNetEMU ID : 0x0F\n", fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam 1 : 0x%08X\n", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(val32));
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam 2 : 0x%08X\n", val32); fputs(temp, fo);
+							
+							break;
+						}
+						case 0x0E :
+						{
+							fputs("\tNetEMU ID : 0x10\n", fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam 1 : 0x%08X\n", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(val32));
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam 2 : 0x%08X\n", val32); fputs(temp, fo);
+							
 							break;
 						}
 						case 0x0F :
@@ -255,7 +349,32 @@ int main()
 							fputs("\tNetEMU ID : 0x11\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							break;
+						}
+						case 0x10 :
+						{
+							fputs("\tNetEMU ID : 0x12\n", fo);
+							
+							u64 Data_offset;
+							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
+							Data_offset = swap64(Data_offset);
+							sprintf(temp, "\t\tData Offset : 0x%X\n", Data_offset); fputs(temp, fo);
+														
+							u32 Data_Number;
+							memcpy(&Data_Number, &elf_data[cmd_offset+0x10000+0x10], sizeof(u32));
+							Data_Number = swap32(Data_Number);
+							sprintf(temp, "\t\tData Number : 0x%X\n", Data_Number); fputs(temp, fo);
+							
+							for(j=0; j < Data_Number; j++) {
+								
+								memcpy(&val32, &elf_data[Data_offset+0x10000], sizeof(u32));
+								val32 = swap32(val32);
+								sprintf(temp, "\t\t\tParam %d : 0x%08X\n", j+1, val32); fputs(temp, fo);
+								
+								Data_offset+=4;
+							}
+							
 							break;
 						}
 						case 0x11 :
@@ -263,21 +382,42 @@ int main()
 							fputs("\tNetEMU ID : 0x13\n", fo);
 							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
 							val64 = swap64(val64);
-							sprintf(temp, "\t\tParam : 0x%X\n", val64); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val64); fputs(temp, fo);
 							break;
 						}
 						case 0x12 :
 						{
-							fputs("\tNetEMU ID : 0x13\n", fo);
+							fputs("\tNetEMU ID : 0x14\n", fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x13 :
 						{
-							fputs("\tNetEMU ID : 0x0D\n", fo);
+							fputs("\tNetEMU ID : 0x15\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							break;
+						}
+						case 0x14 :
+						{
+							fputs("\tNetEMU ID : 0x16\n", fo);
+							fputs("\t\tNothing to do\n", fo);
+							break;
+						}
+						case 0x15 :
+						{
+							fputs("\tNetEMU ID : 0x17\n", fo);
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							break;
+						}
+						case 0x16 :
+						case 0x17 :
+						{
+							fputs("\tNetEMU ID : 0x18 or 0x19 or 0x1A\n", fo);
+							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x18 :
@@ -291,16 +431,16 @@ int main()
 							fputs("\tNetEMU ID : 0x1C\n", fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+8], sizeof(val8));
-							sprintf(temp, "\t\tParam 1 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+9], sizeof(val8));
-							sprintf(temp, "\t\tParam 2 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 2 : 0x%02X\n", val8); fputs(temp, fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+10], sizeof(val8));
-							sprintf(temp, "\t\tParam 3 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 3 : 0x%02X\n", val8); fputs(temp, fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+11], sizeof(val8));
-							sprintf(temp, "\t\tParam 4 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 4 : 0x%02X\n", val8); fputs(temp, fo);
 							break;
 						}
 						case 0x1A :
@@ -308,16 +448,16 @@ int main()
 							fputs("\tNetEMU ID : 0x1D\n", fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+8], sizeof(val8));
-							sprintf(temp, "\t\tParam 1 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+9], sizeof(val8));
-							sprintf(temp, "\t\tParam 2 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 2 : 0x%02X\n", val8); fputs(temp, fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+10], sizeof(val8));
-							sprintf(temp, "\t\tParam 3 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 3 : 0x%02X\n", val8); fputs(temp, fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+11], sizeof(val8));
-							sprintf(temp, "\t\tParam 4 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 4 : 0x%02X\n", val8); fputs(temp, fo);
 							break;
 						}
 						case 0x1B :
@@ -325,16 +465,16 @@ int main()
 							fputs("\tNetEMU ID : 0x1E\n", fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+8], sizeof(val8));
-							sprintf(temp, "\t\tParam 1 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+9], sizeof(val8));
-							sprintf(temp, "\t\tParam 2 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 2 : 0x%02X\n", val8); fputs(temp, fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+10], sizeof(val8));
-							sprintf(temp, "\t\tParam 3 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 3 : 0x%02X\n", val8); fputs(temp, fo);
 							
 							memcpy(&val8, &elf_data[cmd_offset+0x10000+11], sizeof(val8));
-							sprintf(temp, "\t\tParam 4 : 0x%X\n", val8); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 4 : 0x%02X\n", val8); fputs(temp, fo);
 							break;
 						}
 						case 0x1C :
@@ -342,7 +482,7 @@ int main()
 							fputs("\tNetEMU ID : 0x1F\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x1D :
@@ -350,7 +490,7 @@ int main()
 							fputs("\tNetEMU ID : 0x20\n", fo);
 							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
 							val64 = swap64(val64);
-							sprintf(temp, "\t\tParam : 0x%X\n", val64); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val64); fputs(temp, fo);
 							break;
 						}
 						case 0x1E :
@@ -358,7 +498,7 @@ int main()
 							fputs("\tNetEMU ID : 0x21\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x1F :
@@ -366,7 +506,7 @@ int main()
 							fputs("\tNetEMU ID : 0x22\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x20 :
@@ -374,7 +514,43 @@ int main()
 							fputs("\tNetEMU ID : 0x24\n", fo);
 							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
 							val64 = swap64(val64);
-							sprintf(temp, "\t\tParam : 0x%X\n", val64); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val64); fputs(temp, fo);
+							break;
+						}
+						case 0x21 :
+						{
+							fputs("\tNetEMU ID : 0x25\n", fo);
+							fputs("\t\tNothing to do\n", fo);
+							break;
+						}
+						case 0x22 :
+						{
+							fputs("\tNetEMU ID : 0x26\n", fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam 1 : 0x%X\n", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(val32));
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam 2 : 0x%X\n", val32); fputs(temp, fo);
+							
+							break;
+							break;
+						}
+						case 0x23 :
+						{
+							fputs("\tNetEMU ID : 0x27\n", fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam 1 : 0x%X\n", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(val32));
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam 2 : 0x%X\n", val32); fputs(temp, fo);
+							
+							break;
 							break;
 						}
 						case 0x24 :
@@ -382,7 +558,7 @@ int main()
 							fputs("\tNetEMU ID : 0x28\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x25 :
@@ -416,7 +592,13 @@ int main()
 							fputs("\tNetEMU ID : 0x2C\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							break;
+						}
+						case 0x29 :
+						{
+							fputs("\tNetEMU ID : 0x2D\n", fo);
+							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x2A :
@@ -424,7 +606,7 @@ int main()
 							fputs("\tNetEMU ID : 0x2E\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x2B :
@@ -432,7 +614,7 @@ int main()
 							fputs("\tNetEMU ID : 0x2F\n", fo);
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						
