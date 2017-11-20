@@ -465,9 +465,18 @@ int main()
 						case 0x15 :
 						{
 							fputs("\t[Net] Command ID : 0x17\n", fo);
-							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
-							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							memcpy(&val8, &elf_data[cmd_offset+0x10000+0x8], sizeof(val8));
+							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
+							
+							memcpy(&val8, &elf_data[cmd_offset+0x10000+0x9], sizeof(val8));
+							sprintf(temp, "\t\tParam 2 : 0x%02X\n", val8); fputs(temp, fo);
+							
+							memcpy(&val8, &elf_data[cmd_offset+0x10000+0xA], sizeof(val8));
+							sprintf(temp, "\t\tParam 3 : 0x%02X\n", val8); fputs(temp, fo);
+							
+							memcpy(&val8, &elf_data[cmd_offset+0x10000+0xB], sizeof(val8));
+							sprintf(temp, "\t\tParam 4 : 0x%02X\n", val8); fputs(temp, fo);
+							
 							break;
 						}
 						case 0x16 :
@@ -561,9 +570,7 @@ int main()
 						case 0x1F :
 						{
 							fputs("\t[Net] Command ID : 0x22\n", fo);
-							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
-							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x20 :

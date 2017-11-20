@@ -976,7 +976,7 @@ Commands count : 0x3
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
-		Param : 0x00000000
+		Nothing to do
 
 Title : Run Like Hell - Hunt or Be Hunted
 Game ID : SLUS_200.37
@@ -2191,7 +2191,7 @@ Commands count : 0x4
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
-		Param : 0x00000000
+		Nothing to do
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 0x002D0818
@@ -2567,7 +2567,7 @@ Commands count : 0x3
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
-		Param : 0x00000000
+		Nothing to do
 
 Title : Onimusha 3 - Demon Siege
 Game ID : SLUS_206.94
@@ -3065,7 +3065,7 @@ Commands count : 0x3
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
-		Param : 0x00000000
+		Nothing to do
 
 Title : Ghosthunter
 Game ID : SLUS_209.93
@@ -3494,7 +3494,10 @@ Commands offset : 0x51C590
 Commands count : 0x1
 	[GX] Command ID : 0x15
 	[Net] Command ID : 0x17
-		Param : 0x01000000
+		Param 1 : 0x01
+		Param 2 : 0x00
+		Param 3 : 0x00
+		Param 4 : 0x00
 
 Title : Commandos Strike Force
 Game ID : SLUS_211.03
@@ -3870,7 +3873,10 @@ Commands offset : 0x51DCA0
 Commands count : 0x1
 	[GX] Command ID : 0x15
 	[Net] Command ID : 0x17
-		Param : 0x01000000
+		Param 1 : 0x01
+		Param 2 : 0x00
+		Param 3 : 0x00
+		Param 4 : 0x00
 
 Title : Super Monkey Ball Adventure
 Game ID : SLUS_212.72
@@ -4007,7 +4013,7 @@ Commands count : 0x3
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
-		Param : 0x00000000
+		Nothing to do
 
 Title : Ice Age 2 - The Meltdown
 Game ID : SLUS_213.07
@@ -7342,7 +7348,7 @@ Commands count : 0x3
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
-		Param : 0x00000000
+		Nothing to do
 
 Title : Mortal Kombat - Deadly Alliance
 Game ID : SLES_507.17
@@ -9113,7 +9119,7 @@ Commands count : 0x3
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
-		Param : 0x00000000
+		Nothing to do
 
 Title : dot Hack - Part 1 - Infection
 Game ID : SLES_522.37
@@ -9350,7 +9356,7 @@ Commands count : 0x3
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
-		Param : 0x00000000
+		Nothing to do
 
 Title : Transformers Armada - Prelude to Energon [Special Edition]
 Game ID : SLES_523.88
@@ -10107,7 +10113,7 @@ Commands count : 0x3
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
-		Param : 0x00000000
+		Nothing to do
 
 Title : Street Racing Syndicate
 Game ID : SLES_530.45
@@ -11431,7 +11437,7 @@ Commands count : 0x3
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
-		Param : 0x00000000
+		Nothing to do
 
 Title : Okami
 Game ID : SLES_544.39
