@@ -1,7 +1,7 @@
 Title : Rimoko Koron
 Game ID : SCPS_110.12
 Hash : 0x4AE9B4F8E5
-Hash Offset : 0x34FE00
+Hash Offset : 0x33FE00
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -11,7 +11,7 @@ Commands count : 0x1
 Title : Dark Cloud
 Game ID : SCPS_150.04
 Hash : 0x2E89D49845
-Hash Offset : 0x350298
+Hash Offset : 0x340298
 Commands offset : 0x51C7D8
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -22,7 +22,7 @@ Commands count : 0x1
 Title : Growlanser II - The Sense of Justice
 Game ID : SLKA_150.07
 Hash : 0x2E4032995D
-Hash Offset : 0x352710
+Hash Offset : 0x342710
 Commands offset : 0x51CE88
 Commands count : 0x1
 	[GX] Command ID : 0x01
@@ -32,7 +32,7 @@ Commands count : 0x1
 Title : PaRappa the Rapper 2
 Game ID : SCPS_150.17
 Hash : 0x2681DC90E5
-Hash Offset : 0x34F9C8
+Hash Offset : 0x33F9C8
 Commands offset : 0x3451D0
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -51,7 +51,7 @@ Commands count : 0x2
 Title : Growlanser II - The Dual Darkness
 Game ID : SLKA_150.21
 Hash : 0x26483A91C5
-Hash Offset : 0x352728
+Hash Offset : 0x342728
 Commands offset : 0x51CE88
 Commands count : 0x1
 	[GX] Command ID : 0x01
@@ -61,7 +61,7 @@ Commands count : 0x1
 Title : Ratchet & Clank
 Game ID : SCPS_150.37
 Hash : 0x2681DC9045
-Hash Offset : 0x34FFE0
+Hash Offset : 0x33FFE0
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -96,7 +96,7 @@ Commands count : 0x3
 Title : Ratchet & Clank 2
 Game ID : SCPS_150.56
 Hash : 0x3E99C48835
-Hash Offset : 0x34FE30
+Hash Offset : 0x33FE30
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -131,7 +131,7 @@ Commands count : 0x3
 Title : Arc the Lad - Generation
 Game ID : SCPS_150.58
 Hash : 0x3E99C48825
-Hash Offset : 0x34FFF8
+Hash Offset : 0x33FFF8
 Commands offset : 0x51CA00
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -142,7 +142,7 @@ Commands count : 0x1
 Title : Ghost in the Shell - Stand Alone Complex
 Game ID : SCPS_150.64
 Hash : 0x3E99C48875
-Hash Offset : 0x34FE90
+Hash Offset : 0x33FE90
 Commands offset : 0x344A10
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -412,7 +412,7 @@ Commands count : 0x1
 Title : Ratchet & Clank 3
 Game ID : SCPS_150.84
 Hash : 0x3691CC80DD
-Hash Offset : 0x34FE48
+Hash Offset : 0x33FE48
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -447,7 +447,7 @@ Commands count : 0x3
 Title : Ratchet & Clank - Giga Battle
 Game ID : SCPS_150.99
 Hash : 0x3691CC8065
-Hash Offset : 0x34FE60
+Hash Offset : 0x33FE60
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -482,7 +482,7 @@ Commands count : 0x3
 Title : Tourist Trophy - The Real Riding Simulator
 Game ID : SCPS_151.05
 Hash : 0x4EE9B4F8CD
-Hash Offset : 0x350358
+Hash Offset : 0x340358
 Commands offset : 0x51C7A8
 Commands count : 0x1
 	[GX] Command ID : 0x0E
@@ -493,7 +493,7 @@ Commands count : 0x1
 Title : Siren 2
 Game ID : SCPS_151.06
 Hash : 0x4EE9B4F8D5
-Hash Offset : 0x3503E8
+Hash Offset : 0x3403E8
 Commands offset : 0x344368
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -511,7 +511,7 @@ Commands count : 0x1
 Title : Gran Turismo 4
 Game ID : SCPS_170.01
 Hash : 0x8B1ECA0D5
-Hash Offset : 0x350340
+Hash Offset : 0x340340
 Commands offset : 0x51C7C0
 Commands count : 0x1
 	[GX] Command ID : 0x0E
@@ -522,7 +522,7 @@ Commands count : 0x1
 Title : Tekken Tag Tournament
 Game ID : SLUS_200.01
 Hash : 0x1BE11DB185
-Hash Offset : 0x34F200
+Hash Offset : 0x33F200
 Commands offset : 0x51D2D0
 Commands count : 0x1
 	[GX] Command ID : 0x04
@@ -532,7 +532,7 @@ Commands count : 0x1
 Title : ARGUS NO SENSHI
 Game ID : SCKA_200.06
 Hash : 0x1B68FAB0BD
-Hash Offset : 0x352590
+Hash Offset : 0x342590
 Commands offset : 0x51B040
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -543,7 +543,7 @@ Commands count : 0x1
 Title : Ratchet & Clank 2 - Gagaga! Ginga no Commando-ssu
 Game ID : SCKA_200.11
 Hash : 0x1B68FAB0D5
-Hash Offset : 0x3525F0
+Hash Offset : 0x3425F0
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -578,7 +578,7 @@ Commands count : 0x3
 Title : Primal Image Vol.01
 Game ID : SLPS_200.13
 Hash : 0x1BA11CB1E5
-Hash Offset : 0x350118
+Hash Offset : 0x340118
 Commands offset : 0x3445F0
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -594,7 +594,7 @@ Commands count : 0x1
 Title : Onimusha - Warlords
 Game ID : SLUS_200.18
 Hash : 0x1BE11DB11D
-Hash Offset : 0x34E840
+Hash Offset : 0x33E840
 Commands offset : 0x51D7F8
 Commands count : 0x1
 	[GX] Command ID : 0x23
@@ -605,7 +605,7 @@ Commands count : 0x1
 Title : The Getaway
 Game ID : SCKA_200.18
 Hash : 0x1B68FAB01D
-Hash Offset : 0x3526E0
+Hash Offset : 0x3426E0
 Commands offset : 0x346470
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -618,7 +618,7 @@ Commands count : 0x1
 Title : FIFA 2000 World Championship
 Game ID : SLPS_200.20
 Hash : 0x1BA11CB12D
-Hash Offset : 0x351300
+Hash Offset : 0x341300
 Commands offset : 0x33ACE8
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -635,7 +635,7 @@ Commands count : 0x2
 Title : Katamari Damacy
 Game ID : SCKA_200.25
 Hash : 0x1B68FAB045
-Hash Offset : 0x3527A0
+Hash Offset : 0x3427A0
 Commands offset : 0x342B58
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -653,7 +653,7 @@ Commands count : 0x1
 Title : KOUKAKU KIDOUTAI - STAND ALONE COMPLEX
 Game ID : SCKA_200.27
 Hash : 0x1B68FAB055
-Hash Offset : 0x3526F8
+Hash Offset : 0x3426F8
 Commands offset : 0x342BC8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -923,7 +923,7 @@ Commands count : 0x1
 Title : No One Lives Forever
 Game ID : SLUS_200.28
 Hash : 0x1BE11DB16D
-Hash Offset : 0x34F968
+Hash Offset : 0x33F968
 Commands offset : 0x51CF00
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -934,7 +934,7 @@ Commands count : 0x1
 Title : Syphon Filter - The Omega Virus
 Game ID : SCKA_200.32
 Hash : 0x370E2A895
-Hash Offset : 0x352818
+Hash Offset : 0x342818
 Commands offset : 0x342B08
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -961,7 +961,7 @@ Commands count : 0x2
 Title : Baldur's Gate - Dark Alliance
 Game ID : SLUS_200.35
 Hash : 0x3F905A98D
-Hash Offset : 0x34E0F0
+Hash Offset : 0x33E0F0
 Commands offset : 0x33B990
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -981,7 +981,7 @@ Commands count : 0x3
 Title : Run Like Hell - Hunt or Be Hunted
 Game ID : SLUS_200.37
 Hash : 0x3F905A9BD
-Hash Offset : 0x34F5C0
+Hash Offset : 0x33F5C0
 Commands offset : 0x345550
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1006,7 +1006,7 @@ Commands count : 0x1
 Title : Ratchet & Clank 2 - Gagaga! Ginga no Commando-ssu [Big Hit Series]
 Game ID : SCKA_200.37
 Hash : 0x370E2A8BD
-Hash Offset : 0x352608
+Hash Offset : 0x342608
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -1041,7 +1041,7 @@ Commands count : 0x3
 Title : Ace Combat 5 - The Unsung War
 Game ID : SCKA_200.42
 Hash : 0x370E2A8C5
-Hash Offset : 0x3523F8
+Hash Offset : 0x3423F8
 Commands offset : 0x3431C8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1059,7 +1059,7 @@ Commands count : 0x1
 Title : Ratchet - Deadlocked
 Game ID : SCKA_200.60
 Hash : 0x370E2A875
-Hash Offset : 0x352620
+Hash Offset : 0x342620
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -1094,7 +1094,7 @@ Commands count : 0x3
 Title : Grand Theft Auto III
 Game ID : SLUS_200.62
 Hash : 0x3F905A965
-Hash Offset : 0x34F290
+Hash Offset : 0x33F290
 Commands offset : 0x33B270
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -1107,12 +1107,12 @@ Commands count : 0x3
 		Param : 0x00000001
 	[GX] Command ID : 0x1D
 	[Net] Command ID : 0x20
-		Param : 0x0000000A
+		Param : 0x000000000000000A
 
 Title : Oni
 Game ID : SLUS_200.64
 Hash : 0xBF10DA19D
-Hash Offset : 0x34E900
+Hash Offset : 0x33E900
 Commands offset : 0x345CF8
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -1128,7 +1128,7 @@ Commands count : 0x1
 Title : Siren 2
 Game ID : SCKA_200.69
 Hash : 0xB78EAA0B5
-Hash Offset : 0x3524B8
+Hash Offset : 0x3424B8
 Commands offset : 0x343110
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1146,7 +1146,7 @@ Commands count : 0x1
 Title : Ace Combat Zero - The Belkan War
 Game ID : SCKA_200.70
 Hash : 0xB78EAA0AD
-Hash Offset : 0x352410
+Hash Offset : 0x342410
 Commands offset : 0x343190
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1164,7 +1164,7 @@ Commands count : 0x1
 Title : Dead or Alive 2
 Game ID : SLUS_200.71
 Hash : 0xBF10DA1A5
-Hash Offset : 0x34F170
+Hash Offset : 0x33F170
 Commands offset : 0x3457E0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1231,7 +1231,7 @@ Commands count : 0x1
 Title : Summoner
 Game ID : SLUS_200.74
 Hash : 0xBF10DA1CD
-Hash Offset : 0x34EB58
+Hash Offset : 0x33EB58
 Commands offset : 0x51D640
 Commands count : 0x1
 	[GX] Command ID : 0x28
@@ -1241,7 +1241,7 @@ Commands count : 0x1
 Title : Tiger Woods PGA Tour 2001
 Game ID : SLPS_200.92
 Hash : 0xBB10CA17D
-Hash Offset : 0x34F9E0
+Hash Offset : 0x33F9E0
 Commands offset : 0x51CEA0
 Commands count : 0x1
 	[GX] Command ID : 0x16
@@ -1251,7 +1251,7 @@ Commands count : 0x1
 Title : X Squad
 Game ID : SLUS_200.94
 Hash : 0xBF10DA16D
-Hash Offset : 0x34F8C0
+Hash Offset : 0x33F8C0
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -1261,7 +1261,7 @@ Commands count : 0x1
 Title : Growlanser II - The Sense of Justice
 Game ID : SLPS_201.06
 Hash : 0x33893499F5
-Hash Offset : 0x34F9F8
+Hash Offset : 0x33F9F8
 Commands offset : 0x51CE88
 Commands count : 0x1
 	[GX] Command ID : 0x01
@@ -1271,7 +1271,7 @@ Commands count : 0x1
 Title : Driving Emotion Type S
 Game ID : SLUS_201.13
 Hash : 0x33C935992D
-Hash Offset : 0x34E390
+Hash Offset : 0x33E390
 Commands offset : 0x346620
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -1284,7 +1284,7 @@ Commands count : 0x1
 Title : 実戦パチスロ必勝法! 獣王 通常版
 Game ID : SLPS_201.31
 Hash : 0x3B813C91B5
-Hash Offset : 0x3500B8
+Hash Offset : 0x3400B8
 Commands offset : 0x51C910
 Commands count : 0x2
 	[GX] Command ID : 0x01
@@ -1292,12 +1292,12 @@ Commands count : 0x2
 		Param : 0x00001770
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x0001D394
+		Param : 0x000000000001D394
 
 Title : Barbarian
 Game ID : SLUS_201.36
 Hash : 0x3BC13D91ED
-Hash Offset : 0x34E120
+Hash Offset : 0x33E120
 Commands offset : 0x3466F0
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -1327,7 +1327,7 @@ Commands count : 0x1
 Title : CART Fury - Championship Racing
 Game ID : SLUS_201.41
 Hash : 0x3BC13D91C5
-Hash Offset : 0x34E198
+Hash Offset : 0x33E198
 Commands offset : 0x346698
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1345,7 +1345,7 @@ Commands count : 0x1
 Title : Metal Gear Solid 2 - Sons of Liberty
 Game ID : SLUS_201.44
 Hash : 0x3BC13D912D
-Hash Offset : 0x34E750
+Hash Offset : 0x33E750
 Commands offset : 0x51D8B0
 Commands count : 0x1
 	[GX] Command ID : 0x1E
@@ -1355,7 +1355,7 @@ Commands count : 0x1
 Title : Ace Combat 4 - Shattered Skies
 Game ID : SLUS_201.52
 Hash : 0x3BC13D916D
-Hash Offset : 0x34E018
+Hash Offset : 0x33E018
 Commands offset : 0x3467C8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1373,7 +1373,7 @@ Commands count : 0x1
 Title : Project Eden
 Game ID : SLUS_201.64
 Hash : 0x23D9258995
-Hash Offset : 0x34E8D0
+Hash Offset : 0x33E8D0
 Commands offset : 0x345D60
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -1394,7 +1394,7 @@ Commands count : 0x2
 Title : Rumble Racing
 Game ID : SLUS_201.74
 Hash : 0x23D92589C5
-Hash Offset : 0x34EA08
+Hash Offset : 0x33EA08
 Commands offset : 0x345C30
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1412,7 +1412,7 @@ Commands count : 0x1
 Title : Samurai
 Game ID : SLPS_201.78
 Hash : 0x2399248925
-Hash Offset : 0x350010
+Hash Offset : 0x340010
 Commands offset : 0x51C9D0
 Commands count : 0x2
 	[GX] Command ID : 0x0D
@@ -1427,7 +1427,7 @@ Commands count : 0x2
 Title : Bloody Roar 3
 Game ID : SLUS_202.12
 Hash : 0x2BD12D811D
-Hash Offset : 0x34F410
+Hash Offset : 0x33F410
 Commands offset : 0x33B258
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -1439,7 +1439,7 @@ Commands count : 0x1
 Title : Test Drive
 Game ID : SLUS_202.13
 Hash : 0x2BD12D8115
-Hash Offset : 0x34EC00
+Hash Offset : 0x33EC00
 Commands offset : 0x51D628
 Commands count : 0x1
 	[GX] Command ID : 0x01
@@ -1449,7 +1449,7 @@ Commands count : 0x1
 Title : Devil May Cry
 Game ID : SLUS_202.16
 Hash : 0x2BD12D817D
-Hash Offset : 0x34E330
+Hash Offset : 0x33E330
 Commands offset : 0x51DB38
 Commands count : 0x1
 	[GX] Command ID : 0x17
@@ -1459,7 +1459,7 @@ Commands count : 0x1
 Title : Max Payne
 Game ID : SLUS_202.30
 Hash : 0x53A955F9F5
-Hash Offset : 0x34E6F0
+Hash Offset : 0x33E6F0
 Commands offset : 0x33B5D0
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -1476,7 +1476,7 @@ Commands count : 0x2
 Title : Harry Potter to Himitsu no Heya
 Game ID : SLPS_202.34
 Hash : 0x53E954F995
-Hash Offset : 0x34FA10
+Hash Offset : 0x33FA10
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -1486,17 +1486,17 @@ Commands count : 0x1
 Title : Jeremy McGrath - Supercross World 2002
 Game ID : SLUS_202.45
 Hash : 0x53A955F96D
-Hash Offset : 0x34F1E8
+Hash Offset : 0x33F1E8
 Commands offset : 0x51D2E8
 Commands count : 0x1
 	[GX] Command ID : 0x20
 	[Net] Command ID : 0x24
-		Param : 0x00002EE0
+		Param : 0x0000000000002EE0
 
 Title : Rally Shox
 Game ID : SLPS_202.46
 Hash : 0x53E954F975
-Hash Offset : 0x34FE18
+Hash Offset : 0x33FE18
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -1506,7 +1506,7 @@ Commands count : 0x1
 Title : Wizadry - Tale of the Forsaken
 Game ID : SLUS_202.59
 Hash : 0x5BA15DF1D5
-Hash Offset : 0x34F548
+Hash Offset : 0x33F548
 Commands offset : 0x345658
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1524,7 +1524,7 @@ Commands count : 0x1
 Title : dot Hack - Part 1 - Infection
 Game ID : SLUS_202.67
 Hash : 0x5BA15DF195
-Hash Offset : 0x34E3F0
+Hash Offset : 0x33E3F0
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -1553,7 +1553,7 @@ Commands count : 0x2
 Title : Rayman Arena
 Game ID : SLUS_202.72
 Hash : 0x5BA15DF14D
-Hash Offset : 0x34E9A8
+Hash Offset : 0x33E9A8
 Commands offset : 0x345C80
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -1581,7 +1581,7 @@ Commands count : 0x1
 Title : Kessen 2
 Game ID : SLUS_202.75
 Hash : 0x5BA15DF155
-Hash Offset : 0x34F8D8
+Hash Offset : 0x33F8D8
 Commands offset : 0x345310
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1613,7 +1613,7 @@ Commands count : 0x1
 Title : World of Outlaws - Sprint Cars 2002
 Game ID : SLUS_202.83
 Hash : 0x5BA15DF115
-Hash Offset : 0x34EAB0
+Hash Offset : 0x33EAB0
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -1623,7 +1623,7 @@ Commands count : 0x1
 Title : Final Fantasy X
 Game ID : SLUS_203.12
 Hash : 0x43B945E915
-Hash Offset : 0x34E498
+Hash Offset : 0x33E498
 Commands offset : 0x346520
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -1658,7 +1658,7 @@ Commands count : 0x2
 Title : TimeSplitters 2
 Game ID : SLUS_203.14
 Hash : 0x43B945E905
-Hash Offset : 0x34EC48
+Hash Offset : 0x33EC48
 Commands offset : 0x345AC0
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -1674,12 +1674,12 @@ Commands count : 0x2
 			Original data : 0300042498CD858F280D110C00000000FBFF4004000000002D2000009CCD858F280D110C00000000FBFF400400000000B8CD848F7C0D110C00000000FCFF40040000000003000424A010110C000000002D200000A010110C00000000
 	[GX] Command ID : 0x1D
 	[Net] Command ID : 0x20
-		Param : 0x00000064
+		Param : 0x0000000000000064
 
 Title : WWF SmackDown! - Just Bring It!
 Game ID : SLUS_203.16
 Hash : 0x43B945E935
-Hash Offset : 0x34EFA8
+Hash Offset : 0x33EFA8
 Commands offset : 0x51D3A8
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -1689,7 +1689,7 @@ Commands count : 0x1
 Title : Tekken 4
 Game ID : SLUS_203.28
 Hash : 0x4BB14DE19D
-Hash Offset : 0x34F218
+Hash Offset : 0x33F218
 Commands offset : 0x51D2B8
 Commands count : 0x1
 	[GX] Command ID : 0x1E
@@ -1699,7 +1699,7 @@ Commands count : 0x1
 Title : Turok - Evolution
 Game ID : SLUS_203.33
 Hash : 0x4BB14DE1B5
-Hash Offset : 0x34F860
+Hash Offset : 0x33F860
 Commands offset : 0x51CFB8
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -1710,7 +1710,7 @@ Commands count : 0x1
 Title : Woody Woodpecker - Escape from Buzz Buzzard Park
 Game ID : SLUS_203.41
 Hash : 0x4BB14DE175
-Hash Offset : 0x34F848
+Hash Offset : 0x33F848
 Commands offset : 0x3453F8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -1733,7 +1733,7 @@ Commands count : 0x1
 Title : Need for Speed - Hot Pursuit 2
 Game ID : SLUS_203.62
 Hash : 0x738975D9B5
-Hash Offset : 0x34E7F8
+Hash Offset : 0x33E7F8
 Commands offset : 0x33B5A0
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -1756,7 +1756,7 @@ Commands count : 0x2
 Title : Hitman 2 - Silent Assassin
 Game ID : SLUS_203.74
 Hash : 0x738975D955
-Hash Offset : 0x34F230
+Hash Offset : 0x33F230
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -1766,7 +1766,7 @@ Commands count : 0x1
 Title : Salt Lake 2002
 Game ID : SLUS_203.78
 Hash : 0x738975D935
-Hash Offset : 0x34F620
+Hash Offset : 0x33F620
 Commands offset : 0x3454F8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1791,7 +1791,7 @@ Commands count : 0x1
 Title : Onimusha 2 - Samurai's Destiny
 Game ID : SLUS_203.93
 Hash : 0x7B817DD1A5
-Hash Offset : 0x34F440
+Hash Offset : 0x33F440
 Commands offset : 0x33B240
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -1803,7 +1803,7 @@ Commands count : 0x1
 Title : MTX Mototrax
 Game ID : SLUS_203.99
 Hash : 0x7B817DD195
-Hash Offset : 0x34F830
+Hash Offset : 0x33F830
 Commands offset : 0x33B0D8
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -1821,7 +1821,7 @@ Commands count : 0x1
 Title : Shadow Man - Second Coming
 Game ID : SLUS_204.13
 Hash : 0x7B817DD105
-Hash Offset : 0x34EA68
+Hash Offset : 0x33EA68
 Commands offset : 0x51D6E8
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -1832,7 +1832,7 @@ Commands count : 0x1
 Title : Mortal Kombat - Deadly Alliance
 Game ID : SLUS_204.23
 Hash : 0x639965C9CD
-Hash Offset : 0x34E7E0
+Hash Offset : 0x33E7E0
 Commands offset : 0x345DE8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1850,7 +1850,7 @@ Commands count : 0x1
 Title : Spongebob Squarepants - Revenge of the Flying Dutchman
 Game ID : SLUS_204.25
 Hash : 0x639965C9BD
-Hash Offset : 0x34F5D8
+Hash Offset : 0x33F5D8
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -1860,7 +1860,7 @@ Commands count : 0x1
 Title : Savage Skies
 Game ID : SLUS_204.30
 Hash : 0x639965C985
-Hash Offset : 0x34EA50
+Hash Offset : 0x33EA50
 Commands offset : 0x51D700
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -1870,7 +1870,7 @@ Commands count : 0x1
 Title : Dance Dance Revolution MAX
 Game ID : SLUS_204.37
 Hash : 0x639965C95D
-Hash Offset : 0x34E300
+Hash Offset : 0x33E300
 Commands offset : 0x51DB80
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -1880,7 +1880,7 @@ Commands count : 0x1
 Title : Wipeout Fusion
 Game ID : SLUS_204.62
 Hash : 0x6B916DC18D
-Hash Offset : 0x34EF18
+Hash Offset : 0x33EF18
 Commands offset : 0x33B3F0
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -1898,7 +1898,7 @@ Commands count : 0x1
 Title : Dropship - United Peace Force
 Game ID : SLUS_204.63
 Hash : 0x6B916DC185
-Hash Offset : 0x34E3C0
+Hash Offset : 0x33E3C0
 Commands offset : 0x3465E8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -1916,7 +1916,7 @@ Commands count : 0x1
 Title : Tomb Raider - The Angel of Darkness
 Game ID : SLUS_204.67
 Hash : 0x6B916DC165
-Hash Offset : 0x34EC60
+Hash Offset : 0x33EC60
 Commands offset : 0x345A90
 Commands count : 0x2
 	[GX] Command ID : 0x1C
@@ -1935,7 +1935,7 @@ Commands count : 0x2
 Title : Rygar - The Legendary Adventure
 Game ID : SLUS_204.71
 Hash : 0x6B916DC145
-Hash Offset : 0x34EA20
+Hash Offset : 0x33EA20
 Commands offset : 0x51D730
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -1945,7 +1945,7 @@ Commands count : 0x1
 Title : Disney's PK - Out of the Shadows
 Game ID : SLUS_204.78
 Hash : 0x6B916DC10D
-Hash Offset : 0x34E8B8
+Hash Offset : 0x33E8B8
 Commands offset : 0x345DB0
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -1973,7 +1973,7 @@ Commands count : 0x1
 Title : Star Ocean 3 - Till the End of Time [Disc1of2]
 Game ID : SLUS_204.88
 Hash : 0x9469953945
-Hash Offset : 0x34EAE0
+Hash Offset : 0x33EAE0
 Commands offset : 0x33B420
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -1991,7 +1991,7 @@ Commands count : 0x3
 Title : Whirl Tour
 Game ID : SLUS_204.89
 Hash : 0x946995394D
-Hash Offset : 0x34EEE8
+Hash Offset : 0x33EEE8
 Commands offset : 0x345A58
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -2009,7 +2009,7 @@ Commands count : 0x1
 Title : Burnout 2 - Point of Impact
 Game ID : SLUS_204.97
 Hash : 0x946995398D
-Hash Offset : 0x34E168
+Hash Offset : 0x33E168
 Commands offset : 0x33B900
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -2036,7 +2036,7 @@ Commands count : 0x3
 Title : Tony Hawk's Pro Skater 4
 Game ID : SLUS_205.04
 Hash : 0x94699539C5
-Hash Offset : 0x34ECA8
+Hash Offset : 0x33ECA8
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -2057,7 +2057,7 @@ Commands count : 0x2
 Title : Lord of the Rings, The - The Fellowship of the Ring
 Game ID : SLUS_205.20
 Hash : 0x9C619D314D
-Hash Offset : 0x34E678
+Hash Offset : 0x33E678
 Commands offset : 0x51D938
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -2067,7 +2067,7 @@ Commands count : 0x1
 Title : Fighter Maker 2
 Game ID : SLUS_205.24
 Hash : 0x9C619D316D
-Hash Offset : 0x34F098
+Hash Offset : 0x33F098
 Commands offset : 0x33B300
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -2079,7 +2079,7 @@ Commands count : 0x1
 Title : Grand Theft Auto - Vice City
 Game ID : SLUS_205.52
 Hash : 0x8479852955
-Hash Offset : 0x34F2A8
+Hash Offset : 0x33F2A8
 Commands offset : 0x51D258
 Commands count : 0x1
 	[GX] Command ID : 0x1E
@@ -2089,7 +2089,7 @@ Commands count : 0x1
 Title : dot Hack - Part 2 - Mutation
 Game ID : SLUS_205.62
 Hash : 0x8479852985
-Hash Offset : 0x34E408
+Hash Offset : 0x33E408
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -2118,7 +2118,7 @@ Commands count : 0x2
 Title : dot Hack - Part 3 - Outbreak
 Game ID : SLUS_205.63
 Hash : 0x847985298D
-Hash Offset : 0x34E420
+Hash Offset : 0x33E420
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -2147,7 +2147,7 @@ Commands count : 0x2
 Title : dot Hack - Part 4 - Quarantine
 Game ID : SLUS_205.64
 Hash : 0x84798529B5
-Hash Offset : 0x34E438
+Hash Offset : 0x33E438
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -2176,7 +2176,7 @@ Commands count : 0x2
 Title : Champions of Norrath
 Game ID : SLUS_205.65
 Hash : 0x84798529BD
-Hash Offset : 0x34E1C8
+Hash Offset : 0x33E1C8
 Commands offset : 0x33B888
 Commands count : 0x4
 	[GX] Command ID : 0x00
@@ -2201,7 +2201,7 @@ Commands count : 0x4
 Title : All-Star Baseball 2004
 Game ID : SLUS_205.69
 Hash : 0x84798529DD
-Hash Offset : 0x34E0A8
+Hash Offset : 0x33E0A8
 Commands offset : 0x51DCE8
 Commands count : 0x1
 	[GX] Command ID : 0x26
@@ -2211,7 +2211,7 @@ Commands count : 0x1
 Title : ATV Quad Power Racing 2
 Game ID : SLUS_205.70
 Hash : 0x84798529C5
-Hash Offset : 0x34E0D8
+Hash Offset : 0x33E0D8
 Commands offset : 0x346708
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -2244,7 +2244,7 @@ Commands count : 0x1
 Title : Ty the Tasmanian Tiger
 Game ID : SLUS_205.71
 Hash : 0x84798529CD
-Hash Offset : 0x34F7D0
+Hash Offset : 0x33F7D0
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -2254,7 +2254,7 @@ Commands count : 0x1
 Title : Harry Potter and The Chamber of Secrets
 Game ID : SLUS_205.76
 Hash : 0x8C718D211D
-Hash Offset : 0x34E588
+Hash Offset : 0x33E588
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -2264,7 +2264,7 @@ Commands count : 0x1
 Title : Lord of the Rings, The - The Two Towers
 Game ID : SLUS_205.78
 Hash : 0x8C718D210D
-Hash Offset : 0x34E690
+Hash Offset : 0x33E690
 Commands offset : 0x345EF8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -2279,7 +2279,7 @@ Commands count : 0x1
 Title : Street Racing Syndicate
 Game ID : SLUS_205.82
 Hash : 0x8C718D212D
-Hash Offset : 0x34EAC8
+Hash Offset : 0x33EAC8
 Commands offset : 0x33B468
 Commands count : 0x4
 	[GX] Command ID : 0x13
@@ -2310,7 +2310,7 @@ Commands count : 0x4
 Title : Everblue 2
 Game ID : SLUS_205.98
 Hash : 0x8C718D21AD
-Hash Offset : 0x34E3D8
+Hash Offset : 0x33E3D8
 Commands offset : 0x3465B0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -2328,7 +2328,7 @@ Commands count : 0x1
 Title : Rayman 3 - Hoodlum Havoc
 Game ID : SLUS_206.01
 Hash : 0x8C718D21D5
-Hash Offset : 0x34E9C0
+Hash Offset : 0x33E9C0
 Commands offset : 0x345C68
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -2352,7 +2352,7 @@ Commands count : 0x1
 Title : Disney's Extreme Skate Adventure
 Game ID : SLUS_206.07
 Hash : 0x8C718D21E5
-Hash Offset : 0x34E378
+Hash Offset : 0x33E378
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -2373,7 +2373,7 @@ Commands count : 0x2
 Title : Tom Clancy's Ghost Recon
 Game ID : SLUS_206.13
 Hash : 0xB449B5190D
-Hash Offset : 0x34EC90
+Hash Offset : 0x33EC90
 Commands offset : 0x51D810
 Commands count : 0x1
 	[GX] Command ID : 0x1E
@@ -2383,7 +2383,7 @@ Commands count : 0x1
 Title : Smash Cars
 Game ID : SLUS_206.20
 Hash : 0xB449B51945
-Hash Offset : 0x34EA80
+Hash Offset : 0x33EA80
 Commands offset : 0x345C18
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -2409,7 +2409,7 @@ Commands count : 0x1
 Title : Disney's Finding Nemo
 Game ID : SLUS_206.28
 Hash : 0xB449B51985
-Hash Offset : 0x34E4C8
+Hash Offset : 0x33E4C8
 Commands offset : 0x33B6C0
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -2424,7 +2424,7 @@ Commands count : 0x2
 Title : Suffering, The
 Game ID : SLUS_206.36
 Hash : 0xB449B519C5
-Hash Offset : 0x34F638
+Hash Offset : 0x33F638
 Commands offset : 0x51D0A8
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -2434,7 +2434,7 @@ Commands count : 0x1
 Title : Armored Core - Silent Line
 Game ID : SLUS_206.44
 Hash : 0xBC41BD110D
-Hash Offset : 0x34F4E8
+Hash Offset : 0x33F4E8
 Commands offset : 0x51D120
 Commands count : 0x1
 	[GX] Command ID : 0x23
@@ -2445,17 +2445,17 @@ Commands count : 0x1
 Title : Tom Clancy's Splinter Cell
 Game ID : SLUS_206.52
 Hash : 0xBC41BD114D
-Hash Offset : 0x34EC78
+Hash Offset : 0x33EC78
 Commands offset : 0x51D458
 Commands count : 0x1
 	[GX] Command ID : 0x1D
 	[Net] Command ID : 0x20
-		Param : 0x000000F0
+		Param : 0x00000000000000F0
 
 Title : Freedom Fighters - The Battle for Liberty Island
 Game ID : SLUS_206.58
 Hash : 0xBC41BD11BD
-Hash Offset : 0x34F248
+Hash Offset : 0x33F248
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -2465,7 +2465,7 @@ Commands count : 0x1
 Title : Piglet's Big Game
 Game ID : SLUS_206.59
 Hash : 0xBC41BD11B5
-Hash Offset : 0x34EFD8
+Hash Offset : 0x33EFD8
 Commands offset : 0x33B360
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -2477,7 +2477,7 @@ Commands count : 0x1
 Title : Transformers
 Game ID : SLUS_206.68
 Hash : 0xBC41BD11CD
-Hash Offset : 0x34EF60
+Hash Offset : 0x33EF60
 Commands offset : 0x33B3D8
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -2495,7 +2495,7 @@ Commands count : 0x1
 Title : Mafia
 Game ID : SLUS_206.71
 Hash : 0xBC41BD11D5
-Hash Offset : 0x34E6C0
+Hash Offset : 0x33E6C0
 Commands offset : 0x345EC0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -2513,7 +2513,7 @@ Commands count : 0x1
 Title : Final Fantasy X-2
 Game ID : SLUS_206.72
 Hash : 0xA459A50935
-Hash Offset : 0x34E4B0
+Hash Offset : 0x33E4B0
 Commands offset : 0x346488
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -2552,7 +2552,7 @@ Commands count : 0x1
 Title : Baldur's Gate - Dark Alliance 2
 Game ID : SLUS_206.75
 Hash : 0xA459A5092D
-Hash Offset : 0x34E108
+Hash Offset : 0x33E108
 Commands offset : 0x33B948
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -2572,7 +2572,7 @@ Commands count : 0x3
 Title : Onimusha 3 - Demon Siege
 Game ID : SLUS_206.94
 Hash : 0xA459A50985
-Hash Offset : 0x34F260
+Hash Offset : 0x33F260
 Commands offset : 0x51D288
 Commands count : 0x1
 	[GX] Command ID : 0x21
@@ -2582,7 +2582,7 @@ Commands count : 0x1
 Title : Dance Dance Revolution MAX 2
 Game ID : SLUS_207.11
 Hash : 0xAC51AD0105
-Hash Offset : 0x34E318
+Hash Offset : 0x33E318
 Commands offset : 0x51DB50
 Commands count : 0x2
 	[GX] Command ID : 0x0D
@@ -2596,7 +2596,7 @@ Commands count : 0x2
 Title : Tony Hawk's Underground
 Game ID : SLUS_207.31
 Hash : 0xAC51AD01E5
-Hash Offset : 0x34ECC0
+Hash Offset : 0x33ECC0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -2617,7 +2617,7 @@ Commands count : 0x2
 Title : Medal of Honor - Rising Sun
 Game ID : SLUS_207.53
 Hash : 0xD429D579CD
-Hash Offset : 0x34E7C8
+Hash Offset : 0x33E7C8
 Commands offset : 0x51D838
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -2628,7 +2628,7 @@ Commands count : 0x1
 Title : Tiger Woods PGA Tour 2004
 Game ID : SLUS_207.57
 Hash : 0xD429D579ED
-Hash Offset : 0x34EC18
+Hash Offset : 0x33EC18
 Commands offset : 0x345B48
 Commands count : 0x3
 	[GX] Command ID : 0x09
@@ -2647,12 +2647,12 @@ Commands count : 0x3
 		Param : 0x00000001
 	[GX] Command ID : 0x1D
 	[Net] Command ID : 0x20
-		Param : 0x00000078
+		Param : 0x0000000000000078
 
 Title : Growlanser Generations [Disc1of2]
 Game ID : SLUS_207.58
 Hash : 0xD429D579F5
-Hash Offset : 0x34F908
+Hash Offset : 0x33F908
 Commands offset : 0x3452C0
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -2673,7 +2673,7 @@ Commands count : 0x2
 Title : Growlanser Generations [Disc2of2]
 Game ID : SLUS_207.59
 Hash : 0xD429D579FD
-Hash Offset : 0x34F920
+Hash Offset : 0x33F920
 Commands offset : 0x345270
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -2694,7 +2694,7 @@ Commands count : 0x2
 Title : MX Unleashed
 Game ID : SLUS_207.67
 Hash : 0xD429D579BD
-Hash Offset : 0x34F668
+Hash Offset : 0x33F668
 Commands offset : 0x3454C0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -2712,7 +2712,7 @@ Commands count : 0x1
 Title : Harry Potter - Quidditch World Cup
 Game ID : SLUS_207.69
 Hash : 0xDC21DD7145
-Hash Offset : 0x34E5D0
+Hash Offset : 0x33E5D0
 Commands offset : 0x33B648
 Commands count : 0x3
 	[GX] Command ID : 0x09
@@ -2740,7 +2740,7 @@ Commands count : 0x3
 Title : Forgotten Realms - Demon Stone
 Game ID : SLUS_208.04
 Hash : 0xC439C56975
-Hash Offset : 0x34F5A8
+Hash Offset : 0x33F5A8
 Commands offset : 0x51D748
 Commands count : 0x1
 	[GX] Command ID : 0x21
@@ -2750,7 +2750,7 @@ Commands count : 0x1
 Title : Ace Combat 5 - The Unsung War
 Game ID : SLUS_208.51
 Hash : 0xCC31CD61C5
-Hash Offset : 0x34E030
+Hash Offset : 0x33E030
 Commands offset : 0x346790
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -2768,7 +2768,7 @@ Commands count : 0x1
 Title : Spy Fiction
 Game ID : SLUS_208.56
 Hash : 0xCC31CD619D
-Hash Offset : 0x350718
+Hash Offset : 0x340718
 Commands offset : 0x51C578
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -2779,7 +2779,7 @@ Commands count : 0x1
 Title : MTV Music Generator 3 - This is the Remix
 Game ID : SLUS_208.61
 Hash : 0xCC31CD61B5
-Hash Offset : 0x34F338
+Hash Offset : 0x33F338
 Commands offset : 0x51D228
 Commands count : 0x1
 	[GX] Command ID : 0x05
@@ -2789,7 +2789,7 @@ Commands count : 0x1
 Title : Silent Hill 4 - The Room
 Game ID : SLUS_208.73
 Hash : 0xF409F5592D
-Hash Offset : 0x34F0C8
+Hash Offset : 0x33F0C8
 Commands offset : 0x345940
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -2807,7 +2807,7 @@ Commands count : 0x1
 Title : Samurai Warriors
 Game ID : SLUS_208.78
 Hash : 0xF409F55915
-Hash Offset : 0x34F698
+Hash Offset : 0x33F698
 Commands offset : 0x51D060
 Commands count : 0x3
 	[GX] Command ID : 0x0F
@@ -2823,7 +2823,7 @@ Commands count : 0x3
 Title : Hitman - Contracts
 Game ID : SLUS_208.82
 Hash : 0xF409F559F5
-Hash Offset : 0x34F458
+Hash Offset : 0x33F458
 Commands offset : 0x51D150
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -2833,7 +2833,7 @@ Commands count : 0x1
 Title : Rocky - Legends
 Game ID : SLUS_208.90
 Hash : 0xF409F559B5
-Hash Offset : 0x34E9F0
+Hash Offset : 0x33E9F0
 Commands offset : 0x51D748
 Commands count : 0x1
 	[GX] Command ID : 0x21
@@ -2843,7 +2843,7 @@ Commands count : 0x1
 Title : Star Ocean 3 - Till the End of Time [Disc2of2]
 Game ID : SLUS_208.91
 Hash : 0xF409F559BD
-Hash Offset : 0x34EAF8
+Hash Offset : 0x33EAF8
 Commands offset : 0x33B420
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -2861,7 +2861,7 @@ Commands count : 0x3
 Title : Worms 3D
 Game ID : SLUS_208.94
 Hash : 0xF409F55995
-Hash Offset : 0x34EF90
+Hash Offset : 0x33EF90
 Commands offset : 0x33B378
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -2873,7 +2873,7 @@ Commands count : 0x1
 Title : Star Wars Battlefront
 Game ID : SLUS_208.98
 Hash : 0xFC01FD517D
-Hash Offset : 0x34F158
+Hash Offset : 0x33F158
 Commands offset : 0x33B2B8
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -2885,7 +2885,7 @@ Commands count : 0x1
 Title : FlatOut
 Game ID : SLUS_209.01
 Hash : 0xFC01FD5145
-Hash Offset : 0x34F800
+Hash Offset : 0x33F800
 Commands offset : 0x51CFE8
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -2896,7 +2896,7 @@ Commands count : 0x1
 Title : Crash Bandicoot Twinsanity
 Game ID : SLUS_209.09
 Hash : 0xFC01FD5105
-Hash Offset : 0x34E288
+Hash Offset : 0x33E288
 Commands offset : 0x346680
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -2915,7 +2915,7 @@ Commands count : 0x1
 Title : Metal Gear Solid 3 - Snake Eater
 Game ID : SLUS_209.15
 Hash : 0xFC01FD51F5
-Hash Offset : 0x34E768
+Hash Offset : 0x33E768
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -2936,7 +2936,7 @@ Commands count : 0x2
 Title : Dance Dance Revolution Extreme
 Game ID : SLUS_209.16
 Hash : 0xFC01FD51CD
-Hash Offset : 0x34E2B8
+Hash Offset : 0x33E2B8
 Commands offset : 0x51DBB0
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -2946,7 +2946,7 @@ Commands count : 0x1
 Title : Harry Potter and The Prisoner of Azkaban
 Game ID : SLUS_209.26
 Hash : 0xFC01FD519D
-Hash Offset : 0x34E5B8
+Hash Offset : 0x33E5B8
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -2956,7 +2956,7 @@ Commands count : 0x1
 Title : Grand Theft Auto - San Andreas
 Game ID : SLUS_209.46
 Hash : 0xE419E549E5
-Hash Offset : 0x34F278
+Hash Offset : 0x33F278
 Commands offset : 0x51D270
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -2967,7 +2967,7 @@ Commands count : 0x1
 Title : Castle of Shikigami 2
 Game ID : SLUS_209.62
 Hash : 0xEC11ED416D
-Hash Offset : 0x34E1B0
+Hash Offset : 0x33E1B0
 Commands offset : 0x33B8E8
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -2979,7 +2979,7 @@ Commands count : 0x1
 Title : Devil May Cry 3
 Game ID : SLUS_209.64
 Hash : 0xEC11ED415D
-Hash Offset : 0x34E348
+Hash Offset : 0x33E348
 Commands offset : 0x33B780
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -3005,7 +3005,7 @@ Commands count : 0x2
 Title : Tony Hawk's Underground 2
 Game ID : SLUS_209.65
 Hash : 0xEC11ED4155
-Hash Offset : 0x34ECD8
+Hash Offset : 0x33ECD8
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -3026,7 +3026,7 @@ Commands count : 0x2
 Title : State of Emergency 2
 Game ID : SLUS_209.66
 Hash : 0xEC11ED414D
-Hash Offset : 0x34F428
+Hash Offset : 0x33F428
 Commands offset : 0x3456B0
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -3050,7 +3050,7 @@ Commands count : 0x2
 Title : Champions - Return to Arms
 Game ID : SLUS_209.73
 Hash : 0xEC11ED4115
-Hash Offset : 0x34E1F8
+Hash Offset : 0x33E1F8
 Commands offset : 0x33B7F8
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -3070,7 +3070,7 @@ Commands count : 0x3
 Title : Ghosthunter
 Game ID : SLUS_209.93
 Hash : 0x14E915B98D
-Hash Offset : 0x34F560
+Hash Offset : 0x33F560
 Commands offset : 0x345620
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -3088,7 +3088,7 @@ Commands count : 0x1
 Title : Tiger Woods PGA Tour 2005
 Game ID : SLUS_210.02
 Hash : 0x14E915B9D5
-Hash Offset : 0x34EC30
+Hash Offset : 0x33EC30
 Commands offset : 0x345B10
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -3106,7 +3106,7 @@ Commands count : 0x1
 Title : Kingdom Hearts II
 Game ID : SLUS_210.05
 Hash : 0x14E915B9ED
-Hash Offset : 0x34E660
+Hash Offset : 0x33E660
 Commands offset : 0x51D950
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -3117,7 +3117,7 @@ Commands count : 0x1
 Title : Ghost in the Shell - Stane Alone Complex
 Game ID : SLUS_210.06
 Hash : 0x14E915B9F5
-Hash Offset : 0x34E528
+Hash Offset : 0x33E528
 Commands offset : 0x345FB8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -3387,7 +3387,7 @@ Commands count : 0x1
 Title : Katamari Damacy
 Game ID : SLUS_210.08
 Hash : 0x14E915B905
-Hash Offset : 0x34E648
+Hash Offset : 0x33E648
 Commands offset : 0x345F10
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -3405,7 +3405,7 @@ Commands count : 0x1
 Title : Madagascar
 Game ID : SLUS_210.15
 Hash : 0x14E915B93D
-Hash Offset : 0x34F0B0
+Hash Offset : 0x33F0B0
 Commands offset : 0x33B2E8
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -3423,7 +3423,7 @@ Commands count : 0x1
 Title : Battlefield 2 - Mordern Combat
 Game ID : SLUS_210.26
 Hash : 0x1CE11DB19D
-Hash Offset : 0x34E138
+Hash Offset : 0x33E138
 Commands offset : 0x51DCB8
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -3433,7 +3433,7 @@ Commands count : 0x1
 Title : World Championship Poker
 Game ID : SLUS_210.28
 Hash : 0x1CE11DB1AD
-Hash Offset : 0x34F188
+Hash Offset : 0x33F188
 Commands offset : 0x51D340
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -3443,7 +3443,7 @@ Commands count : 0x1
 Title : Burnout 3 - Takedown
 Game ID : SLUS_210.50
 Hash : 0x1CE11DB15D
-Hash Offset : 0x34E180
+Hash Offset : 0x33E180
 Commands offset : 0x51DC70
 Commands count : 0x2
 	[GX] Command ID : 0x1E
@@ -3457,7 +3457,7 @@ Commands count : 0x2
 Title : Winnie the Pooh's Rumbly Tumbly Adventure
 Game ID : SLUS_210.84
 Hash : 0x4F905A975
-Hash Offset : 0x34F020
+Hash Offset : 0x33F020
 Commands offset : 0x33B318
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -3469,7 +3469,7 @@ Commands count : 0x1
 Title : Big Mutha Truckers 2
 Game ID : SLUS_210.86
 Hash : 0x4F905A965
-Hash Offset : 0x34F530
+Hash Offset : 0x33F530
 Commands offset : 0x33B198
 Commands count : 0x3
 	[GX] Command ID : 0x13
@@ -3489,7 +3489,7 @@ Commands count : 0x3
 Title : Karaoke Revolution Vol.3
 Game ID : SLUS_210.89
 Hash : 0xCF10DA195
-Hash Offset : 0x350700
+Hash Offset : 0x340700
 Commands offset : 0x51C590
 Commands count : 0x1
 	[GX] Command ID : 0x15
@@ -3502,7 +3502,7 @@ Commands count : 0x1
 Title : Commandos Strike Force
 Game ID : SLUS_211.03
 Hash : 0xCF10DA1E5
-Hash Offset : 0x34E240
+Hash Offset : 0x33E240
 Commands offset : 0x51DBF8
 Commands count : 0x5
 	[GX] Command ID : 0x0C
@@ -3524,7 +3524,7 @@ Commands count : 0x5
 Title : MX vs. ATV Unleashed
 Game ID : SLUS_211.04
 Hash : 0xCF10DA11D
-Hash Offset : 0x34F680
+Hash Offset : 0x33F680
 Commands offset : 0x345488
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -3542,7 +3542,7 @@ Commands count : 0x1
 Title : True Crime - New York City
 Game ID : SLUS_211.06
 Hash : 0xCF10DA10D
-Hash Offset : 0x34F590
+Hash Offset : 0x33F590
 Commands offset : 0x51D0D8
 Commands count : 0x1
 	[GX] Command ID : 0x23
@@ -3553,7 +3553,7 @@ Commands count : 0x1
 Title : Atelier Iris - Eternal Mana
 Game ID : SLUS_211.13
 Hash : 0xCF10DA155
-Hash Offset : 0x34F2C0
+Hash Offset : 0x33F2C0
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -3563,7 +3563,7 @@ Commands count : 0x1
 Title : Okami
 Game ID : SLUS_211.15
 Hash : 0xCF10DA145
-Hash Offset : 0x34E828
+Hash Offset : 0x33E828
 Commands offset : 0x51D810
 Commands count : 0x1
 	[GX] Command ID : 0x1E
@@ -3573,7 +3573,7 @@ Commands count : 0x1
 Title : Gun
 Game ID : SLUS_211.39
 Hash : 0x34C935993D
-Hash Offset : 0x3506E8
+Hash Offset : 0x3406E8
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -3594,7 +3594,7 @@ Commands count : 0x2
 Title : Ford Mustang - The Legend Lives
 Game ID : SLUS_211.62
 Hash : 0x3CC13D91FD
-Hash Offset : 0x34F500
+Hash Offset : 0x33F500
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -3604,7 +3604,7 @@ Commands count : 0x1
 Title : Arc the Lad - End of Darkness
 Game ID : SLUS_211.65
 Hash : 0x3CC13D91C5
-Hash Offset : 0x34E0C0
+Hash Offset : 0x33E0C0
 Commands offset : 0x51DCD0
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -3615,7 +3615,7 @@ Commands count : 0x1
 Title : Castlevania - Curse of Dakness
 Game ID : SLUS_211.68
 Hash : 0x3CC13D912D
-Hash Offset : 0x34EEB8
+Hash Offset : 0x33EEB8
 Commands offset : 0x33B408
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -3633,7 +3633,7 @@ Commands count : 0x1
 Title : Conflict - Global Terror
 Game ID : SLUS_211.72
 Hash : 0x3CC13D910D
-Hash Offset : 0x34E258
+Hash Offset : 0x33E258
 Commands offset : 0x51DBE0
 Commands count : 0x1
 	[GX] Command ID : 0x0F
@@ -3643,7 +3643,7 @@ Commands count : 0x1
 Title : Onimusha - Dawn of Dreams
 Game ID : SLUS_211.80
 Hash : 0x3CC13D914D
-Hash Offset : 0x34E858
+Hash Offset : 0x33E858
 Commands offset : 0x33B528
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -3655,7 +3655,7 @@ Commands count : 0x1
 Title : Suffering, The - Ties That Bind
 Game ID : SLUS_211.89
 Hash : 0x24D925899D
-Hash Offset : 0x34F650
+Hash Offset : 0x33F650
 Commands offset : 0x51D0A8
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -3665,17 +3665,17 @@ Commands count : 0x1
 Title : Phantasy Star Universe
 Game ID : SLUS_211.94
 Hash : 0x24D92589E5
-Hash Offset : 0x350730
+Hash Offset : 0x340730
 Commands offset : 0x51CD08
 Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x00009BDC
+		Param : 0x0000000000009BDC
 
 Title : Indigo Prophecy
 Game ID : SLUS_211.96
 Hash : 0x24D92589D5
-Hash Offset : 0x34F8F0
+Hash Offset : 0x33F8F0
 Commands offset : 0x51CF28
 Commands count : 0x1
 	[GX] Command ID : 0x2B
@@ -3685,7 +3685,7 @@ Commands count : 0x1
 Title : Aeon Flux
 Game ID : SLUS_212.05
 Hash : 0x24D925891D
-Hash Offset : 0x3500A0
+Hash Offset : 0x3400A0
 Commands offset : 0x51C940
 Commands count : 0x2
 	[GX] Command ID : 0x13
@@ -3699,7 +3699,7 @@ Commands count : 0x2
 Title : Tony Hawk's American Wasteland
 Game ID : SLUS_212.08
 Hash : 0x24D9258975
-Hash Offset : 0x34ECF0
+Hash Offset : 0x33ECF0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -3720,7 +3720,7 @@ Commands count : 0x2
 Title : Madden NFL '06
 Game ID : SLUS_212.13
 Hash : 0x24D925895D
-Hash Offset : 0x34E6A8
+Hash Offset : 0x33E6A8
 Commands offset : 0x51D908
 Commands count : 0x2
 	[GX] Command ID : 0x1E
@@ -3728,12 +3728,12 @@ Commands count : 0x2
 		Param : 0x00000001
 	[GX] Command ID : 0x1D
 	[Net] Command ID : 0x20
-		Param : 0x000000C8
+		Param : 0x00000000000000C8
 
 Title : Soul Calibur III
 Game ID : SLUS_212.16
 Hash : 0x2CD12D81BD
-Hash Offset : 0x34EA98
+Hash Offset : 0x33EA98
 Commands offset : 0x345C00
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -3749,7 +3749,7 @@ Commands count : 0x1
 Title : Pac-Man World 3
 Game ID : SLUS_212.19
 Hash : 0x2CD12D81A5
-Hash Offset : 0x34F890
+Hash Offset : 0x33F890
 Commands offset : 0x51CF40
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -3760,7 +3760,7 @@ Commands count : 0x1
 Title : Star Wars Battlefront II
 Game ID : SLUS_212.40
 Hash : 0x2CD12D817D
-Hash Offset : 0x34F140
+Hash Offset : 0x33F140
 Commands offset : 0x33B2D0
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -3772,7 +3772,7 @@ Commands count : 0x1
 Title : Metal Gear Solid 3 - Subsistence
 Game ID : SLUS_212.43
 Hash : 0x2CD12D8165
-Hash Offset : 0x34E798
+Hash Offset : 0x33E798
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -3793,7 +3793,7 @@ Commands count : 0x2
 Title : FlatOut 2
 Game ID : SLUS_212.51
 Hash : 0x54A955F9DD
-Hash Offset : 0x34F818
+Hash Offset : 0x33F818
 Commands offset : 0x51CFD0
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -3804,7 +3804,7 @@ Commands count : 0x1
 Title : SpongeBob Squarepants - Lights, Camera, PANTS!
 Game ID : SLUS_212.52
 Hash : 0x54A955F9E5
-Hash Offset : 0x34F5F0
+Hash Offset : 0x33F5F0
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -3814,7 +3814,7 @@ Commands count : 0x1
 Title : dot Hack - G.U. Vol.1 - Rebirth
 Game ID : SLUS_212.58
 Hash : 0x54A955F995
-Hash Offset : 0x34E450
+Hash Offset : 0x33E450
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -3824,7 +3824,7 @@ Commands count : 0x1
 Title : Radiata Stories
 Game ID : SLUS_212.62
 Hash : 0x54A955F9B5
-Hash Offset : 0x34E930
+Hash Offset : 0x33E930
 Commands offset : 0x33B4C8
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -3844,7 +3844,7 @@ Commands count : 0x3
 Title : 24 - The Game
 Game ID : SLUS_212.68
 Hash : 0x54A955F965
-Hash Offset : 0x34DFE8
+Hash Offset : 0x33DFE8
 Commands offset : 0x346818
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -3868,7 +3868,7 @@ Commands count : 0x1
 Title : Bully
 Game ID : SLUS_212.69
 Hash : 0x54A955F96D
-Hash Offset : 0x34E150
+Hash Offset : 0x33E150
 Commands offset : 0x51DCA0
 Commands count : 0x1
 	[GX] Command ID : 0x15
@@ -3881,7 +3881,7 @@ Commands count : 0x1
 Title : Super Monkey Ball Adventure
 Game ID : SLUS_212.72
 Hash : 0x54A955F905
-Hash Offset : 0x34EB40
+Hash Offset : 0x33EB40
 Commands offset : 0x345BC8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -3900,7 +3900,7 @@ Commands count : 0x1
 Title : Ford vs. Chevy
 Game ID : SLUS_212.76
 Hash : 0x54A955F925
-Hash Offset : 0x34F518
+Hash Offset : 0x33F518
 Commands offset : 0x33B1E0
 Commands count : 0x4
 	[GX] Command ID : 0x13
@@ -3931,7 +3931,7 @@ Commands count : 0x4
 Title : Marvel Nemesis - Rise of the Imperfects
 Game ID : SLUS_212.81
 Hash : 0x5CA15DF1C5
-Hash Offset : 0x34E6D8
+Hash Offset : 0x33E6D8
 Commands offset : 0x345EA8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -3951,7 +3951,7 @@ Commands count : 0x1
 Title : Tony Hawk's American Wasteland [Collector's Edition]
 Game ID : SLUS_212.95
 Hash : 0x5CA15DF1B5
-Hash Offset : 0x34ED08
+Hash Offset : 0x33ED08
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -3972,7 +3972,7 @@ Commands count : 0x2
 Title : Dance Factory
 Game ID : SLUS_212.96
 Hash : 0x5CA15DF14D
-Hash Offset : 0x34E2D0
+Hash Offset : 0x33E2D0
 Commands offset : 0x51DB98
 Commands count : 0x1
 	[GX] Command ID : 0x27
@@ -3982,7 +3982,7 @@ Commands count : 0x1
 Title : Over the Hedge
 Game ID : SLUS_213.00
 Hash : 0x5CA15DF16D
-Hash Offset : 0x34F350
+Hash Offset : 0x33F350
 Commands offset : 0x345778
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -3998,7 +3998,7 @@ Commands count : 0x1
 Title : Justice League Heroes
 Game ID : SLUS_213.04
 Hash : 0x5CA15DF10D
-Hash Offset : 0x34E630
+Hash Offset : 0x33E630
 Commands offset : 0x33B600
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -4018,7 +4018,7 @@ Commands count : 0x3
 Title : Ice Age 2 - The Meltdown
 Game ID : SLUS_213.07
 Hash : 0x5CA15DF115
-Hash Offset : 0x34E600
+Hash Offset : 0x33E600
 Commands offset : 0x345F48
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -4036,7 +4036,7 @@ Commands count : 0x1
 Title : Atelier Iris 2 - The Azoth of Destiny
 Game ID : SLUS_213.27
 Hash : 0x44B945E9AD
-Hash Offset : 0x34F2D8
+Hash Offset : 0x33F2D8
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -4046,7 +4046,7 @@ Commands count : 0x1
 Title : Ace Combat Zero - The Belkan War
 Game ID : SLUS_213.46
 Hash : 0x4CB14DE1CD
-Hash Offset : 0x34E048
+Hash Offset : 0x33E048
 Commands offset : 0x346758
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -4064,7 +4064,7 @@ Commands count : 0x1
 Title : Hummer Badlands
 Game ID : SLUS_213.57
 Hash : 0x4CB14DE1B5
-Hash Offset : 0x34F7E8
+Hash Offset : 0x33F7E8
 Commands offset : 0x33B0F0
 Commands count : 0x4
 	[GX] Command ID : 0x13
@@ -4095,7 +4095,7 @@ Commands count : 0x4
 Title : Naruto - Ultimate Ninja
 Game ID : SLUS_213.58
 Hash : 0x4CB14DE1AD
-Hash Offset : 0x34F488
+Hash Offset : 0x33F488
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4124,7 +4124,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Subsistence [Limited Edition] [Disc2of3]
 Game ID : SLUS_213.59
 Hash : 0x4CB14DE1A5
-Hash Offset : 0x34E780
+Hash Offset : 0x33E780
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -4145,7 +4145,7 @@ Commands count : 0x2
 Title : Devil May Cry 3 - Dante's Awakening [Special Edition]
 Game ID : SLUS_213.61
 Hash : 0x4CB14DE155
-Hash Offset : 0x34E360
+Hash Offset : 0x33E360
 Commands offset : 0x33B750
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -4171,7 +4171,7 @@ Commands count : 0x2
 Title : Onimusha - Dawn of Dreams
 Game ID : SLUS_213.62
 Hash : 0x4CB14DE14D
-Hash Offset : 0x34E870
+Hash Offset : 0x33E870
 Commands offset : 0x33B528
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -4183,7 +4183,7 @@ Commands count : 0x1
 Title : MVP '06 - NCAA Baseball
 Game ID : SLUS_213.67
 Hash : 0x4CB14DE165
-Hash Offset : 0x34F038
+Hash Offset : 0x33F038
 Commands offset : 0x51D390
 Commands count : 0x1
 	[GX] Command ID : 0x0B
@@ -4193,7 +4193,7 @@ Commands count : 0x1
 Title : Legend of Spyro, The - A New Beginning
 Game ID : SLUS_213.72
 Hash : 0x4CB14DE13D
-Hash Offset : 0x34F3F8
+Hash Offset : 0x33F3F8
 Commands offset : 0x345700
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -4219,7 +4219,7 @@ Commands count : 0x1
 Title : Gallop Racer 2006
 Game ID : SLUS_213.93
 Hash : 0x748975D96D
-Hash Offset : 0x34E4E0
+Hash Offset : 0x33E4E0
 Commands offset : 0x33B6A8
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -4231,7 +4231,7 @@ Commands count : 0x1
 Title : Sprint Cars - Road to Knoxville
 Game ID : SLUS_214.18
 Hash : 0x7C817DD1BD
-Hash Offset : 0x34F578
+Hash Offset : 0x33F578
 Commands offset : 0x3455A8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -4263,7 +4263,7 @@ Commands count : 0x1
 Title : Grand Theft Auto - Liberty City Stories
 Game ID : SLUS_214.23
 Hash : 0x7C817DD195
-Hash Offset : 0x34F1B8
+Hash Offset : 0x33F1B8
 Commands offset : 0x51D318
 Commands count : 0x1
 	[GX] Command ID : 0x04
@@ -4273,7 +4273,7 @@ Commands count : 0x1
 Title : Superman Returns - The Video Game
 Game ID : SLUS_214.34
 Hash : 0x7C817DD13D
-Hash Offset : 0x34EB70
+Hash Offset : 0x33EB70
 Commands offset : 0x345BB0
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -4291,7 +4291,7 @@ Commands count : 0x1
 Title : Tony Hawk's Project 8
 Game ID : SLUS_214.44
 Hash : 0x649965C9D5
-Hash Offset : 0x34ED20
+Hash Offset : 0x33ED20
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4312,7 +4312,7 @@ Commands count : 0x2
 Title : Ar Tonelico
 Game ID : SLUS_214.45
 Hash : 0x649965C9DD
-Hash Offset : 0x34F308
+Hash Offset : 0x33F308
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -4322,7 +4322,7 @@ Commands count : 0x1
 Title : Fast and the Furious, The - Tokyo Drift
 Game ID : SLUS_214.49
 Hash : 0x649965C9BD
-Hash Offset : 0x34F7B8
+Hash Offset : 0x33F7B8
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -4332,7 +4332,7 @@ Commands count : 0x1
 Title : Valkyrie Profile 2 - Silmeria
 Game ID : SLUS_214.52
 Hash : 0x649965C995
-Hash Offset : 0x34EF78
+Hash Offset : 0x33EF78
 Commands offset : 0x33B390
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -4352,7 +4352,7 @@ Commands count : 0x3
 Title : Tony Hawk's Downhill Jam
 Game ID : SLUS_214.56
 Hash : 0x649965C975
-Hash Offset : 0x34ED38
+Hash Offset : 0x33ED38
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4373,7 +4373,7 @@ Commands count : 0x2
 Title : Samurai Warriors 2
 Game ID : SLUS_214.62
 Hash : 0x649965C945
-Hash Offset : 0x34F6B0
+Hash Offset : 0x33F6B0
 Commands offset : 0x51D060
 Commands count : 0x3
 	[GX] Command ID : 0x0F
@@ -4389,7 +4389,7 @@ Commands count : 0x3
 Title : dot Hack - G.U. Vol.2 - Reminisce
 Game ID : SLUS_214.88
 Hash : 0x6C916DC17D
-Hash Offset : 0x34E468
+Hash Offset : 0x33E468
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -4399,7 +4399,7 @@ Commands count : 0x1
 Title : dot Hack - G.U. Vol.3 - Redemption
 Game ID : SLUS_214.89
 Hash : 0x6C916DC175
-Hash Offset : 0x34E480
+Hash Offset : 0x33E480
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -4409,7 +4409,7 @@ Commands count : 0x1
 Title : Need for Speed - Carbon [Collector's Edition]
 Game ID : SLUS_214.94
 Hash : 0x6C916DC14D
-Hash Offset : 0x34E810
+Hash Offset : 0x33E810
 Commands offset : 0x33B540
 Commands count : 0x4
 	[GX] Command ID : 0x02
@@ -4434,7 +4434,7 @@ Commands count : 0x4
 Title : Strawberry Shortcake - Adventures in the Land of Dreams
 Game ID : SLUS_214.97
 Hash : 0x6C916DC135
-Hash Offset : 0x34F878
+Hash Offset : 0x33F878
 Commands offset : 0x51CF58
 Commands count : 0x4
 	[GX] Command ID : 0x22
@@ -4457,7 +4457,7 @@ Commands count : 0x4
 Title : Naruto - Uzumaki Chronicles
 Game ID : SLUS_214.98
 Hash : 0x6C916DC12D
-Hash Offset : 0x34F938
+Hash Offset : 0x33F938
 Commands offset : 0x345238
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -4475,7 +4475,7 @@ Commands count : 0x1
 Title : Metal Slug Anthology
 Game ID : SLUS_215.50
 Hash : 0x9D619D317D
-Hash Offset : 0x34E7B0
+Hash Offset : 0x33E7B0
 Commands offset : 0x345E20
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -4500,7 +4500,7 @@ Commands count : 0x1
 Title : Atelier Iris 3 - Grand Phantasm
 Game ID : SLUS_215.64
 Hash : 0x9D619D31ED
-Hash Offset : 0x34F2F0
+Hash Offset : 0x33F2F0
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -4510,7 +4510,7 @@ Commands count : 0x1
 Title : Dawn of Mana
 Game ID : SLUS_215.74
 Hash : 0x8579852925
-Hash Offset : 0x34E2E8
+Hash Offset : 0x33E2E8
 Commands offset : 0x346638
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -4525,7 +4525,7 @@ Commands count : 0x1
 Title : Naruto - Ultimate Ninja 2
 Game ID : SLUS_215.75
 Hash : 0x857985292D
-Hash Offset : 0x34F4A0
+Hash Offset : 0x33F4A0
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4554,7 +4554,7 @@ Commands count : 0x2
 Title : Pimp my Ride
 Game ID : SLUS_215.80
 Hash : 0x8579852975
-Hash Offset : 0x34F7A0
+Hash Offset : 0x33F7A0
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -4564,7 +4564,7 @@ Commands count : 0x1
 Title : Grand Theft Auto - Vice City Stories
 Game ID : SLUS_215.90
 Hash : 0x85798529A5
-Hash Offset : 0x34F1D0
+Hash Offset : 0x33F1D0
 Commands offset : 0x51D300
 Commands count : 0x1
 	[GX] Command ID : 0x04
@@ -4574,7 +4574,7 @@ Commands count : 0x1
 Title : Naruto - Uzumaki Chronicles 2
 Game ID : SLUS_215.94
 Hash : 0x85798529C5
-Hash Offset : 0x34F950
+Hash Offset : 0x33F950
 Commands offset : 0x345200
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -4592,7 +4592,7 @@ Commands count : 0x1
 Title : Sprint Cars 2 - Showdown at Eldora
 Game ID : SLUS_216.01
 Hash : 0x8D718D2115
-Hash Offset : 0x3529B0
+Hash Offset : 0x3429B0
 Commands offset : 0x3429C8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -4617,7 +4617,7 @@ Commands count : 0x1
 Title : Legend of Spyro, The - The Eternal Night
 Game ID : SLUS_216.07
 Hash : 0x8D718D2125
-Hash Offset : 0x34F6C8
+Hash Offset : 0x33F6C8
 Commands offset : 0x345430
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -4642,7 +4642,7 @@ Commands count : 0x1
 Title : Tony Hawk's Proving Ground
 Game ID : SLUS_216.16
 Hash : 0x8D718D219D
-Hash Offset : 0x34ED50
+Hash Offset : 0x33ED50
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4663,7 +4663,7 @@ Commands count : 0x2
 Title : Hot Wheels - Beat That
 Game ID : SLUS_216.28
 Hash : 0x8D718D21FD
-Hash Offset : 0x34F998
+Hash Offset : 0x33F998
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -4673,17 +4673,17 @@ Commands count : 0x1
 Title : Phantasy Star Universe - Ambition of the Illuminus
 Game ID : SLUS_216.31
 Hash : 0x8D718D21E5
-Hash Offset : 0x350748
+Hash Offset : 0x340748
 Commands offset : 0x51CD08
 Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x00009BDC
+		Param : 0x0000000000009BDC
 
 Title : Guitar Hero III - Legends of Rock
 Game ID : SLUS_216.72
 Hash : 0xBD41BD116D
-Hash Offset : 0x34F6E0
+Hash Offset : 0x33F6E0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4704,7 +4704,7 @@ Commands count : 0x2
 Title : Naruto - Ultimate Ninja 3
 Game ID : SLUS_217.27
 Hash : 0xA559A509CD
-Hash Offset : 0x34F4B8
+Hash Offset : 0x33F4B8
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4733,7 +4733,7 @@ Commands count : 0x2
 Title : Mana Khemia - Alchemists of Al-Revis
 Game ID : SLUS_217.35
 Hash : 0xAD51AD0105
-Hash Offset : 0x352998
+Hash Offset : 0x342998
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -4743,7 +4743,7 @@ Commands count : 0x1
 Title : Guitar Hero - Aerosmith
 Game ID : SLUS_217.40
 Hash : 0xAD51AD015D
-Hash Offset : 0x34F6F8
+Hash Offset : 0x33F6F8
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4764,7 +4764,7 @@ Commands count : 0x2
 Title : Guitar Hero - World Tour
 Game ID : SLUS_217.81
 Hash : 0xD529D579ED
-Hash Offset : 0x34F710
+Hash Offset : 0x33F710
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4785,7 +4785,7 @@ Commands count : 0x2
 Title : Ar Tonelico 2 - Melody of Metafalica
 Game ID : SLUS_217.88
 Hash : 0xD529D579A5
-Hash Offset : 0x34F320
+Hash Offset : 0x33F320
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -4795,7 +4795,7 @@ Commands count : 0x1
 Title : Kingdom Hearts - Re- Chain of Memories
 Game ID : SLUS_217.99
 Hash : 0xDD21DD7175
-Hash Offset : 0x352308
+Hash Offset : 0x342308
 Commands offset : 0x51B270
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -4806,7 +4806,7 @@ Commands count : 0x1
 Title : Guitar Hero - Metallica
 Game ID : SLUS_218.43
 Hash : 0xC539C569CD
-Hash Offset : 0x34F728
+Hash Offset : 0x33F728
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4827,7 +4827,7 @@ Commands count : 0x2
 Title : Naruto Shippuden - Ultimate Ninja 4
 Game ID : SLUS_218.62
 Hash : 0xCD31CD616D
-Hash Offset : 0x34F4D0
+Hash Offset : 0x33F4D0
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4856,7 +4856,7 @@ Commands count : 0x2
 Title : Guitar Hero 5 [Game Only]
 Game ID : SLUS_218.65
 Hash : 0xCD31CD6115
-Hash Offset : 0x34F740
+Hash Offset : 0x33F740
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4877,7 +4877,7 @@ Commands count : 0x2
 Title : Guitar Hero - Smash Hits
 Game ID : SLUS_218.66
 Hash : 0xCD31CD610D
-Hash Offset : 0x34F758
+Hash Offset : 0x33F758
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -4898,7 +4898,7 @@ Commands count : 0x2
 Title : Guitar Hero - Van Halen
 Game ID : SLUS_218.67
 Hash : 0xCD31CD6105
-Hash Offset : 0x34F770
+Hash Offset : 0x33F770
 Commands offset : 0x33B150
 Commands count : 0x3
 	[GX] Command ID : 0x0A
@@ -4923,7 +4923,7 @@ Commands count : 0x3
 Title : Band Hero
 Game ID : SLUS_218.98
 Hash : 0xF509F55935
-Hash Offset : 0x34F788
+Hash Offset : 0x33F788
 Commands offset : 0x33B150
 Commands count : 0x3
 	[GX] Command ID : 0x0A
@@ -4948,7 +4948,7 @@ Commands count : 0x3
 Title : Dead or Alive 2
 Game ID : SLPS_250.02
 Hash : 0xF041FC513D
-Hash Offset : 0x350148
+Hash Offset : 0x340148
 Commands offset : 0x3443F0
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -5010,7 +5010,7 @@ Commands count : 0x2
 Title : SPY FICTION
 Game ID : SLKA_250.07
 Hash : 0xF088FA5115
-Hash Offset : 0x3526B0
+Hash Offset : 0x3426B0
 Commands offset : 0x51B028
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -5021,7 +5021,7 @@ Commands count : 0x1
 Title : Dead or Alive 2 - Hardcore
 Game ID : SLPS_250.26
 Hash : 0xE859E44965
-Hash Offset : 0x350130
+Hash Offset : 0x340130
 Commands offset : 0x3444E0
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -5090,7 +5090,7 @@ Commands count : 0x2
 Title : Armored Core 3 - Silent Line
 Game ID : SLKA_250.41
 Hash : 0xE890E249FD
-Hash Offset : 0x352458
+Hash Offset : 0x342458
 Commands offset : 0x51D120
 Commands count : 0x1
 	[GX] Command ID : 0x23
@@ -5101,7 +5101,7 @@ Commands count : 0x1
 Title : Atelier Lilie
 Game ID : SLPS_250.45
 Hash : 0xE859E449DD
-Hash Offset : 0x3501D8
+Hash Offset : 0x3401D8
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -5111,7 +5111,7 @@ Commands count : 0x1
 Title : Final Fantasy X
 Game ID : SLPS_250.50
 Hash : 0xE859E449A5
-Hash Offset : 0x34FA58
+Hash Offset : 0x33FA58
 Commands offset : 0x3450E8
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -5146,7 +5146,7 @@ Commands count : 0x2
 Title : Ace Combat 4 - Shattered Skies
 Game ID : SLPS_250.52
 Hash : 0xE859E44995
-Hash Offset : 0x34FA28
+Hash Offset : 0x33FA28
 Commands offset : 0x345178
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -5171,7 +5171,7 @@ Commands count : 0x1
 Title : Tantei Jinguuji Saburo - Innocent Black
 Game ID : SLKA_250.71
 Hash : 0xE098EA4105
-Hash Offset : 0x352488
+Hash Offset : 0x342488
 Commands offset : 0x51B148
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -5182,7 +5182,7 @@ Commands count : 0x1
 Title : Lara Croft - Tomb Raider - The Angel of Darkness
 Game ID : SLKA_250.73
 Hash : 0xE098EA41F5
-Hash Offset : 0x3524A0
+Hash Offset : 0x3424A0
 Commands offset : 0x343148
 Commands count : 0x2
 	[GX] Command ID : 0x1C
@@ -5201,7 +5201,7 @@ Commands count : 0x2
 Title : Rayman 3 - Hoodlum Havoc
 Game ID : SLKA_250.78
 Hash : 0xE098EA41CD
-Hash Offset : 0x352740
+Hash Offset : 0x342740
 Commands offset : 0x345C68
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -5225,7 +5225,7 @@ Commands count : 0x1
 Title : .Hack Vol.1 - Infection
 Game ID : SLKA_250.80
 Hash : 0xE098EA41BD
-Hash Offset : 0x352350
+Hash Offset : 0x342350
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5254,7 +5254,7 @@ Commands count : 0x2
 Title : Final Fantasy X International
 Game ID : SLPS_250.88
 Hash : 0x18A914B985
-Hash Offset : 0x34FA70
+Hash Offset : 0x33FA70
 Commands offset : 0x345078
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -5282,7 +5282,7 @@ Commands count : 0x2
 Title : Onimusha 3 - Demon Siege
 Game ID : SLKA_250.93
 Hash : 0x186012B9AD
-Hash Offset : 0x352518
+Hash Offset : 0x342518
 Commands offset : 0x51D288
 Commands count : 0x1
 	[GX] Command ID : 0x21
@@ -5292,17 +5292,17 @@ Commands count : 0x1
 Title : Burnout Dominator
 Game ID : SLAJ_250.94
 Hash : 0x98E510B9B5
-Hash Offset : 0x3504F0
+Hash Offset : 0x3404F0
 Commands offset : 0x51CD08
 Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x00009BDC
+		Param : 0x0000000000009BDC
 
 Title : WRC - World Rally Championship
 Game ID : SLPS_250.99
 Hash : 0x18A914B9DD
-Hash Offset : 0x34FDD0
+Hash Offset : 0x33FDD0
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -5312,7 +5312,7 @@ Commands count : 0x1
 Title : dot Hack Vol.1
 Game ID : SLPS_251.21
 Hash : 0x10A11CB185
-Hash Offset : 0x34FCF8
+Hash Offset : 0x33FCF8
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5341,7 +5341,7 @@ Commands count : 0x2
 Title : Taisho Mononoke Ibunroku
 Game ID : SLKA_251.23
 Hash : 0x10681AB195
-Hash Offset : 0x352770
+Hash Offset : 0x342770
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -5351,7 +5351,7 @@ Commands count : 0x1
 Title : .Hack Vol.2 - Mutation
 Game ID : SLKA_251.38
 Hash : 0x10681AB11D
-Hash Offset : 0x352368
+Hash Offset : 0x342368
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5380,7 +5380,7 @@ Commands count : 0x2
 Title : dot Hack Vol.2 - Mutation
 Game ID : SLPS_251.43
 Hash : 0x10A11CB135
-Hash Offset : 0x34FD10
+Hash Offset : 0x33FD10
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5409,7 +5409,7 @@ Commands count : 0x2
 Title : Final Fantasy X-2
 Game ID : SLKA_251.44
 Hash : 0x10681AB14D
-Hash Offset : 0x3523E0
+Hash Offset : 0x3423E0
 Commands offset : 0x343200
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -5455,7 +5455,7 @@ Commands count : 0x1
 Title : .Hack Vol.3 - Outbreak
 Game ID : SLKA_251.45
 Hash : 0x10681AB145
-Hash Offset : 0x352380
+Hash Offset : 0x342380
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5484,7 +5484,7 @@ Commands count : 0x2
 Title : dot Hack - Vol.3 - Erosion Pollution
 Game ID : SLPS_251.58
 Hash : 0x8B904A9A5
-Hash Offset : 0x34FD28
+Hash Offset : 0x33FD28
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5513,7 +5513,7 @@ Commands count : 0x2
 Title : Harry Potter and the Prisoner of Azkaban
 Game ID : SLKA_251.72
 Hash : 0x87002A935
-Hash Offset : 0x352668
+Hash Offset : 0x342668
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -5523,7 +5523,7 @@ Commands count : 0x1
 Title : .Hack Vol.4 - Quarantine
 Game ID : SLKA_251.74
 Hash : 0x87002A925
-Hash Offset : 0x352398
+Hash Offset : 0x342398
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5552,7 +5552,7 @@ Commands count : 0x2
 Title : Transformers
 Game ID : SLKA_251.75
 Hash : 0x87002A92D
-Hash Offset : 0x352830
+Hash Offset : 0x342830
 Commands offset : 0x33B3D8
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -5570,7 +5570,7 @@ Commands count : 0x1
 Title : Argus no Senshi
 Game ID : SLPS_251.78
 Hash : 0x8B904A945
-Hash Offset : 0x350268
+Hash Offset : 0x340268
 Commands offset : 0x51C838
 Commands count : 0x2
 	[GX] Command ID : 0x0D
@@ -5585,7 +5585,7 @@ Commands count : 0x2
 Title : dot Hack - Vol.4 - Zettai Houi
 Game ID : SLPS_252.02
 Hash : 0xB10CA10D
-Hash Offset : 0x34FD40
+Hash Offset : 0x33FD40
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5614,7 +5614,7 @@ Commands count : 0x2
 Title : Hitman - Contracts
 Game ID : SLKA_252.18
 Hash : 0x38403299B5
-Hash Offset : 0x352650
+Hash Offset : 0x342650
 Commands offset : 0x51D150
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -5624,7 +5624,7 @@ Commands count : 0x1
 Title : Naruto - Narutimate Hero
 Game ID : SLKA_252.32
 Hash : 0x3840329925
-Hash Offset : 0x3525A8
+Hash Offset : 0x3425A8
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5653,7 +5653,7 @@ Commands count : 0x2
 Title : Tenchu 3
 Game ID : SLPS_252.34
 Hash : 0x3889349935
-Hash Offset : 0x34FF98
+Hash Offset : 0x33FF98
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -5663,7 +5663,7 @@ Commands count : 0x1
 Title : Max Payne
 Game ID : SLPS_252.44
 Hash : 0x3889349945
-Hash Offset : 0x350328
+Hash Offset : 0x340328
 Commands offset : 0x33AF70
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -5680,7 +5680,7 @@ Commands count : 0x2
 Title : Tomb Raider - The Angel of Darkness
 Game ID : SLPS_252.46
 Hash : 0x3889349955
-Hash Offset : 0x34FED8
+Hash Offset : 0x33FED8
 Commands offset : 0x344968
 Commands count : 0x2
 	[GX] Command ID : 0x1C
@@ -5699,7 +5699,7 @@ Commands count : 0x2
 Title : Final Fantasy X-2
 Game ID : SLPS_252.50
 Hash : 0x30813C91BD
-Hash Offset : 0x34FA88
+Hash Offset : 0x33FA88
 Commands offset : 0x345060
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -5740,7 +5740,7 @@ Commands count : 0x1
 Title : Metal Gear Solid 3 - Snake Eater
 Game ID : SLKA_252.51
 Hash : 0x30483A91B5
-Hash Offset : 0x352320
+Hash Offset : 0x342320
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -5761,7 +5761,7 @@ Commands count : 0x2
 Title : Forgotten Realms - Demon Stone
 Game ID : SLKA_252.52
 Hash : 0x30483A918D
-Hash Offset : 0x352758
+Hash Offset : 0x342758
 Commands offset : 0x51D748
 Commands count : 0x1
 	[GX] Command ID : 0x21
@@ -5771,7 +5771,7 @@ Commands count : 0x1
 Title : Devil May Cry 3
 Game ID : SLKA_252.65
 Hash : 0x30483A9125
-Hash Offset : 0x352428
+Hash Offset : 0x342428
 Commands offset : 0x33A898
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -5797,7 +5797,7 @@ Commands count : 0x2
 Title : Hitman - Silent Assasin
 Game ID : SLPS_252.69
 Hash : 0x30813C9105
-Hash Offset : 0x3502B0
+Hash Offset : 0x3402B0
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -5807,7 +5807,7 @@ Commands count : 0x1
 Title : Princess Maker 4
 Game ID : SLKA_252.74
 Hash : 0x30483A917D
-Hash Offset : 0x352860
+Hash Offset : 0x342860
 Commands offset : 0x51AF60
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -5818,7 +5818,7 @@ Commands count : 0x1
 Title : MX vs. ATV Unleashed
 Game ID : SLKA_252.82
 Hash : 0x28502289A5
-Hash Offset : 0x352788
+Hash Offset : 0x342788
 Commands offset : 0x342B90
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -5836,7 +5836,7 @@ Commands count : 0x1
 Title : Naruto - Narutimett Hero
 Game ID : SLPS_252.93
 Hash : 0x28992489DD
-Hash Offset : 0x34FD58
+Hash Offset : 0x33FD58
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5865,7 +5865,7 @@ Commands count : 0x2
 Title : INDIGO PROPHECY
 Game ID : SLKA_253.09
 Hash : 0x285022895D
-Hash Offset : 0x3528D8
+Hash Offset : 0x3428D8
 Commands offset : 0x51CF28
 Commands count : 0x1
 	[GX] Command ID : 0x2B
@@ -5875,7 +5875,7 @@ Commands count : 0x1
 Title : Spy Fiction
 Game ID : SLPS_253.11
 Hash : 0x289924894D
-Hash Offset : 0x34FC98
+Hash Offset : 0x33FC98
 Commands offset : 0x51CC90
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -5886,7 +5886,7 @@ Commands count : 0x1
 Title : Castlevania - Curse of Darkness
 Game ID : SLKA_253.28
 Hash : 0x20582A813D
-Hash Offset : 0x352338
+Hash Offset : 0x342338
 Commands offset : 0x33B408
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -5904,17 +5904,17 @@ Commands count : 0x1
 Title : Netsu Chu! Pro Baseball 2004
 Game ID : SLPS_253.50
 Hash : 0x58E954F9F5
-Hash Offset : 0x34FAB8
+Hash Offset : 0x33FAB8
 Commands offset : 0x51D978
 Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x0000F960
+		Param : 0x000000000000F960
 
 Title : Metal Gear Solid 3 - Subsistance [Limited Edition] [Disc1of2]
 Game ID : SLKA_253.53
 Hash : 0x582052F98D
-Hash Offset : 0x3525C0
+Hash Offset : 0x3425C0
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -5935,7 +5935,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Subsistance [Limited Edition] [Disc2of2]
 Game ID : SLKA_253.54
 Hash : 0x582052F995
-Hash Offset : 0x3525D8
+Hash Offset : 0x3425D8
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -5956,7 +5956,7 @@ Commands count : 0x2
 Title : Naruto - Narutimett Hero 2
 Game ID : SLPS_253.98
 Hash : 0x50E15CF17D
-Hash Offset : 0x34FD70
+Hash Offset : 0x33FD70
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -5985,7 +5985,7 @@ Commands count : 0x2
 Title : FLATOUT 2
 Game ID : SLKA_254.01
 Hash : 0x50285AF105
-Hash Offset : 0x352890
+Hash Offset : 0x342890
 Commands offset : 0x51AF28
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -5996,7 +5996,7 @@ Commands count : 0x1
 Title : Hitman - Contracts
 Game ID : SLPS_254.06
 Hash : 0x50E15CF13D
-Hash Offset : 0x350460
+Hash Offset : 0x340460
 Commands offset : 0x51D150
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -6006,7 +6006,7 @@ Commands count : 0x1
 Title : To Heart 2
 Game ID : SLPS_254.14
 Hash : 0x48F944E9E5
-Hash Offset : 0x3500D0
+Hash Offset : 0x3400D0
 Commands offset : 0x33AFA0
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -6016,12 +6016,12 @@ Commands count : 0x2
 		[Net] Function ID : unk
 	[GX] Command ID : 0x1D
 	[Net] Command ID : 0x20
-		Param : 0x000000C8
+		Param : 0x00000000000000C8
 
 Title : Ace Combat 5 - The Unsung War
 Game ID : SLPS_254.18
 Hash : 0x48F944E985
-Hash Offset : 0x34FBD8
+Hash Offset : 0x33FBD8
 Commands offset : 0x344FB0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -6039,7 +6039,7 @@ Commands count : 0x1
 Title : World Soccer Winning Eleven 2011
 Game ID : SLKA_254.77
 Hash : 0x780072D9CD
-Hash Offset : 0x3528F0
+Hash Offset : 0x3428F0
 Commands offset : 0x51CED0
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -6050,7 +6050,7 @@ Commands count : 0x1
 Title : Tekken 5
 Game ID : SLPS_255.10
 Hash : 0x70C17CD1DD
-Hash Offset : 0x350280
+Hash Offset : 0x340280
 Commands offset : 0x3443D8
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -6076,7 +6076,7 @@ Commands count : 0x1
 Title : Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T.
 Game ID : SLPS_255.69
 Hash : 0x60D16CC1F5
-Hash Offset : 0x3504C0
+Hash Offset : 0x3404C0
 Commands offset : 0x3441D8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -6101,7 +6101,7 @@ Commands count : 0x1
 Title : Naruto Narutimett Hero 3
 Game ID : SLPS_255.89
 Hash : 0x60D16CC155
-Hash Offset : 0x34FD88
+Hash Offset : 0x33FD88
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -6130,7 +6130,7 @@ Commands count : 0x2
 Title : Ar tonelico - Melody of Elemia
 Game ID : SLPS_256.04
 Hash : 0x9929943925
-Hash Offset : 0x350238
+Hash Offset : 0x340238
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -6140,7 +6140,7 @@ Commands count : 0x1
 Title : Ace Combat Zero - The Belkan War
 Game ID : SLPS_256.29
 Hash : 0x99299439ED
-Hash Offset : 0x34FBF0
+Hash Offset : 0x33FBF0
 Commands offset : 0x344F78
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -6158,7 +6158,7 @@ Commands count : 0x1
 Title : dot Hack G.U. Vol.1 - Saitan
 Game ID : SLPS_256.51
 Hash : 0x91219C3195
-Hash Offset : 0x3502E0
+Hash Offset : 0x3402E0
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -6187,7 +6187,7 @@ Commands count : 0x2
 Title : dot Hack G.U. Vol.2 - Kimi Omou Koe
 Game ID : SLPS_256.55
 Hash : 0x91219C31B5
-Hash Offset : 0x3502F8
+Hash Offset : 0x3402F8
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -6216,7 +6216,7 @@ Commands count : 0x2
 Title : dot Hack - G.U. Vol.3 - Aruku Youna Hayasa de
 Game ID : SLPS_256.56
 Hash : 0x91219C31CD
-Hash Offset : 0x350310
+Hash Offset : 0x340310
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -6245,7 +6245,7 @@ Commands count : 0x2
 Title : Tales of Destiny
 Game ID : SLPS_257.15
 Hash : 0x81318C2185
-Hash Offset : 0x350088
+Hash Offset : 0x340088
 Commands offset : 0x51C970
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -6256,7 +6256,7 @@ Commands count : 0x1
 Title : Lord of the Rings - The Two Towers [Collector's Box]
 Game ID : SLPS_290.03
 Hash : 0xCC79C4690D
-Hash Offset : 0x350028
+Hash Offset : 0x340028
 Commands offset : 0x345EF8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -6271,7 +6271,7 @@ Commands count : 0x1
 Title : Lord of the Rings, The - The Two Towers
 Game ID : SLPS_290.04
 Hash : 0xCC79C46935
-Hash Offset : 0x350040
+Hash Offset : 0x340040
 Commands offset : 0x345EF8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -6286,7 +6286,7 @@ Commands count : 0x1
 Title : Gran Turismo 4
 Game ID : SCKA_300.01
 Hash : 0xD5A83A70C5
-Hash Offset : 0x352530
+Hash Offset : 0x342530
 Commands offset : 0x51DA98
 Commands count : 0x1
 	[GX] Command ID : 0x0E
@@ -6297,7 +6297,7 @@ Commands count : 0x1
 Title : GOD OF WAR
 Game ID : SCKA_300.02
 Hash : 0xD5A83A70DD
-Hash Offset : 0x3523B0
+Hash Offset : 0x3423B0
 Commands offset : 0x33B690
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -6315,7 +6315,7 @@ Commands count : 0x1
 Title : GOD OF WAR II
 Game ID : SCKA_300.06
 Hash : 0xD5A83A70FD
-Hash Offset : 0x3523C8
+Hash Offset : 0x3423C8
 Commands offset : 0x33B690
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -6333,7 +6333,7 @@ Commands count : 0x1
 Title : Dead or Alive 2 - Hardcore
 Game ID : SCES_500.03
 Hash : 0x60B9A1E84D
-Hash Offset : 0x351348
+Hash Offset : 0x341348
 Commands offset : 0x343AD0
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -6402,7 +6402,7 @@ Commands count : 0x2
 Title : Wipeout Fusion
 Game ID : SCES_500.05
 Hash : 0x60B9A1E87D
-Hash Offset : 0x34EF30
+Hash Offset : 0x33EF30
 Commands offset : 0x33B3F0
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -6420,7 +6420,7 @@ Commands count : 0x1
 Title : Drakan - The Ancients' Gates
 Game ID : SCES_500.06
 Hash : 0x60B9A1E865
-Hash Offset : 0x351A98
+Hash Offset : 0x341A98
 Commands offset : 0x51D0C0
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -6430,7 +6430,7 @@ Commands count : 0x1
 Title : FIFA 2001
 Game ID : SLES_500.11
 Hash : 0x60B941E90D
-Hash Offset : 0x351EE8
+Hash Offset : 0x341EE8
 Commands offset : 0x51B420
 Commands count : 0x1
 	[GX] Command ID : 0x1B
@@ -6443,7 +6443,7 @@ Commands count : 0x1
 Title : FIFA 2001
 Game ID : SLES_500.12
 Hash : 0x60B941E935
-Hash Offset : 0x351F00
+Hash Offset : 0x341F00
 Commands offset : 0x51B420
 Commands count : 0x1
 	[GX] Command ID : 0x1B
@@ -6456,7 +6456,7 @@ Commands count : 0x1
 Title : FIFA 2001
 Game ID : SLES_500.13
 Hash : 0x60B941E93D
-Hash Offset : 0x351F18
+Hash Offset : 0x341F18
 Commands offset : 0x51B420
 Commands count : 0x1
 	[GX] Command ID : 0x1B
@@ -6469,7 +6469,7 @@ Commands count : 0x1
 Title : FIFA 2001
 Game ID : SLES_500.14
 Hash : 0x60B941E925
-Hash Offset : 0x351F30
+Hash Offset : 0x341F30
 Commands offset : 0x51B420
 Commands count : 0x1
 	[GX] Command ID : 0x1B
@@ -6482,7 +6482,7 @@ Commands count : 0x1
 Title : FIFA 2001
 Game ID : SLES_500.15
 Hash : 0x60B941E92D
-Hash Offset : 0x351F48
+Hash Offset : 0x341F48
 Commands offset : 0x51B420
 Commands count : 0x1
 	[GX] Command ID : 0x1B
@@ -6495,7 +6495,7 @@ Commands count : 0x1
 Title : FIFA 2001
 Game ID : SLES_500.16
 Hash : 0x68B149E1DD
-Hash Offset : 0x351F60
+Hash Offset : 0x341F60
 Commands offset : 0x51B420
 Commands count : 0x1
 	[GX] Command ID : 0x1B
@@ -6508,7 +6508,7 @@ Commands count : 0x1
 Title : X-Squad
 Game ID : SLES_500.31
 Hash : 0x68B149E1A5
-Hash Offset : 0x351E88
+Hash Offset : 0x341E88
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -6518,7 +6518,7 @@ Commands count : 0x1
 Title : International Superstar Soccer
 Game ID : SLES_500.39
 Hash : 0x68B149E165
-Hash Offset : 0x352170
+Hash Offset : 0x342170
 Commands offset : 0x51B2E8
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -6529,7 +6529,7 @@ Commands count : 0x1
 Title : Driving Emotion Type-S
 Game ID : SLES_500.73
 Hash : 0x508971D92D
-Hash Offset : 0x34E3A8
+Hash Offset : 0x33E3A8
 Commands offset : 0x346620
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -6542,7 +6542,7 @@ Commands count : 0x1
 Title : Rumble Racing
 Game ID : SLES_501.20
 Hash : 0x409961C9B5
-Hash Offset : 0x351360
+Hash Offset : 0x341360
 Commands offset : 0x343A98
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -6560,7 +6560,7 @@ Commands count : 0x1
 Title : Oni
 Game ID : SLES_501.34
 Hash : 0x409961C945
-Hash Offset : 0x3511E0
+Hash Offset : 0x3411E0
 Commands offset : 0x343C10
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -6576,7 +6576,7 @@ Commands count : 0x1
 Title : Oni
 Game ID : SLES_501.76
 Hash : 0xB169913905
-Hash Offset : 0x3511F8
+Hash Offset : 0x3411F8
 Commands offset : 0x343C10
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -6592,7 +6592,7 @@ Commands count : 0x1
 Title : Oni
 Game ID : SLES_501.77
 Hash : 0xB16991390D
-Hash Offset : 0x351210
+Hash Offset : 0x341210
 Commands offset : 0x343C10
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -6608,7 +6608,7 @@ Commands count : 0x1
 Title : Oni
 Game ID : SLES_501.78
 Hash : 0xB169913915
-Hash Offset : 0x351228
+Hash Offset : 0x341228
 Commands offset : 0x343C10
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -6624,7 +6624,7 @@ Commands count : 0x1
 Title : Oni
 Game ID : SLES_501.79
 Hash : 0xB16991391D
-Hash Offset : 0x351240
+Hash Offset : 0x341240
 Commands offset : 0x343C10
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -6640,7 +6640,7 @@ Commands count : 0x1
 Title : Bloody Roar 3
 Game ID : SLES_502.03
 Hash : 0xB1699139DD
-Hash Offset : 0x351630
+Hash Offset : 0x341630
 Commands offset : 0x33B258
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -6652,7 +6652,7 @@ Commands count : 0x1
 Title : CART Fury Championship Racing
 Game ID : SLES_502.67
 Hash : 0xA1798129CD
-Hash Offset : 0x3519A8
+Hash Offset : 0x3419A8
 Commands offset : 0x343828
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -6670,7 +6670,7 @@ Commands count : 0x1
 Title : Gift, The
 Game ID : SLES_502.76
 Hash : 0xA97189213D
-Hash Offset : 0x351D50
+Hash Offset : 0x341D50
 Commands offset : 0x3436B8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -6694,7 +6694,7 @@ Commands count : 0x1
 Title : Gift
 Game ID : SLES_502.96
 Hash : 0xA9718921DD
-Hash Offset : 0x351D68
+Hash Offset : 0x341D68
 Commands offset : 0x3436A0
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -6718,7 +6718,7 @@ Commands count : 0x1
 Title : Gift
 Game ID : SLES_502.97
 Hash : 0xA9718921D5
-Hash Offset : 0x351D80
+Hash Offset : 0x341D80
 Commands offset : 0x3436A0
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -6742,7 +6742,7 @@ Commands count : 0x1
 Title : GIFT
 Game ID : SLES_502.98
 Hash : 0xA9718921CD
-Hash Offset : 0x351D98
+Hash Offset : 0x341D98
 Commands offset : 0x3436A0
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -6766,7 +6766,7 @@ Commands count : 0x1
 Title : GIFT
 Game ID : SLES_502.99
 Hash : 0xA9718921C5
-Hash Offset : 0x351DB0
+Hash Offset : 0x341DB0
 Commands offset : 0x3436A0
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -6790,7 +6790,7 @@ Commands count : 0x1
 Title : Max Payne
 Game ID : SLES_503.25
 Hash : 0x9149B1198D
-Hash Offset : 0x351408
+Hash Offset : 0x341408
 Commands offset : 0x33ACB8
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -6807,7 +6807,7 @@ Commands count : 0x2
 Title : Max Payne
 Game ID : SLES_503.26
 Hash : 0x9149B11995
-Hash Offset : 0x351420
+Hash Offset : 0x341420
 Commands offset : 0x33AC88
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -6824,7 +6824,7 @@ Commands count : 0x2
 Title : Grand Theft Auto III - DISC 1
 Game ID : SLES_503.30
 Hash : 0x9149B119F5
-Hash Offset : 0x350B38
+Hash Offset : 0x340B38
 Commands offset : 0x33AEB0
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -6839,7 +6839,7 @@ Commands count : 0x2
 Title : ESPN International Winter Sports
 Game ID : SLES_503.56
 Hash : 0x9941B9118D
-Hash Offset : 0x351AB0
+Hash Offset : 0x341AB0
 Commands offset : 0x343778
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -6864,7 +6864,7 @@ Commands count : 0x1
 Title : Devil May Cry
 Game ID : SLES_503.58
 Hash : 0x9941B9119D
-Hash Offset : 0x350880
+Hash Offset : 0x340880
 Commands offset : 0x51DB38
 Commands count : 0x1
 	[GX] Command ID : 0x17
@@ -6874,7 +6874,7 @@ Commands count : 0x1
 Title : Metal Gear Solid 2 - Sons of Liberty
 Game ID : SLES_503.83
 Hash : 0x8159A1094D
-Hash Offset : 0x34E708
+Hash Offset : 0x33E708
 Commands offset : 0x51D8B0
 Commands count : 0x1
 	[GX] Command ID : 0x1E
@@ -6884,7 +6884,7 @@ Commands count : 0x1
 Title : Project Zero II
 Game ID : SLES_503.84
 Hash : 0x8159A109B5
-Hash Offset : 0x34E720
+Hash Offset : 0x33E720
 Commands offset : 0x51D8B0
 Commands count : 0x1
 	[GX] Command ID : 0x1E
@@ -6894,7 +6894,7 @@ Commands count : 0x1
 Title : Metal Gear Solid 2 - Sons of Liberty
 Game ID : SLES_503.85
 Hash : 0x8159A109BD
-Hash Offset : 0x34E738
+Hash Offset : 0x33E738
 Commands offset : 0x51D8B0
 Commands count : 0x1
 	[GX] Command ID : 0x1E
@@ -6904,7 +6904,7 @@ Commands count : 0x1
 Title : PaRappa the Rapper 2
 Game ID : SCES_504.08
 Hash : 0x895149007D
-Hash Offset : 0x350A48
+Hash Offset : 0x340A48
 Commands offset : 0x345790
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -6925,7 +6925,7 @@ Commands count : 0x2
 Title : Ace Combat - Distant Thunder
 Game ID : SCES_504.10
 Hash : 0x895149006D
-Hash Offset : 0x34F080
+Hash Offset : 0x33F080
 Commands offset : 0x345978
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -6943,7 +6943,7 @@ Commands count : 0x1
 Title : Shadow Man 2 - The Second Coming
 Game ID : SLES_504.46
 Hash : 0xF129D17935
-Hash Offset : 0x3510D8
+Hash Offset : 0x3410D8
 Commands offset : 0x51D6E8
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -6954,7 +6954,7 @@ Commands count : 0x1
 Title : Rayman M
 Game ID : SLES_504.57
 Hash : 0xF129D1798D
-Hash Offset : 0x3508B0
+Hash Offset : 0x3408B0
 Commands offset : 0x344060
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -6982,7 +6982,7 @@ Commands count : 0x1
 Title : Dropship - United Peace Force
 Game ID : SCES_504.59
 Hash : 0xF12931789D
-Hash Offset : 0x350FD0
+Hash Offset : 0x340FD0
 Commands offset : 0x343D70
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -7000,7 +7000,7 @@ Commands count : 0x1
 Title : WWF Smackdown! - Just Bring It
 Game ID : SLES_504.77
 Hash : 0xF921D97125
-Hash Offset : 0x34EFC0
+Hash Offset : 0x33EFC0
 Commands offset : 0x51D3A8
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -7010,7 +7010,7 @@ Commands count : 0x1
 Title : Turok Evolution
 Game ID : SLES_504.79
 Hash : 0xF921D97135
-Hash Offset : 0x351E40
+Hash Offset : 0x341E40
 Commands offset : 0x51B5E8
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -7021,7 +7021,7 @@ Commands count : 0x1
 Title : Final Fantasy X
 Game ID : SCES_504.90
 Hash : 0xF92139709D
-Hash Offset : 0x350D00
+Hash Offset : 0x340D00
 Commands offset : 0x343F70
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -7056,7 +7056,7 @@ Commands count : 0x2
 Title : Final Fantasy X
 Game ID : SCES_504.91
 Hash : 0xF921397095
-Hash Offset : 0x350D18
+Hash Offset : 0x340D18
 Commands offset : 0x343F70
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -7091,7 +7091,7 @@ Commands count : 0x2
 Title : Final Fantasy X
 Game ID : SCES_504.92
 Hash : 0xF9213970AD
-Hash Offset : 0x350D30
+Hash Offset : 0x340D30
 Commands offset : 0x343EE0
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -7126,7 +7126,7 @@ Commands count : 0x2
 Title : Final Fantasy X
 Game ID : SCES_504.93
 Hash : 0xF9213970A5
-Hash Offset : 0x350D48
+Hash Offset : 0x340D48
 Commands offset : 0x343F70
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -7161,7 +7161,7 @@ Commands count : 0x2
 Title : Final Fantasy X
 Game ID : SCES_504.94
 Hash : 0xF9213970BD
-Hash Offset : 0x350D60
+Hash Offset : 0x340D60
 Commands offset : 0x343EE0
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -7196,7 +7196,7 @@ Commands count : 0x2
 Title : Jet Ion GP
 Game ID : SLES_505.44
 Hash : 0xE931C961DD
-Hash Offset : 0x351E70
+Hash Offset : 0x341E70
 Commands offset : 0x343550
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -7235,7 +7235,7 @@ Commands count : 0x1
 Title : Project Eden
 Game ID : SLES_505.53
 Hash : 0xE931C96195
-Hash Offset : 0x34E8E8
+Hash Offset : 0x33E8E8
 Commands offset : 0x345D10
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -7256,7 +7256,7 @@ Commands count : 0x2
 Title : Kessen II
 Game ID : SLES_505.78
 Hash : 0xD109F159F5
-Hash Offset : 0x351ED0
+Hash Offset : 0x341ED0
 Commands offset : 0x343448
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -7288,7 +7288,7 @@ Commands count : 0x1
 Title : No One Lives Forever
 Game ID : SLES_505.92
 Hash : 0xD901F9516D
-Hash Offset : 0x352158
+Hash Offset : 0x342158
 Commands offset : 0x51B300
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -7299,7 +7299,7 @@ Commands count : 0x1
 Title : Shadow Man 2 - The Second Coming
 Game ID : SLES_506.08
 Hash : 0xD901F951ED
-Hash Offset : 0x3510F0
+Hash Offset : 0x3410F0
 Commands offset : 0x51D6E8
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -7310,7 +7310,7 @@ Commands count : 0x1
 Title : Woody Woodpecker
 Game ID : SLES_506.13
 Hash : 0xD901F951C5
-Hash Offset : 0x351DC8
+Hash Offset : 0x341DC8
 Commands offset : 0x343688
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7333,7 +7333,7 @@ Commands count : 0x1
 Title : Baldur's Gate - Dark Alliance
 Game ID : SLES_506.72
 Hash : 0xC911E941FD
-Hash Offset : 0x351090
+Hash Offset : 0x341090
 Commands offset : 0x33ADC0
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -7353,7 +7353,7 @@ Commands count : 0x3
 Title : Mortal Kombat - Deadly Alliance
 Game ID : SLES_507.17
 Hash : 0x31E911B96D
-Hash Offset : 0x352050
+Hash Offset : 0x342050
 Commands offset : 0x343328
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -7371,7 +7371,7 @@ Commands count : 0x1
 Title : Ico
 Game ID : SCES_507.60
 Hash : 0x21F9E1A8D5
-Hash Offset : 0x3514F8
+Hash Offset : 0x3414F8
 Commands offset : 0x51B8F8
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -7381,7 +7381,7 @@ Commands count : 0x1
 Title : Donald Duck - Phantomias Platyrhynchos Kineticus
 Game ID : SLES_507.73
 Hash : 0x21F901A93D
-Hash Offset : 0x351C48
+Hash Offset : 0x341C48
 Commands offset : 0x3436F0
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7409,7 +7409,7 @@ Commands count : 0x1
 Title : Grand Theft Auto III
 Game ID : SLES_507.93
 Hash : 0x29F109A1D5
-Hash Offset : 0x350B50
+Hash Offset : 0x340B50
 Commands offset : 0x33AE80
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -7424,7 +7424,7 @@ Commands count : 0x2
 Title : ATV Off-Road 2
 Game ID : SLES_508.50
 Hash : 0x19C13991BD
-Hash Offset : 0x351108
+Hash Offset : 0x341108
 Commands offset : 0x343C88
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7466,7 +7466,7 @@ Commands count : 0x1
 Title : Tekken 4
 Game ID : SCES_508.78
 Hash : 0x19C1D9905D
-Hash Offset : 0x351258
+Hash Offset : 0x341258
 Commands offset : 0x51D2B8
 Commands count : 0x1
 	[GX] Command ID : 0x1E
@@ -7476,7 +7476,7 @@ Commands count : 0x1
 Title : Ratchet & Clank
 Game ID : SCES_509.16
 Hash : 0x9D1C9809D
-Hash Offset : 0x350EB0
+Hash Offset : 0x340EB0
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -7511,22 +7511,22 @@ Commands count : 0x3
 Title : Akira Psycho Ball
 Game ID : SLES_509.19
 Hash : 0x9D1298185
-Hash Offset : 0x350520
+Hash Offset : 0x340520
 Commands offset : 0x51CD08
 Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x00009BDC
+		Param : 0x0000000000009BDC
 
 Title : World Rally Championship II Extreme
 Game ID : SCES_509.34
 Hash : 0x9D1C9800D
-Hash Offset : 0x350E38
+Hash Offset : 0x340E38
 Commands offset : 0x51CCC0
 Commands count : 0x2
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x00009BDC
+		Param : 0x0000000000009BDC
 	[GX] Command ID : 0x06
 	[Net] Command ID : 0x07
 		Param : 0x00000008
@@ -7534,7 +7534,7 @@ Commands count : 0x2
 Title : Barbarian
 Game ID : SLES_509.72
 Hash : 0x71A951F925
-Hash Offset : 0x351798
+Hash Offset : 0x341798
 Commands offset : 0x3439C8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7564,7 +7564,7 @@ Commands count : 0x1
 Title : Onimusha 2 - Samurai's Destiny
 Game ID : SLES_509.78
 Hash : 0x79A159F1DD
-Hash Offset : 0x3516F0
+Hash Offset : 0x3416F0
 Commands offset : 0x33AAF0
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -7576,7 +7576,7 @@ Commands count : 0x1
 Title : Gumball 3000
 Game ID : SLES_509.84
 Hash : 0x79A159F18D
-Hash Offset : 0x351FF0
+Hash Offset : 0x341FF0
 Commands offset : 0x343410
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7607,7 +7607,7 @@ Commands count : 0x1
 Title : Lord of the Rings, The - The Fellowship of the Ring (Der Herr der Ringe - Die Gefahrten)
 Game ID : SLES_509.88
 Hash : 0x79A159F1AD
-Hash Offset : 0x350DD8
+Hash Offset : 0x340DD8
 Commands offset : 0x51D938
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -7617,7 +7617,7 @@ Commands count : 0x1
 Title : Hitman 2 - Silent Assassin
 Game ID : SLES_509.92
 Hash : 0x79A159F14D
-Hash Offset : 0x350BC8
+Hash Offset : 0x340BC8
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -7627,7 +7627,7 @@ Commands count : 0x1
 Title : Knight Rider - The Game
 Game ID : SLES_510.11
 Hash : 0x61B941E9CD
-Hash Offset : 0x351F78
+Hash Offset : 0x341F78
 Commands offset : 0x51B408
 Commands count : 0x1
 	[GX] Command ID : 0x23
@@ -7638,7 +7638,7 @@ Commands count : 0x1
 Title : Burnout 2 - Point of Impact
 Game ID : SLES_510.44
 Hash : 0x69B149E1FD
-Hash Offset : 0x3505F8
+Hash Offset : 0x3405F8
 Commands offset : 0x33AEF8
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -7665,7 +7665,7 @@ Commands count : 0x3
 Title : Hitman 2 - Silent Assasin
 Game ID : SLES_511.07
 Hash : 0x598179D1F5
-Hash Offset : 0x350C10
+Hash Offset : 0x340C10
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -7675,7 +7675,7 @@ Commands count : 0x1
 Title : Hitman 2 - Silent Assasin
 Game ID : SLES_511.08
 Hash : 0x598179D1CD
-Hash Offset : 0x350BE0
+Hash Offset : 0x340BE0
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -7685,7 +7685,7 @@ Commands count : 0x1
 Title : Hitman 2 - Silent Assassin
 Game ID : SLES_511.09
 Hash : 0x598179D1C5
-Hash Offset : 0x350BF8
+Hash Offset : 0x340BF8
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -7695,7 +7695,7 @@ Commands count : 0x1
 Title : Hitman 2 - Silent Assasin
 Game ID : SLES_511.10
 Hash : 0x598179D1DD
-Hash Offset : 0x350C28
+Hash Offset : 0x340C28
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -7705,7 +7705,7 @@ Commands count : 0x1
 Title : Wizardry - Tales of the Forsaken Land
 Game ID : SLES_511.18
 Hash : 0x598179D19D
-Hash Offset : 0x351858
+Hash Offset : 0x341858
 Commands offset : 0x343958
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -7723,7 +7723,7 @@ Commands count : 0x1
 Title : Whirl Tour
 Game ID : SLES_511.26
 Hash : 0x598179D15D
-Hash Offset : 0x34EF00
+Hash Offset : 0x33EF00
 Commands offset : 0x345A20
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -7741,7 +7741,7 @@ Commands count : 0x1
 Title : Tony Hawk's Pro Skater 4
 Game ID : SLES_511.30
 Hash : 0x598179D13D
-Hash Offset : 0x34ED68
+Hash Offset : 0x33ED68
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -7762,7 +7762,7 @@ Commands count : 0x2
 Title : Tony Hawk's Pro Skater 4
 Game ID : SLES_511.31
 Hash : 0x598179D135
-Hash Offset : 0x34ED80
+Hash Offset : 0x33ED80
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -7783,7 +7783,7 @@ Commands count : 0x2
 Title : Tony Hawk's Pro Skater 4
 Game ID : SLES_511.32
 Hash : 0x598179D10D
-Hash Offset : 0x34ED98
+Hash Offset : 0x33ED98
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -7804,7 +7804,7 @@ Commands count : 0x2
 Title : Primal
 Game ID : SCES_511.35
 Hash : 0x598199D015
-Hash Offset : 0x350C40
+Hash Offset : 0x340C40
 Commands offset : 0x344018
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7828,7 +7828,7 @@ Commands count : 0x1
 Title : Disney's Treasure Planet
 Game ID : SCES_511.76
 Hash : 0x499189C0BD
-Hash Offset : 0x351870
+Hash Offset : 0x341870
 Commands offset : 0x343920
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -7846,7 +7846,7 @@ Commands count : 0x1
 Title : Disney's Treasure Planet
 Game ID : SCES_511.77
 Hash : 0x499189C0B5
-Hash Offset : 0x351888
+Hash Offset : 0x341888
 Commands offset : 0x3438E8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -7864,7 +7864,7 @@ Commands count : 0x1
 Title : Harry Potter and the Chamber of Secrets
 Game ID : SLES_511.92
 Hash : 0x499169C13D
-Hash Offset : 0x34E5A0
+Hash Offset : 0x33E5A0
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -7874,7 +7874,7 @@ Commands count : 0x1
 Title : Ty - The Tazmanian Tiger
 Game ID : SLES_512.20
 Hash : 0xB2699139A5
-Hash Offset : 0x351CA8
+Hash Offset : 0x341CA8
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -7884,7 +7884,7 @@ Commands count : 0x1
 Title : Rayman 3 - Hoodlum Havoc
 Game ID : SLES_512.22
 Hash : 0xB2699139B5
-Hash Offset : 0x350898
+Hash Offset : 0x340898
 Commands offset : 0x344078
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7908,7 +7908,7 @@ Commands count : 0x1
 Title : Tomb Raider - Angel of Darkness
 Game ID : SLES_512.27
 Hash : 0xB2699139DD
-Hash Offset : 0x350BB0
+Hash Offset : 0x340BB0
 Commands offset : 0x344030
 Commands count : 0x2
 	[GX] Command ID : 0x1C
@@ -7927,7 +7927,7 @@ Commands count : 0x2
 Title : Lord of the Rings, The - The Two Towers
 Game ID : SLES_512.52
 Hash : 0xBA619931AD
-Hash Offset : 0x350670
+Hash Offset : 0x340670
 Commands offset : 0x345EF8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7942,7 +7942,7 @@ Commands count : 0x1
 Title : Lord of the Rings, The - The Two Towers (Seigneur des Anneaux - Les Deux Tours)
 Game ID : SLES_512.53
 Hash : 0xBA619931A5
-Hash Offset : 0x350688
+Hash Offset : 0x340688
 Commands offset : 0x345EF8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7957,7 +7957,7 @@ Commands count : 0x1
 Title : Lord of the Rings, The - The Two Towers (Der Herr der Ringe - Die Zwei Turme)
 Game ID : SLES_512.54
 Hash : 0xBA619931BD
-Hash Offset : 0x3506A0
+Hash Offset : 0x3406A0
 Commands offset : 0x345EF8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7972,7 +7972,7 @@ Commands count : 0x1
 Title : Lord of the Rings, The - The Two Towers
 Game ID : SLES_512.55
 Hash : 0xBA619931B5
-Hash Offset : 0x3506B8
+Hash Offset : 0x3406B8
 Commands offset : 0x345EF8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -7987,7 +7987,7 @@ Commands count : 0x1
 Title : Lord of the Rings, The - The Two Towers (El Senor de Los Anillos - Las Dos Torres)
 Game ID : SLES_512.56
 Hash : 0xBA619931CD
-Hash Offset : 0x3506D0
+Hash Offset : 0x3406D0
 Commands offset : 0x345EF8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -8002,7 +8002,7 @@ Commands count : 0x1
 Title : Spongebob Squarepants - Revenge of the Flying Dutchman
 Game ID : SLES_512.85
 Hash : 0xA2798129BD
-Hash Offset : 0x3519D8
+Hash Offset : 0x3419D8
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -8012,7 +8012,7 @@ Commands count : 0x1
 Title : Run Like Hell
 Game ID : SLES_513.45
 Hash : 0x9249B119AD
-Hash Offset : 0x3519C0
+Hash Offset : 0x3419C0
 Commands offset : 0x3437D0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8037,7 +8037,7 @@ Commands count : 0x1
 Title : Big Mutha Truckers
 Game ID : SLES_513.55
 Hash : 0x9249B119FD
-Hash Offset : 0x351780
+Hash Offset : 0x341780
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -8047,7 +8047,7 @@ Commands count : 0x1
 Title : Everblue 2
 Game ID : SLES_513.81
 Hash : 0x9A41B91185
-Hash Offset : 0x3511C8
+Hash Offset : 0x3411C8
 Commands offset : 0x3465B0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8065,7 +8065,7 @@ Commands count : 0x1
 Title : Mortal Kombat – Deadly Alliance
 Game ID : SLES_514.39
 Hash : 0x8A51A90145
-Hash Offset : 0x352038
+Hash Offset : 0x342038
 Commands offset : 0x343360
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8083,7 +8083,7 @@ Commands count : 0x1
 Title : Rygar - The Legendary Adventure
 Game ID : SLES_514.45
 Hash : 0x8A51A90195
-Hash Offset : 0x34EA38
+Hash Offset : 0x33EA38
 Commands offset : 0x51D718
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -8093,7 +8093,7 @@ Commands count : 0x1
 Title : Ghosthunter
 Game ID : SCES_514.63
 Hash : 0xF22931787D
-Hash Offset : 0x3518A0
+Hash Offset : 0x3418A0
 Commands offset : 0x3438B0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8111,7 +8111,7 @@ Commands count : 0x1
 Title : Freedom Fighters
 Game ID : SLES_514.67
 Hash : 0xF229D1791D
-Hash Offset : 0x351648
+Hash Offset : 0x341648
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -8121,7 +8121,7 @@ Commands count : 0x1
 Title : FREEDOM FIGHTERS
 Game ID : SLES_514.68
 Hash : 0xF229D17925
-Hash Offset : 0x351660
+Hash Offset : 0x341660
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -8131,7 +8131,7 @@ Commands count : 0x1
 Title : Freedom Fighters
 Game ID : SLES_514.69
 Hash : 0xF229D1792D
-Hash Offset : 0x351678
+Hash Offset : 0x341678
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -8141,7 +8141,7 @@ Commands count : 0x1
 Title : Freedom Fighters
 Game ID : SLES_514.70
 Hash : 0xF229D17935
-Hash Offset : 0x351690
+Hash Offset : 0x341690
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -8151,7 +8151,7 @@ Commands count : 0x1
 Title : FREEDOM FIGHTERS
 Game ID : SLES_514.71
 Hash : 0xF229D1793D
-Hash Offset : 0x3516A8
+Hash Offset : 0x3416A8
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -8161,7 +8161,7 @@ Commands count : 0x1
 Title : World of Outlaws - Sprint Cars
 Game ID : SLES_515.09
 Hash : 0xFA21D971E5
-Hash Offset : 0x351900
+Hash Offset : 0x341900
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -8171,7 +8171,7 @@ Commands count : 0x1
 Title : Dancing Stage Fever MegaMix
 Game ID : SLES_515.10
 Hash : 0xFA21D971FD
-Hash Offset : 0x350790
+Hash Offset : 0x340790
 Commands offset : 0x51C548
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -8182,7 +8182,7 @@ Commands count : 0x1
 Title : Next Generation Tennis 2003
 Game ID : SLES_515.47
 Hash : 0xE239C1698D
-Hash Offset : 0x351EB8
+Hash Offset : 0x341EB8
 Commands offset : 0x3434C0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8200,7 +8200,7 @@ Commands count : 0x1
 Title : All-Stars Baseball 2004
 Game ID : SLES_516.02
 Hash : 0xD209F159F5
-Hash Offset : 0x350538
+Hash Offset : 0x340538
 Commands offset : 0x51DCE8
 Commands count : 0x1
 	[GX] Command ID : 0x26
@@ -8210,7 +8210,7 @@ Commands count : 0x1
 Title : Ratchet & Clank 2 - Locked & Loaded
 Game ID : SCES_516.07
 Hash : 0xD2091158DD
-Hash Offset : 0x3507F0
+Hash Offset : 0x3407F0
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -8245,7 +8245,7 @@ Commands count : 0x3
 Title : Piglet's Big Game
 Game ID : SLES_516.67
 Hash : 0xC219E149ED
-Hash Offset : 0x34EFF0
+Hash Offset : 0x33EFF0
 Commands offset : 0x33B348
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -8257,7 +8257,7 @@ Commands count : 0x1
 Title : Piglet's Big Game
 Game ID : SLES_516.68
 Hash : 0xC219E149D5
-Hash Offset : 0x34F008
+Hash Offset : 0x33F008
 Commands offset : 0x33B330
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -8269,7 +8269,7 @@ Commands count : 0x1
 Title : My Street
 Game ID : SCES_516.77
 Hash : 0xC21901489D
-Hash Offset : 0x351E58
+Hash Offset : 0x341E58
 Commands offset : 0x3435E8
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -8311,7 +8311,7 @@ Commands count : 0x2
 Title : World Rally Championship 3
 Game ID : SCES_516.84
 Hash : 0xCA1109405D
-Hash Offset : 0x350E08
+Hash Offset : 0x340E08
 Commands offset : 0x343EB0
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -8335,7 +8335,7 @@ Commands count : 0x2
 Title : Primal
 Game ID : SCES_516.85
 Hash : 0xCA11094055
-Hash Offset : 0x350C58
+Hash Offset : 0x340C58
 Commands offset : 0x344000
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -8359,7 +8359,7 @@ Commands count : 0x1
 Title : Suffering, The
 Game ID : SLES_516.93
 Hash : 0xCA11E94115
-Hash Offset : 0x351AE0
+Hash Offset : 0x341AE0
 Commands offset : 0x51D0A8
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -8369,7 +8369,7 @@ Commands count : 0x1
 Title : Amplitude
 Game ID : SCES_517.06
 Hash : 0xCA110940AD
-Hash Offset : 0x350550
+Hash Offset : 0x340550
 Commands offset : 0x3441A0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8387,7 +8387,7 @@ Commands count : 0x1
 Title : Gran Turismo 4
 Game ID : SCES_517.19
 Hash : 0x32E9F1B8BD
-Hash Offset : 0x351198
+Hash Offset : 0x341198
 Commands offset : 0x51DA98
 Commands count : 0x1
 	[GX] Command ID : 0x0E
@@ -8398,7 +8398,7 @@ Commands count : 0x1
 Title : Disney's Extreme Skate Adventure
 Game ID : SLES_517.20
 Hash : 0x32E911B9C5
-Hash Offset : 0x34EE88
+Hash Offset : 0x33EE88
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -8419,7 +8419,7 @@ Commands count : 0x2
 Title : DISNEY'S EXTREME SKATE ADVENTURE
 Game ID : SLES_517.21
 Hash : 0x32E911B9CD
-Hash Offset : 0x34EEA0
+Hash Offset : 0x33EEA0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -8440,7 +8440,7 @@ Commands count : 0x2
 Title : Disney-Pixar's Finding Nemo
 Game ID : SLES_517.55
 Hash : 0x3AE119B1D5
-Hash Offset : 0x350C70
+Hash Offset : 0x340C70
 Commands offset : 0x33B6C0
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -8455,7 +8455,7 @@ Commands count : 0x2
 Title : Dancing Stage Fever
 Game ID : SLES_517.57
 Hash : 0x3AE119B1E5
-Hash Offset : 0x350778
+Hash Offset : 0x340778
 Commands offset : 0x51C560
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -8466,7 +8466,7 @@ Commands count : 0x1
 Title : Smash Cars Racing
 Game ID : SLES_518.00
 Hash : 0x22F901A955
-Hash Offset : 0x3510C0
+Hash Offset : 0x3410C0
 Commands offset : 0x343CA0
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -8492,7 +8492,7 @@ Commands count : 0x1
 Title : Final Fantasy X-2
 Game ID : SLES_518.15
 Hash : 0x2AF109A1A5
-Hash Offset : 0x350580
+Hash Offset : 0x340580
 Commands offset : 0x3440B0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8538,7 +8538,7 @@ Commands count : 0x1
 Title : Final Fantasy X-2
 Game ID : SLES_518.16
 Hash : 0x2AF109A1DD
-Hash Offset : 0x350598
+Hash Offset : 0x340598
 Commands offset : 0x3440B0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8584,7 +8584,7 @@ Commands count : 0x1
 Title : Final Fantasy X-2
 Game ID : SLES_518.17
 Hash : 0x2AF109A1D5
-Hash Offset : 0x3505B0
+Hash Offset : 0x3405B0
 Commands offset : 0x3440B0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8630,7 +8630,7 @@ Commands count : 0x1
 Title : Final Fantasy X-2
 Game ID : SLES_518.18
 Hash : 0x2AF109A1CD
-Hash Offset : 0x3505C8
+Hash Offset : 0x3405C8
 Commands offset : 0x3440B0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8676,7 +8676,7 @@ Commands count : 0x1
 Title : Final Fantasy X-2
 Game ID : SLES_518.19
 Hash : 0x2AF109A1C5
-Hash Offset : 0x3505E0
+Hash Offset : 0x3405E0
 Commands offset : 0x3440B0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -8722,7 +8722,7 @@ Commands count : 0x1
 Title : Hunter - The Reckoning Wayward
 Game ID : SLES_518.23
 Hash : 0x2AF109A1E5
-Hash Offset : 0x350DC0
+Hash Offset : 0x340DC0
 Commands offset : 0x51C4E8
 Commands count : 0x1
 	[GX] Command ID : 0x04
@@ -8732,7 +8732,7 @@ Commands count : 0x1
 Title : Worms 3D
 Game ID : SLES_518.43
 Hash : 0x12C93199BD
-Hash Offset : 0x350FA0
+Hash Offset : 0x340FA0
 Commands offset : 0x33AE08
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -8744,7 +8744,7 @@ Commands count : 0x1
 Title : Tony Hawk's Underground
 Game ID : SLES_518.48
 Hash : 0x12C93199E5
-Hash Offset : 0x34EDB0
+Hash Offset : 0x33EDB0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -8765,7 +8765,7 @@ Commands count : 0x2
 Title : Tony Hawk's Underground
 Game ID : SLES_518.51
 Hash : 0x12C93199FD
-Hash Offset : 0x34EDC8
+Hash Offset : 0x33EDC8
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -8786,7 +8786,7 @@ Commands count : 0x2
 Title : Thug MOTX [Demo]
 Game ID : SLES_518.52
 Hash : 0x12C93199C5
-Hash Offset : 0x34EDE0
+Hash Offset : 0x33EDE0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -8807,7 +8807,7 @@ Commands count : 0x2
 Title : Tony Hawk's Underground
 Game ID : SLES_518.53
 Hash : 0x12C93199CD
-Hash Offset : 0x34EDF8
+Hash Offset : 0x33EDF8
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -8828,7 +8828,7 @@ Commands count : 0x2
 Title : Tony Hawk Underground
 Game ID : SLES_518.54
 Hash : 0x12C93199D5
-Hash Offset : 0x34EE10
+Hash Offset : 0x33EE10
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -8849,7 +8849,7 @@ Commands count : 0x2
 Title : Disney/Pixar's Finding Nemo
 Game ID : SLES_518.70
 Hash : 0x12C9319955
-Hash Offset : 0x350C88
+Hash Offset : 0x340C88
 Commands offset : 0x33AE50
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -8864,7 +8864,7 @@ Commands count : 0x2
 Title : Disney-Pixar's Finding Nemo
 Game ID : SLES_518.71
 Hash : 0x12C931995D
-Hash Offset : 0x350CA0
+Hash Offset : 0x340CA0
 Commands offset : 0x33AE50
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -8879,7 +8879,7 @@ Commands count : 0x2
 Title : Disney/Pixar's Finding Nemo
 Game ID : SLES_518.72
 Hash : 0x1AC13991AD
-Hash Offset : 0x350CB8
+Hash Offset : 0x340CB8
 Commands offset : 0x33AE50
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -8894,7 +8894,7 @@ Commands count : 0x2
 Title : Medal of Honor - Rising Sun
 Game ID : SLES_518.73
 Hash : 0x1AC13991A5
-Hash Offset : 0x350A60
+Hash Offset : 0x340A60
 Commands offset : 0x51D838
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -8905,7 +8905,7 @@ Commands count : 0x1
 Title : Medal of Honor - Rising Sun
 Game ID : SLES_518.74
 Hash : 0x1AC13991BD
-Hash Offset : 0x350A78
+Hash Offset : 0x340A78
 Commands offset : 0x51D838
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -8916,7 +8916,7 @@ Commands count : 0x1
 Title : Medal of Honor - Rising Sun
 Game ID : SLES_518.75
 Hash : 0x1AC13991B5
-Hash Offset : 0x350A90
+Hash Offset : 0x340A90
 Commands offset : 0x51D838
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -8927,7 +8927,7 @@ Commands count : 0x1
 Title : Medal of Honor - Rising Sun
 Game ID : SLES_518.76
 Hash : 0x1AC139918D
-Hash Offset : 0x350AA8
+Hash Offset : 0x340AA8
 Commands offset : 0x51D838
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -8938,7 +8938,7 @@ Commands count : 0x1
 Title : Disney/Pixar's Alla Ricerca di Nemo
 Game ID : SLES_519.07
 Hash : 0x2D92189AD
-Hash Offset : 0x350CD0
+Hash Offset : 0x340CD0
 Commands offset : 0x33AE50
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -8953,7 +8953,7 @@ Commands count : 0x2
 Title : Onimusha 3 - Demon Siege
 Game ID : SLES_519.14
 Hash : 0x2D92189E5
-Hash Offset : 0x350FB8
+Hash Offset : 0x340FB8
 Commands offset : 0x51D288
 Commands count : 0x1
 	[GX] Command ID : 0x21
@@ -8963,7 +8963,7 @@ Commands count : 0x1
 Title : Syphon Filter - The Omega Strain
 Game ID : SCES_520.33
 Hash : 0x62B9A1E8DD
-Hash Offset : 0x351060
+Hash Offset : 0x341060
 Commands offset : 0x343CB8
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -8988,7 +8988,7 @@ Commands count : 0x2
 Title : MX Unleashed Migrated
 Game ID : SLES_520.43
 Hash : 0x62B941E98D
-Hash Offset : 0x351B70
+Hash Offset : 0x341B70
 Commands offset : 0x343740
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -9006,7 +9006,7 @@ Commands count : 0x1
 Title : Hitman - Contracts
 Game ID : SLES_521.32
 Hash : 0x5A8179D1CD
-Hash Offset : 0x351708
+Hash Offset : 0x341708
 Commands offset : 0x51D150
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -9016,7 +9016,7 @@ Commands count : 0x1
 Title : Hitman - Contracts
 Game ID : SLES_521.33
 Hash : 0x5A8179D1C5
-Hash Offset : 0x351738
+Hash Offset : 0x341738
 Commands offset : 0x51D150
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -9026,7 +9026,7 @@ Commands count : 0x1
 Title : Hitman - Contracts
 Game ID : SLES_521.34
 Hash : 0x5A8179D1DD
-Hash Offset : 0x351750
+Hash Offset : 0x341750
 Commands offset : 0x51D150
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -9036,7 +9036,7 @@ Commands count : 0x1
 Title : Hitman - Contracts
 Game ID : SLES_521.35
 Hash : 0x5A8179D1D5
-Hash Offset : 0x351720
+Hash Offset : 0x341720
 Commands offset : 0x51D150
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -9046,7 +9046,7 @@ Commands count : 0x1
 Title : Hitman - Contracts
 Game ID : SLES_521.36
 Hash : 0x5A8179D1AD
-Hash Offset : 0x351768
+Hash Offset : 0x341768
 Commands offset : 0x51D150
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -9056,7 +9056,7 @@ Commands count : 0x1
 Title : Ghosthunter - Hunter on the spectres
 Game ID : SCES_521.56
 Hash : 0x5A8199D00D
-Hash Offset : 0x3518B8
+Hash Offset : 0x3418B8
 Commands offset : 0x343878
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -9074,7 +9074,7 @@ Commands count : 0x1
 Title : Kaan Barbarian Blade
 Game ID : SLES_521.79
 Hash : 0x429961C96D
-Hash Offset : 0x351DE0
+Hash Offset : 0x341DE0
 Commands offset : 0x343658
 Commands count : 0x2
 	[GX] Command ID : 0x0A
@@ -9104,7 +9104,7 @@ Commands count : 0x2
 Title : Baldur's Gate - Dark Alliance 2
 Game ID : SLES_521.87
 Hash : 0x429961C92D
-Hash Offset : 0x3510A8
+Hash Offset : 0x3410A8
 Commands offset : 0x33AD78
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -9124,7 +9124,7 @@ Commands count : 0x3
 Title : dot Hack - Part 1 - Infection
 Game ID : SLES_522.37
 Hash : 0xB36991396D
-Hash Offset : 0x3508C8
+Hash Offset : 0x3408C8
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -9153,7 +9153,7 @@ Commands count : 0x2
 Title : Sing-Star
 Game ID : SCES_522.68
 Hash : 0xBB6179306D
-Hash Offset : 0x3522A8
+Hash Offset : 0x3422A8
 Commands offset : 0x51B288
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -9164,7 +9164,7 @@ Commands count : 0x1
 Title : Mafia
 Game ID : SLES_522.78
 Hash : 0xBB619931BD
-Hash Offset : 0x350F28
+Hash Offset : 0x340F28
 Commands offset : 0x343E08
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -9190,7 +9190,7 @@ Commands count : 0x1
 Title : Mafia
 Game ID : SLES_522.79
 Hash : 0xBB619931B5
-Hash Offset : 0x350F40
+Hash Offset : 0x340F40
 Commands offset : 0x343DF0
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -9216,7 +9216,7 @@ Commands count : 0x1
 Title : Mafia
 Game ID : SLES_522.80
 Hash : 0xBB619931CD
-Hash Offset : 0x350F58
+Hash Offset : 0x340F58
 Commands offset : 0x343DD8
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -9242,7 +9242,7 @@ Commands count : 0x1
 Title : Mafia
 Game ID : SLES_522.81
 Hash : 0xBB619931C5
-Hash Offset : 0x350F70
+Hash Offset : 0x340F70
 Commands offset : 0x343DC0
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -9268,7 +9268,7 @@ Commands count : 0x1
 Title : Mafia
 Game ID : SLES_522.82
 Hash : 0xBB619931DD
-Hash Offset : 0x350F88
+Hash Offset : 0x340F88
 Commands offset : 0x343DA8
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -9294,7 +9294,7 @@ Commands count : 0x1
 Title : MTX Mototrax
 Game ID : SLES_522.89
 Hash : 0xA37981291D
-Hash Offset : 0x351D20
+Hash Offset : 0x341D20
 Commands offset : 0x33B0D8
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -9312,7 +9312,7 @@ Commands count : 0x1
 Title : MTX Mototrax
 Game ID : SLES_522.90
 Hash : 0xA379812905
-Hash Offset : 0x351D38
+Hash Offset : 0x341D38
 Commands offset : 0x33B0D8
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -9330,7 +9330,7 @@ Commands count : 0x1
 Title : SingStar
 Game ID : SCES_522.99
 Hash : 0xA37961284D
-Hash Offset : 0x3522C0
+Hash Offset : 0x3422C0
 Commands offset : 0x51B288
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -9341,7 +9341,7 @@ Commands count : 0x1
 Title : Champions of Norrath - Realms of EverQuest
 Game ID : SLES_523.25
 Hash : 0xAB71892135
-Hash Offset : 0x34E1E0
+Hash Offset : 0x33E1E0
 Commands offset : 0x33B840
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -9361,7 +9361,7 @@ Commands count : 0x3
 Title : Transformers Armada - Prelude to Energon [Special Edition]
 Game ID : SLES_523.88
 Hash : 0x9B41B9110D
-Hash Offset : 0x351030
+Hash Offset : 0x341030
 Commands offset : 0x33B3D8
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -9379,7 +9379,7 @@ Commands count : 0x1
 Title : World Rally Championship 4
 Game ID : SCES_523.89
 Hash : 0x9B41591005
-Hash Offset : 0x350E20
+Hash Offset : 0x340E20
 Commands offset : 0x343E80
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -9473,7 +9473,7 @@ Commands count : 0x2
 Title : MTV Music Generator 3
 Game ID : SLES_524.04
 Hash : 0x9B41B9118D
-Hash Offset : 0x3517E0
+Hash Offset : 0x3417E0
 Commands offset : 0x51D228
 Commands count : 0x1
 	[GX] Command ID : 0x05
@@ -9483,7 +9483,7 @@ Commands count : 0x1
 Title : Ace Combat - Squadron Leader
 Game ID : SCES_524.24
 Hash : 0x8359410875
-Hash Offset : 0x34F068
+Hash Offset : 0x33F068
 Commands offset : 0x3459B0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -9501,7 +9501,7 @@ Commands count : 0x1
 Title : Suffering, The
 Game ID : SLES_524.39
 Hash : 0x8359A1098D
-Hash Offset : 0x351AC8
+Hash Offset : 0x341AC8
 Commands offset : 0x51D0A8
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -9511,7 +9511,7 @@ Commands count : 0x1
 Title : Harry Potter and the Prisoner of Azkaban
 Game ID : SLES_524.40
 Hash : 0x8359A109F5
-Hash Offset : 0x350610
+Hash Offset : 0x340610
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -9521,7 +9521,7 @@ Commands count : 0x1
 Title : Silent Hill 4 - The Room
 Game ID : SLES_524.45
 Hash : 0x8359A109DD
-Hash Offset : 0x34F0E0
+Hash Offset : 0x33F0E0
 Commands offset : 0x345940
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -9539,7 +9539,7 @@ Commands count : 0x1
 Title : Ratchet & Clank 3
 Game ID : SCES_524.56
 Hash : 0x8B5149007D
-Hash Offset : 0x350808
+Hash Offset : 0x340808
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -9574,7 +9574,7 @@ Commands count : 0x3
 Title : dot Hack - Part 2 - Mutation
 Game ID : SLES_524.67
 Hash : 0x8B51A901A5
-Hash Offset : 0x3508E0
+Hash Offset : 0x3408E0
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -9603,7 +9603,7 @@ Commands count : 0x2
 Title : dot Hack - Part 4 - Quarantine
 Game ID : SLES_524.68
 Hash : 0x8B51A9019D
-Hash Offset : 0x350910
+Hash Offset : 0x340910
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -9632,7 +9632,7 @@ Commands count : 0x2
 Title : dot Hack - Part 3 - Outbreak
 Game ID : SLES_524.69
 Hash : 0x8B51A90195
-Hash Offset : 0x3508F8
+Hash Offset : 0x3408F8
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -9661,7 +9661,7 @@ Commands count : 0x2
 Title : Spy Fiction
 Game ID : SLES_525.05
 Hash : 0xF329D1798D
-Hash Offset : 0x350EC8
+Hash Offset : 0x340EC8
 Commands offset : 0x51C140
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -9672,7 +9672,7 @@ Commands count : 0x1
 Title : Harry Potter og Fangen fra Azkaban
 Game ID : SLES_525.27
 Hash : 0xFB21D97135
-Hash Offset : 0x350628
+Hash Offset : 0x340628
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -9682,7 +9682,7 @@ Commands count : 0x1
 Title : Suffering, The
 Game ID : SLES_525.31
 Hash : 0xFB21D971D5
-Hash Offset : 0x351AF8
+Hash Offset : 0x341AF8
 Commands offset : 0x51D0A8
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -9692,7 +9692,7 @@ Commands count : 0x1
 Title : Grand Theft Auto - San Andreas
 Game ID : SLES_525.41
 Hash : 0xFB21D971A5
-Hash Offset : 0x351600
+Hash Offset : 0x341600
 Commands offset : 0x51B8C8
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -9703,7 +9703,7 @@ Commands count : 0x1
 Title : Star Wars Battlefront
 Game ID : SLES_525.45
 Hash : 0xE339C1695D
-Hash Offset : 0x3514B0
+Hash Offset : 0x3414B0
 Commands offset : 0x33B2B8
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -9715,7 +9715,7 @@ Commands count : 0x1
 Title : Star Wars Battlefront
 Game ID : SLES_525.46
 Hash : 0xE339C16945
-Hash Offset : 0x3514E0
+Hash Offset : 0x3414E0
 Commands offset : 0x33B2B8
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -9727,7 +9727,7 @@ Commands count : 0x1
 Title : Star Wars Battlefront
 Game ID : SLES_525.47
 Hash : 0xE339C1694D
-Hash Offset : 0x3514C8
+Hash Offset : 0x3414C8
 Commands offset : 0x33B2B8
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -9739,7 +9739,7 @@ Commands count : 0x1
 Title : Samurai Warriors
 Game ID : SLES_525.51
 Hash : 0xE339C1696D
-Hash Offset : 0x351BA0
+Hash Offset : 0x341BA0
 Commands offset : 0x51D060
 Commands count : 0x3
 	[GX] Command ID : 0x0F
@@ -9755,7 +9755,7 @@ Commands count : 0x3
 Title : Samurai Warriors
 Game ID : SLES_525.52
 Hash : 0xE339C16915
-Hash Offset : 0x351BB8
+Hash Offset : 0x341BB8
 Commands offset : 0x51D060
 Commands count : 0x3
 	[GX] Command ID : 0x0F
@@ -9771,7 +9771,7 @@ Commands count : 0x3
 Title : Samurai Warriors
 Game ID : SLES_525.54
 Hash : 0xE339C16905
-Hash Offset : 0x351BE8
+Hash Offset : 0x341BE8
 Commands offset : 0x51D060
 Commands count : 0x3
 	[GX] Command ID : 0x0F
@@ -9787,7 +9787,7 @@ Commands count : 0x3
 Title : Samurai Warriors
 Game ID : SLES_525.55
 Hash : 0xE339C1690D
-Hash Offset : 0x351BD0
+Hash Offset : 0x341BD0
 Commands offset : 0x51D060
 Commands count : 0x3
 	[GX] Command ID : 0x0F
@@ -9803,7 +9803,7 @@ Commands count : 0x3
 Title : Sing-Star
 Game ID : SCES_525.65
 Hash : 0xE3392168FD
-Hash Offset : 0x3522F0
+Hash Offset : 0x3422F0
 Commands offset : 0x51B288
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -9814,7 +9814,7 @@ Commands count : 0x1
 Title : SingStar
 Game ID : SCES_525.66
 Hash : 0xE3392168E5
-Hash Offset : 0x3522D8
+Hash Offset : 0x3422D8
 Commands offset : 0x51B288
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -9825,7 +9825,7 @@ Commands count : 0x1
 Title : Crash Twinsanity
 Game ID : SLES_525.68
 Hash : 0xE339C16995
-Hash Offset : 0x34E2A0
+Hash Offset : 0x33E2A0
 Commands offset : 0x346650
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -9853,7 +9853,7 @@ Commands count : 0x2
 Title : Conflict - Global Storm
 Game ID : SLES_525.73
 Hash : 0xE339C169BD
-Hash Offset : 0x34E270
+Hash Offset : 0x33E270
 Commands offset : 0x51DBE0
 Commands count : 0x1
 	[GX] Command ID : 0x0F
@@ -9863,7 +9863,7 @@ Commands count : 0x1
 Title : Burnout 3 - Takedown
 Game ID : SLES_525.84
 Hash : 0xEB31C9611D
-Hash Offset : 0x350850
+Hash Offset : 0x340850
 Commands offset : 0x51DC70
 Commands count : 0x2
 	[GX] Command ID : 0x1E
@@ -9877,7 +9877,7 @@ Commands count : 0x2
 Title : Burnout 3 - Takedown
 Game ID : SLES_525.85
 Hash : 0xEB31C96115
-Hash Offset : 0x350868
+Hash Offset : 0x340868
 Commands offset : 0x51DC70
 Commands count : 0x2
 	[GX] Command ID : 0x1E
@@ -9891,7 +9891,7 @@ Commands count : 0x2
 Title : Dancing Stage Fusion
 Game ID : SLES_525.98
 Hash : 0xEB31C961ED
-Hash Offset : 0x3507A8
+Hash Offset : 0x3407A8
 Commands offset : 0x51C530
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -9902,7 +9902,7 @@ Commands count : 0x1
 Title : Harry Potter and The Prisoner of Azkaban
 Game ID : SLES_526.00
 Hash : 0xEB31C9619D
-Hash Offset : 0x350640
+Hash Offset : 0x340640
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -9912,7 +9912,7 @@ Commands count : 0x1
 Title : Tony Hawk's Underground 2
 Game ID : SLES_526.21
 Hash : 0xD309F1590D
-Hash Offset : 0x34EE28
+Hash Offset : 0x33EE28
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -9933,7 +9933,7 @@ Commands count : 0x2
 Title : Tony Hawk's Underground 2
 Game ID : SLES_526.22
 Hash : 0xD309F15915
-Hash Offset : 0x34EE40
+Hash Offset : 0x33EE40
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -9954,7 +9954,7 @@ Commands count : 0x2
 Title : Forgotten Realms - Demon Stone
 Game ID : SLES_526.69
 Hash : 0xDB01F95185
-Hash Offset : 0x351978
+Hash Offset : 0x341978
 Commands offset : 0x51D748
 Commands count : 0x1
 	[GX] Command ID : 0x21
@@ -9964,7 +9964,7 @@ Commands count : 0x1
 Title : Flatout
 Game ID : SLES_527.53
 Hash : 0x33E911B90D
-Hash Offset : 0x351CD8
+Hash Offset : 0x341CD8
 Commands offset : 0x51B6D8
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -9975,7 +9975,7 @@ Commands count : 0x1
 Title : Getaway, The - Black Monday
 Game ID : SCES_527.58
 Hash : 0x33E9F1B835
-Hash Offset : 0x34E510
+Hash Offset : 0x33E510
 Commands offset : 0x346470
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -9988,7 +9988,7 @@ Commands count : 0x1
 Title : Rocky - Legends
 Game ID : SLES_527.61
 Hash : 0x33E911B94D
-Hash Offset : 0x351990
+Hash Offset : 0x341990
 Commands offset : 0x51D748
 Commands count : 0x1
 	[GX] Command ID : 0x21
@@ -9998,7 +9998,7 @@ Commands count : 0x1
 Title : Commandos - Strike Force
 Game ID : SLES_527.68
 Hash : 0x3BE119B18D
-Hash Offset : 0x34E228
+Hash Offset : 0x33E228
 Commands offset : 0x51DBF8
 Commands count : 0x5
 	[GX] Command ID : 0x0C
@@ -10020,7 +10020,7 @@ Commands count : 0x5
 Title : Grand Theft Auto - San Andreas
 Game ID : SLES_529.27
 Hash : 0x1BC1399155
-Hash Offset : 0x351618
+Hash Offset : 0x341618
 Commands offset : 0x51B8C8
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -10031,7 +10031,7 @@ Commands count : 0x1
 Title : Big Mutha Truckers 2
 Game ID : SLES_529.80
 Hash : 0xBD129811D
-Hash Offset : 0x3517C8
+Hash Offset : 0x3417C8
 Commands offset : 0x33AA90
 Commands count : 0x4
 	[GX] Command ID : 0x13
@@ -10062,7 +10062,7 @@ Commands count : 0x4
 Title : Dance Factory
 Game ID : SLES_530.09
 Hash : 0x73A951F94D
-Hash Offset : 0x350B20
+Hash Offset : 0x340B20
 Commands offset : 0x51DB98
 Commands count : 0x1
 	[GX] Command ID : 0x27
@@ -10072,7 +10072,7 @@ Commands count : 0x1
 Title : Devil May Cry 3 - Dante's Awakening
 Game ID : SLES_530.38
 Hash : 0x7BA159F1BD
-Hash Offset : 0x3512D0
+Hash Offset : 0x3412D0
 Commands offset : 0x33AD48
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -10098,7 +10098,7 @@ Commands count : 0x2
 Title : Champions - Return to Arms
 Game ID : SLES_530.39
 Hash : 0x7BA159F1B5
-Hash Offset : 0x34E210
+Hash Offset : 0x33E210
 Commands offset : 0x33B7B0
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -10118,7 +10118,7 @@ Commands count : 0x3
 Title : Street Racing Syndicate
 Game ID : SLES_530.45
 Hash : 0x7BA159F165
-Hash Offset : 0x352008
+Hash Offset : 0x342008
 Commands offset : 0x33A940
 Commands count : 0x3
 	[GX] Command ID : 0x13
@@ -10138,7 +10138,7 @@ Commands count : 0x3
 Title : MX vs. ATV Unleashed
 Game ID : SLES_531.06
 Hash : 0x6BB149E14D
-Hash Offset : 0x351B88
+Hash Offset : 0x341B88
 Commands offset : 0x343708
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -10156,7 +10156,7 @@ Commands count : 0x1
 Title : World Championship Poker
 Game ID : SLES_531.30
 Hash : 0x538971D9B5
-Hash Offset : 0x351378
+Hash Offset : 0x341378
 Commands offset : 0x51D340
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -10166,7 +10166,7 @@ Commands count : 0x1
 Title : God of War
 Game ID : SCES_531.33
 Hash : 0x538991D88D
-Hash Offset : 0x3507C0
+Hash Offset : 0x3407C0
 Commands offset : 0x33B690
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -10184,7 +10184,7 @@ Commands count : 0x1
 Title : WRC - World Rally Championship - Rally Evolved
 Game ID : SCES_532.47
 Hash : 0x4B9189C005
-Hash Offset : 0x350E50
+Hash Offset : 0x340E50
 Commands offset : 0x343E50
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -10248,7 +10248,7 @@ Commands count : 0x2
 Title : Ratchet - Gladiator
 Game ID : SCES_532.85
 Hash : 0xBC61793025
-Hash Offset : 0x350820
+Hash Offset : 0x340820
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -10283,20 +10283,20 @@ Commands count : 0x3
 Title : Jak X - Combat Racing
 Game ID : SCES_532.86
 Hash : 0xBC6179303D
-Hash Offset : 0x350658
+Hash Offset : 0x340658
 Commands offset : 0x51C5A8
 Commands count : 0x2
 	[GX] Command ID : 0x20
 	[Net] Command ID : 0x24
-		Param : 0x0000BB80
+		Param : 0x000000000000BB80
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x0000F960
+		Param : 0x000000000000F960
 
 Title : 24 - The Game
 Game ID : SCES_533.58
 Hash : 0xAC7169206D
-Hash Offset : 0x34E000
+Hash Offset : 0x33E000
 Commands offset : 0x346800
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -10320,7 +10320,7 @@ Commands count : 0x1
 Title : Tourist Trophy - The Real Riding Simulator
 Game ID : SCES_533.72
 Hash : 0xAC716920FD
-Hash Offset : 0x3511B0
+Hash Offset : 0x3411B0
 Commands offset : 0x51BB70
 Commands count : 0x1
 	[GX] Command ID : 0x0E
@@ -10331,7 +10331,7 @@ Commands count : 0x1
 Title : Spongebob Squarepants - Lights, Camera, PANTS!
 Game ID : SLES_534.94
 Hash : 0x8C51A9018D
-Hash Offset : 0x3519F0
+Hash Offset : 0x3419F0
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -10341,7 +10341,7 @@ Commands count : 0x1
 Title : Bob L'éponge - Silence on Tourne!
 Game ID : SLES_534.95
 Hash : 0x8C51A90185
-Hash Offset : 0x351A20
+Hash Offset : 0x341A20
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -10351,7 +10351,7 @@ Commands count : 0x1
 Title : Spongebob Squarepants - Lights, Camera, PANTS!
 Game ID : SLES_534.96
 Hash : 0x8C51A901FD
-Hash Offset : 0x351A68
+Hash Offset : 0x341A68
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -10361,7 +10361,7 @@ Commands count : 0x1
 Title : Bob Esponja - ¡Luces,Camara ,Esponja!
 Game ID : SLES_534.98
 Hash : 0x8C51A901ED
-Hash Offset : 0x351A50
+Hash Offset : 0x341A50
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -10371,7 +10371,7 @@ Commands count : 0x1
 Title : SpongeBob Squarepants - Licht uit, Camera aan!
 Game ID : SLES_534.99
 Hash : 0x8C51A901E5
-Hash Offset : 0x351A38
+Hash Offset : 0x341A38
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -10381,7 +10381,7 @@ Commands count : 0x1
 Title : Star Wars - Battlefront II
 Game ID : SLES_535.01
 Hash : 0x8C51A901D5
-Hash Offset : 0x351468
+Hash Offset : 0x341468
 Commands offset : 0x33AC70
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -10393,7 +10393,7 @@ Commands count : 0x1
 Title : Star Wars - Battlefront II
 Game ID : SLES_535.02
 Hash : 0x8C51A901CD
-Hash Offset : 0x351480
+Hash Offset : 0x341480
 Commands offset : 0x33AC70
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -10405,7 +10405,7 @@ Commands count : 0x1
 Title : Star Wars - Battlefront II
 Game ID : SLES_535.03
 Hash : 0x8C51A901C5
-Hash Offset : 0x351498
+Hash Offset : 0x341498
 Commands offset : 0x33AC70
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -10417,7 +10417,7 @@ Commands count : 0x1
 Title : Castle Shikigami II
 Game ID : SLES_535.18
 Hash : 0xF429D17935
-Hash Offset : 0x350760
+Hash Offset : 0x340760
 Commands offset : 0x33AEE0
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -10429,7 +10429,7 @@ Commands count : 0x1
 Title : Gun
 Game ID : SLES_535.23
 Hash : 0xF429D179DD
-Hash Offset : 0x350AF0
+Hash Offset : 0x340AF0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -10450,7 +10450,7 @@ Commands count : 0x2
 Title : The Suffering - Les liens qui nous unissent
 Game ID : SLES_535.26
 Hash : 0xF429D179F5
-Hash Offset : 0x351B40
+Hash Offset : 0x341B40
 Commands offset : 0x51D0A8
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -10460,7 +10460,7 @@ Commands count : 0x1
 Title : Suffering, The - Ties that Bond
 Game ID : SLES_535.27
 Hash : 0xF429D179FD
-Hash Offset : 0x351B10
+Hash Offset : 0x341B10
 Commands offset : 0x51D0A8
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -10470,7 +10470,7 @@ Commands count : 0x1
 Title : The Suffering - Ties That Bind
 Game ID : SLES_535.28
 Hash : 0xF429D17985
-Hash Offset : 0x351B28
+Hash Offset : 0x341B28
 Commands offset : 0x51D0A8
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -10480,7 +10480,7 @@ Commands count : 0x1
 Title : Tony Hawk's American Wasteland
 Game ID : SLES_535.34
 Hash : 0xF429D179B5
-Hash Offset : 0x350AC0
+Hash Offset : 0x340AC0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -10501,7 +10501,7 @@ Commands count : 0x2
 Title : Tony Hawk's American Wasteland
 Game ID : SLES_535.35
 Hash : 0xF429D179BD
-Hash Offset : 0x350AD8
+Hash Offset : 0x340AD8
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -10522,7 +10522,7 @@ Commands count : 0x2
 Title : Fahrenheit
 Game ID : SLES_535.39
 Hash : 0xFC21D97155
-Hash Offset : 0x351F90
+Hash Offset : 0x341F90
 Commands offset : 0x51CF28
 Commands count : 0x1
 	[GX] Command ID : 0x2B
@@ -10532,7 +10532,7 @@ Commands count : 0x1
 Title : Fahrenheit
 Game ID : SLES_535.40
 Hash : 0xFC21D9716D
-Hash Offset : 0x351FA8
+Hash Offset : 0x341FA8
 Commands offset : 0x51CF28
 Commands count : 0x1
 	[GX] Command ID : 0x2B
@@ -10542,7 +10542,7 @@ Commands count : 0x1
 Title : Sonic Riders
 Game ID : SLES_535.60
 Hash : 0xFC21D9718D
-Hash Offset : 0x350838
+Hash Offset : 0x340838
 Commands offset : 0x51C518
 Commands count : 0x1
 	[GX] Command ID : 0x1A
@@ -10555,7 +10555,7 @@ Commands count : 0x1
 Title : Marvel Nemesis - Rise of the Imperfects
 Game ID : SLES_535.85
 Hash : 0xE439C169DD
-Hash Offset : 0x3517F8
+Hash Offset : 0x3417F8
 Commands offset : 0x343990
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -10579,7 +10579,7 @@ Commands count : 0x1
 Title : True Crime - New York City
 Game ID : SLES_536.16
 Hash : 0xEC31C961DD
-Hash Offset : 0x351930
+Hash Offset : 0x341930
 Commands offset : 0x51B800
 Commands count : 0x1
 	[GX] Command ID : 0x23
@@ -10590,7 +10590,7 @@ Commands count : 0x1
 Title : TRUE CRIME - NEW YORK CITY
 Game ID : SLES_536.17
 Hash : 0xEC31C961D5
-Hash Offset : 0x351948
+Hash Offset : 0x341948
 Commands offset : 0x51B7E8
 Commands count : 0x1
 	[GX] Command ID : 0x23
@@ -10601,7 +10601,7 @@ Commands count : 0x1
 Title : True Crime - New York City
 Game ID : SLES_536.18
 Hash : 0xEC31C961CD
-Hash Offset : 0x351960
+Hash Offset : 0x341960
 Commands offset : 0x51B7D0
 Commands count : 0x1
 	[GX] Command ID : 0x23
@@ -10612,7 +10612,7 @@ Commands count : 0x1
 Title : The Suffering - Ties That Bind
 Game ID : SLES_536.26
 Hash : 0xEC31C9618D
-Hash Offset : 0x351B58
+Hash Offset : 0x341B58
 Commands offset : 0x51D0A8
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -10622,7 +10622,7 @@ Commands count : 0x1
 Title : Ape Escape 3
 Game ID : SCES_536.42
 Hash : 0xD409115835
-Hash Offset : 0x34E090
+Hash Offset : 0x33E090
 Commands offset : 0x51DD00
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -10632,7 +10632,7 @@ Commands count : 0x1
 Title : Gun
 Game ID : SLES_536.47
 Hash : 0xD409F1591D
-Hash Offset : 0x350B08
+Hash Offset : 0x340B08
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -10653,7 +10653,7 @@ Commands count : 0x2
 Title : Ford vs. Chevy
 Game ID : SLES_536.98
 Hash : 0xC419E14965
-Hash Offset : 0x351FC0
+Hash Offset : 0x341FC0
 Commands offset : 0x33A988
 Commands count : 0x4
 	[GX] Command ID : 0x13
@@ -10684,7 +10684,7 @@ Commands count : 0x4
 Title : Super Monkey Ball Adventure
 Game ID : SLES_537.01
 Hash : 0xC419E1495D
-Hash Offset : 0x351918
+Hash Offset : 0x341918
 Commands offset : 0x343860
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -10703,7 +10703,7 @@ Commands count : 0x1
 Title : Superman Returns
 Game ID : SLES_537.46
 Hash : 0xCC11E941ED
-Hash Offset : 0x34EB88
+Hash Offset : 0x33EB88
 Commands offset : 0x345BB0
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -10721,7 +10721,7 @@ Commands count : 0x1
 Title : Castlevania - Curse Of Darkness
 Game ID : SLES_537.55
 Hash : 0xCC11E941A5
-Hash Offset : 0x34EED0
+Hash Offset : 0x33EED0
 Commands offset : 0x33B408
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -10739,7 +10739,7 @@ Commands count : 0x1
 Title : Atelier Iris - Eternal Mana
 Game ID : SLES_537.64
 Hash : 0x34E911B9A5
-Hash Offset : 0x3513A8
+Hash Offset : 0x3413A8
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -10749,7 +10749,7 @@ Commands count : 0x1
 Title : Forbidden Siren 2
 Game ID : SCES_538.51
 Hash : 0x24F9E1A84D
-Hash Offset : 0x350568
+Hash Offset : 0x340568
 Commands offset : 0x344168
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -10767,7 +10767,7 @@ Commands count : 0x1
 Title : Over the Hedge
 Game ID : SLES_538.66
 Hash : 0x2CF109A1CD
-Hash Offset : 0x34F368
+Hash Offset : 0x33F368
 Commands offset : 0x345760
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -10783,7 +10783,7 @@ Commands count : 0x1
 Title : Aeon Flux
 Game ID : SLES_539.56
 Hash : 0x4D9218995
-Hash Offset : 0x351DF8
+Hash Offset : 0x341DF8
 Commands offset : 0x51B678
 Commands count : 0x2
 	[GX] Command ID : 0x13
@@ -10797,7 +10797,7 @@ Commands count : 0x2
 Title : Pac-Man World 3
 Game ID : SLES_539.59
 Hash : 0x4D921898D
-Hash Offset : 0x351E28
+Hash Offset : 0x341E28
 Commands offset : 0x51B600
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -10808,7 +10808,7 @@ Commands count : 0x1
 Title : Ice Age 2 - The Meltdown
 Game ID : SLES_539.84
 Hash : 0xCD12981BD
-Hash Offset : 0x350FE8
+Hash Offset : 0x340FE8
 Commands offset : 0x343D38
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -10826,7 +10826,7 @@ Commands count : 0x1
 Title : DreamWorks' La Gang del Bosco (Over the hedge)
 Game ID : SLES_539.86
 Hash : 0xCD12981AD
-Hash Offset : 0x34F3E0
+Hash Offset : 0x33F3E0
 Commands offset : 0x345718
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -10842,7 +10842,7 @@ Commands count : 0x1
 Title : Over the Hedge
 Game ID : SLES_539.87
 Hash : 0xCD12981A5
-Hash Offset : 0x34F3C8
+Hash Offset : 0x33F3C8
 Commands offset : 0x345730
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -10858,7 +10858,7 @@ Commands count : 0x1
 Title : Over the Hedge
 Game ID : SLES_539.88
 Hash : 0xCD129819D
-Hash Offset : 0x34F3B0
+Hash Offset : 0x33F3B0
 Commands offset : 0x345730
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -10874,7 +10874,7 @@ Commands count : 0x1
 Title : Over the Hedge
 Game ID : SLES_539.89
 Hash : 0xCD1298195
-Hash Offset : 0x34F398
+Hash Offset : 0x33F398
 Commands offset : 0x345730
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -10890,7 +10890,7 @@ Commands count : 0x1
 Title : FlatOut 2
 Game ID : SLES_540.02
 Hash : 0xCD129812D
-Hash Offset : 0x351CF0
+Hash Offset : 0x341CF0
 Commands offset : 0x51B6C0
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -10901,7 +10901,7 @@ Commands count : 0x1
 Title : Flatout 2
 Game ID : SLES_540.03
 Hash : 0xCD1298125
-Hash Offset : 0x351D08
+Hash Offset : 0x341D08
 Commands offset : 0x51B6A8
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -10912,7 +10912,7 @@ Commands count : 0x1
 Title : Ace Combat - The Belkan War
 Game ID : SCES_540.41
 Hash : 0x74A9B1F80D
-Hash Offset : 0x34F050
+Hash Offset : 0x33F050
 Commands offset : 0x3459E8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -10930,7 +10930,7 @@ Commands count : 0x1
 Title : State of Emergency 2
 Game ID : SLES_540.89
 Hash : 0x64B941E99D
-Hash Offset : 0x3516C0
+Hash Offset : 0x3416C0
 Commands offset : 0x343A30
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -10954,7 +10954,7 @@ Commands count : 0x2
 Title : State of Emergency 2
 Game ID : SLES_540.92
 Hash : 0x64B941E9B5
-Hash Offset : 0x3516D8
+Hash Offset : 0x3416D8
 Commands offset : 0x3439E0
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -10978,7 +10978,7 @@ Commands count : 0x2
 Title : Kingdom Hearts II
 Game ID : SLES_541.14
 Hash : 0x6CB149E1CD
-Hash Offset : 0x351588
+Hash Offset : 0x341588
 Commands offset : 0x51B8E0
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -10989,7 +10989,7 @@ Commands count : 0x1
 Title : Grand Theft Auto - Liberty City Stories
 Game ID : SLES_541.35
 Hash : 0x6CB149E165
-Hash Offset : 0x350E80
+Hash Offset : 0x340E80
 Commands offset : 0x51C4E8
 Commands count : 0x1
 	[GX] Command ID : 0x04
@@ -10999,7 +10999,7 @@ Commands count : 0x1
 Title : Grand Theft Auto - Liberty City Stories
 Game ID : SLES_541.36
 Hash : 0x6CB149E11D
-Hash Offset : 0x350E98
+Hash Offset : 0x340E98
 Commands offset : 0x51C4E8
 Commands count : 0x1
 	[GX] Command ID : 0x04
@@ -11009,7 +11009,7 @@ Commands count : 0x1
 Title : Ice Age 2 - The Meltdown [RUS]
 Game ID : SLES_541.47
 Hash : 0x548971D9FD
-Hash Offset : 0x351000
+Hash Offset : 0x341000
 Commands offset : 0x343D00
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -11027,7 +11027,7 @@ Commands count : 0x1
 Title : Hummer Badlands
 Game ID : SLES_541.58
 Hash : 0x548971D995
-Hash Offset : 0x351CC0
+Hash Offset : 0x341CC0
 Commands offset : 0x33A9E8
 Commands count : 0x4
 	[GX] Command ID : 0x13
@@ -11058,7 +11058,7 @@ Commands count : 0x4
 Title : Naruto - Ultimate Ninja
 Game ID : SLES_541.63
 Hash : 0x548971D97D
-Hash Offset : 0x351270
+Hash Offset : 0x341270
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11087,7 +11087,7 @@ Commands count : 0x2
 Title : DreamWorks' På Andra Sidan Häcken (Over the hedge)
 Game ID : SLES_541.73
 Hash : 0x548971D90D
-Hash Offset : 0x34F380
+Hash Offset : 0x33F380
 Commands offset : 0x345748
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -11103,7 +11103,7 @@ Commands count : 0x1
 Title : Devil May Cry 3 - Dante's Awakening [Special Edition]
 Game ID : SLES_541.86
 Hash : 0x5C8179D1BD
-Hash Offset : 0x3512E8
+Hash Offset : 0x3412E8
 Commands offset : 0x33AD18
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -11129,7 +11129,7 @@ Commands count : 0x2
 Title : God of War II
 Game ID : SCES_542.06
 Hash : 0x5C8199D01D
-Hash Offset : 0x3507D8
+Hash Offset : 0x3407D8
 Commands offset : 0x33B690
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -11147,7 +11147,7 @@ Commands count : 0x1
 Title : Buzz! Junior Jungle Party
 Game ID : SCES_542.19
 Hash : 0x449981C8AD
-Hash Offset : 0x350B68
+Hash Offset : 0x340B68
 Commands offset : 0x51CEE8
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -11158,7 +11158,7 @@ Commands count : 0x1
 Title : Buzz! Junior Jungle Party
 Game ID : SCES_542.20
 Hash : 0x449981C895
-Hash Offset : 0x350B80
+Hash Offset : 0x340B80
 Commands offset : 0x51CEE8
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -11169,7 +11169,7 @@ Commands count : 0x1
 Title : Kingdom Hearts II
 Game ID : SLES_542.32
 Hash : 0x449961C935
-Hash Offset : 0x3515A0
+Hash Offset : 0x3415A0
 Commands offset : 0x51B8E0
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -11180,7 +11180,7 @@ Commands count : 0x1
 Title : Kingdom Hearts II
 Game ID : SLES_542.33
 Hash : 0x449961C93D
-Hash Offset : 0x3515D0
+Hash Offset : 0x3415D0
 Commands offset : 0x51B8E0
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -11191,7 +11191,7 @@ Commands count : 0x1
 Title : Kingdom Hearts II
 Game ID : SLES_542.34
 Hash : 0x449961C925
-Hash Offset : 0x3515E8
+Hash Offset : 0x3415E8
 Commands offset : 0x51B8E0
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -11202,7 +11202,7 @@ Commands count : 0x1
 Title : Kingdom Hearts II
 Game ID : SLES_542.35
 Hash : 0x449961C92D
-Hash Offset : 0x3515B8
+Hash Offset : 0x3415B8
 Commands offset : 0x51B8E0
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -11213,7 +11213,7 @@ Commands count : 0x1
 Title : Tiger Woods PGA Tour '07
 Game ID : SLES_542.53
 Hash : 0x4C9169C195
-Hash Offset : 0x350D78
+Hash Offset : 0x340D78
 Commands offset : 0x51CEA0
 Commands count : 0x1
 	[GX] Command ID : 0x16
@@ -11223,17 +11223,17 @@ Commands count : 0x1
 Title : Phantasy Star Universe
 Game ID : SLES_543.08
 Hash : 0xBD6199312D
-Hash Offset : 0x350EE0
+Hash Offset : 0x340EE0
 Commands offset : 0x51CD08
 Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x00009BDC
+		Param : 0x0000000000009BDC
 
 Title : Strawberry Shortcake - The Sweet Dreams Game
 Game ID : SLES_543.09
 Hash : 0xBD61993125
-Hash Offset : 0x351E10
+Hash Offset : 0x341E10
 Commands offset : 0x51B618
 Commands count : 0x4
 	[GX] Command ID : 0x22
@@ -11256,7 +11256,7 @@ Commands count : 0x4
 Title : Samurai Warriors 2
 Game ID : SLES_543.40
 Hash : 0xA579812935
-Hash Offset : 0x351C00
+Hash Offset : 0x341C00
 Commands offset : 0x51D060
 Commands count : 0x3
 	[GX] Command ID : 0x0F
@@ -11272,7 +11272,7 @@ Commands count : 0x3
 Title : Superman Returns
 Game ID : SLES_543.48
 Hash : 0xA579812975
-Hash Offset : 0x34EBA0
+Hash Offset : 0x33EBA0
 Commands offset : 0x345BB0
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -11290,7 +11290,7 @@ Commands count : 0x1
 Title : Superman Returns
 Game ID : SLES_543.49
 Hash : 0xA57981297D
-Hash Offset : 0x34EBB8
+Hash Offset : 0x33EBB8
 Commands offset : 0x345BB0
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -11308,7 +11308,7 @@ Commands count : 0x1
 Title : Superman Returns
 Game ID : SLES_543.50
 Hash : 0xA579812965
-Hash Offset : 0x34EBD0
+Hash Offset : 0x33EBD0
 Commands offset : 0x345BB0
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -11326,7 +11326,7 @@ Commands count : 0x1
 Title : Superman Returns
 Game ID : SLES_543.51
 Hash : 0xA57981296D
-Hash Offset : 0x34EBE8
+Hash Offset : 0x33EBE8
 Commands offset : 0x345BB0
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -11344,7 +11344,7 @@ Commands count : 0x1
 Title : Legend of Spyro, The - A New Beginning
 Game ID : SLES_543.59
 Hash : 0xA5798129AD
-Hash Offset : 0x351390
+Hash Offset : 0x341390
 Commands offset : 0x343A80
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -11370,7 +11370,7 @@ Commands count : 0x1
 Title : Atelier Iris 2 - The Azoth of Destiny
 Game ID : SLES_543.85
 Hash : 0xAD71892195
-Hash Offset : 0x3513C0
+Hash Offset : 0x3413C0
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -11380,7 +11380,7 @@ Commands count : 0x1
 Title : Tony Hawk's Project 8
 Game ID : SLES_543.89
 Hash : 0xAD718921B5
-Hash Offset : 0x34EE58
+Hash Offset : 0x33EE58
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11401,7 +11401,7 @@ Commands count : 0x2
 Title : Tony Hawk's Project 8
 Game ID : SLES_543.90
 Hash : 0xAD718921AD
-Hash Offset : 0x34EE70
+Hash Offset : 0x33EE70
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11422,7 +11422,7 @@ Commands count : 0x2
 Title : Justice League Heroes
 Game ID : SLES_544.23
 Hash : 0x9549B1199D
-Hash Offset : 0x3518D0
+Hash Offset : 0x3418D0
 Commands offset : 0x33AA48
 Commands count : 0x3
 	[GX] Command ID : 0x00
@@ -11442,7 +11442,7 @@ Commands count : 0x3
 Title : Okami
 Game ID : SLES_544.39
 Hash : 0x9D41B91115
-Hash Offset : 0x350F10
+Hash Offset : 0x340F10
 Commands offset : 0x33AE20
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -11457,7 +11457,7 @@ Commands count : 0x2
 Title : Sprint Cars - Road to Knoxville
 Game ID : SLES_544.63
 Hash : 0x9D41B911D5
-Hash Offset : 0x352020
+Hash Offset : 0x342020
 Commands offset : 0x343398
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -11489,7 +11489,7 @@ Commands count : 0x1
 Title : The Fast and the Furious
 Game ID : SLES_544.83
 Hash : 0x8559A109AD
-Hash Offset : 0x351C90
+Hash Offset : 0x341C90
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -11499,7 +11499,7 @@ Commands count : 0x1
 Title : Buzz! Junior Jungle Party
 Game ID : SCES_545.24
 Hash : 0x8D514900DD
-Hash Offset : 0x350B98
+Hash Offset : 0x340B98
 Commands offset : 0x51CEE8
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -11510,7 +11510,7 @@ Commands count : 0x1
 Title : Everybody's Tennis
 Game ID : SCES_545.35
 Hash : 0xF52931787D
-Hash Offset : 0x350DF0
+Hash Offset : 0x340DF0
 Commands offset : 0x51C4D0
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -11521,7 +11521,7 @@ Commands count : 0x1
 Title : Ar Tonelico - Melody of Elemia
 Game ID : SLES_545.86
 Hash : 0xFD21D9719D
-Hash Offset : 0x3513F0
+Hash Offset : 0x3413F0
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -11531,7 +11531,7 @@ Commands count : 0x1
 Title : Pimp my Ride
 Game ID : SLES_546.07
 Hash : 0xE539C1692D
-Hash Offset : 0x351C60
+Hash Offset : 0x341C60
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -11541,7 +11541,7 @@ Commands count : 0x1
 Title : GRAND THEFT AUTO - VICE CITY STORIES
 Game ID : SLES_546.22
 Hash : 0xE539C169A5
-Hash Offset : 0x350D90
+Hash Offset : 0x340D90
 Commands offset : 0x51D300
 Commands count : 0x1
 	[GX] Command ID : 0x04
@@ -11551,7 +11551,7 @@ Commands count : 0x1
 Title : Grand Theft Auto - Vice City Stories
 Game ID : SLES_546.23
 Hash : 0xE539C169AD
-Hash Offset : 0x350DA8
+Hash Offset : 0x340DA8
 Commands offset : 0x51D300
 Commands count : 0x1
 	[GX] Command ID : 0x04
@@ -11561,7 +11561,7 @@ Commands count : 0x1
 Title : MTV Pimp My Ride
 Game ID : SLES_546.32
 Hash : 0xED31C9611D
-Hash Offset : 0x351C78
+Hash Offset : 0x341C78
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -11571,7 +11571,7 @@ Commands count : 0x1
 Title : Valkyrie Profile 2 - Silmeria
 Game ID : SLES_546.44
 Hash : 0xED31C961FD
-Hash Offset : 0x351510
+Hash Offset : 0x341510
 Commands offset : 0x33AC28
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -11591,7 +11591,7 @@ Commands count : 0x3
 Title : Valkyrie Profile 2 - Silmeria
 Game ID : SLES_546.45
 Hash : 0xED31C961F5
-Hash Offset : 0x351528
+Hash Offset : 0x341528
 Commands offset : 0x33ABE0
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -11611,7 +11611,7 @@ Commands count : 0x3
 Title : Valkyrie Profile 2 - Silmeria
 Game ID : SLES_546.46
 Hash : 0xED31C961ED
-Hash Offset : 0x351540
+Hash Offset : 0x341540
 Commands offset : 0x33AB98
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -11631,7 +11631,7 @@ Commands count : 0x3
 Title : Valkyrie Profile 2 - Silmeria
 Game ID : SLES_546.47
 Hash : 0xED31C961E5
-Hash Offset : 0x351558
+Hash Offset : 0x341558
 Commands offset : 0x33AB50
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -11651,7 +11651,7 @@ Commands count : 0x3
 Title : Valkyrie Profile 2 - Silmeria
 Game ID : SLES_546.48
 Hash : 0xED31C9619D
-Hash Offset : 0x351570
+Hash Offset : 0x341570
 Commands offset : 0x33AB08
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -11671,7 +11671,7 @@ Commands count : 0x3
 Title : Tony Hawk's Downhill Jam
 Game ID : SLES_547.14
 Hash : 0xDD01F951BD
-Hash Offset : 0x351438
+Hash Offset : 0x341438
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11692,7 +11692,7 @@ Commands count : 0x2
 Title : Tony Hawk's Downhill Jam
 Game ID : SLES_547.15
 Hash : 0xDD01F951B5
-Hash Offset : 0x351450
+Hash Offset : 0x341450
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11713,7 +11713,7 @@ Commands count : 0x2
 Title : NARUTO - UZUMAKI CHRONICLES
 Game ID : SLES_547.27
 Hash : 0xC519E1494D
-Hash Offset : 0x352128
+Hash Offset : 0x342128
 Commands offset : 0x3432F0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -11731,7 +11731,7 @@ Commands count : 0x1
 Title : Syphon Filter – Dark Mirror
 Game ID : SCES_547.94
 Hash : 0x35E9F1B8D5
-Hash Offset : 0x351078
+Hash Offset : 0x341078
 Commands offset : 0x3458F8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -11747,7 +11747,7 @@ Commands count : 0x1
 Title : Atelier Iris 3 – Grand Phantasm
 Game ID : SLES_548.22
 Hash : 0x3DE119B1BD
-Hash Offset : 0x3513D8
+Hash Offset : 0x3413D8
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -11757,7 +11757,7 @@ Commands count : 0x1
 Title : Naruto - Ultimate Ninja 2
 Game ID : SLES_548.78
 Hash : 0x25F901A965
-Hash Offset : 0x351288
+Hash Offset : 0x341288
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11786,17 +11786,17 @@ Commands count : 0x2
 Title : Phantasy Star Universe - Ambition of the Illuminus
 Game ID : SLES_548.92
 Hash : 0x2DF109A1FD
-Hash Offset : 0x350EF8
+Hash Offset : 0x340EF8
 Commands offset : 0x51CD08
 Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x00009BDC
+		Param : 0x0000000000009BDC
 
 Title : Guitar Hero III - Legends of Rock
 Game ID : SLES_549.62
 Hash : 0x1DC139913D
-Hash Offset : 0x351C18
+Hash Offset : 0x341C18
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11817,7 +11817,7 @@ Commands count : 0x2
 Title : Tony Hawk's Proving Ground
 Game ID : SLES_549.63
 Hash : 0x1DC1399135
-Hash Offset : 0x351FD8
+Hash Offset : 0x341FD8
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11838,7 +11838,7 @@ Commands count : 0x2
 Title : Hot Wheels - Beat That
 Game ID : SLES_549.71
 Hash : 0x1DC1399175
-Hash Offset : 0x352188
+Hash Offset : 0x342188
 Commands offset : 0x51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -11848,7 +11848,7 @@ Commands count : 0x1
 Title : Guitar Hero III - Legends of Rock
 Game ID : SLES_549.74
 Hash : 0x1DC139915D
-Hash Offset : 0x351C30
+Hash Offset : 0x341C30
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11869,7 +11869,7 @@ Commands count : 0x2
 Title : Naruto - Uzumaki Chronicles 2
 Game ID : SLES_550.90
 Hash : 0x7DA159F15D
-Hash Offset : 0x352140
+Hash Offset : 0x342140
 Commands offset : 0x3432B8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -11887,7 +11887,7 @@ Commands count : 0x1
 Title : GUITAR HERO - AEROSMITH
 Game ID : SLES_551.91
 Hash : 0x558971D95D
-Hash Offset : 0x352068
+Hash Offset : 0x342068
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11908,7 +11908,7 @@ Commands count : 0x2
 Title : GUITAR HERO - AEROSMITH
 Game ID : SLES_552.00
 Hash : 0x5D8179D1ED
-Hash Offset : 0x352080
+Hash Offset : 0x342080
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11929,7 +11929,7 @@ Commands count : 0x2
 Title : Naruto - Ultimate Ninja 3
 Game ID : SLES_552.37
 Hash : 0x459961C9DD
-Hash Offset : 0x3512A0
+Hash Offset : 0x3412A0
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11958,7 +11958,7 @@ Commands count : 0x2
 Title : Guitar Hero - World Tour
 Game ID : SLES_553.55
 Hash : 0xBE619931D5
-Hash Offset : 0x352098
+Hash Offset : 0x342098
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -11979,7 +11979,7 @@ Commands count : 0x2
 Title : Barbie - Horse Adventure : Riding Camps
 Game ID : SLES_553.71
 Hash : 0xA67981294D
-Hash Offset : 0x3521A0
+Hash Offset : 0x3421A0
 Commands offset : 0x51B2B8
 Commands count : 0x2
 	[GX] Command ID : 0x22
@@ -11994,7 +11994,7 @@ Commands count : 0x2
 Title : SingStar Abba
 Game ID : SCES_554.35
 Hash : 0x964951187D
-Hash Offset : 0x352248
+Hash Offset : 0x342248
 Commands offset : 0x51B2A0
 Commands count : 0x1
 	[GX] Command ID : 0x0E
@@ -12005,7 +12005,7 @@ Commands count : 0x1
 Title : Guitar Hero - Metallica
 Game ID : SLES_554.72
 Hash : 0x9E41B911AD
-Hash Offset : 0x3520B0
+Hash Offset : 0x3420B0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -12026,7 +12026,7 @@ Commands count : 0x2
 Title : Naruto Shippuden - Ultimate Ninja 4
 Game ID : SLES_554.81
 Hash : 0x9E41B911E5
-Hash Offset : 0x3512B8
+Hash Offset : 0x3412B8
 Commands offset : 0x33B6F0
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -12055,7 +12055,7 @@ Commands count : 0x2
 Title : Guitar Hero 5
 Game ID : SLES_555.33
 Hash : 0x8E51A90155
-Hash Offset : 0x3520E0
+Hash Offset : 0x3420E0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -12076,7 +12076,7 @@ Commands count : 0x2
 Title : Guitar Hero - Greatest Hits
 Game ID : SLES_555.44
 Hash : 0x8E51A901FD
-Hash Offset : 0x3520F8
+Hash Offset : 0x3420F8
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -12097,7 +12097,7 @@ Commands count : 0x2
 Title : Band Hero
 Game ID : SLES_555.78
 Hash : 0xF629D17995
-Hash Offset : 0x352110
+Hash Offset : 0x342110
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -12118,7 +12118,7 @@ Commands count : 0x2
 Title : Pro Evolution Soccer 2011
 Game ID : SLES_556.36
 Hash : 0xE639C169F5
-Hash Offset : 0x352260
+Hash Offset : 0x342260
 Commands offset : 0x51CED0
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -12129,7 +12129,7 @@ Commands count : 0x1
 Title : Pro Evolution Soccer 2011
 Game ID : SLES_556.37
 Hash : 0xE639C169FD
-Hash Offset : 0x352278
+Hash Offset : 0x342278
 Commands offset : 0x51CED0
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -12140,7 +12140,7 @@ Commands count : 0x1
 Title : Pro Evolution Soccer 2011
 Game ID : SLES_556.38
 Hash : 0xE639C169E5
-Hash Offset : 0x352290
+Hash Offset : 0x342290
 Commands offset : 0x51CED0
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -12151,7 +12151,7 @@ Commands count : 0x1
 Title : Ico
 Game ID : SCPS_560.01
 Hash : 0x699C488BD
-Hash Offset : 0x352578
+Hash Offset : 0x342578
 Commands offset : 0x51B058
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -12161,7 +12161,7 @@ Commands count : 0x1
 Title : Live World Soccer 2000
 Game ID : SLPM_620.02
 Hash : 0x34AE1CB11D
-Hash Offset : 0x350400
+Hash Offset : 0x340400
 Commands offset : 0x51C618
 Commands count : 0x1
 	[GX] Command ID : 0x22
@@ -12172,7 +12172,7 @@ Commands count : 0x1
 Title : Bloody Roar 3
 Game ID : SLPM_620.55
 Hash : 0x24BE0CA1A5
-Hash Offset : 0x350388
+Hash Offset : 0x340388
 Commands offset : 0x33B258
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -12184,7 +12184,7 @@ Commands count : 0x1
 Title : Busin - Wizardry Alternative
 Game ID : SLPM_620.98
 Hash : 0x1C86349935
-Hash Offset : 0x350100
+Hash Offset : 0x340100
 Commands offset : 0x344608
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -12200,17 +12200,17 @@ Commands count : 0x1
 Title : Crazy Taxi
 Game ID : SLPM_621.02
 Hash : 0x1C86349915
-Hash Offset : 0x34FDE8
+Hash Offset : 0x33FDE8
 Commands offset : 0x51CAC0
 Commands count : 0x1
 	[GX] Command ID : 0x1D
 	[Net] Command ID : 0x20
-		Param : 0x000000C8
+		Param : 0x00000000000000C8
 
 Title : Growlanser 3 - The Duel Darkness
 Game ID : SLPM_621.08
 Hash : 0x1C86349945
-Hash Offset : 0x34FAD0
+Hash Offset : 0x33FAD0
 Commands offset : 0x51CE88
 Commands count : 0x1
 	[GX] Command ID : 0x01
@@ -12220,7 +12220,7 @@ Commands count : 0x1
 Title : ヘルミーナとクルス　～リリーのアトリエ　もう一つの物語～
 Game ID : SLPM_621.22
 Hash : 0x148E3C91FD
-Hash Offset : 0x350220
+Hash Offset : 0x340220
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -12230,7 +12230,7 @@ Commands count : 0x1
 Title : Maximo
 Game ID : SLPM_621.27
 Hash : 0x148E3C91D5
-Hash Offset : 0x350250
+Hash Offset : 0x340250
 Commands offset : 0x51C868
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -12241,7 +12241,7 @@ Commands count : 0x1
 Title : DDR Max - Dance Dance Revolution - 6th Mix
 Game ID : SLPM_621.54
 Hash : 0xC962489E5
-Hash Offset : 0x34FAE8
+Hash Offset : 0x33FAE8
 Commands offset : 0x51CD68
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -12252,7 +12252,7 @@ Commands count : 0x1
 Title : 実況パワフルプロ野球9
 Game ID : SLPM_621.92
 Hash : 0x49E2C813D
-Hash Offset : 0x351168
+Hash Offset : 0x341168
 Commands offset : 0x343C28
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -12283,7 +12283,7 @@ Commands count : 0x1
 Title : Ever Blue 2
 Game ID : SLPM_622.14
 Hash : 0x7CE654F9F5
-Hash Offset : 0x350370
+Hash Offset : 0x340370
 Commands offset : 0x3443A0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -12301,7 +12301,7 @@ Commands count : 0x1
 Title : Powerful Pro Baseball 9 Ketteiban
 Game ID : SLPM_622.74
 Hash : 0x6CF644E9C5
-Hash Offset : 0x351018
+Hash Offset : 0x341018
 Commands offset : 0x343CE8
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -12332,7 +12332,7 @@ Commands count : 0x1
 Title : Dance Dance Revolution - Party Collection
 Game ID : SLPM_624.27
 Hash : 0x4CD664C92D
-Hash Offset : 0x34FB00
+Hash Offset : 0x33FB00
 Commands offset : 0x51CD50
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -12343,7 +12343,7 @@ Commands count : 0x1
 Title : Momotaro Densetsu
 Game ID : SLPM_625.55
 Hash : 0xAD368429CD
-Hash Offset : 0x34FBC0
+Hash Offset : 0x33FBC0
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -12353,7 +12353,7 @@ Commands count : 0x1
 Title : Harry Potter and the Chamber of Secrets
 Game ID : SLPM_645.28
 Hash : 0xBF26943985
-Hash Offset : 0x352680
+Hash Offset : 0x342680
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -12363,7 +12363,7 @@ Commands count : 0x1
 Title : I am the Coach
 Game ID : SLPM_650.05
 Hash : 0xC75EEC4115
-Hash Offset : 0x34FF08
+Hash Offset : 0x33FF08
 Commands offset : 0x51CA60
 Commands count : 0x3
 	[GX] Command ID : 0x1E
@@ -12371,7 +12371,7 @@ Commands count : 0x3
 		Param : 0x00000000
 	[GX] Command ID : 0x1D
 	[Net] Command ID : 0x20
-		Param : 0x000000C8
+		Param : 0x00000000000000C8
 	[GX] Command ID : 0x1C
 	[Net] Command ID : 0x1F
 		Param : 0x000000C8
@@ -12379,7 +12379,7 @@ Commands count : 0x3
 Title : Onimusha
 Game ID : SLPM_650.10
 Hash : 0xC75EEC41ED
-Hash Offset : 0x3502C8
+Hash Offset : 0x3402C8
 Commands offset : 0x51D7F8
 Commands count : 0x1
 	[GX] Command ID : 0x23
@@ -12390,7 +12390,7 @@ Commands count : 0x1
 Title : Kessen 2
 Game ID : SLPM_650.15
 Hash : 0xC75EEC41C5
-Hash Offset : 0x34FEA8
+Hash Offset : 0x33FEA8
 Commands offset : 0x344998
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -12422,7 +12422,7 @@ Commands count : 0x1
 Title : Devil May Cry
 Game ID : SLPM_650.38
 Hash : 0x3FA614B9F5
-Hash Offset : 0x34FB18
+Hash Offset : 0x33FB18
 Commands offset : 0x51DB38
 Commands count : 0x1
 	[GX] Command ID : 0x17
@@ -12432,7 +12432,7 @@ Commands count : 0x1
 Title : Orega Kantoku da Vol.2 - Getitou Pennent Race
 Game ID : SLPM_650.56
 Hash : 0x37AE1CB18D
-Hash Offset : 0x34FF20
+Hash Offset : 0x33FF20
 Commands offset : 0x51CA18
 Commands count : 0x3
 	[GX] Command ID : 0x1E
@@ -12440,7 +12440,7 @@ Commands count : 0x3
 		Param : 0x00000000
 	[GX] Command ID : 0x1D
 	[Net] Command ID : 0x20
-		Param : 0x000000C8
+		Param : 0x00000000000000C8
 	[GX] Command ID : 0x1C
 	[Net] Command ID : 0x1F
 		Param : 0x000000C8
@@ -12448,7 +12448,7 @@ Commands count : 0x3
 Title : Onimusha 2
 Game ID : SLPM_651.00
 Hash : 0x2FB604A9F5
-Hash Offset : 0x3503A0
+Hash Offset : 0x3403A0
 Commands offset : 0x33AF58
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -12460,7 +12460,7 @@ Commands count : 0x1
 Title : Lilie no Atelier Plus - Salburg no Renkinjutsushi 3
 Game ID : SLPM_651.16
 Hash : 0x2FB604A975
-Hash Offset : 0x3501F0
+Hash Offset : 0x3401F0
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -12470,7 +12470,7 @@ Commands count : 0x1
 Title : ユーディーのアトリエ～グラムナートの錬金術師～　通常版
 Game ID : SLPM_651.31
 Hash : 0x27BE0CA1C5
-Hash Offset : 0x350160
+Hash Offset : 0x340160
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -12480,7 +12480,7 @@ Commands count : 0x1
 Title : トニー・ホーク　プロスケーター3
 Game ID : SLPM_651.90
 Hash : 0x178E3C919D
-Hash Offset : 0x34FEC0
+Hash Offset : 0x33FEC0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -12501,7 +12501,7 @@ Commands count : 0x2
 Title : Star Ocean 3 [Limited Edition]
 Game ID : SLPM_652.09
 Hash : 0x178E3C9165
-Hash Offset : 0x34FF80
+Hash Offset : 0x33FF80
 Commands offset : 0x33B060
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -12519,7 +12519,7 @@ Commands count : 0x3
 Title : Taisho Mononoke Ibunroku
 Game ID : SLPM_652.28
 Hash : 0xF962489D5
-Hash Offset : 0x350208
+Hash Offset : 0x340208
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -12529,7 +12529,7 @@ Commands count : 0x1
 Title : DDR Max 2 - Dance Dance Revolution - 7th Mix
 Game ID : SLPM_652.77
 Hash : 0x79E2C8155
-Hash Offset : 0x34FB48
+Hash Offset : 0x33FB48
 Commands offset : 0x51CD20
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -12540,12 +12540,12 @@ Commands count : 0x1
 Title : World Rallt Championship II Extreme
 Game ID : SLPM_652.84
 Hash : 0x7FE654F9E5
-Hash Offset : 0x34FC38
+Hash Offset : 0x33FC38
 Commands offset : 0x51CCC0
 Commands count : 0x2
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x00009BDC
+		Param : 0x0000000000009BDC
 	[GX] Command ID : 0x06
 	[Net] Command ID : 0x07
 		Param : 0x00000008
@@ -12553,7 +12553,7 @@ Commands count : 0x2
 Title : Viorate no Atelier - The Alchemist of Gramnad
 Game ID : SLPM_653.11
 Hash : 0x7FE654F93D
-Hash Offset : 0x350178
+Hash Offset : 0x340178
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -12563,7 +12563,7 @@ Commands count : 0x1
 Title : Shinseiki Evangelion - Ayanami Ikusai Keikaku with Asuka Hokan Keikaku
 Game ID : SLPM_653.40
 Hash : 0x77EE5CF12D
-Hash Offset : 0x34FC68
+Hash Offset : 0x33FC68
 Commands offset : 0x51CCA8
 Commands count : 0x1
 	[GX] Command ID : 0x04
@@ -12573,7 +12573,7 @@ Commands count : 0x1
 Title : Dance Dance Revolution Extreme
 Game ID : SLPM_653.58
 Hash : 0x6FF644E9A5
-Hash Offset : 0x34FB30
+Hash Offset : 0x33FB30
 Commands offset : 0x51CD38
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -12584,7 +12584,7 @@ Commands count : 0x1
 Title : Samurai Michi 2
 Game ID : SLPM_653.80
 Hash : 0x67FE4CE1FD
-Hash Offset : 0x350070
+Hash Offset : 0x340070
 Commands offset : 0x51C988
 Commands count : 0x2
 	[GX] Command ID : 0x0D
@@ -12599,7 +12599,7 @@ Commands count : 0x2
 Title : Onimusha 3
 Game ID : SLPM_654.13
 Hash : 0x5FC674D9CD
-Hash Offset : 0x34FC50
+Hash Offset : 0x33FC50
 Commands offset : 0x51D288
 Commands count : 0x1
 	[GX] Command ID : 0x21
@@ -12609,7 +12609,7 @@ Commands count : 0x1
 Title : Tony Hawk's Pro Skater 2003
 Game ID : SLPM_654.19
 Hash : 0x5FC674D9BD
-Hash Offset : 0x34FCB0
+Hash Offset : 0x33FCB0
 Commands offset : 0x33B720
 Commands count : 0x2
 	[GX] Command ID : 0x07
@@ -12630,7 +12630,7 @@ Commands count : 0x2
 Title : Star Ocean 3 [Director's Cut] [Disc1of2]
 Game ID : SLPM_654.38
 Hash : 0x5FC674D915
-Hash Offset : 0x34FF68
+Hash Offset : 0x33FF68
 Commands offset : 0x33B0A8
 Commands count : 0x2
 	[GX] Command ID : 0x06
@@ -12645,7 +12645,7 @@ Commands count : 0x2
 Title : Powerful Pro Baseball 10 - Decision
 Game ID : SLPM_654.45
 Hash : 0x57CE7CD1C5
-Hash Offset : 0x351138
+Hash Offset : 0x341138
 Commands offset : 0x343C58
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -12676,7 +12676,7 @@ Commands count : 0x1
 Title : Final Fantasy X-2 International
 Game ID : SLPM_654.78
 Hash : 0x4FD664C9C5
-Hash Offset : 0x34FAA0
+Hash Offset : 0x33FAA0
 Commands offset : 0x344FE8
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -12708,7 +12708,7 @@ Commands count : 0x1
 Title : Sengoku Musou
 Game ID : SLPM_655.17
 Hash : 0x47DE6CC195
-Hash Offset : 0x351180
+Hash Offset : 0x341180
 Commands offset : 0x51D060
 Commands count : 0x3
 	[GX] Command ID : 0x0F
@@ -12724,7 +12724,7 @@ Commands count : 0x3
 Title : Freedom Fighters
 Game ID : SLPM_655.48
 Hash : 0xC026943965
-Hash Offset : 0x3503B8
+Hash Offset : 0x3403B8
 Commands offset : 0x51D2A0
 Commands count : 0x1
 	[GX] Command ID : 0x1C
@@ -12734,7 +12734,7 @@ Commands count : 0x1
 Title : World Rally Championship 3
 Game ID : SLPM_655.83
 Hash : 0xC82E9C3175
-Hash Offset : 0x34FDA0
+Hash Offset : 0x33FDA0
 Commands offset : 0x344F48
 Commands count : 0x2
 	[GX] Command ID : 0x08
@@ -12788,7 +12788,7 @@ Commands count : 0x2
 Title : Atelier no Iris - Eternal Mana
 Game ID : SLPM_655.94
 Hash : 0xC82E9C31DD
-Hash Offset : 0x350190
+Hash Offset : 0x340190
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -12798,7 +12798,7 @@ Commands count : 0x1
 Title : Run Like Hell
 Game ID : SLPM_656.03
 Hash : 0xD03684290D
-Hash Offset : 0x350490
+Hash Offset : 0x340490
 Commands offset : 0x344288
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -12823,7 +12823,7 @@ Commands count : 0x1
 Title : Harry Potter and The Prisoner of Azkaban
 Game ID : SLPM_656.12
 Hash : 0xD036842975
-Hash Offset : 0x350430
+Hash Offset : 0x340430
 Commands offset : 0x51DAC0
 Commands count : 0x1
 	[GX] Command ID : 0x06
@@ -12833,7 +12833,7 @@ Commands count : 0x1
 Title : Jikkyo Powerful Pro Baseball XI
 Game ID : SLPM_656.30
 Hash : 0xD0368429E5
-Hash Offset : 0x351120
+Hash Offset : 0x341120
 Commands offset : 0x343C70
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -12864,7 +12864,7 @@ Commands count : 0x1
 Title : Ghost Hunter
 Game ID : SLPM_657.01
 Hash : 0xE80EBC1105
-Hash Offset : 0x350478
+Hash Offset : 0x340478
 Commands offset : 0x3442E0
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -12882,7 +12882,7 @@ Commands count : 0x1
 Title : Metal Gear Solid 3 - Snake Eater
 Game ID : SLPM_657.90
 Hash : 0xF81EAC01CD
-Hash Offset : 0x34FB60
+Hash Offset : 0x33FB60
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -12903,7 +12903,7 @@ Commands count : 0x2
 Title : Radiata Stories
 Game ID : SLPM_658.00
 Hash : 0x8066D47905
-Hash Offset : 0x34FFC8
+Hash Offset : 0x33FFC8
 Commands offset : 0x33AFD0
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -12923,7 +12923,7 @@ Commands count : 0x3
 Title : Crash Bandicoot 5
 Game ID : SLPM_658.01
 Hash : 0x8066D4790D
-Hash Offset : 0x34FE78
+Hash Offset : 0x33FE78
 Commands offset : 0x344EC8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -12942,7 +12942,7 @@ Commands count : 0x1
 Title : Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban
 Game ID : SLPM_658.25
 Hash : 0x886EDC7145
-Hash Offset : 0x351330
+Hash Offset : 0x341330
 Commands offset : 0x343BE0
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -12988,7 +12988,7 @@ Commands count : 0x1
 Title : World Rally Championship 4
 Game ID : SLPM_659.75
 Hash : 0xA84EFC51D5
-Hash Offset : 0x34FDB8
+Hash Offset : 0x33FDB8
 Commands offset : 0x344EE0
 Commands count : 0x3
 	[GX] Command ID : 0x09
@@ -13058,7 +13058,7 @@ Commands count : 0x3
 Title : Grand Theft Auto - San Andreas
 Game ID : SLPM_659.84
 Hash : 0xB056E44975
-Hash Offset : 0x34FC08
+Hash Offset : 0x33FC08
 Commands offset : 0x51D270
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -13069,7 +13069,7 @@ Commands count : 0x1
 Title : Atelier Iris 2 - Eternal Mana
 Game ID : SLPM_659.85
 Hash : 0xB056E4497D
-Hash Offset : 0x3501A8
+Hash Offset : 0x3401A8
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -13079,17 +13079,17 @@ Commands count : 0x1
 Title : Phantasy Star Universe
 Game ID : SLPM_660.31
 Hash : 0xB85EEC4105
-Hash Offset : 0x34FB78
+Hash Offset : 0x33FB78
 Commands offset : 0x51CD08
 Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x00009BDC
+		Param : 0x0000000000009BDC
 
 Title : Jikkyou Powerful Pro Baseball 12
 Game ID : SLPM_660.61
 Hash : 0x40A614B9ED
-Hash Offset : 0x351150
+Hash Offset : 0x341150
 Commands offset : 0x343C40
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -13140,7 +13140,7 @@ Commands count : 0x1
 Title : Devil May Cry 3 [Special Edition]
 Game ID : SLPM_661.60
 Hash : 0x58BE0CA11D
-Hash Offset : 0x3500E8
+Hash Offset : 0x3400E8
 Commands offset : 0x344620
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -13161,7 +13161,7 @@ Commands count : 0x1
 Title : Akumajo Dracula - Yami no Juin
 Game ID : SLPM_661.75
 Hash : 0x58BE0CA165
-Hash Offset : 0x34FCC8
+Hash Offset : 0x33FCC8
 Commands offset : 0x33B408
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -13179,7 +13179,7 @@ Commands count : 0x1
 Title : Getaway, The - Black Monday
 Game ID : SLPM_661.83
 Hash : 0x608634999D
-Hash Offset : 0x34FF38
+Hash Offset : 0x33FF38
 Commands offset : 0x346470
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -13192,7 +13192,7 @@ Commands count : 0x1
 Title : Star Wars Battlefront II
 Game ID : SLPM_661.90
 Hash : 0x60863499D5
-Hash Offset : 0x350418
+Hash Offset : 0x340418
 Commands offset : 0x33AF40
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -13204,7 +13204,7 @@ Commands count : 0x1
 Title : Metal Gear Solid 3 - Subsistence [First Print Limited Edition] [Disc1of3]
 Game ID : SLPM_662.20
 Hash : 0x688E3C91CD
-Hash Offset : 0x34FB90
+Hash Offset : 0x33FB90
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13225,7 +13225,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Subsistence [First Print Limited Edition] [Disc2of3]
 Game ID : SLPM_662.21
 Hash : 0x688E3C91C5
-Hash Offset : 0x34FBA8
+Hash Offset : 0x33FBA8
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13246,7 +13246,7 @@ Commands count : 0x2
 Title : Shin Onimusha - Dawn of Dreams [Disc1of2]
 Game ID : SLPM_662.75
 Hash : 0x789E2C81A5
-Hash Offset : 0x350058
+Hash Offset : 0x340058
 Commands offset : 0x51C9B8
 Commands count : 0x1
 	[GX] Command ID : 0x04
@@ -13256,7 +13256,7 @@ Commands count : 0x1
 Title : Dragon Quest - Shounen Yangus no Fushigi na Daibouken
 Game ID : SLPM_663.63
 Hash : 0x8EE5CF115
-Hash Offset : 0x34FEF0
+Hash Offset : 0x33FEF0
 Commands offset : 0x344670
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -13428,7 +13428,7 @@ Commands count : 0x1
 Title : Valkyrie Profile 2 - Silmeria
 Game ID : SLPM_664.19
 Hash : 0x18FE4CE145
-Hash Offset : 0x34FFB0
+Hash Offset : 0x33FFB0
 Commands offset : 0x33B018
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -13448,7 +13448,7 @@ Commands count : 0x3
 Title : Atelier Iris - Grand Fantasm
 Game ID : SLPM_664.36
 Hash : 0x20C674D9C5
-Hash Offset : 0x3501C0
+Hash Offset : 0x3401C0
 Commands offset : 0x51D240
 Commands count : 0x1
 	[GX] Command ID : 0x18
@@ -13458,7 +13458,7 @@ Commands count : 0x1
 Title : State of Emergency - Revenge
 Game ID : SLPM_664.85
 Hash : 0x28CE7CD145
-Hash Offset : 0x350448
+Hash Offset : 0x340448
 Commands offset : 0x344318
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -13482,7 +13482,7 @@ Commands count : 0x2
 Title : Seiken Densetsu 4
 Game ID : SLPM_665.76
 Hash : 0xC126943985
-Hash Offset : 0x34FCE0
+Hash Offset : 0x33FCE0
 Commands offset : 0x346638
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -13497,7 +13497,7 @@ Commands count : 0x1
 Title : Jikkyou Powerful Pro Yakyuu 13 Chou Ketteiban
 Game ID : SLPM_665.90
 Hash : 0xC1269439F5
-Hash Offset : 0x351318
+Hash Offset : 0x341318
 Commands offset : 0x343BF8
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -13528,7 +13528,7 @@ Commands count : 0x1
 Title : WWE SmackDown! vs. RAW 2007
 Game ID : SLPM_666.27
 Hash : 0xD13684290D
-Hash Offset : 0x34FC20
+Hash Offset : 0x33FC20
 Commands offset : 0x51CCF0
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -13538,17 +13538,17 @@ Commands count : 0x1
 Title : Burnout Dominator
 Game ID : SLPM_667.39
 Hash : 0xE90EBC11B5
-Hash Offset : 0x34FC80
+Hash Offset : 0x33FC80
 Commands offset : 0x51CD08
 Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x00009BDC
+		Param : 0x0000000000009BDC
 
 Title : DEVIL MAY CRY
 Game ID : SLPM_675.02
 Hash : 0x29CE7CD19D
-Hash Offset : 0x3526C8
+Hash Offset : 0x3426C8
 Commands offset : 0x51DB38
 Commands count : 0x1
 	[GX] Command ID : 0x17
@@ -13558,7 +13558,7 @@ Commands count : 0x1
 Title : Onimusha Wsrlords
 Game ID : SLPM_675.07
 Hash : 0x29CE7CD175
-Hash Offset : 0x3524E8
+Hash Offset : 0x3424E8
 Commands offset : 0x51D7F8
 Commands count : 0x1
 	[GX] Command ID : 0x23
@@ -13569,7 +13569,7 @@ Commands count : 0x1
 Title : Final Fantasy X International
 Game ID : SLPM_675.13
 Hash : 0x29CE7CD125
-Hash Offset : 0x3524D0
+Hash Offset : 0x3424D0
 Commands offset : 0x343080
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -13604,7 +13604,7 @@ Commands count : 0x2
 Title : Onimusha 2 - Samurai's Destiny
 Game ID : SLPM_675.18
 Hash : 0x29CE7CD11D
-Hash Offset : 0x352500
+Hash Offset : 0x342500
 Commands offset : 0x33A880
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -13616,7 +13616,7 @@ Commands count : 0x1
 Title : Lord of the Rings - The Two Towers
 Game ID : SLPM_675.46
 Hash : 0x31D664C925
-Hash Offset : 0x352800
+Hash Offset : 0x342800
 Commands offset : 0x345EF8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -13631,7 +13631,7 @@ Commands count : 0x1
 Title : Shin Onimusha - Dawn of Dreams [PlayStation 2 The Best]
 Game ID : SLPM_742.32
 Hash : 0xB05EEC41BD
-Hash Offset : 0x352548
+Hash Offset : 0x342548
 Commands offset : 0x33A868
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -13643,7 +13643,7 @@ Commands count : 0x1
 Title : Summoner
 Game ID : SLES_820.01
 Hash : 0xC07981299D
-Hash Offset : 0x351810
+Hash Offset : 0x341810
 Commands offset : 0x51D640
 Commands count : 0x1
 	[GX] Command ID : 0x28
@@ -13653,7 +13653,7 @@ Commands count : 0x1
 Title : Summoner
 Game ID : SLES_820.03
 Hash : 0xC07981298D
-Hash Offset : 0x351840
+Hash Offset : 0x341840
 Commands offset : 0x51D640
 Commands count : 0x1
 	[GX] Command ID : 0x28
@@ -13663,7 +13663,7 @@ Commands count : 0x1
 Title : Summoner
 Game ID : SLES_820.05
 Hash : 0xC0798129BD
-Hash Offset : 0x351828
+Hash Offset : 0x341828
 Commands offset : 0x51D640
 Commands count : 0x1
 	[GX] Command ID : 0x28
@@ -13673,7 +13673,7 @@ Commands count : 0x1
 Title : Metal Gear Solid 3 - Snake Eater
 Game ID : SLES_820.13
 Hash : 0xC0798129FD
-Hash Offset : 0x350940
+Hash Offset : 0x340940
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13694,7 +13694,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Snake Eater
 Game ID : SLES_820.24
 Hash : 0xC87189215D
-Hash Offset : 0x350928
+Hash Offset : 0x340928
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13715,7 +13715,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Snake Eater
 Game ID : SLES_820.26
 Hash : 0xC87189214D
-Hash Offset : 0x350958
+Hash Offset : 0x340958
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13736,7 +13736,7 @@ Commands count : 0x2
 Title : Star Ocean 3 - Till the End of Time [Disc1of2]
 Game ID : SLES_820.28
 Hash : 0xC87189217D
-Hash Offset : 0x34EB10
+Hash Offset : 0x33EB10
 Commands offset : 0x33B420
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -13754,7 +13754,7 @@ Commands count : 0x3
 Title : Star Ocean 3 - Till the End of Time [Disc2of2]
 Game ID : SLES_820.29
 Hash : 0xC871892175
-Hash Offset : 0x34EB28
+Hash Offset : 0x33EB28
 Commands offset : 0x33B420
 Commands count : 0x3
 	[GX] Command ID : 0x06
@@ -13772,7 +13772,7 @@ Commands count : 0x3
 Title : Metal Gear Solid 3 - Snake Eater
 Game ID : SLES_820.32
 Hash : 0xC87189219D
-Hash Offset : 0x350970
+Hash Offset : 0x340970
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13793,7 +13793,7 @@ Commands count : 0x2
 Title : Onimusha - Dawn of Dreams - DISC 1
 Game ID : SLES_820.38
 Hash : 0xC8718921AD
-Hash Offset : 0x34E888
+Hash Offset : 0x33E888
 Commands offset : 0x33B510
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -13805,7 +13805,7 @@ Commands count : 0x1
 Title : Onimusha - Dawn of Dreams - DISC 2
 Game ID : SLES_820.39
 Hash : 0xC8718921A5
-Hash Offset : 0x34E8A0
+Hash Offset : 0x33E8A0
 Commands offset : 0x33B510
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -13817,7 +13817,7 @@ Commands count : 0x1
 Title : Metal Gear Solid 3 - Subsistance [Disc1of2]
 Game ID : SLES_820.42
 Hash : 0xC8718921CD
-Hash Offset : 0x350988
+Hash Offset : 0x340988
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13838,7 +13838,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Subsistance [Disc2of2]
 Game ID : SLES_820.43
 Hash : 0xC8718921C5
-Hash Offset : 0x3509A0
+Hash Offset : 0x3409A0
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13859,7 +13859,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Subsistance [Disc1of2]
 Game ID : SLES_820.44
 Hash : 0xC8718921FD
-Hash Offset : 0x3509B8
+Hash Offset : 0x3409B8
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13880,7 +13880,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Subsistance [Disc2of2]
 Game ID : SLES_820.45
 Hash : 0xC8718921F5
-Hash Offset : 0x3509D0
+Hash Offset : 0x3409D0
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13901,7 +13901,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Subsistance [Disc1of2]
 Game ID : SLES_820.46
 Hash : 0xC8718921ED
-Hash Offset : 0x3509E8
+Hash Offset : 0x3409E8
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13922,7 +13922,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Subsistance [Disc2of2]
 Game ID : SLES_820.47
 Hash : 0xC8718921E5
-Hash Offset : 0x350A00
+Hash Offset : 0x340A00
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13943,7 +13943,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Subsistance [Disc1of2]
 Game ID : SLES_820.48
 Hash : 0xF049B11925
-Hash Offset : 0x350A18
+Hash Offset : 0x340A18
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13964,7 +13964,7 @@ Commands count : 0x2
 Title : Metal Gear Solid 3 - Subsistance [Disc2of2]
 Game ID : SLES_820.49
 Hash : 0xF049B1192D
-Hash Offset : 0x350A30
+Hash Offset : 0x340A30
 Commands offset : 0x345E78
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -13985,7 +13985,7 @@ Commands count : 0x2
 Title : Drakan - The Ancients' Gates
 Game ID : SCUS_971.28
 Hash : 0x6B1ADE09D
-Hash Offset : 0x34F608
+Hash Offset : 0x33F608
 Commands offset : 0x51D0C0
 Commands count : 0x1
 	[GX] Command ID : 0x03
@@ -13995,7 +13995,7 @@ Commands count : 0x1
 Title : Primal - Civilization Is Only Skin Deep
 Game ID : SCUS_971.42
 Hash : 0x6B1ADE06D
-Hash Offset : 0x34E918
+Hash Offset : 0x33E918
 Commands offset : 0x345CE0
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -14019,7 +14019,7 @@ Commands count : 0x1
 Title : Disney's Treasure Planet
 Game ID : SCUS_971.46
 Hash : 0x6B1ADE00D
-Hash Offset : 0x34FF50
+Hash Offset : 0x33FF50
 Commands offset : 0x344638
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -14037,7 +14037,7 @@ Commands count : 0x1
 Title : Parappa the Rapper 2
 Game ID : SCUS_971.67
 Hash : 0x3E8995D89D
-Hash Offset : 0x34F1A0
+Hash Offset : 0x33F1A0
 Commands offset : 0x345790
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -14058,7 +14058,7 @@ Commands count : 0x2
 Title : Ratchet & Clank
 Game ID : SCUS_971.99
 Hash : 0x36819DD095
-Hash Offset : 0x34E948
+Hash Offset : 0x33E948
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -14093,7 +14093,7 @@ Commands count : 0x3
 Title : My Street (Online)
 Game ID : SCUS_972.12
 Hash : 0x36819DD00D
-Hash Offset : 0x34F8A8
+Hash Offset : 0x33F8A8
 Commands offset : 0x345388
 Commands count : 0x2
 	[GX] Command ID : 0x09
@@ -14135,7 +14135,7 @@ Commands count : 0x2
 Title : Amplitude
 Game ID : SCUS_972.58
 Hash : 0x26918DC0AD
-Hash Offset : 0x34E060
+Hash Offset : 0x33E060
 Commands offset : 0x346720
 Commands count : 0x1
 	[GX] Command ID : 0x09
@@ -14153,7 +14153,7 @@ Commands count : 0x1
 Title : Syphon Filter - The Omega Strain
 Game ID : SCUS_972.64
 Hash : 0x26918DC07D
-Hash Offset : 0x34F0F8
+Hash Offset : 0x33F0F8
 Commands offset : 0x345910
 Commands count : 0x2
 	[GX] Command ID : 0x10
@@ -14178,7 +14178,7 @@ Commands count : 0x2
 Title : Ratchet & Clank - Going Commando
 Game ID : SCUS_972.68
 Hash : 0x26918DC05D
-Hash Offset : 0x34E960
+Hash Offset : 0x33E960
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -14213,7 +14213,7 @@ Commands count : 0x3
 Title : Jet Li - Rise to Honor
 Game ID : SCUS_972.79
 Hash : 0x26918DC005
-Hash Offset : 0x34E9D8
+Hash Offset : 0x33E9D8
 Commands offset : 0x51D810
 Commands count : 0x1
 	[GX] Command ID : 0x1E
@@ -14223,7 +14223,7 @@ Commands count : 0x1
 Title : Gran Turismo 4
 Game ID : SCUS_973.28
 Hash : 0xD7617D308D
-Hash Offset : 0x34E570
+Hash Offset : 0x33E570
 Commands offset : 0x51DA98
 Commands count : 0x1
 	[GX] Command ID : 0x0E
@@ -14234,7 +14234,7 @@ Commands count : 0x1
 Title : Official U.S. PlayStation Magazine Demo Disc 087
 Game ID : SCUS_973.40
 Hash : 0xD7617D30ED
-Hash Offset : 0x352908
+Hash Offset : 0x342908
 Commands offset : 0x342A68
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -14250,7 +14250,7 @@ Commands count : 0x1
 Title : Official U.S. PlayStation Magazine Demo Disc 088
 Game ID : SCUS_973.41
 Hash : 0xD7617D30E5
-Hash Offset : 0x352920
+Hash Offset : 0x342920
 Commands offset : 0x342A50
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -14266,7 +14266,7 @@ Commands count : 0x1
 Title : Official U.S. PlayStation Magazine Demo Disc 089
 Game ID : SCUS_973.42
 Hash : 0xD7617D30FD
-Hash Offset : 0x352938
+Hash Offset : 0x342938
 Commands offset : 0x342A38
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -14282,7 +14282,7 @@ Commands count : 0x1
 Title : Ratchet and Clank - Up Your Arsenal
 Game ID : SCUS_973.53
 Hash : 0xCF7965285D
-Hash Offset : 0x34E978
+Hash Offset : 0x33E978
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -14317,7 +14317,7 @@ Commands count : 0x3
 Title : Syphon Filter - Dark Mirror
 Game ID : SCUS_973.62
 Hash : 0xCF79652885
-Hash Offset : 0x34F110
+Hash Offset : 0x33F110
 Commands offset : 0x3458F8
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -14333,7 +14333,7 @@ Commands count : 0x1
 Title : God of War
 Game ID : SCUS_973.99
 Hash : 0xC7716D20A5
-Hash Offset : 0x34E540
+Hash Offset : 0x33E540
 Commands offset : 0x33B690
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -14351,7 +14351,7 @@ Commands count : 0x1
 Title : Getaway, The - Black Monday
 Game ID : SCUS_974.08
 Hash : 0xFF49551825
-Hash Offset : 0x34E4F8
+Hash Offset : 0x33E4F8
 Commands offset : 0x346470
 Commands count : 0x1
 	[GX] Command ID : 0x10
@@ -14364,17 +14364,17 @@ Commands count : 0x1
 Title : Jak X - Combat Racing
 Game ID : SCUS_974.29
 Hash : 0xFF4955188D
-Hash Offset : 0x34E618
+Hash Offset : 0x33E618
 Commands offset : 0x51D978
 Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
-		Param : 0x0000F960
+		Param : 0x000000000000F960
 
 Title : Official U.S. PlayStation Magazine Demo Disc 090
 Game ID : SCUS_974.42
 Hash : 0xF7415D103D
-Hash Offset : 0x352950
+Hash Offset : 0x342950
 Commands offset : 0x342A20
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -14390,7 +14390,7 @@ Commands count : 0x1
 Title : Ratchet - Deadlocked
 Game ID : SCUS_974.65
 Hash : 0xF7415D10E5
-Hash Offset : 0x34E990
+Hash Offset : 0x33E990
 Commands offset : 0x345C98
 Commands count : 0x3
 	[GX] Command ID : 0x02
@@ -14425,7 +14425,7 @@ Commands count : 0x3
 Title : God of War II
 Game ID : SCUS_974.81
 Hash : 0xEF5945087D
-Hash Offset : 0x34E558
+Hash Offset : 0x33E558
 Commands offset : 0x33B690
 Commands count : 0x1
 	[GX] Command ID : 0x07
@@ -14443,7 +14443,7 @@ Commands count : 0x1
 Title : Ape Escape 3
 Game ID : SCUS_975.01
 Hash : 0xEF594508DD
-Hash Offset : 0x34E078
+Hash Offset : 0x33E078
 Commands offset : 0x51DD18
 Commands count : 0x1
 	[GX] Command ID : 0x0C
@@ -14453,7 +14453,7 @@ Commands count : 0x1
 Title : Tourist Trophy
 Game ID : SCUS_975.02
 Hash : 0xEF594508C5
-Hash Offset : 0x34EF48
+Hash Offset : 0x33EF48
 Commands offset : 0x51D3C0
 Commands count : 0x1
 	[GX] Command ID : 0x0E
@@ -14464,7 +14464,7 @@ Commands count : 0x1
 Title : SingStar Rocks! [with Microphone]
 Game ID : SCUS_975.71
 Hash : 0x97213D7055
-Hash Offset : 0x3521B8
+Hash Offset : 0x3421B8
 Commands offset : 0x33A910
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -14480,7 +14480,7 @@ Commands count : 0x2
 Title : SingStar Pop [with Microphone]
 Game ID : SCUS_975.80
 Hash : 0x97213D702D
-Hash Offset : 0x3521D0
+Hash Offset : 0x3421D0
 Commands offset : 0x33A910
 Commands count : 0x2
 	[GX] Command ID : 0x00
@@ -14496,7 +14496,7 @@ Commands count : 0x2
 Title : NBA '08 featuring The Life Vol.3
 Game ID : SCUS_975.89
 Hash : 0x97213D70E5
-Hash Offset : 0x352980
+Hash Offset : 0x342980
 Commands offset : 0x33A850
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -14508,7 +14508,7 @@ Commands count : 0x1
 Title : Buzz! Jr. Jungle Party [Game Only]
 Game ID : SCUS_976.02
 Hash : 0x8F39256845
-Hash Offset : 0x34F980
+Hash Offset : 0x33F980
 Commands offset : 0x51CEE8
 Commands count : 0x1
 	[GX] Command ID : 0x0D
@@ -14519,7 +14519,7 @@ Commands count : 0x1
 Title : Hot Shots Tennis
 Game ID : SCUS_976.10
 Hash : 0x8F39256805
-Hash Offset : 0x34E5E8
+Hash Offset : 0x33E5E8
 Commands offset : 0x345F80
 Commands count : 0x1
 	[GX] Command ID : 0x08
@@ -14535,7 +14535,7 @@ Commands count : 0x1
 Title : SingStar Amped [with Microphone]
 Game ID : SCUS_976.11
 Hash : 0x8F3925680D
-Hash Offset : 0x352200
+Hash Offset : 0x342200
 Commands offset : 0x33A8F8
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -14547,7 +14547,7 @@ Commands count : 0x1
 Title : SingStar 80's
 Game ID : SCUS_976.16
 Hash : 0x8F392568D5
-Hash Offset : 0x3521E8
+Hash Offset : 0x3421E8
 Commands offset : 0x33A8F8
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -14559,7 +14559,7 @@ Commands count : 0x1
 Title : Twisted Metal - Head-On [Extra Twisted Edition]
 Game ID : SCUS_976.21
 Hash : 0x8F392568FD
-Hash Offset : 0x352968
+Hash Offset : 0x342968
 Commands offset : 0x51AE80
 Commands count : 0x1
 	[GX] Command ID : 0x0A
@@ -14570,7 +14570,7 @@ Commands count : 0x1
 Title : SingStar 90's
 Game ID : SCUS_976.26
 Hash : 0x8F39256885
-Hash Offset : 0x352218
+Hash Offset : 0x342218
 Commands offset : 0x33A8E0
 Commands count : 0x1
 	[GX] Command ID : 0x00

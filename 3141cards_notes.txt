@@ -1,0 +1,132 @@
+---------------------------------------------------------------------------------------------------------------------------------------
+0x00: end, branch if is_cnf == 0(false), ret *sub_46BD4, else do WE HAVE A CONFIG: cd setup
+0x01: value2, value3(max 59): exec start_iso_148EF0(value2, *entrie), *entrie from *vtab_9363F8 by index(value3)
+0x02: config_cmd_0x02(value2); store value2 on (u32)*0xB530DC
+0x03: config_cmd_0x03(void); set (u8)*0x94A290 to 0
+0x04: config_cmd_0x04(u32 value2); todo...
+
+0x06: config_cmd_0x06(void); set (u32)*0x40181B20, (u32)*0x40181B24, (u32)*0x40181B28 and (u32)*0x40181B2C to 0x14F80
+0x07: config_cmd_0x07(value2); store (u32)value2 on *0x94A27C
+-----------------------------------------------------------------------------------
+0x08: config_cmd_0x08(u64 arg[4]);
+      arg[0] = ((value2 <<32) | value3)
+      arg[1] = ((value4 <<32) | value5)
+      arg[2] = ((value6 <<32) | value7)
+      arg[3] = ((value8 <<32) | value9)
+-----------------------------------------------------------------------------------
+0x09: value2(count)
+      
+      struct data {    // size 0x18
+        u32 unk_00;    // 0x00: value3
+        u32 unk_04;    // 0x04: padding
+        u64 unk_08;    // 0x08: ((value4 <<32) | value5)
+        u64 unk_10;    // 0x10: ((value6 <<32) | value7)
+      }
+      
+      sub_122904(1, 1, data); for count
+-----------------------------------------------------------------------------------
+0x0A: value2 = count
+      struct data {    // size 0x18
+        u32 unk_00;    // 0x00: value3
+        u32 unk_04;    // 0x04: padding
+        u64 unk_08;    // 0x08: (u32)value4
+        u64 unk_10;    // 0x10: (u32)value5
+      }
+      
+      sub_122904(2, 4, &var_198); in loop, to config end
+-----------------------------------------------------------------------------------
+0x0B: MECHA_config_cmd_0x0B(*thr_mecha_obj, value2); try again if not ret 0    todo...
+-----------------------------------------------------------------------------------
+0x0C: X = (value2 >>16) 0, 1 or 2; Y = (value2 & 0xFFFF)
+      MECHA_config_cmd_0x0C_0(*thr_mecha_obj, Y), set (u32)thr_mecha_obj.unk_004C to Y and set (u32)thr_mecha_obj.unk_005C to Y
+      MECHA_config_cmd_0x0C_1(*thr_mecha_obj, X), set (u32)thr_mecha_obj.unk_0048 to X
+-----------------------------------------------------------------------------------
+0x0D: store (u8)value2(0 or 1) on *0xB4A310
+0x0E: config_cmd_0x0E(value2)
+0x0F: config_cmd_0x0F(u32 value2, u32 value3)
+0x10: config_cmd_0x10(u32 value2, u32 value3)
+0x11:
+0x12: value2 = count of next (u32)values, do config_cmd_0x12(value) for each
+0x13: config_cmd_0x13set(), set *0x1BDC790 to ((value2 <<32) | value3)
+0x14: sub_139354(), store 1 on 0x247E9E8, also done in thr_SYS() if if stat_flag[45:45] is set
+0x15: config_cmd_0x15(u32 value2(0 or 1)), check 256 u32 from 0x4003A2C0, if (value & 0xFF800000) == 0x30000000, replace with 0x35003F80
+
+0x17: store (u8)value2 on *0x2A0DC52
+
+0x19: pad_set_0xB5C500(), store 1 on 0xB5C500
+0x1A: set 0x40300350 to 1
+0x1B: set 0x40300360 to 1
+0x1C: store (u8)value2 on *0x949FD5
+0x1D: store (u8)value2 on *0xB5B87A
+0x1E: store (u8)value2 on *0xB5C501
+0x1F: set_sub_121FE4(value2), store (u32)value2 on *0xB56B80
+0x20: store (u64)((value2 <<32) | value3) on *0x949FC8
+-----------------------------------------------------------------------------------
+0x21: value2: 0: set (u8)*0x94A291 to 0 and (u8)*0x2A0DC5C to 0
+              1: set (u8)*0x94A291 to 0 and (u8)*0x2A0DC5C to 1
+              2: set (u8)*0x94A291 to 1 and (u8)*0x2A0DC5C to 0
+-----------------------------------------------------------------------------------
+0x22: set (u8)thr_mecha_obj.unk_00EA to 1
+0x23: sub_123080(), copy 256 byte from 0x40181A10 to 0x40182110 and set 0x40182120, 0x40181B24, 0x40181B28 and 0x40181B2C to 0x14E00
+0x24: config_cmd_0x24(), store ((value2 <<32) | value3) on *0xB5C1B8
+
+0x26: config_cmd_0x26(u32 value2, u32 value3);
+0x27: config_cmd_0x27(u32 value2, u32 value3);
+0x28: MECHA_config_cmd_0x28(*thr_mecha_obj, u32 value2); set thr_mecha_obj.unk_0050, value2 <4
+0x29: MECHA_config_cmd_0x29(*thr_mecha_obj, value2, value3); set (u32)thr_mecha_obj.unk_0054 to value2 and (u32)thr_mecha_obj.unk_0058 to value3
+0x2A: set (u8)*0xB52BBD to 1
+0x2B: MECHA_config_cmd_0x2B(*thr_mecha_obj, 1), set (u8)thr_mecha_obj.unk_0083 to 1
+
+0x2D: config_cmd_0x2D(u32 value2), store (u64)((value2 <<32) | value2) on *0x4002B4F0 and *0x4002B4F8
+0x2E: store value2 on thr_mecha_obj.unk_002C
+0x2F: config_cmd_0x2F(value2); store (u32)value2 on *0x400AE784
+
+
+
+
+
+0x35: set "Force Flip Field" on
+
+
+
+
+
+
+
+0x3D: store (u32)value2 on UI_obj.unk_DC
+0x3E: set *0xB4A311 to 1
+0x3F: config_cmd_0x3F(value2); store (u32)value2 on *0x4002B700
+0x40: UI related, UI_285AC8(1) = store 1 on 0x402002F0
+0x41: config_cmd_0x41(); set (u8)*0xB5B540 to 1
+0x42: config_cmd_0x42(value2); repeat until ret 0,   todo...
+-----------------------------------------------------------------------------------
+0x43: X = value2, or -1 if config end
+      UI_285AC8(X); store (u32)X on *0x402002F0
+-----------------------------------------------------------------------------------
+0x44: UI related, set UI_obj.flag_ED to 1, .set_sub_27AEE8(*obj_30700D0, 0) = *0x3172FD0 to 0
+0x45: set (u8)*0x306F381 to 1
+0x46: set (u8)*L2H_Impr to 1; "L2H Improvement" on
+0x47: set (u8)*XOR_CSR_B5B378 to 1; "XOR CSR" on
+0x48: "VSYNC DELAY": store (u32)value2 on *vsync_delay_00 and (u32)value3 on *vsync_delay_04
+0x49: sub_49644(11, 0, 0), wait for (u32)0x40200420 = 0, than set (u32)0x40200424 to 0, (u64)0x40200428 to 0, (u32)0x40200420 to 11
+0x4A: set: 0x40182D14, 0x40182D20, 0x40182D24, 0x40182D28 and 0x40182D2C to (u32)0x15100     
+-----------------------------------------------------------------------------------
+0x4B: save path related
+      if next offset == end of config: set *cnf_cur_offset to next offset + 0x10
+      value1(cmd, 0x4B)
+      
+      gesammt 0x10
+      u32 value2(r3);
+      u32 *value3(*string, ?);
+      
+-----------------------------------------------------------------------------------
+0x4C: iso.bin.enc related
+      value2, value3(mode 1, 2, 3)
+-----------------------------------------------------------------------------------
+0x4D: X = value2, or -1 if config end
+      sub_49644(12, X, 0), wait for (u32)0x40200420 = 0, than set (u32)0x40200424 to X, (u64)0x40200428 to 0, (u32)0x40200420 to 12
+-----------------------------------------------------------------------------------
+
+
+0x50: config_cmd_0x50(), set (u8)*0x2456610 to 1
+********************************************************************************

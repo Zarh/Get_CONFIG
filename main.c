@@ -78,7 +78,7 @@ int main()
 		
 		for(n=0; n<elf_size; n++) {
 			if(!memcmp(&elf_data[n], &hash, 8)) {
-				sprintf(temp, "Hash Offset : 0x%X\n", n); fputs(temp, fo);
+				sprintf(temp, "Hash Offset : 0x%X\n", n-0x10000); fputs(temp, fo);
 				
 				memcpy(&cmd_offset, &elf_data[n+8], sizeof(u64));
 				cmd_offset = swap64(cmd_offset);
@@ -439,7 +439,7 @@ int main()
 							fputs("\t[Net] Command ID : 0x13\n", fo);
 							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
 							val64 = swap64(val64);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val64); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%016X\n", val64); fputs(temp, fo);
 							break;
 						}
 						case 0x12 :
@@ -556,7 +556,7 @@ int main()
 							fputs("\t[Net] Command ID : 0x20\n", fo);
 							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
 							val64 = swap64(val64);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val64); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%016X\n", val64); fputs(temp, fo);
 							break;
 						}
 						case 0x1E :
@@ -578,7 +578,7 @@ int main()
 							fputs("\t[Net] Command ID : 0x24\n", fo);
 							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
 							val64 = swap64(val64);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val64); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : 0x%016X\n", val64); fputs(temp, fo);
 							break;
 						}
 						case 0x21 :
