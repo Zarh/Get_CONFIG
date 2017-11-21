@@ -129,6 +129,11 @@ int main()
 									fputs("0x03\n", fo);
 									break;
 								}
+								case 0x34224 :
+								{
+									fputs("0x06\n", fo);
+									break;
+								}
 								case 0x36EF0 :
 								{
 									fputs("0x0A\n", fo);

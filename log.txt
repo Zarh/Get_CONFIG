@@ -1434,7 +1434,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0x00106438
 		[GX] Function offset : 0x34224
-		[Net] Function ID : unk
+		[Net] Function ID : 0x06
 
 Title : Test Drive
 Game ID : SLUS_202.13
@@ -1798,7 +1798,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0x00149584
 		[GX] Function offset : 0x34224
-		[Net] Function ID : unk
+		[Net] Function ID : 0x06
 
 Title : MTX Mototrax
 Game ID : SLUS_203.99
@@ -2074,7 +2074,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0x002021C4
 		[GX] Function offset : 0x34224
-		[Net] Function ID : unk
+		[Net] Function ID : 0x06
 
 Title : Grand Theft Auto - Vice City
 Game ID : SLUS_205.52
@@ -4226,7 +4226,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0x00158804
 		[GX] Function offset : 0x34224
-		[Net] Function ID : unk
+		[Net] Function ID : 0x06
 
 Title : Sprint Cars - Road to Knoxville
 Game ID : SLUS_214.18
@@ -6647,7 +6647,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0x00106438
 		[GX] Function offset : 0x34224
-		[Net] Function ID : unk
+		[Net] Function ID : 0x06
 
 Title : CART Fury Championship Racing
 Game ID : SLES_502.67
@@ -7571,7 +7571,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0x0014A344
 		[GX] Function offset : 0x34224
-		[Net] Function ID : unk
+		[Net] Function ID : 0x06
 
 Title : Gumball 3000
 Game ID : SLES_509.84
@@ -12179,7 +12179,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0x00106438
 		[GX] Function offset : 0x34224
-		[Net] Function ID : unk
+		[Net] Function ID : 0x06
 
 Title : Busin - Wizardry Alternative
 Game ID : SLPM_620.98
@@ -12455,7 +12455,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0x00149574
 		[GX] Function offset : 0x34224
-		[Net] Function ID : unk
+		[Net] Function ID : 0x06
 
 Title : Lilie no Atelier Plus - Salburg no Renkinjutsushi 3
 Game ID : SLPM_651.16
@@ -13611,7 +13611,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0x00149594
 		[GX] Function offset : 0x34224
-		[Net] Function ID : unk
+		[Net] Function ID : 0x06
 
 Title : Lord of the Rings - The Two Towers
 Game ID : SLPM_675.46
