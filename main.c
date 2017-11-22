@@ -64,6 +64,9 @@ int main()
 		return;
 	}
 	
+	system("rm -r files");
+	mkdir("files");
+	
 	FILE *fo;
 	fo = fopen("log.txt", "w");
 	
@@ -74,15 +77,36 @@ int main()
 		sprintf(temp, "Game ID : %s\n", game_ID); fputs(temp, fo);
 		sprintf(temp, "Hash : 0x%llX\n", hash); fputs(temp, fo);
 		
+		
+		
+				
 		hash = swap64(hash);
 		
 		for(n=0; n<elf_size; n++) {
 			if(!memcmp(&elf_data[n], &hash, 8)) {
-				sprintf(temp, "Hash Offset : 0x%X\n", n-0x10000); fputs(temp, fo);
+			
+				FILE *cfg;
+				char config_file[64];
+				char config_file_tofix[64];
+				
+				sprintf(config_file, "files/%s.CONFIG", game_ID);
+				sprintf(config_file_tofix, "files/[tofix]%s.CONFIG", game_ID);
+				
+				u8 tofix=0;
+				
+				cfg = fopen(config_file, "w");
+				
+				val32 = 0x3D;
+				fwrite(&val32, 1, sizeof(u32), cfg);
+		
+				val32 = 0x4457;
+				fwrite(&val32, 1, sizeof(u32), cfg);
+				
+				sprintf(temp, "Hash Offset : %X\n", n-0x10000); fputs(temp, fo);
 				
 				memcpy(&cmd_offset, &elf_data[n+8], sizeof(u64));
 				cmd_offset = swap64(cmd_offset);
-				sprintf(temp, "Commands offset : 0x%llX\n", cmd_offset); fputs(temp, fo);
+				sprintf(temp, "Commands offset : %llX\n", cmd_offset); fputs(temp, fo);
 				
 				memcpy(&cmd_count, &elf_data[n+16], sizeof(u32));
 				cmd_count = swap32(cmd_count);
@@ -93,7 +117,7 @@ int main()
 				//sprintf(temp, "unk : 0x%X\n", val32); fputs(temp, fo);
 				
 				for(i=0; i < cmd_count ; i++) {
-										
+					
 					memcpy(&cmd_id, &elf_data[cmd_offset+0x10000], sizeof(u32));
 					cmd_id = swap32(cmd_id);
 					sprintf(temp, "\t[GX] Command ID : 0x%02X\n", cmd_id); fputs(temp, fo);
@@ -106,10 +130,14 @@ int main()
 					{
 						case 0x00 :
 						{
-							fputs("\t[Net] Command ID : 0x01\n", fo);
+							val32 = 0x01;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							
 							u64 func_offset;
 							memcpy(&func_offset, &elf_data[cmd_offset+0x10000+0x10], sizeof(u64));
@@ -121,154 +149,220 @@ int main()
 							{
 								case 0x34068 :
 								{
-									fputs("0x02\n", fo);
+									val32=0x02;
 									break;
 								}
 								case 0x34144 :
 								{
-									fputs("0x03\n", fo);
+									val32=0x03;
 									break;
 								}
 								case 0x34224 :
 								{
-									fputs("0x06\n", fo);
+									val32=0x06;
 									break;
 								}
 								case 0x36EF0 :
 								{
-									fputs("0x0A\n", fo);
+									val32=0x0A;
 									break;
 								}
 								case 0x34354 :
 								{
-									fputs("0x0B\n", fo);
+									val32=0x0B;
 									break;
 								}
 								case 0x365F0 :
 								{
-									fputs("0x0F\n", fo);
+									val32=0x0F;
 									break;
 								}
 								case 0x36510 :
 								{
-									fputs("0x10\n", fo);
+									val32=0x10;
 									break;
 								}
 								case 0x36430 :
 								{
-									fputs("0x11\n", fo);
+									val32=0x11;
 									break;
 								}
 								case 0x36FC8 :
 								{
-									fputs("0x2C\n", fo);
+									val32=0x2C;
 									break;
 								}
 								default :
-									fputs("unk\n", fo);
+									val32=0xFFFFFFFF;
 									break;
 									
 							}
-							
+							if(val32==0xFFFFFFFF) {
+								tofix=1;
+								fputs("unk\n", fo);
+							} else {
+								sprintf(temp, "0x%02X\n", val32); fputs(temp, fo);
+							}
+							fwrite(&val32, 1, sizeof(u32), cfg);
 							break;
 						}
 						case 0x01 :
 						{
-							fputs("\t[Net] Command ID : 0x02\n", fo);
+							val32 = 0x02;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x02 :
 						{
-							fputs("\t[Net] Command ID : 0x03\n", fo);
+							val32 = 0x03;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x03 :
 						{
-							fputs("\t[Net] Command ID : 0x04\n", fo);
+							val32 = 0x04;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x04 :
 						{
-							fputs("\t[Net] Command ID : 0x05\n", fo);
+							val32 = 0x05;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x05 :
 						{
-							fputs("\t[Net] Command ID : 0x06\n", fo);
+							val32 = 0x06;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x06 :
 						{
-							fputs("\t[Net] Command ID : 0x07\n", fo);
+							val32 = 0x07;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x07 :
 						{
 							
-							fputs("\t[Net] Command ID : 0x08\n", fo);
+							val32 = 0x08;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
 							u64 Data_offset;
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
 							Data_offset = swap64(Data_offset);
-							sprintf(temp, "\t\tData Offset : 0x%X\n", Data_offset); fputs(temp, fo);
-										
-							for(j=0; j < 8; j++) {
-								memcpy(&val32, &elf_data[Data_offset+0x10000], sizeof(u32));
-								val32 = swap32(val32);
-								sprintf(temp, "\t\t\tParam %d : 0x%08X\n", j+1, val32); fputs(temp, fo);
-								
-								Data_offset+=4;
-							}
+							sprintf(temp, "\t\tData Offset : %08X\n", Data_offset); fputs(temp, fo);
+											
+							memcpy(&val32, &elf_data[Data_offset+0x10000+4*0], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\t\tPatchedDataMask : %08X", val32); fputs(temp, fo);
 							
+							memcpy(&val32, &elf_data[Data_offset+0x10000+4*1], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "%08X\n", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[Data_offset+0x10000+4*2], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\t\tPatchedData : %08X", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[Data_offset+0x10000+4*3], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "%08X\n", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[Data_offset+0x10000+4*4], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\t\tOriginalDataMask : %08X", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[Data_offset+0x10000+4*5], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "%08X\n", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[Data_offset+0x10000+4*6], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\t\tOriginalData : %08X", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[Data_offset+0x10000+4*7], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "%08X\n", val32); fputs(temp, fo);
+										
 							break;
 						}
 						case 0x08 :
 						{
-							fputs("\t[Net] Command ID : 0x09\n", fo);
+							val32 = 0x09;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 								
 							u64 Data_offset;
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
 							Data_offset = swap64(Data_offset);
-							sprintf(temp, "\t\tData Offset : 0x%X\n", Data_offset); fputs(temp, fo);
+							sprintf(temp, "\t\tData Offset : %08X\n", Data_offset); fputs(temp, fo);
 							
 							u32 Data_Number;
 							memcpy(&Data_Number, &elf_data[cmd_offset+0x10000+0x10], sizeof(u32));
 							Data_Number = swap32(Data_Number);
-							sprintf(temp, "\t\tData Number : 0x%X\n", Data_Number); fputs(temp, fo);
+							fwrite(&Data_Number, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tData Number : %08X\n", Data_Number); fputs(temp, fo);
 							
 							for(j=0; j < Data_Number; j++) {
 								memcpy(&val32, &elf_data[Data_offset+0x10000], sizeof(u32));
 								val32 = swap32(val32);
-								sprintf(temp, "\t\t\tOffset : 0x%08X\n", j+1, val32); fputs(temp, fo);
+								fwrite(&val32, 1, sizeof(u32), cfg);
+								sprintf(temp, "\t\t\tOffset : %08X\n", val32); fputs(temp, fo);
 								
 								memcpy(&val32, &elf_data[Data_offset+0x10000+4], sizeof(u32));
 								val32 = swap32(val32);
-								sprintf(temp, "\t\t\tOriginal 1 : 0x%08X\n", val32); fputs(temp, fo);
+								fwrite(&val32, 1, sizeof(u32), cfg);
+								sprintf(temp, "\t\t\tOriginal 1 : %08X\n", val32); fputs(temp, fo);
 								
 								memcpy(&val32, &elf_data[Data_offset+0x10000+8], sizeof(u32));
 								val32 = swap32(val32);
-								sprintf(temp, "\t\t\tOriginal 2 : 0x%08X\n", val32); fputs(temp, fo);
+								fwrite(&val32, 1, sizeof(u32), cfg);
+								sprintf(temp, "\t\t\tOriginal 2 : %08X\n", val32); fputs(temp, fo);
 								
 								memcpy(&val32, &elf_data[Data_offset+0x10000+0xC], sizeof(u32));
 								val32 = swap32(val32);
-								sprintf(temp, "\t\t\tPatched 1 : 0x%08X\n", val32); fputs(temp, fo);
+								fwrite(&val32, 1, sizeof(u32), cfg);
+								sprintf(temp, "\t\t\tPatched 1 : %08X\n", val32); fputs(temp, fo);
 								
 								memcpy(&val32, &elf_data[Data_offset+0x10000+0x10], sizeof(u32));
 								val32 = swap32(val32);
-								sprintf(temp, "\t\t\tPatched 2 : 0x%08X\n", val32); fputs(temp, fo);
+								fwrite(&val32, 1, sizeof(u32), cfg);
+								sprintf(temp, "\t\t\tPatched 2 : %08X\n", val32); fputs(temp, fo);
 								
 								Data_offset += 0x18;
 							}
@@ -277,32 +371,38 @@ int main()
 						}
 						case 0x09 :
 						{
-							fputs("\t[Net] Command ID : 0x0B\n", fo);
+							val32 = 0x0B;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
 							u64 Data_offset;
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
 							Data_offset = swap64(Data_offset);
-							sprintf(temp, "\t\tData Offset : 0x%X\n", Data_offset); fputs(temp, fo);
+							sprintf(temp, "\t\tData Offset : %08X\n", Data_offset); fputs(temp, fo);
 														
 							u32 Data_Number;
 							memcpy(&Data_Number, &elf_data[cmd_offset+0x10000+0x10], sizeof(u32));
 							Data_Number = swap32(Data_Number);
-							sprintf(temp, "\t\tData Number : 0x%X\n", Data_Number); fputs(temp, fo);
+							fwrite(&Data_Number, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tData Number : %08X\n", Data_Number); fputs(temp, fo);
 														
 							for(j=0; j < Data_Number; j++) {
 								
 								memcpy(&val32, &elf_data[Data_offset+0x10000], sizeof(u32));
 								val32 = swap32(val32);
-								sprintf(temp, "\t\t\tSector : 0x%X\n", val32); fputs(temp, fo);
+								fwrite(&val32, 1, sizeof(u32), cfg);
+								sprintf(temp, "\t\t\tSector : %08X\n", val32); fputs(temp, fo);
 																
 								memcpy(&val32, &elf_data[Data_offset+0x10000+4], sizeof(u32));
 								val32 = swap32(val32);
-								sprintf(temp, "\t\t\tOffset : 0x%X\n", val32); fputs(temp, fo);
+								fwrite(&val32, 1, sizeof(u32), cfg);
+								sprintf(temp, "\t\t\tOffset : %08X\n", val32); fputs(temp, fo);
 																
 								u32 data_size;
 								memcpy(&data_size, &elf_data[Data_offset+0x10000+0x18], sizeof(u32));
 								data_size = swap32(data_size);
-								sprintf(temp, "\t\t\tSize : 0x%X\n", data_size); fputs(temp, fo);
+								fwrite(&data_size, 1, sizeof(u32), cfg);
+								sprintf(temp, "\t\t\tSize : %08XX\n", data_size); fputs(temp, fo);
 																
 								//memcpy(&val32, &elf_data[Data_offset+0x10000+0x1C], sizeof(u32));
 								//val32 = swap32(val32);
@@ -324,6 +424,7 @@ int main()
 								
 								for(k=0; k<data_size/4; k++) {
 									data[k] = swap32(data[k]);
+									fwrite(&data[k], 1, sizeof(u32), cfg);
 									sprintf(temp, "%08X", data[k]); fputs(temp, fo);
 								}
 								fputs("\n", fo);
@@ -338,6 +439,7 @@ int main()
 								
 								for(k=0; k<data_size/4; k++) {
 									data[k] = swap32(data[k]);
+									fwrite(&data[k], 1, sizeof(u32), cfg);
 									sprintf(temp, "%08X", data[k]); fputs(temp, fo);
 								}
 								fputs("\n", fo);
@@ -350,89 +452,113 @@ int main()
 						}
 						case 0x0A :
 						{
-							fputs("\t[Net] Command ID : 0x0C\n", fo);
+							val32 = 0x0C;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
-							memcpy(&val16, &elf_data[cmd_offset+0x10000+8], sizeof(val16));
-							val16 = swap16(val16);
-							sprintf(temp, "\t\tParam 1 : 0x%08X\n", val16); fputs(temp, fo);
-							
-							memcpy(&val16, &elf_data[cmd_offset+0x10000+0xA], sizeof(val16));
-							val16 = swap16(val16);
-							sprintf(temp, "\t\tParam 2 : 0x%08X\n", val16); fputs(temp, fo);
-							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 1 : %04X\n", val32 >> 16); fputs(temp, fo);
+							sprintf(temp, "\t\tParam 2 : %04X\n", val32 & 0xFFFF); fputs(temp, fo);
+														
 							break;
 						}
 						case 0x0B :
 						{
-							fputs("\t[Net] Command ID : 0x0D\n", fo);
+							val32 = 0x0D;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x0C :
 						{
-							fputs("\t[Net] Command ID : 0x0E\n", fo);
+							val32 = 0x0E;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x0D :
 						{
-							fputs("\t[Net] Command ID : 0x0F\n", fo);
+							val32 = 0x0F;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam 1 : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 1 : %08X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam 2 : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 2 : %08X\n", val32); fputs(temp, fo);
 							
 							break;
 						}
 						case 0x0E :
 						{
-							fputs("\t[Net] Command ID : 0x10\n", fo);
+							val32 = 0x10;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam 1 : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 1 : %08X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam 2 : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 2 : %08X\n", val32); fputs(temp, fo);
 							
 							break;
 						}
 						case 0x0F :
 						{
-							fputs("\t[Net] Command ID : 0x11\n", fo);
+							val32 = 0x11;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x10 :
 						{
-							fputs("\t[Net] Command ID : 0x12\n", fo);
+							val32 = 0x12;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
 							u64 Data_offset;
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
 							Data_offset = swap64(Data_offset);
-							sprintf(temp, "\t\tData Offset : 0x%X\n", Data_offset); fputs(temp, fo);
+							sprintf(temp, "\t\tData Offset : %08X\n", Data_offset); fputs(temp, fo);
 														
 							u32 Data_Number;
 							memcpy(&Data_Number, &elf_data[cmd_offset+0x10000+0x10], sizeof(u32));
 							Data_Number = swap32(Data_Number);
-							sprintf(temp, "\t\tData Number : 0x%X\n", Data_Number); fputs(temp, fo);
+							fwrite(&Data_Number, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tData Number : %08X\n", Data_Number); fputs(temp, fo);
 							
 							for(j=0; j < Data_Number; j++) {
 								
 								memcpy(&val32, &elf_data[Data_offset+0x10000], sizeof(u32));
 								val32 = swap32(val32);
-								sprintf(temp, "\t\t\tParam %d : 0x%08X\n", j+1, val32); fputs(temp, fo);
+								fwrite(&val32, 1, sizeof(u32), cfg);
+								sprintf(temp, "\t\t\tParam %d : %08X\n", j+1, val32); fputs(temp, fo);
 								
 								Data_offset+=4;
 							}
@@ -441,252 +567,344 @@ int main()
 						}
 						case 0x11 :
 						{
-							fputs("\t[Net] Command ID : 0x13\n", fo);
-							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
-							val64 = swap64(val64);
-							sprintf(temp, "\t\tParam : 0x%016X\n", val64); fputs(temp, fo);
+							val32 = 0x13;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "%08X\n", val32); fputs(temp, fo);
+							
 							break;
 						}
 						case 0x12 :
 						{
-							fputs("\t[Net] Command ID : 0x14\n", fo);
+							val32 = 0x14;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x13 :
 						{
-							fputs("\t[Net] Command ID : 0x15\n", fo);
+							val32 = 0x15;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x14 :
 						{
-							fputs("\t[Net] Command ID : 0x16\n", fo);
+							val32 = 0x16;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x15 :
 						{
-							fputs("\t[Net] Command ID : 0x17\n", fo);
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+0x8], sizeof(val8));
-							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
+							val32 = 0x17;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+0x9], sizeof(val8));
-							sprintf(temp, "\t\tParam 2 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+0xA], sizeof(val8));
-							sprintf(temp, "\t\tParam 3 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+0xB], sizeof(val8));
-							sprintf(temp, "\t\tParam 4 : 0x%02X\n", val8); fputs(temp, fo);
-							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0x8], sizeof(u32));
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam : %02X\n", val32>>24); fputs(temp, fo);
+														
 							break;
 						}
 						case 0x16 :
+						{
+							val32 = 0x18; // TODO ...
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							
+							fputs("\t[Net] Command ID : 0x18 or 0x19\n", fo);
+							fputs("\t\tNothing to do\n", fo);
+							
+							tofix=1;
+							
+							break;
+						}
 						case 0x17 :
 						{
-							fputs("\t[Net] Command ID : 0x18 or 0x19 or 0x1A\n", fo);
+							val32 = 0x19; // TODO ...
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							
+							fputs("\t[Net] Command ID : 0x19 or 0x1A\n", fo);
 							fputs("\t\tNothing to do\n", fo);
+							
+							tofix=1;
+							
 							break;
 						}
 						case 0x18 :
 						{
-							fputs("\t[Net] Command ID : 0x1B\n", fo);
+							val32 = 0x1B;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x19 :
 						{
-							fputs("\t[Net] Command ID : 0x1C\n", fo);
+							val32 = 0x1C;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+8], sizeof(val8));
-							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+9], sizeof(val8));
-							sprintf(temp, "\t\tParam 2 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+10], sizeof(val8));
-							sprintf(temp, "\t\tParam 3 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+11], sizeof(val8));
-							sprintf(temp, "\t\tParam 4 : 0x%02X\n", val8); fputs(temp, fo);
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0x8], sizeof(u32));
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam : %02X\n", val32>>24); fputs(temp, fo);
+															
 							break;
 						}
 						case 0x1A :
 						{
-							fputs("\t[Net] Command ID : 0x1D\n", fo);
+							val32 = 0x1D;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+8], sizeof(val8));
-							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+9], sizeof(val8));
-							sprintf(temp, "\t\tParam 2 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+10], sizeof(val8));
-							sprintf(temp, "\t\tParam 3 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+11], sizeof(val8));
-							sprintf(temp, "\t\tParam 4 : 0x%02X\n", val8); fputs(temp, fo);
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0x8], sizeof(u32));
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam : %02X\n", val32>>24); fputs(temp, fo);
+															
 							break;
 						}
 						case 0x1B :
 						{
-							fputs("\t[Net] Command ID : 0x1E\n", fo);
+							val32 = 0x1E;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+8], sizeof(val8));
-							sprintf(temp, "\t\tParam 1 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+9], sizeof(val8));
-							sprintf(temp, "\t\tParam 2 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+10], sizeof(val8));
-							sprintf(temp, "\t\tParam 3 : 0x%02X\n", val8); fputs(temp, fo);
-							
-							memcpy(&val8, &elf_data[cmd_offset+0x10000+11], sizeof(val8));
-							sprintf(temp, "\t\tParam 4 : 0x%02X\n", val8); fputs(temp, fo);
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0x8], sizeof(u32));
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							val32 = swap32(val32);
+							sprintf(temp, "\t\tParam : %02X\n", val32>>24); fputs(temp, fo);
+															
 							break;
 						}
 						case 0x1C :
 						{
-							fputs("\t[Net] Command ID : 0x1F\n", fo);
+							val32 = 0x1F;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x1D :
 						{
-							fputs("\t[Net] Command ID : 0x20\n", fo);
-							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
-							val64 = swap64(val64);
-							sprintf(temp, "\t\tParam : 0x%016X\n", val64); fputs(temp, fo);
+							val32 = 0x20;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "%08X\n", val32); fputs(temp, fo);
+							
 							break;
 						}
 						case 0x1E :
 						{
-							fputs("\t[Net] Command ID : 0x21\n", fo);
+							val32 = 0x21;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x1F :
 						{
-							fputs("\t[Net] Command ID : 0x22\n", fo);
+							val32 = 0x22;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x20 :
 						{
-							fputs("\t[Net] Command ID : 0x24\n", fo);
-							memcpy(&val64, &elf_data[cmd_offset+0x10000+8], sizeof(val64));
-							val64 = swap64(val64);
-							sprintf(temp, "\t\tParam : 0x%016X\n", val64); fputs(temp, fo);
+							val32 = 0x24;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X", val32); fputs(temp, fo);
+							
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(u32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "%08X\n", val32); fputs(temp, fo);
+							
 							break;
 						}
 						case 0x21 :
 						{
-							fputs("\t[Net] Command ID : 0x25\n", fo);
+							val32 = 0x25;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x22 :
 						{
-							fputs("\t[Net] Command ID : 0x26\n", fo);
+							val32 = 0x26;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam 1 : 0x%X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 1 : %08X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam 2 : 0x%X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 2 : %08X\n", val32); fputs(temp, fo);
 							
 							break;
 							break;
 						}
 						case 0x23 :
 						{
-							fputs("\t[Net] Command ID : 0x27\n", fo);
+							val32 = 0x27;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam 1 : 0x%X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 1 : %08X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam 2 : 0x%X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 2 : %08X\n", val32); fputs(temp, fo);
 							
-							break;
 							break;
 						}
 						case 0x24 :
 						{
-							fputs("\t[Net] Command ID : 0x28\n", fo);
+							val32 = 0x28;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x25 :
 						{
-							fputs("\t[Net] Command ID : 0x29\n", fo);
+							val32 = 0x29;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam 1: 0x%X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 1 : %08X\n", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+0xC], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam 2: 0x%X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam 2 : %08X\n", val32); fputs(temp, fo);
 							
 							break;
 						}
 						case 0x26 :
 						{
-							fputs("\t[Net] Command ID : 0x2A\n", fo);
+							val32 = 0x2A;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x27 :
 						{
-							fputs("\t[Net] Command ID : 0x2B\n", fo);
+							val32 = 0x2B;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x28 :
 						{
-							fputs("\t[Net] Command ID : 0x2C\n", fo);
+							val32 = 0x2C;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x29 :
 						{
-							fputs("\t[Net] Command ID : 0x2D\n", fo);
+							val32 = 0x2D;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							fputs("\t\tNothing to do\n", fo);
 							break;
 						}
 						case 0x2A :
 						{
-							fputs("\t[Net] Command ID : 0x2E\n", fo);
+							val32 = 0x2E;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x2B :
 						{
-							fputs("\t[Net] Command ID : 0x2F\n", fo);
+							val32 = 0x2F;
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
+							
 							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
 							val32 = swap32(val32);
-							sprintf(temp, "\t\tParam : 0x%08X\n", val32); fputs(temp, fo);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
-						
 						default :
 							fputs("\t\tCommand unknown\n", fo);
 							break;
@@ -696,6 +914,11 @@ int main()
 					cmd_offset += 0x18;
 				}
 				
+				val32 = 0;
+				fwrite(&val32, 1, sizeof(u32), cfg);
+				fclose(cfg);
+				
+				if(tofix) rename(config_file, config_file_tofix);
 				break;
 			}
 			
