@@ -402,7 +402,7 @@ int main()
 								memcpy(&data_size, &elf_data[Data_offset+0x10000+0x18], sizeof(u32));
 								data_size = swap32(data_size);
 								fwrite(&data_size, 1, sizeof(u32), cfg);
-								sprintf(temp, "\t\t\tSize : %08XX\n", data_size); fputs(temp, fo);
+								sprintf(temp, "\t\t\tSize : %08X\n", data_size); fputs(temp, fo);
 																
 								//memcpy(&val32, &elf_data[Data_offset+0x10000+0x1C], sizeof(u32));
 								//val32 = swap32(val32);
@@ -628,26 +628,22 @@ int main()
 						}
 						case 0x16 :
 						{
-							val32 = 0x18; // TODO ...
+							val32 = 0x18;
 							fwrite(&val32, 1, sizeof(u32), cfg);
 							
-							fputs("\t[Net] Command ID : 0x18 or 0x19\n", fo);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							fputs("\t\tNothing to do\n", fo);
-							
-							tofix=1;
-							
+														
 							break;
 						}
 						case 0x17 :
 						{
-							val32 = 0x19; // TODO ...
+							val32 = 0x1A;
 							fwrite(&val32, 1, sizeof(u32), cfg);
 							
-							fputs("\t[Net] Command ID : 0x19 or 0x1A\n", fo);
+							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							fputs("\t\tNothing to do\n", fo);
-							
-							tofix=1;
-							
+
 							break;
 						}
 						case 0x18 :

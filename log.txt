@@ -58,7 +58,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 001A7658
 			Offset : 000000CC
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51CE70
 			Patched data : 2C480A4B008843482C600B4BFF02004AFF02004AFF02004A
 			Original data offset : 0x51CE58
@@ -76,7 +76,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00210F89
 			Offset : 0000039C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B1B0
 			Patched data : 2C60004B008849482C68004B00884A482C680C4B00884B48FF02004AFF02004A
 			Original data offset : 0x51B190
@@ -94,7 +94,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000192
 			Offset : 000006C4
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B1B0
 			Patched data : 2C60004B008849482C68004B00884A482C680C4B00884B48FF02004AFF02004A
 			Original data offset : 0x51B190
@@ -112,7 +112,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000003AC
 			Offset : 0000060C
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51C608
 			Patched data : 0080224800602348B855004A
 			Original data offset : 0x51C5F8
@@ -303,7 +303,7 @@ Commands count : 0x3
 		Data Number : 00000001
 			Sector : 00000531
 			Offset : 000005CC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51C5E0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51C5D8
@@ -335,7 +335,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000E3D56
 			Offset : 00000730
-			Size : 00000038X
+			Size : 00000038
 			Patched data offset : 0x51B798
 			Patched data : 0010033C0100022405008210009063340200022402008210001063240D0000000000628C00014230FDFF4014000000000800E00300000000
 			Original data offset : 0x51B760
@@ -615,7 +615,7 @@ Hash Offset : 33E330
 Commands offset : 51DB38
 Commands count : 0x1
 	[GX] Command ID : 0x17
-	[Net] Command ID : 0x19 or 0x1A
+	[Net] Command ID : 0x1A
 		Nothing to do
 
 Title : Devil May Cry 3
@@ -725,7 +725,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000002B0
 			Offset : 00000250
-			Size : 00000058X
+			Size : 00000058
 			Patched data offset : 0x51BF80
 			Patched data : 04024634180066AC018006341C0066AC0020063C200066ACE8000634240066AC280060FC300060FC0500063C0408C634380060AC3C0066AC400060AC47000624440066AC480060AC4C0067AC000090442000804660000624
 			Original data offset : 0x51BF28
@@ -743,7 +743,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000001F5
 			Offset : 00000468
-			Size : 000000B0X
+			Size : 000000B0
 			Patched data offset : 0x51C6F8
 			Patched data : 1C21C04BBC03E54BBC61E84BBD68E84BBE70E84B0B7AE84BFD39274A5C29C04BBC03E64BBC61E94BBD68E94BBE70E94B4B7AE94BFD41284A9C31C04BBC03E74BBC61EA4BBD68EA4BBE70EA4B8B7AEA4BFD49294ADC39C04BBC03E84BBC61EB4BBD68EB4BBE70EB4BCB7AEB4B3C23C14B1C42C04BBC03E94B3C23C24B6F08C54BAB10C54BFD512A4AFD592B4A5C4AC04BBC03EA4B6F08C64BAB10C64B6F08C74BAB10C74BBF03004A9C52C04BBC03EB4B
 			Original data offset : 0x51C648
@@ -875,21 +875,21 @@ Commands count : 0x2
 		Data Number : 00000003
 			Sector : 00000271
 			Offset : 000003BC
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B0F0
 			Patched data : 0440044B008048480540044BFF02004AFF02004AFF02004AFF02004A00804948
 			Original data offset : 0x51B0D0
 			Original data : 0440044B0540044BFF02004AFF02004AFF02004AFF02004A0080484800804948
 			Sector : 00000271
 			Offset : 0000054C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B0B8
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B0A0
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 00000456
 			Offset : 00000038
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B088
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B070
@@ -910,28 +910,28 @@ Commands count : 0x1
 		Data Number : 00000004
 			Sector : 00000294
 			Offset : 000002A4
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B260
 			Patched data : 0440044B008048480540044BFF02004A
 			Original data offset : 0x51B250
 			Original data : 0440044B0540044BFF02004AFF02004A
 			Sector : 00000294
 			Offset : 000002BC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B248
 			Patched data : FF02004A00804948
 			Original data offset : 0x51B240
 			Original data : 0080484800804948
 			Sector : 00000294
 			Offset : 0000043C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B228
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B210
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000038F
 			Offset : 0000041C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51DAB8
 			Patched data : 0800E00300000000
 			Original data offset : 0x51DAB0
@@ -1002,259 +1002,259 @@ Commands count : 0x1
 		Data Number : 00000025
 			Sector : 000DBBAE
 			Offset : 0000060C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBBAF
 			Offset : 00000768
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBBB0
 			Offset : 00000608
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBBB0
 			Offset : 0000069C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBBB0
 			Offset : 00000734
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBBBA
 			Offset : 00000488
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBBD0
 			Offset : 000000B4
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBBD0
 			Offset : 0000030C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBBF9
 			Offset : 0000020C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBBF9
 			Offset : 00000534
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBBFA
 			Offset : 000001B0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBC2A
 			Offset : 00000350
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBC2A
 			Offset : 000003E8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBC6E
 			Offset : 000003BC
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBC6E
 			Offset : 00000460
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBCE2
 			Offset : 000000A0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBCE3
 			Offset : 000000F8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBCE3
 			Offset : 000006E4
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBD06
 			Offset : 0000045C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBD06
 			Offset : 000004F4
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBE33
 			Offset : 00000448
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBE33
 			Offset : 000004E0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBEAB
 			Offset : 00000538
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBEAC
 			Offset : 00000274
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBEAC
 			Offset : 00000314
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBEAC
 			Offset : 00000520
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBEAC
 			Offset : 00000734
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBF9B
 			Offset : 0000022C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 000DBCF3
 			Offset : 0000073C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 000DBCF4
 			Offset : 0000074C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 000DBD04
 			Offset : 00000248
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 000DBD09
 			Offset : 000000BC
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 000DBE33
 			Offset : 000007A0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 000DBD21
 			Offset : 000004D0
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 000DBD21
 			Offset : 000006EC
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 000DBD22
 			Offset : 0000028C
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 000DBD23
 			Offset : 00000050
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
@@ -1341,7 +1341,7 @@ Commands count : 0x3
 		Data Number : 00000001
 			Sector : 0000083D
 			Offset : 00000478
-			Size : 00000034X
+			Size : 00000034
 			Patched data offset : 0x51DA60
 			Patched data : 70F0E38C0100632470F0E3AC003C828C0004423000040534000000001A00451400000000303C828CFFFF4230FDFF053415004514
 			Original data offset : 0x51DA28
@@ -1385,7 +1385,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000531
 			Offset : 0000038C
-			Size : 00000040X
+			Size : 00000040
 			Patched data offset : 0x51D9D0
 			Patched data : E0FEBD276C0006247000BFFF2D20A0038000B07F0000B08CB5880C0C2D2800002D200002CE840A0C2D28A0038000B07B2D10A0037000BFDF0800E0032001BD27
 			Original data offset : 0x51D990
@@ -1433,7 +1433,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000471
 			Offset : 00000280
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51D970
 			Patched data : D8B82600
 			Original data offset : 0x51D968
@@ -1500,7 +1500,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0013E5C4
 			Offset : 0000013C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51D8E8
 			Patched data : 080002240010013C103C22AC9C90848F34A30F0C010005240F00000038000042
 			Original data offset : 0x51D8C8
@@ -1658,14 +1658,14 @@ Commands count : 0x1
 		Data Number : 00000002
 			Sector : 000987F6
 			Offset : 0000068C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51D890
 			Patched data : 05000424000000000000000000000000000000001400C48FFC10000C00000000
 			Original data offset : 0x51D870
 			Original data : 05000424B910000C000000001F11000C000000001400C48FFC10000C00000000
 			Sector : 000987FF
 			Offset : 00000450
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51D860
 			Patched data : E4150000FFFFFFFFEC150000FFFFFFFF
 			Original data offset : 0x51D850
@@ -1694,7 +1694,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000004EC
 			Offset : 000004AC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B330
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B328
@@ -1712,7 +1712,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 00173D96
 			Offset : 0000055C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51D830
 			Patched data : 0800E00300000000
 			Original data offset : 0x51D828
@@ -1857,7 +1857,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 00000311
 			Offset : 000002C4
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51D7D8
 			Patched data : 040002240110013C10E022ACE80D060C00000000D421060C00000000708380AF
 			Original data offset : 0x51D7B8
@@ -1878,7 +1878,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 000B8063
 			Offset : 000004F4
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51D798
 			Patched data : 040002240110013C10E022AC740E060C000000006022060C00000000708380AF
 			Original data offset : 0x51D778
@@ -2171,7 +2171,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0003AEDA
 			Offset : 00000120
-			Size : 00000024X
+			Size : 00000024
 			Patched data offset : 0x51B980
 			Patched data : 06008014212043002110A0000200A0140000000001000524EBFF401004008424FCFF9024
 			Original data offset : 0x51B958
@@ -2285,7 +2285,7 @@ Commands count : 0x4
 		Data Number : 00000001
 			Sector : 0000015D
 			Offset : 00000668
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51D670
 			Patched data : 00000000A87E040C0000000000000000FCFF4010
 			Original data offset : 0x51D658
@@ -2508,7 +2508,7 @@ Commands count : 0x3
 		Data Number : 00000001
 			Sector : 001A7F74
 			Offset : 0000000C
-			Size : 00000040X
+			Size : 00000040
 			Patched data offset : 0x51D5E8
 			Patched data : 2D38A0005414090C00000000699482930500401000000000A814090C2D200000699480A3000000007414090C000000000000BFDF0800E0031000BD2700000000
 			Original data offset : 0x51D5A8
@@ -2532,7 +2532,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00112CA6
 			Offset : 0000059C
-			Size : 00000030X
+			Size : 00000030
 			Patched data offset : 0x51D578
 			Patched data : 89990292040040104300023C34450B0C2D200000899900A2EE440B0C000000001000B07B0000BFDF0800E0032000BD27
 			Original data offset : 0x51D548
@@ -2550,7 +2550,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 0022BC96
 			Offset : 000006E0
-			Size : 0000005CX
+			Size : 0000005C
 			Patched data offset : 0x51D4E8
 			Patched data : 03000424A010110C000000002D200000A010110C00000000B8CD848F7C0D110C00000000FCFF4004000000000300042498CD858F280D110C00000000FBFF4004000000002D2000009CCD858F280D110C00000000FBFF400400000000
 			Original data offset : 0x51D488
@@ -3012,7 +3012,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0000066B
 			Offset : 00000234
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51D438
 			Patched data : 0010023C0010033C203C423410E06334000051AC000071ACDE82060CA070648E
 			Original data offset : 0x51D418
@@ -3030,7 +3030,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000691
 			Offset : 000000FC
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51D3F8
 			Patched data : 0010023C0010033C203C423410E06334000051AC000071AC09F8A0004037448E
 			Original data offset : 0x51D3D8
@@ -3211,7 +3211,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000192
 			Offset : 000006BC
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B1B0
 			Patched data : 2C60004B008849482C68004B00884A482C680C4B00884B48FF02004AFF02004A
 			Original data offset : 0x51B190
@@ -3229,7 +3229,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000276
 			Offset : 0000015C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B1B0
 			Patched data : 2C60004B008849482C68004B00884A482C680C4B00884B48FF02004AFF02004A
 			Original data offset : 0x51B190
@@ -3247,7 +3247,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 001ABE36
 			Offset : 0000006C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51CE70
 			Patched data : 2C480A4B008843482C600B4BFF02004AFF02004AFF02004A
 			Original data offset : 0x51CE58
@@ -3291,7 +3291,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0003E874
 			Offset : 000007F0
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51D388
 			Patched data : E8030134
 			Original data offset : 0x51D380
@@ -3309,7 +3309,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0003E874
 			Offset : 000007F0
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51D388
 			Patched data : E8030134
 			Original data offset : 0x51D380
@@ -3392,56 +3392,56 @@ Commands count : 0x1
 		Data Number : 00000008
 			Sector : 00186A71
 			Offset : 000007F0
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51B9C8
 			Patched data : 1000C427B732000C00000000
 			Original data offset : 0x51B9B8
 			Original data : 2B000424B332000C1000C527
 			Sector : 00186A71
 			Offset : 000005F4
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186A7B
 			Offset : 00000708
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186A85
 			Offset : 00000118
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186A85
 			Offset : 00000170
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186A85
 			Offset : 000001C8
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186A86
 			Offset : 000007FC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186C38
 			Offset : 000006F8
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51D360
 			Patched data : 00000624
 			Original data offset : 0x51D358
@@ -3469,7 +3469,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 0000026A
 			Offset : 000004DC
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51D338
 			Patched data : 00000000
 			Original data offset : 0x51D330
@@ -3819,7 +3819,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 0000086B
 			Offset : 00000380
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B8C0
 			Patched data : 00000000
 			Original data offset : 0x51B8B8
@@ -3973,7 +3973,7 @@ Commands count : 0x4
 		Data Number : 00000001
 			Sector : 000015A3
 			Offset : 00000468
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51D108
 			Patched data : 000000000201040C0000000000000000FCFF4014
 			Original data offset : 0x51D0F0
@@ -4021,7 +4021,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0004055E
 			Offset : 00000354
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B880
 			Patched data : 00000000
 			Original data offset : 0x51B878
@@ -4039,7 +4039,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000006A7
 			Offset : 00000298
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B830
 			Patched data : FF02004A00884548BF19E04BBC48EA4B8C18EA4B
 			Original data offset : 0x51B818
@@ -4057,21 +4057,21 @@ Commands count : 0x1
 		Data Number : 00000003
 			Sector : 000005D6
 			Offset : 000005F0
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B3C0
 			Patched data : 00884448E00090306C11F04BFF02004A00884448AC19F04B
 			Original data offset : 0x51B3A8
 			Original data : 6C11F04BFF02004AAC19F04B00884448E000903000884448
 			Sector : 000005D6
 			Offset : 00000620
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B390
 			Patched data : 00884448E00090306C89E24BFF02004A00884448AC89E34B
 			Original data offset : 0x51B378
 			Original data : 6C89E24BFF02004AAC89E34B00884448E000903000884448
 			Sector : 000005D7
 			Offset : 00000024
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B360
 			Patched data : 00884348FF02004AFF02004AFF02004AAC10E14B
 			Original data offset : 0x51B348
@@ -4110,14 +4110,14 @@ Commands count : 0x1
 		Data Number : 00000002
 			Sector : 00000A87
 			Offset : 000004AC
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B748
 			Patched data : 008842489910CA4B1921CA4BACF7FE4BFF02004A
 			Original data offset : 0x51B730
 			Original data : 9910CA4B1921CA4BACF7FE4BFF02004A00884248
 			Sector : 00000A87
 			Offset : 0000069C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B748
 			Patched data : 008842489910CA4B1921CA4BACF7FE4BFF02004A
 			Original data offset : 0x51B730
@@ -4165,14 +4165,14 @@ Commands count : 0x1
 		Data Number : 00000002
 			Sector : 00000184
 			Offset : 000007F8
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B728
 			Patched data : 1000A7DA3800004A
 			Original data offset : 0x51B720
 			Original data : 3800004A1000A7DA
 			Sector : 00000185
 			Offset : 000000CC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B728
 			Patched data : 1000A7DA3800004A
 			Original data offset : 0x51B720
@@ -4210,7 +4210,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000002A8
 			Offset : 00000774
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51AFA0
 			Patched data : 00904E48FFD9DB4B
 			Original data offset : 0x51AF98
@@ -4228,7 +4228,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000275
 			Offset : 00000564
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51AFA0
 			Patched data : 00904E48FFD9DB4B
 			Original data offset : 0x51AF98
@@ -4278,14 +4278,14 @@ Commands count : 0x1
 		Data Number : 00000002
 			Sector : 001BEFD4
 			Offset : 00000160
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51D058
 			Patched data : 881C4470
 			Original data offset : 0x51D050
 			Original data : 3C180200
 			Sector : 001BF067
 			Offset : 0000053C
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51D040
 			Patched data : F0FF6434FF00033C00088444FCFF6334
 			Original data offset : 0x51D030
@@ -4480,7 +4480,7 @@ Commands count : 0x4
 		Data Number : 00000001
 			Sector : 000001B2
 			Offset : 00000190
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51D018
 			Patched data : 000000000663040C0000000000000000FCFF4010
 			Original data offset : 0x51D000
@@ -4612,14 +4612,14 @@ Commands count : 0x2
 		Data Number : 00000002
 			Sector : 0005F32D
 			Offset : 0000061C
-			Size : 0000002CX
+			Size : 0000002C
 			Patched data offset : 0x51B5B8
 			Patched data : 3D03F081FF0200003D83EF81FF0200003D7BEE81FF020000FCDB0280FF020000FCDB2380FF020000FCDB4480
 			Original data offset : 0x51B588
 			Original data : FCDB0280FF020000FCDB2380FF020000FCDB4480FF0200003D03F081FF0200003D83EF81FF0200003D7BEE81
 			Sector : 0005F32D
 			Offset : 000007AC
-			Size : 0000003CX
+			Size : 0000003C
 			Patched data offset : 0x51B548
 			Patched data : 3C030080FF0200003C030080FF0200003C030080FF0200003C0300807CC9F921F20F0180FF0200003C030080FF020000CA0F005AFF0200003C030080
 			Original data offset : 0x51B508
@@ -4664,21 +4664,21 @@ Commands count : 0x1
 		Data Number : 00000003
 			Sector : 00007610
 			Offset : 000007BC
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B468
 			Patched data : 00884348AC21E54B008084303C2BE74B
 			Original data offset : 0x51B458
 			Original data : AC21E54B008084303C2BE74B00884348
 			Sector : 00007664
 			Offset : 00000510
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51B448
 			Patched data : 9C10C04BDC18C04BBE03684A
 			Original data offset : 0x51B438
 			Original data : BE03684A9C10C04BDC18C04B
 			Sector : 00007664
 			Offset : 000006C8
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51B448
 			Patched data : 9C10C04BDC18C04BBE03684A
 			Original data offset : 0x51B438
@@ -4706,7 +4706,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 000003F8
 			Offset : 0000057C
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51CF20
 			Patched data : 00000000
 			Original data offset : 0x51CF18
@@ -4727,7 +4727,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 000004B0
 			Offset : 00000754
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51CF20
 			Patched data : 00000000
 			Original data offset : 0x51CF18
@@ -4748,7 +4748,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0009A3C3
 			Offset : 000007B8
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B320
 			Patched data : 00000000
 			Original data offset : 0x51B318
@@ -4766,7 +4766,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000309
 			Offset : 000006C8
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B320
 			Patched data : 00000000
 			Original data offset : 0x51B318
@@ -4830,7 +4830,7 @@ Hash Offset : 33F9E0
 Commands offset : 51CEA0
 Commands count : 0x1
 	[GX] Command ID : 0x16
-	[Net] Command ID : 0x18 or 0x19
+	[Net] Command ID : 0x18
 		Nothing to do
 
 Title : Growlanser II - The Sense of Justice
@@ -4865,14 +4865,14 @@ Commands count : 0x1
 		Data Number : 00000002
 			Sector : 001A8311
 			Offset : 000002C4
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51CE70
 			Patched data : 2C480A4B008843482C600B4BFF02004AFF02004AFF02004A
 			Original data offset : 0x51CE58
 			Original data : 2C480A4B2C600B4BFF02004AFF02004AFF02004A00884348
 			Sector : 001A8312
 			Offset : 000000C8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51CE40
 			Patched data : 008843482C28E44BFF02004AFF02004AFF02004A
 			Original data offset : 0x51CE28
@@ -4890,21 +4890,21 @@ Commands count : 0x2
 		Data Number : 00000003
 			Sector : 000002C3
 			Offset : 00000664
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B0F0
 			Patched data : 0440044B008048480540044BFF02004AFF02004AFF02004AFF02004A00804948
 			Original data offset : 0x51B0D0
 			Original data : 0440044B0540044BFF02004AFF02004AFF02004AFF02004A0080484800804948
 			Sector : 000002C3
 			Offset : 000007FC
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B0B8
 			Patched data : 008848480540044B008849480640044B
 			Original data offset : 0x51B0A0
 			Original data : 0540044B0640044BFF02004AFF02004A
 			Sector : 000002C4
 			Offset : 0000000C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B0C8
 			Patched data : FF02004AFF02004A
 			Original data offset : 0x51B0B0
@@ -4925,14 +4925,14 @@ Commands count : 0x2
 		Data Number : 00000002
 			Sector : 00000272
 			Offset : 0000022C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B0F0
 			Patched data : 0440044B008048480540044BFF02004AFF02004AFF02004AFF02004A00804948
 			Original data offset : 0x51B0D0
 			Original data : 0440044B0540044BFF02004AFF02004AFF02004AFF02004A0080484800804948
 			Sector : 00000272
 			Offset : 000003BC
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B0B8
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B0A0
@@ -4994,21 +4994,21 @@ Commands count : 0x1
 		Data Number : 00000003
 			Sector : 0000027F
 			Offset : 000007A4
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B260
 			Patched data : 0440044B008048480540044BFF02004A
 			Original data offset : 0x51B250
 			Original data : 0440044B0540044BFF02004AFF02004A
 			Sector : 0000027F
 			Offset : 000007BC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B248
 			Patched data : FF02004A00804948
 			Original data offset : 0x51B240
 			Original data : 0080484800804948
 			Sector : 00000280
 			Offset : 0000013C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B228
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B210
@@ -5063,7 +5063,7 @@ Hash Offset : 33FB18
 Commands offset : 51DB38
 Commands count : 0x1
 	[GX] Command ID : 0x17
-	[Net] Command ID : 0x19 or 0x1A
+	[Net] Command ID : 0x1A
 		Nothing to do
 
 Title : Dance Dance Revolution Extreme
@@ -5183,7 +5183,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000277
 			Offset : 00000374
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B1B0
 			Patched data : 2C60004B008849482C68004B00884A482C680C4B00884B48FF02004AFF02004A
 			Original data offset : 0x51B190
@@ -5201,7 +5201,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000193
 			Offset : 0000068C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B1B0
 			Patched data : 2C60004B008849482C68004B00884A482C680C4B00884B48FF02004AFF02004A
 			Original data offset : 0x51B190
@@ -5541,7 +5541,7 @@ Commands count : 0x3
 		Data Number : 00000001
 			Sector : 0000012C
 			Offset : 000000FC
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51CBC0
 			Patched data : 0200A0140100669109F88000
 			Original data offset : 0x51CBB0
@@ -5775,259 +5775,259 @@ Commands count : 0x1
 		Data Number : 00000025
 			Sector : 0007A12E
 			Offset : 0000060C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A12F
 			Offset : 00000768
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A130
 			Offset : 00000608
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A130
 			Offset : 0000069C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A130
 			Offset : 00000734
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A13A
 			Offset : 00000488
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A150
 			Offset : 00000094
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A150
 			Offset : 000002EC
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A177
 			Offset : 000002B4
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A177
 			Offset : 000005DC
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A178
 			Offset : 00000258
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A1A8
 			Offset : 00000318
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A1A8
 			Offset : 000003B0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A1EA
 			Offset : 00000744
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A1EA
 			Offset : 000007E8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A25E
 			Offset : 00000178
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A25F
 			Offset : 000001D0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A25F
 			Offset : 000007BC
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A282
 			Offset : 00000534
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A282
 			Offset : 000005CC
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A3B2
 			Offset : 00000360
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A3B2
 			Offset : 000003F8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A40C
 			Offset : 00000468
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A40D
 			Offset : 000001A4
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A40D
 			Offset : 00000244
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A40D
 			Offset : 00000450
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A40D
 			Offset : 00000664
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A4DA
 			Offset : 00000738
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A270
 			Offset : 00000014
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 0007A271
 			Offset : 00000024
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 0007A280
 			Offset : 00000320
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 0007A285
 			Offset : 00000194
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 0007A3B2
 			Offset : 000006B8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 0007A29D
 			Offset : 00000474
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 0007A29D
 			Offset : 00000690
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 0007A29E
 			Offset : 00000230
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 0007A29E
 			Offset : 000007F4
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
@@ -6045,21 +6045,21 @@ Commands count : 0x1
 		Data Number : 00000003
 			Sector : 000053FE
 			Offset : 0000069C
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B468
 			Patched data : 00884348AC21E54B008084303C2BE74B
 			Original data offset : 0x51B458
 			Original data : AC21E54B008084303C2BE74B00884348
 			Sector : 00005452
 			Offset : 00000098
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51B448
 			Patched data : 9C10C04BDC18C04BBE03684A
 			Original data offset : 0x51B438
 			Original data : BE03684A9C10C04BDC18C04B
 			Sector : 00005452
 			Offset : 00000240
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51B448
 			Patched data : 9C10C04BDC18C04BBE03684A
 			Original data offset : 0x51B438
@@ -6113,161 +6113,161 @@ Commands count : 0x1
 		Data Number : 00000017
 			Sector : 001C38D3
 			Offset : 000004C0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 001C38D3
 			Offset : 00000558
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 001C38D9
 			Offset : 00000164
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 001C38D9
 			Offset : 000001FC
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 001C390D
 			Offset : 000004F4
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 001C390E
 			Offset : 00000650
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 001C390F
 			Offset : 000004F0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 001C390F
 			Offset : 00000584
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 001C390F
 			Offset : 0000061C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 001C3918
 			Offset : 00000388
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 001C38C6
 			Offset : 00000260
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 001C38C7
 			Offset : 000002E8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 001C38C8
 			Offset : 00000120
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 001C38C8
 			Offset : 00000740
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 001C38D4
 			Offset : 00000018
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 001C38D6
 			Offset : 00000750
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 001C38DB
 			Offset : 000005C4
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 001C38E2
 			Offset : 00000570
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 001C38E3
 			Offset : 00000580
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 001C3941
 			Offset : 0000063C
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 001C3942
 			Offset : 00000058
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 001C3942
 			Offset : 00000404
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 001C3943
 			Offset : 000001D0
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
@@ -6330,7 +6330,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0000147C
 			Offset : 00000580
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B860
 			Patched data : 0001013C80BF033CC810638C24186100FBFF611000000000
 			Original data offset : 0x51B848
@@ -6662,49 +6662,49 @@ Commands count : 0x2
 		Data Number : 00000007
 			Sector : 0017FF05
 			Offset : 000007F0
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51B9C8
 			Patched data : 1000C427B732000C00000000
 			Original data offset : 0x51B9B8
 			Original data : 2B000424B332000C1000C527
 			Sector : 0017FF05
 			Offset : 000005F4
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 0017FF0F
 			Offset : 00000708
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 0017FF19
 			Offset : 00000118
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 0017FF19
 			Offset : 00000170
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 0017FF19
 			Offset : 000001C8
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 0017FF1A
 			Offset : 000007FC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
@@ -6731,42 +6731,42 @@ Commands count : 0x2
 		Data Number : 00000006
 			Sector : 0019F131
 			Offset : 0000055C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 0019F13B
 			Offset : 00000714
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 0019F145
 			Offset : 000000D8
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 0019F145
 			Offset : 00000130
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 0019F145
 			Offset : 00000188
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 0019F146
 			Offset : 000007AC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
@@ -7070,7 +7070,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000078
 			Offset : 00000418
-			Size : 000000B0X
+			Size : 000000B0
 			Patched data offset : 0x51C6F8
 			Patched data : 1C21C04BBC03E54BBC61E84BBD68E84BBE70E84B0B7AE84BFD39274A5C29C04BBC03E64BBC61E94BBD68E94BBE70E94B4B7AE94BFD41284A9C31C04BBC03E74BBC61EA4BBD68EA4BBE70EA4B8B7AEA4BFD49294ADC39C04BBC03E84BBC61EB4BBD68EB4BBE70EB4BCB7AEB4B3C23C14B1C42C04BBC03E94B3C23C24B6F08C54BAB10C54BFD512A4AFD592B4A5C4AC04BBC03EA4B6F08C64BAB10C64B6F08C74BAB10C74BBF03004A9C52C04BBC03EB4B
 			Original data offset : 0x51C648
@@ -7122,7 +7122,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000197
 			Offset : 000003EC
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B120
 			Patched data : 00904448FF49C94BFF02004AFF02004A
 			Original data offset : 0x51B110
@@ -7173,7 +7173,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 00000987
 			Offset : 00000548
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B8C0
 			Patched data : 00000000
 			Original data offset : 0x51B8B8
@@ -7207,7 +7207,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000006A3
 			Offset : 000005B8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B830
 			Patched data : FF02004A00884548BF19E04BBC48EA4B8C18EA4B
 			Original data offset : 0x51B818
@@ -7225,14 +7225,14 @@ Commands count : 0x1
 		Data Number : 00000002
 			Sector : 00000569
 			Offset : 00000744
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B748
 			Patched data : 008842489910CA4B1921CA4BACF7FE4BFF02004A
 			Original data offset : 0x51B730
 			Original data : 9910CA4B1921CA4BACF7FE4BFF02004A00884248
 			Sector : 0000056A
 			Offset : 00000134
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B748
 			Patched data : 008842489910CA4B1921CA4BACF7FE4BFF02004A
 			Original data offset : 0x51B730
@@ -7250,14 +7250,14 @@ Commands count : 0x1
 		Data Number : 00000002
 			Sector : 0015DFE1
 			Offset : 000001C4
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51AF58
 			Patched data : 008048488301044B
 			Original data offset : 0x51AF50
 			Original data : 8301044B00804848
 			Sector : 0015DFE1
 			Offset : 00000278
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51AF48
 			Patched data : 008048480301044B
 			Original data offset : 0x51AF40
@@ -7305,7 +7305,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000003B5
 			Offset : 00000424
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51C608
 			Patched data : 0080224800602348B855004A
 			Original data offset : 0x51C5F8
@@ -7323,7 +7323,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000004E7
 			Offset : 000003CC
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B120
 			Patched data : 00904448FF49C94BFF02004AFF02004A
 			Original data offset : 0x51B110
@@ -7341,35 +7341,35 @@ Commands count : 0x1
 		Data Number : 00000005
 			Sector : 00000293
 			Offset : 000005A4
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B260
 			Patched data : 0440044B008048480540044BFF02004A
 			Original data offset : 0x51B250
 			Original data : 0440044B0540044BFF02004AFF02004A
 			Sector : 00000293
 			Offset : 000005BC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B248
 			Patched data : FF02004A00804948
 			Original data offset : 0x51B240
 			Original data : 0080484800804948
 			Sector : 00000293
 			Offset : 0000073C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B228
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B210
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045F
 			Offset : 00000288
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B1F8
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B1E0
 			Original data : 6005804AFF02004A3C63F44BFF02004A00804248
 			Sector : 0000039C
 			Offset : 0000058C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51C5F0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51C5E8
@@ -7387,35 +7387,35 @@ Commands count : 0x1
 		Data Number : 00000005
 			Sector : 00000293
 			Offset : 000005A4
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B260
 			Patched data : 0440044B008048480540044BFF02004A
 			Original data offset : 0x51B250
 			Original data : 0440044B0540044BFF02004AFF02004A
 			Sector : 00000293
 			Offset : 000005BC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B248
 			Patched data : FF02004A00804948
 			Original data offset : 0x51B240
 			Original data : 0080484800804948
 			Sector : 00000293
 			Offset : 0000073C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B228
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B210
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045F
 			Offset : 00000288
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B1F8
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B1E0
 			Original data : 6005804AFF02004A3C63F44BFF02004A00804248
 			Sector : 0000039C
 			Offset : 0000058C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51C5F0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51C5E8
@@ -7433,35 +7433,35 @@ Commands count : 0x1
 		Data Number : 00000005
 			Sector : 00000293
 			Offset : 000005A4
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B260
 			Patched data : 0440044B008048480540044BFF02004A
 			Original data offset : 0x51B250
 			Original data : 0440044B0540044BFF02004AFF02004A
 			Sector : 00000293
 			Offset : 000005BC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B248
 			Patched data : FF02004A00804948
 			Original data offset : 0x51B240
 			Original data : 0080484800804948
 			Sector : 00000293
 			Offset : 0000073C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B228
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B210
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045F
 			Offset : 00000288
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B1F8
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B1E0
 			Original data : 6005804AFF02004A3C63F44BFF02004A00804248
 			Sector : 0000039C
 			Offset : 0000058C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51C5F0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51C5E8
@@ -7479,35 +7479,35 @@ Commands count : 0x1
 		Data Number : 00000005
 			Sector : 00000293
 			Offset : 000005A4
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B260
 			Patched data : 0440044B008048480540044BFF02004A
 			Original data offset : 0x51B250
 			Original data : 0440044B0540044BFF02004AFF02004A
 			Sector : 00000293
 			Offset : 000005BC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B248
 			Patched data : FF02004A00804948
 			Original data offset : 0x51B240
 			Original data : 0080484800804948
 			Sector : 00000293
 			Offset : 0000073C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B228
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B210
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045F
 			Offset : 00000288
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B1F8
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B1E0
 			Original data : 6005804AFF02004A3C63F44BFF02004A00804248
 			Sector : 0000039C
 			Offset : 0000058C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51C5F0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51C5E8
@@ -7525,35 +7525,35 @@ Commands count : 0x1
 		Data Number : 00000005
 			Sector : 00000293
 			Offset : 000005A4
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B260
 			Patched data : 0440044B008048480540044BFF02004A
 			Original data offset : 0x51B250
 			Original data : 0440044B0540044BFF02004AFF02004A
 			Sector : 00000293
 			Offset : 000005BC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B248
 			Patched data : FF02004A00804948
 			Original data offset : 0x51B240
 			Original data : 0080484800804948
 			Sector : 00000293
 			Offset : 0000073C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B228
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B210
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045F
 			Offset : 00000288
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B1F8
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B1E0
 			Original data : 6005804AFF02004A3C63F44BFF02004A00804248
 			Sector : 0000039C
 			Offset : 0000058C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51C5F0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51C5E8
@@ -7580,7 +7580,7 @@ Commands count : 0x3
 		Data Number : 00000001
 			Sector : 00000531
 			Offset : 000005DC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51C5E0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51C5D8
@@ -7985,7 +7985,7 @@ Hash Offset : 340880
 Commands offset : 51DB38
 Commands count : 0x1
 	[GX] Command ID : 0x17
-	[Net] Command ID : 0x19 or 0x1A
+	[Net] Command ID : 0x1A
 		Nothing to do
 
 Title : Rayman 3 - Hoodlum Havoc
@@ -8388,7 +8388,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 0000026A
 			Offset : 000004DC
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51D338
 			Patched data : 00000000
 			Original data offset : 0x51D330
@@ -8786,21 +8786,21 @@ Commands count : 0x2
 		Data Number : 00000003
 			Sector : 00000272
 			Offset : 0000032C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B0F0
 			Patched data : 0440044B008048480540044BFF02004AFF02004AFF02004AFF02004A00804948
 			Original data offset : 0x51B0D0
 			Original data : 0440044B0540044BFF02004AFF02004AFF02004AFF02004A0080484800804948
 			Sector : 00000272
 			Offset : 000004BC
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B0B8
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B0A0
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045B
 			Offset : 000004F0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B088
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B070
@@ -8821,21 +8821,21 @@ Commands count : 0x2
 		Data Number : 00000003
 			Sector : 00000272
 			Offset : 0000032C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B0F0
 			Patched data : 0440044B008048480540044BFF02004AFF02004AFF02004AFF02004A00804948
 			Original data offset : 0x51B0D0
 			Original data : 0440044B0540044BFF02004AFF02004AFF02004AFF02004A0080484800804948
 			Sector : 00000272
 			Offset : 000004BC
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B0B8
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B0A0
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045B
 			Offset : 000004F0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B088
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B070
@@ -8856,21 +8856,21 @@ Commands count : 0x2
 		Data Number : 00000003
 			Sector : 00000272
 			Offset : 0000032C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B0F0
 			Patched data : 0440044B008048480540044BFF02004AFF02004AFF02004AFF02004A00804948
 			Original data offset : 0x51B0D0
 			Original data : 0440044B0540044BFF02004AFF02004AFF02004AFF02004A0080484800804948
 			Sector : 00000272
 			Offset : 000004BC
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B0B8
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B0A0
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045B
 			Offset : 000004F8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B088
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B070
@@ -8891,21 +8891,21 @@ Commands count : 0x2
 		Data Number : 00000003
 			Sector : 00000272
 			Offset : 0000032C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B0F0
 			Patched data : 0440044B008048480540044BFF02004AFF02004AFF02004AFF02004A00804948
 			Original data offset : 0x51B0D0
 			Original data : 0440044B0540044BFF02004AFF02004AFF02004AFF02004A0080484800804948
 			Sector : 00000272
 			Offset : 000004BC
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B0B8
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B0A0
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045B
 			Offset : 000004F0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B088
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B070
@@ -8926,21 +8926,21 @@ Commands count : 0x2
 		Data Number : 00000003
 			Sector : 00000272
 			Offset : 0000032C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B0F0
 			Patched data : 0440044B008048480540044BFF02004AFF02004AFF02004AFF02004A00804948
 			Original data offset : 0x51B0D0
 			Original data : 0440044B0540044BFF02004AFF02004AFF02004AFF02004A0080484800804948
 			Sector : 00000272
 			Offset : 000004BC
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B0B8
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B0A0
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045B
 			Offset : 000004F8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B088
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B070
@@ -8956,7 +8956,7 @@ Hash Offset : 340D78
 Commands offset : 51CEA0
 Commands count : 0x1
 	[GX] Command ID : 0x16
-	[Net] Command ID : 0x18 or 0x19
+	[Net] Command ID : 0x18
 		Nothing to do
 
 Title : GRAND THEFT AUTO - VICE CITY STORIES
@@ -9470,7 +9470,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0000030E
 			Offset : 00000700
-			Size : 00000058X
+			Size : 00000058
 			Patched data offset : 0x51BF80
 			Patched data : 04024634180066AC018006341C0066AC0020063C200066ACE8000634240066AC280060FC300060FC0500063C0408C634380060AC3C0066AC400060AC47000624440066AC480060AC4C0067AC000090442000804660000624
 			Original data offset : 0x51BF28
@@ -9488,7 +9488,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000575
 			Offset : 000003FC
-			Size : 00000040X
+			Size : 00000040
 			Patched data offset : 0x51BEE8
 			Patched data : E0FEBD276C0006247000BFFF2D20A0038000B07F0000B08CD18A0C0C2D2800002D2000024E860A0C2D28A0038000B07B2D10A0037000BFDF0800E0032001BD27
 			Original data offset : 0x51BEA8
@@ -9506,7 +9506,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000536
 			Offset : 000002E4
-			Size : 00000040X
+			Size : 00000040
 			Patched data offset : 0x51BE68
 			Patched data : E0FEBD276C0006247000BFFF2D20A0038000B07F0000B08C898C0C0C2D2800002D20000208880A0C2D28A0038000B07B2D10A0037000BFDF0800E0032001BD27
 			Original data offset : 0x51BE28
@@ -9922,7 +9922,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000001F5
 			Offset : 00000468
-			Size : 000000B0X
+			Size : 000000B0
 			Patched data offset : 0x51C6F8
 			Patched data : 1C21C04BBC03E54BBC61E84BBD68E84BBE70E84B0B7AE84BFD39274A5C29C04BBC03E64BBC61E94BBD68E94BBE70E94B4B7AE94BFD41284A9C31C04BBC03E74BBC61EA4BBD68EA4BBE70EA4B8B7AEA4BFD49294ADC39C04BBC03E84BBC61EB4BBD68EB4BBE70EB4BCB7AEB4B3C23C14B1C42C04BBC03E94B3C23C24B6F08C54BAB10C54BFD512A4AFD592B4A5C4AC04BBC03EA4B6F08C64BAB10C64B6F08C74BAB10C74BBF03004A9C52C04BBC03EB4B
 			Original data offset : 0x51C648
@@ -10269,49 +10269,49 @@ Commands count : 0x2
 		Data Number : 00000007
 			Sector : 00186A71
 			Offset : 000007F0
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51B9C8
 			Patched data : 1000C427B732000C00000000
 			Original data offset : 0x51B9B8
 			Original data : 2B000424B332000C1000C527
 			Sector : 00186A71
 			Offset : 000005F4
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186A7B
 			Offset : 00000708
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186A85
 			Offset : 00000118
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186A85
 			Offset : 00000170
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186A85
 			Offset : 000001C8
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
 			Original data : F0FFBD270800BEAF
 			Sector : 00186A86
 			Offset : 000007FC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B9B0
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B9A8
@@ -10329,7 +10329,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00044F27
 			Offset : 00000120
-			Size : 00000024X
+			Size : 00000024
 			Patched data offset : 0x51B980
 			Patched data : 06008014212043002110A0000200A0140000000001000524EBFF401004008424FCFF9024
 			Original data offset : 0x51B958
@@ -10812,7 +10812,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 00000F61
 			Offset : 00000210
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B8C0
 			Patched data : 00000000
 			Original data offset : 0x51B8B8
@@ -10836,7 +10836,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 00000995
 			Offset : 000003A8
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B8C0
 			Patched data : 00000000
 			Original data offset : 0x51B8B8
@@ -10965,7 +10965,7 @@ Commands count : 0x4
 		Data Number : 00000001
 			Sector : 0000011E
 			Offset : 000006F8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B8A0
 			Patched data : 000000003243040C0000000000000000FCFF4010
 			Original data offset : 0x51B888
@@ -11057,7 +11057,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0004056B
 			Offset : 00000594
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B880
 			Patched data : 00000000
 			Original data offset : 0x51B878
@@ -11075,7 +11075,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00001D1A
 			Offset : 00000580
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B860
 			Patched data : 0001013C80BF033CC810638C24186100FBFF611000000000
 			Original data offset : 0x51B848
@@ -11093,7 +11093,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00001F5B
 			Offset : 00000580
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B860
 			Patched data : 0001013C80BF033CC810638C24186100FBFF611000000000
 			Original data offset : 0x51B848
@@ -11111,7 +11111,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000006A3
 			Offset : 00000508
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B830
 			Patched data : FF02004A00884548BF19E04BBC48EA4B8C18EA4B
 			Original data offset : 0x51B818
@@ -11129,7 +11129,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000006A3
 			Offset : 000006A0
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B830
 			Patched data : FF02004A00884548BF19E04BBC48EA4B8C18EA4B
 			Original data offset : 0x51B818
@@ -11249,7 +11249,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0010E1CA
 			Offset : 00000730
-			Size : 00000038X
+			Size : 00000038
 			Patched data offset : 0x51B798
 			Patched data : 0010033C0100022405008210009063340200022402008210001063240D0000000000628C00014230FDFF4014000000000800E00300000000
 			Original data offset : 0x51B760
@@ -11267,14 +11267,14 @@ Commands count : 0x1
 		Data Number : 00000002
 			Sector : 00000472
 			Offset : 00000544
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B748
 			Patched data : 008842489910CA4B1921CA4BACF7FE4BFF02004A
 			Original data offset : 0x51B730
 			Original data : 9910CA4B1921CA4BACF7FE4BFF02004A00884248
 			Sector : 00000472
 			Offset : 00000734
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B748
 			Patched data : 008842489910CA4B1921CA4BACF7FE4BFF02004A
 			Original data offset : 0x51B730
@@ -11362,14 +11362,14 @@ Commands count : 0x1
 		Data Number : 00000002
 			Sector : 0000031C
 			Offset : 000004F4
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B728
 			Patched data : 1000A7DA3800004A
 			Original data offset : 0x51B720
 			Original data : 3800004A1000A7DA
 			Sector : 0000031C
 			Offset : 000005C8
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B728
 			Patched data : 1000A7DA3800004A
 			Original data offset : 0x51B720
@@ -11457,7 +11457,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000002A8
 			Offset : 00000804
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51AFA0
 			Patched data : 00904E48FFD9DB4B
 			Original data offset : 0x51AF98
@@ -11475,7 +11475,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000C4078
 			Offset : 00000244
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51AFA0
 			Patched data : 00904E48FFD9DB4B
 			Original data offset : 0x51AF98
@@ -11678,7 +11678,7 @@ Commands count : 0x4
 		Data Number : 00000001
 			Sector : 000001B2
 			Offset : 00000438
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B708
 			Patched data : 00000000C065040C0000000000000000FCFF4010
 			Original data offset : 0x51B6F0
@@ -11999,14 +11999,14 @@ Commands count : 0x2
 		Data Number : 00000002
 			Sector : 000003D6
 			Offset : 000003FC
-			Size : 0000002CX
+			Size : 0000002C
 			Patched data offset : 0x51B5B8
 			Patched data : 3D03F081FF0200003D83EF81FF0200003D7BEE81FF020000FCDB0280FF020000FCDB2380FF020000FCDB4480
 			Original data offset : 0x51B588
 			Original data : FCDB0280FF020000FCDB2380FF020000FCDB4480FF0200003D03F081FF0200003D83EF81FF0200003D7BEE81
 			Sector : 000003D6
 			Offset : 0000058C
-			Size : 0000003CX
+			Size : 0000003C
 			Patched data offset : 0x51B548
 			Patched data : 3C030080FF0200003C030080FF0200003C030080FF0200003C0300807CC9F921F20F0180FF0200003C030080FF020000CA0F005AFF0200003C030080
 			Original data offset : 0x51B508
@@ -12041,28 +12041,28 @@ Commands count : 0x1
 		Data Number : 00000004
 			Sector : 0000004C
 			Offset : 0000023C
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B500
 			Patched data : FCFF0149
 			Original data offset : 0x51B4F8
 			Original data : 8C600808
 			Sector : 000000F1
 			Offset : 00000304
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B4F0
 			Patched data : FCFF0149
 			Original data offset : 0x51B4E8
 			Original data : BEAA0908
 			Sector : 000000F4
 			Offset : 000000D4
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B4E0
 			Patched data : FCFF0149
 			Original data offset : 0x51B4D8
 			Original data : 32B00908
 			Sector : 000000F4
 			Offset : 000003E4
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B4D0
 			Patched data : FCFF0149
 			Original data offset : 0x51B4C8
@@ -12090,7 +12090,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00025E45
 			Offset : 00000270
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B480
 			Patched data : 100010D93800004A
 			Original data offset : 0x51B478
@@ -12108,21 +12108,21 @@ Commands count : 0x1
 		Data Number : 00000003
 			Sector : 00007614
 			Offset : 0000072C
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B468
 			Patched data : 00884348AC21E54B008084303C2BE74B
 			Original data offset : 0x51B458
 			Original data : AC21E54B008084303C2BE74B00884348
 			Sector : 00007669
 			Offset : 00000400
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51B448
 			Patched data : 9C10C04BDC18C04BBE03684A
 			Original data offset : 0x51B438
 			Original data : BE03684A9C10C04BDC18C04B
 			Sector : 00007669
 			Offset : 000005B8
-			Size : 0000000CX
+			Size : 0000000C
 			Patched data offset : 0x51B448
 			Patched data : 9C10C04BDC18C04BBE03684A
 			Original data offset : 0x51B438
@@ -12234,7 +12234,7 @@ Commands count : 0x4
 		Data Number : 00000001
 			Sector : 0000165A
 			Offset : 00000478
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B3F0
 			Patched data : 000000000601040C0000000000000000FCFF4014
 			Original data offset : 0x51B3D8
@@ -12330,21 +12330,21 @@ Commands count : 0x1
 		Data Number : 00000003
 			Sector : 000005D9
 			Offset : 00000060
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B3C0
 			Patched data : 00884448E00090306C11F04BFF02004A00884448AC19F04B
 			Original data offset : 0x51B3A8
 			Original data : 6C11F04BFF02004AAC19F04B00884448E000903000884448
 			Sector : 000005D9
 			Offset : 00000090
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B390
 			Patched data : 00884448E00090306C89E24BFF02004A00884448AC89E34B
 			Original data offset : 0x51B378
 			Original data : 6C89E24BFF02004AAC89E34B00884448E000903000884448
 			Sector : 000005D9
 			Offset : 00000294
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B360
 			Patched data : 00884348FF02004AFF02004AFF02004AAC10E14B
 			Original data offset : 0x51B348
@@ -12362,7 +12362,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0000050B
 			Offset : 0000004C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B340
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B338
@@ -12380,7 +12380,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 0000050B
 			Offset : 0000003C
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B330
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B328
@@ -12517,7 +12517,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00110E04
 			Offset : 000001D8
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B320
 			Patched data : 00000000
 			Original data offset : 0x51B318
@@ -12535,7 +12535,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000002BA
 			Offset : 000004F8
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51B320
 			Patched data : 00000000
 			Original data offset : 0x51B318
@@ -12914,35 +12914,35 @@ Commands count : 0x1
 		Data Number : 00000005
 			Sector : 0000027F
 			Offset : 000006A4
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B260
 			Patched data : 0440044B008048480540044BFF02004A
 			Original data offset : 0x51B250
 			Original data : 0440044B0540044BFF02004AFF02004A
 			Sector : 0000027F
 			Offset : 000006BC
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B248
 			Patched data : FF02004A00804948
 			Original data offset : 0x51B240
 			Original data : 0080484800804948
 			Sector : 00000280
 			Offset : 0000003C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B228
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B210
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 00000455
 			Offset : 00000488
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B1F8
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B1E0
 			Original data : 6005804AFF02004A3C63F44BFF02004A00804248
 			Sector : 0000038F
 			Offset : 00000504
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51B1D8
 			Patched data : 0800E00300000000
 			Original data offset : 0x51B1D0
@@ -12960,7 +12960,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00210F89
 			Offset : 0000039C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B1B0
 			Patched data : 2C60004B008849482C68004B00884A482C680C4B00884B48FF02004AFF02004A
 			Original data offset : 0x51B190
@@ -12978,7 +12978,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000192
 			Offset : 000006C4
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B1B0
 			Patched data : 2C60004B008849482C68004B00884A482C680C4B00884B48FF02004AFF02004A
 			Original data offset : 0x51B190
@@ -13063,7 +13063,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 000004E5
 			Offset : 000003BC
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51B120
 			Patched data : 00904448FF49C94BFF02004AFF02004A
 			Original data offset : 0x51B110
@@ -13081,21 +13081,21 @@ Commands count : 0x2
 		Data Number : 00000003
 			Sector : 00000272
 			Offset : 0000036C
-			Size : 00000020X
+			Size : 00000020
 			Patched data offset : 0x51B0F0
 			Patched data : 0440044B008048480540044BFF02004AFF02004AFF02004AFF02004A00804948
 			Original data offset : 0x51B0D0
 			Original data : 0440044B0540044BFF02004AFF02004AFF02004AFF02004A0080484800804948
 			Sector : 00000272
 			Offset : 000004FC
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51B0B8
 			Patched data : 008848480540044B008849480640044BFF02004AFF02004A
 			Original data offset : 0x51B0A0
 			Original data : 0540044B0640044BFF02004AFF02004A0088484800884948
 			Sector : 0000045B
 			Offset : 00000648
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B088
 			Patched data : 00804248FF02004A3C63F44BFF02004A6005804A
 			Original data offset : 0x51B070
@@ -13397,7 +13397,7 @@ Hash Offset : 3426C8
 Commands offset : 51DB38
 Commands count : 0x1
 	[GX] Command ID : 0x17
-	[Net] Command ID : 0x19 or 0x1A
+	[Net] Command ID : 0x1A
 		Nothing to do
 
 Title : The Getaway
@@ -13425,259 +13425,259 @@ Commands count : 0x1
 		Data Number : 00000025
 			Sector : 0007A12E
 			Offset : 0000060C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A12F
 			Offset : 00000768
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A130
 			Offset : 00000608
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A130
 			Offset : 0000069C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A130
 			Offset : 00000734
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A13A
 			Offset : 00000488
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A150
 			Offset : 00000094
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A150
 			Offset : 000002EC
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A177
 			Offset : 00000364
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A177
 			Offset : 0000068C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A178
 			Offset : 00000308
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A1A8
 			Offset : 00000404
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A1A8
 			Offset : 0000049C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A1EB
 			Offset : 000004D8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A1EB
 			Offset : 0000057C
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A25D
 			Offset : 000007BC
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A25F
 			Offset : 00000014
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A25F
 			Offset : 00000600
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A282
 			Offset : 00000378
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A282
 			Offset : 00000410
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A3AF
 			Offset : 000000B8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A3AF
 			Offset : 00000150
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A409
 			Offset : 00000318
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A40A
 			Offset : 00000054
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A40A
 			Offset : 000000F4
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A40A
 			Offset : 00000300
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A40A
 			Offset : 00000514
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A4D7
 			Offset : 000006F4
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51B010
 			Patched data : 008846482C68EC4B7D618D4B7C616D4AFF02004A
 			Original data offset : 0x51AFF8
 			Original data : 2C68EC4B7D618D4B7C616D4AFF02004A00884648
 			Sector : 0007A26F
 			Offset : 00000658
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 0007A270
 			Offset : 00000668
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 0007A280
 			Offset : 00000164
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 0007A284
 			Offset : 000007D8
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 0007A3AF
 			Offset : 00000410
-			Size : 00000014X
+			Size : 00000014
 			Patched data offset : 0x51AFE0
 			Patched data : 008846482C68EC4B7D61ED4BFF02004AFF02004A
 			Original data offset : 0x51AFC8
 			Original data : 2C68EC4B7D61ED4BFF02004AFF02004A00884648
 			Sector : 0007A29D
 			Offset : 0000041C
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 0007A29D
 			Offset : 00000638
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 0007A29E
 			Offset : 000001D8
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
 			Original data : 40EF5D4AFF02004AFF02004A00885848
 			Sector : 0007A29E
 			Offset : 0000079C
-			Size : 00000010X
+			Size : 00000010
 			Patched data offset : 0x51AFB8
 			Patched data : 0088584840EF5D4AFF02004AFF02004A
 			Original data offset : 0x51AFA8
@@ -13759,7 +13759,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000275
 			Offset : 00000544
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51AFA0
 			Patched data : 00904E48FFD9DB4B
 			Original data offset : 0x51AF98
@@ -13777,7 +13777,7 @@ Commands count : 0x1
 		Data Number : 00000001
 			Sector : 00000445
 			Offset : 00000650
-			Size : 00000004X
+			Size : 00000004
 			Patched data offset : 0x51AF90
 			Patched data : B85C2500
 			Original data offset : 0x51AF88
@@ -13819,7 +13819,7 @@ Commands count : 0x2
 		Data Number : 00000001
 			Sector : 0016CE67
 			Offset : 000001A4
-			Size : 00000008X
+			Size : 00000008
 			Patched data offset : 0x51AF80
 			Patched data : 008043481B52064B
 			Original data offset : 0x51AF78
@@ -13991,14 +13991,14 @@ Commands count : 0x1
 		Data Number : 00000002
 			Sector : 0000060E
 			Offset : 000007C4
-			Size : 00000048X
+			Size : 00000048
 			Patched data offset : 0x51AE38
 			Patched data : 2C09F04B00884448E0009030FF02004A6C11F04B0088444824809000FF02004AAC19F04B00884448248090002100001E2C89E14B00884448E00090306C89E24B00884448AC89E34B
 			Original data offset : 0x51ADF0
 			Original data : 2C09F04BFF02004A6C11F04BFF02004AAC19F04B00884448E0009030008844482480900000884448248090002100001E2C89E14BFF02004A6C89E24BFF02004AAC89E34B00884448
 			Sector : 0000060F
 			Offset : 0000000C
-			Size : 00000018X
+			Size : 00000018
 			Patched data offset : 0x51ADD8
 			Patched data : FF02004AFF02004A2480900000884448248090001500001E
 			Original data offset : 0x51ADC0
