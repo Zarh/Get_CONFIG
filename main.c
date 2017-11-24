@@ -45,7 +45,7 @@ int main()
 	u32 cmd_id;
 	
 	FILE *elf;
-	elf = fopen("ps2_gxemu.elf", "r");
+	elf = fopen("ps2_gxemu.elf", "rb");
 	if(elf==NULL) {
 		printf("ps2_gxemu.elf not found");
 		return;
@@ -58,7 +58,7 @@ int main()
 	fclose(elf);
 		
 	FILE *ft;
-	ft = fopen("get_title/result.txt", "r");
+	ft = fopen("get_title/result.txt", "rb");
 	if(ft==NULL) {
 		printf("result.txt not found");
 		return;
@@ -68,7 +68,7 @@ int main()
 	mkdir("files");
 	
 	FILE *fo;
-	fo = fopen("log.txt", "w");
+	fo = fopen("log.txt", "wb");
 	
 	while(fgets(entry, 255, ft)) {
 		sscanf(entry, "%s %llX", game_ID, (unsigned long long int *) &hash);
@@ -77,9 +77,6 @@ int main()
 		sprintf(temp, "Game ID : %s\n", game_ID); fputs(temp, fo);
 		sprintf(temp, "Hash : 0x%llX\n", hash); fputs(temp, fo);
 		
-		
-		
-				
 		hash = swap64(hash);
 		
 		for(n=0; n<elf_size; n++) {
@@ -94,7 +91,7 @@ int main()
 				
 				u8 tofix=0;
 				
-				cfg = fopen(config_file, "w");
+				cfg = fopen(config_file, "wb");
 				
 				val32 = 0x3D;
 				fwrite(&val32, 1, sizeof(u32), cfg);
