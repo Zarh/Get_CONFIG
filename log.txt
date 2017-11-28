@@ -202,7 +202,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00138FCC
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 001394A8
@@ -222,7 +222,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 0022D3E0
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 0022D830
@@ -292,7 +292,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 0024F04C
 		[GX] Function offset : 0x36E28
-		[Net] Function ID : unk
+		[Net] Function ID : 0x19
 	[GX] Command ID : 0x0D
 	[Net] Command ID : 0x0F
 		Param 1 : 00132610
@@ -363,7 +363,7 @@ Commands count : 0x4
 	[Net] Command ID : 0x01
 		Param : 00164338
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 001646E8
@@ -388,7 +388,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00166748
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00166AF0
@@ -408,7 +408,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 001717D8
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00171AE0
@@ -428,7 +428,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00171940
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00171CE0
@@ -1355,7 +1355,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 002BD620
 		[GX] Function offset : 0x36C04
-		[Net] Function ID : unk
+		[Net] Function ID : 0x09
 
 Title : Hot Shots Tennis
 Game ID : SCUS_976.10
@@ -1411,7 +1411,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00175520
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 0017586C
@@ -1721,7 +1721,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 0025A560
 		[GX] Function offset : 0x347D0
-		[Net] Function ID : unk
+		[Net] Function ID : 0x17
 
 Title : Need for Speed - Carbon [Collector's Edition]
 Game ID : SLUS_214.94
@@ -1736,17 +1736,17 @@ Commands count : 0x4
 	[Net] Command ID : 0x01
 		Param : 003878E8
 		[GX] Function offset : 0x345FC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x0E
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00387AF0
 		[GX] Function offset : 0x345FC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x0E
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 002E03D8
 		[GX] Function offset : 0x345FC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x0E
 
 Title : Okami
 Game ID : SLUS_211.15
@@ -3119,7 +3119,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 003C73F4
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : WWF SmackDown! - Just Bring It!
 Game ID : SLUS_203.16
@@ -3151,7 +3151,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 00395250
 		[GX] Function offset : 0x34424
-		[Net] Function ID : unk
+		[Net] Function ID : 0x0C
 
 Title : Piglet's Big Game
 Game ID : SLES_516.67
@@ -3163,7 +3163,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0038EEA8
 		[GX] Function offset : 0x34424
-		[Net] Function ID : unk
+		[Net] Function ID : 0x0C
 
 Title : Piglet's Big Game
 Game ID : SLES_516.68
@@ -3175,7 +3175,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0038F248
 		[GX] Function offset : 0x34424
-		[Net] Function ID : unk
+		[Net] Function ID : 0x0C
 
 Title : Winnie the Pooh's Rumbly Tumbly Adventure
 Game ID : SLUS_210.84
@@ -3187,7 +3187,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 004859B0
 		[GX] Function offset : 0x34424
-		[Net] Function ID : unk
+		[Net] Function ID : 0x0C
 
 Title : MVP '06 - NCAA Baseball
 Game ID : SLUS_213.67
@@ -3366,7 +3366,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0049B784
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Star Wars Battlefront
 Game ID : SLUS_208.98
@@ -3378,7 +3378,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0039E6FC
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Dead or Alive 2
 Game ID : SLUS_200.71
@@ -7149,7 +7149,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0049B97C
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Harry Potter and The Prisoner of Azkaban
 Game ID : SLPM_656.12
@@ -7569,7 +7569,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 0024F05C
 		[GX] Function offset : 0x36E28
-		[Net] Function ID : unk
+		[Net] Function ID : 0x19
 	[GX] Command ID : 0x0D
 	[Net] Command ID : 0x0F
 		Param 1 : 00132620
@@ -9446,7 +9446,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0041A1D4
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Onimusha 3 - Demon Siege
 Game ID : SLES_519.14
@@ -9608,7 +9608,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 001390F0
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 001395F0
@@ -9628,7 +9628,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 0022D870
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 0022DCD0
@@ -10164,12 +10164,12 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 800017E8
 		[GX] Function offset : 0x36B40
-		[Net] Function ID : unk
+		[Net] Function ID : 0x00
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 80001858
 		[GX] Function offset : 0x35FB0
-		[Net] Function ID : unk
+		[Net] Function ID : 0x01
 
 Title : Jikkyou Powerful Pro Yakyuu 13 Chou Ketteiban
 Game ID : SLPM_665.90
@@ -10489,7 +10489,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0049B794
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Star Wars - Battlefront II
 Game ID : SLES_535.02
@@ -10501,7 +10501,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0049B794
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Star Wars - Battlefront II
 Game ID : SLES_535.03
@@ -10513,7 +10513,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0049B794
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Star Wars Battlefront
 Game ID : SLES_525.45
@@ -10525,7 +10525,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0039E6FC
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Star Wars Battlefront
 Game ID : SLES_525.47
@@ -10537,7 +10537,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0039E6FC
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Star Wars Battlefront
 Game ID : SLES_525.46
@@ -10549,7 +10549,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 0039E6FC
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Ico
 Game ID : SCES_507.60
@@ -11145,7 +11145,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00175870
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00175DA8
@@ -13967,7 +13967,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 006C7C84
 		[GX] Function offset : 0x36CF8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x05
 
 Title : Mana Khemia - Alchemists of Al-Revis
 Game ID : SLUS_217.35

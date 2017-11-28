@@ -144,6 +144,17 @@ int main()
 							fputs("\t\t[Net] Function ID : ", fo);
 							switch(func_offset)
 							{
+								
+								case 0x36B40 :
+								{
+									val32=0x00;
+									break;
+								}
+								case 0x35FB0:
+								{
+									val32=0x01;
+									break;
+								}
 								case 0x34068 :
 								{
 									val32=0x02;
@@ -154,9 +165,29 @@ int main()
 									val32=0x03;
 									break;
 								}
+								case 0x36CF8 :
+								{
+									val32=0x05;
+									break;
+								}
 								case 0x34224 :
 								{
 									val32=0x06;
+									break;
+								}
+								case 0x37850 :
+								{
+									val32=0x07;
+									break;
+								}
+								case 0x33E00 :
+								{
+									val32=0x08;
+									break;
+								}
+								case 0x36C04 :
+								{
+									val32=0x09;
 									break;
 								}
 								case 0x36EF0 :
@@ -169,6 +200,22 @@ int main()
 									val32=0x0B;
 									break;
 								}
+								case 0x34424 :
+								{
+									val32=0x0C;
+									break;
+								}
+								case 0x34520 :
+								{
+									val32=0x0D;
+									break;
+								}
+								case 0x345FC :
+								{
+									val32=0x0E;
+									break;
+								}
+								
 								case 0x365F0 :
 								{
 									val32=0x0F;
@@ -182,6 +229,26 @@ int main()
 								case 0x36430 :
 								{
 									val32=0x11;
+									break;
+								}
+								case 0x366C4 :
+								{
+									val32=0x12;
+									break;
+								}
+								case 0x347D0 :
+								{
+									val32=0x17;
+									break;
+								}
+								case 0x373FC :
+								{
+									val32=0x18;
+									break;
+								}
+								case 0x36E28 :
+								{
+									val32=0x19;
 									break;
 								}
 								case 0x36FC8 :
@@ -200,6 +267,7 @@ int main()
 							} else {
 								sprintf(temp, "0x%02X\n", val32); fputs(temp, fo);
 							}
+
 							fwrite(&val32, 1, sizeof(u32), cfg);
 							break;
 						}
