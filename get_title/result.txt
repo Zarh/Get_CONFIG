@@ -1,758 +1,788 @@
-SLUS_212.68 00000054a955f965	24 - The Game
-SCES_533.58 000000ac7169206d	24 - The Game
-SLUS_201.52 0000003bc13d916d	Ace Combat 4 - Shattered Skies
-SLUS_208.51 000000cc31cd61c5	Ace Combat 5 - The Unsung War
-SLUS_213.46 0000004cb14de1cd	Ace Combat Zero - The Belkan War
-SCUS_972.58 00000026918dc0ad	Amplitude
-SCUS_975.01 000000ef594508dd	Ape Escape 3
-SCES_536.42 000000d409115835	Ape Escape 3
-SLUS_205.69 00000084798529dd	All-Star Baseball 2004
-SLUS_211.65 0000003cc13d91c5	Arc the Lad - End of Darkness
-SLUS_205.70 00000084798529c5	ATV Quad Power Racing 2
-SLUS_200.35 00000003f905a98d	Baldur's Gate - Dark Alliance
-SLUS_206.75 000000a459a5092d	Baldur's Gate - Dark Alliance 2
-SLUS_201.36 0000003bc13d91ed	Barbarian
-SLUS_210.26 0000001ce11db19d	Battlefield 2 - Mordern Combat
-SLUS_212.69 00000054a955f96d	Bully
-SLUS_204.97 000000946995398d	Burnout 2 - Point of Impact
-SLUS_210.50 0000001ce11db15d	Burnout 3 - Takedown
-SLUS_201.41 0000003bc13d91c5	CART Fury - Championship Racing
-SLUS_209.62 000000ec11ed416d	Castle of Shikigami 2
-SLUS_205.65 00000084798529bd	Champions of Norrath
-SLES_523.25 000000ab71892135	Champions of Norrath - Realms of EverQuest
-SLUS_209.73 000000ec11ed4115	Champions - Return to Arms
-SLES_530.39 0000007ba159f1b5	Champions - Return to Arms
-SLES_527.68 0000003be119b18d	Commandos - Strike Force
-SLUS_211.03 0000000cf10da1e5	Commandos Strike Force
-SLUS_211.72 0000003cc13d910d	Conflict - Global Terror
-SLES_525.73 000000e339c169bd	Conflict - Global Storm
-SLUS_209.09 000000fc01fd5105	Crash Bandicoot Twinsanity
-SLES_525.68 000000e339c16995	Crash Twinsanity
-SLUS_209.16 000000fc01fd51cd	Dance Dance Revolution Extreme
-SLUS_212.96 0000005ca15df14d	Dance Factory
+SLUS_212.68 00000054A955F965	24 - The Game
+SCES_533.58 000000AC7169206D	24 - The Game
+SLUS_201.52 0000003BC13D916D	Ace Combat 4 - Shattered Skies
+SLUS_208.51 000000CC31CD61C5	Ace Combat 5 - The Unsung War
+SLUS_213.46 0000004CB14DE1CD	Ace Combat Zero - The Belkan War
+SCUS_972.58 00000026918DC0AD	Amplitude
+SCUS_975.01 000000EF594508DD	Ape Escape 3
+SCES_536.42 000000D409115835	Ape Escape 3
+SLUS_205.69 00000084798529DD	All-Star Baseball 2004
+SLUS_211.65 0000003CC13D91C5	Arc the Lad - End of Darkness
+SLUS_205.70 00000084798529C5	ATV Quad Power Racing 2
+SLUS_200.35 00000003F905A98D	Baldur's Gate - Dark Alliance
+SLUS_206.75 000000A459A5092D	Baldur's Gate - Dark Alliance 2
+SLUS_201.36 0000003BC13D91ED	Barbarian
+SLUS_210.26 0000001CE11DB19D	Battlefield 2 - Mordern Combat
+SLUS_212.69 00000054A955F96D	Bully
+SLUS_204.97 000000946995398D	Burnout 2 - Point of Impact
+SLUS_210.50 0000001CE11DB15D	Burnout 3 - Takedown
+SLUS_201.41 0000003BC13D91C5	CART Fury - Championship Racing
+SLUS_209.62 000000EC11ED416D	Castle of Shikigami 2
+SLUS_205.65 00000084798529BD	Champions of Norrath
+SLES_523.25 000000AB71892135	Champions of Norrath - Realms of EverQuest
+SLUS_209.73 000000EC11ED4115	Champions - Return to Arms
+SLES_530.39 0000007BA159F1B5	Champions - Return to Arms
+SLES_527.68 0000003BE119B18D	Commandos - Strike Force
+SLUS_211.03 0000000CF10DA1E5	Commandos Strike Force
+SLUS_211.72 0000003CC13D910D	Conflict - Global Terror
+SLES_525.73 000000E339C169BD	Conflict - Global Storm
+SLUS_209.09 000000FC01FD5105	Crash Bandicoot Twinsanity
+SLES_525.68 000000E339C16995	Crash Twinsanity
+SLUS_209.16 000000FC01FD51CD	Dance Dance Revolution Extreme
+SLUS_212.96 0000005CA15DF14D	Dance Factory
 SLUS_215.74 0000008579852925	Dawn of Mana
-SLUS_204.37 000000639965c95d	Dance Dance Revolution MAX
-SLUS_207.11 000000ac51ad0105	Dance Dance Revolution MAX 2
-SLUS_202.16 0000002bd12d817d	Devil May Cry
-SLUS_209.64 000000ec11ed415d	Devil May Cry 3
-SLUS_213.61 0000004cb14de155	Devil May Cry 3 - Dante's Awakening [Special Edition]
-SLUS_206.07 0000008c718d21e5	Disney's Extreme Skate Adventure
-SLUS_201.13 00000033c935992d	Driving Emotion Type S
-SLES_500.73 000000508971d92d	Driving Emotion Type-S
-SLUS_204.63 0000006b916dc185	Dropship - United Peace Force
-SLUS_205.98 0000008c718d21ad	Everblue 2
-SLUS_202.67 0000005ba15df195	dot Hack - Part 1 - Infection
+SLUS_204.37 000000639965C95D	Dance Dance Revolution MAX
+SLUS_207.11 000000AC51AD0105	Dance Dance Revolution MAX 2
+SLUS_202.16 0000002BD12D817D	Devil May Cry
+SLUS_209.64 000000EC11ED415D	Devil May Cry 3
+SLUS_213.61 0000004CB14DE155	Devil May Cry 3 - Dante's Awakening [Special Edition]
+SLUS_206.07 0000008C718D21E5	Disney's Extreme Skate Adventure
+SLUS_201.13 00000033C935992D	Driving Emotion Type S
+SLES_500.73 000000508971D92D	Driving Emotion Type-S
+SLUS_204.63 0000006B916DC185	Dropship - United Peace Force
+SLUS_205.98 0000008C718D21AD	Everblue 2
+SLUS_202.67 0000005BA15DF195	dot Hack - Part 1 - Infection
 SLUS_205.62 0000008479852985	dot Hack - Part 2 - Mutation
-SLUS_205.63 000000847985298d	dot Hack - Part 3 - Outbreak
-SLUS_205.64 00000084798529b5	dot Hack - Part 4 - Quarantine
-SLUS_212.58 00000054a955f995	dot Hack - G.U. Vol.1 - Rebirth
-SLUS_214.88 0000006c916dc17d	dot Hack - G.U. Vol.2 - Reminisce
-SLUS_214.89 0000006c916dc175	dot Hack - G.U. Vol.3 - Redemption
-SLUS_203.12 00000043b945e915	Final Fantasy X
-SLUS_206.72 000000a459a50935	Final Fantasy X-2
-SLUS_206.28 000000b449b51985	Disney's Finding Nemo
-SLUS_213.93 000000748975d96d	Gallop Racer 2006
-SCUS_974.08 000000ff49551825	Getaway, The - Black Monday
-SCES_527.58 00000033e9f1b835	Getaway, The - Black Monday
-SLUS_210.06 00000014e915b9f5	Ghost in the Shell - Stane Alone Complex
-SCUS_973.99 000000c7716d20a5	God of War
-SCUS_974.81 000000ef5945087d	God of War II
-SCUS_973.28 000000d7617d308d	Gran Turismo 4
-SLUS_205.76 0000008c718d211d	Harry Potter and The Chamber of Secrets
-SLES_511.92 000000499169c13d	Harry Potter and the Chamber of Secrets
-SLUS_209.26 000000fc01fd519d	Harry Potter and The Prisoner of Azkaban
-SLUS_207.69 000000dc21dd7145	Harry Potter - Quidditch World Cup
-SCUS_976.10 0000008f39256805	Hot Shots Tennis
-SLUS_213.07 0000005ca15df115	Ice Age 2 - The Meltdown
-SCUS_974.29 000000ff4955188d	Jak X - Combat Racing
-SLUS_213.04 0000005ca15df10d	Justice League Heroes
-SLUS_210.08 00000014e915b905	Katamari Damacy
-SLUS_210.05 00000014e915b9ed	Kingdom Hearts II
-SLUS_205.20 0000009c619d314d	Lord of the Rings, The - The Fellowship of the Ring
-SLUS_205.78 0000008c718d210d	Lord of the Rings, The - The Two Towers
-SLUS_212.13 00000024d925895d	Madden NFL '06
-SLUS_206.71 000000bc41bd11d5	Mafia
-SLUS_212.81 0000005ca15df1c5	Marvel Nemesis - Rise of the Imperfects
-SLUS_202.30 00000053a955f9f5	Max Payne
-SLES_503.83 0000008159a1094d	Metal Gear Solid 2 - Sons of Liberty
-SLES_503.84 0000008159a109b5	Project Zero II
-SLES_503.85 0000008159a109bd	Metal Gear Solid 2 - Sons of Liberty
-SLUS_201.44 0000003bc13d912d	Metal Gear Solid 2 - Sons of Liberty
-SLUS_209.15 000000fc01fd51f5	Metal Gear Solid 3 - Snake Eater
-SLUS_213.59 0000004cb14de1a5	Metal Gear Solid 3 - Subsistence [Limited Edition] [Disc2of3]
-SLUS_212.43 0000002cd12d8165	Metal Gear Solid 3 - Subsistence
-SLUS_215.50 0000009d619d317d	Metal Slug Anthology
-SLUS_207.53 000000d429d579cd	Medal of Honor - Rising Sun
-SLUS_204.23 000000639965c9cd	Mortal Kombat - Deadly Alliance
-SLUS_203.62 000000738975d9b5	Need for Speed - Hot Pursuit 2
-SLUS_214.94 0000006c916dc14d	Need for Speed - Carbon [Collector's Edition]
-SLUS_211.15 0000000cf10da145	Okami
-SLUS_200.18 0000001be11db11d	Onimusha - Warlords
-SLUS_211.80 0000003cc13d914d	Onimusha - Dawn of Dreams
-SLUS_213.62 0000004cb14de14d	Onimusha - Dawn of Dreams
-SLES_820.38 000000c8718921ad	Onimusha - Dawn of Dreams - DISC 1
-SLES_820.39 000000c8718921a5	Onimusha - Dawn of Dreams - DISC 2
-SLUS_204.78 0000006b916dc10d	Disney's PK - Out of the Shadows
-SLUS_201.64 00000023d9258995	Project Eden
-SLES_505.53 000000e931c96195	Project Eden
-SLUS_200.64 0000000bf10da19d	Oni
-SCUS_971.42 00000006b1ade06d	Primal - Civilization Is Only Skin Deep
-SLUS_212.62 00000054a955f9b5	Radiata Stories
-SCUS_971.99 00000036819dd095	Ratchet & Clank
-SCUS_972.68 00000026918dc05d	Ratchet & Clank - Going Commando
-SCUS_973.53 000000cf7965285d	Ratchet and Clank - Up Your Arsenal
-SCUS_974.65 000000f7415d10e5	Ratchet - Deadlocked
-SLUS_202.72 0000005ba15df14d	Rayman Arena
-SLUS_206.01 0000008c718d21d5	Rayman 3 - Hoodlum Havoc
-SCUS_972.79 00000026918dc005	Jet Li - Rise to Honor
-SLUS_208.90 000000f409f559b5	Rocky - Legends
-SLUS_201.74 00000023d92589c5	Rumble Racing
-SLUS_204.71 0000006b916dc145	Rygar - The Legendary Adventure
-SLES_514.45 0000008a51a90195	Rygar - The Legendary Adventure
-SLUS_204.30 000000639965c985	Savage Skies
-SLUS_204.13 0000007b817dd105	Shadow Man - Second Coming
-SLUS_206.20 000000b449b51945	Smash Cars
-SLUS_212.16 0000002cd12d81bd	Soul Calibur III
-SLUS_202.83 0000005ba15df115	World of Outlaws - Sprint Cars 2002
-SLUS_205.82 0000008c718d212d	Street Racing Syndicate
+SLUS_205.63 000000847985298D	dot Hack - Part 3 - Outbreak
+SLUS_205.64 00000084798529B5	dot Hack - Part 4 - Quarantine
+SLUS_212.58 00000054A955F995	dot Hack - G.U. Vol.1 - Rebirth
+SLUS_214.88 0000006C916DC17D	dot Hack - G.U. Vol.2 - Reminisce
+SLUS_214.89 0000006C916DC175	dot Hack - G.U. Vol.3 - Redemption
+SLUS_203.12 00000043B945E915	Final Fantasy X
+SLUS_206.72 000000A459A50935	Final Fantasy X-2
+SLUS_206.28 000000B449B51985	Disney's Finding Nemo
+SLUS_213.93 000000748975D96D	Gallop Racer 2006
+SCUS_974.08 000000FF49551825	Getaway, The - Black Monday
+SCES_527.58 00000033E9F1B835	Getaway, The - Black Monday
+SLUS_210.06 00000014E915B9F5	Ghost in the Shell - Stane Alone Complex
+SCUS_973.99 000000C7716D20A5	God of War
+SCUS_974.81 000000EF5945087D	God of War II
+SCUS_973.28 000000D7617D308D	Gran Turismo 4
+SLUS_205.76 0000008C718D211D	Harry Potter and The Chamber of Secrets
+SLES_511.92 000000499169C13D	Harry Potter and the Chamber of Secrets
+SLUS_209.26 000000FC01FD519D	Harry Potter and The Prisoner of Azkaban
+SLUS_207.69 000000DC21DD7145	Harry Potter - Quidditch World Cup
+SCUS_976.10 0000008F39256805	Hot Shots Tennis
+SLUS_213.07 0000005CA15DF115	Ice Age 2 - The Meltdown
+SCUS_974.29 000000FF4955188D	Jak X - Combat Racing
+SLUS_213.04 0000005CA15DF10D	Justice League Heroes
+SLUS_210.08 00000014E915B905	Katamari Damacy
+SLUS_210.05 00000014E915B9ED	Kingdom Hearts II
+SLUS_205.20 0000009C619D314D	Lord of the Rings, The - The Fellowship of the Ring
+SLUS_205.78 0000008C718D210D	Lord of the Rings, The - The Two Towers
+SLUS_212.13 00000024D925895D	Madden NFL '06
+SLUS_206.71 000000BC41BD11D5	Mafia
+SLUS_212.81 0000005CA15DF1C5	Marvel Nemesis - Rise of the Imperfects
+SLUS_202.30 00000053A955F9F5	Max Payne
+SLES_503.83 0000008159A1094D	Metal Gear Solid 2 - Sons of Liberty
+SLES_503.84 0000008159A109B5	Project Zero II
+SLES_503.85 0000008159A109BD	Metal Gear Solid 2 - Sons of Liberty
+SLUS_201.44 0000003BC13D912D	Metal Gear Solid 2 - Sons of Liberty
+SLUS_209.15 000000FC01FD51F5	Metal Gear Solid 3 - Snake Eater
+SLUS_213.59 0000004CB14DE1A5	Metal Gear Solid 3 - Subsistence [Limited Edition] [Disc2of3]
+SLUS_212.43 0000002CD12D8165	Metal Gear Solid 3 - Subsistence
+SLUS_215.50 0000009D619D317D	Metal Slug Anthology
+SLUS_207.53 000000D429D579CD	Medal of Honor - Rising Sun
+SLUS_204.23 000000639965C9CD	Mortal Kombat - Deadly Alliance
+SLUS_203.62 000000738975D9B5	Need for Speed - Hot Pursuit 2
+SLUS_214.94 0000006C916DC14D	Need for Speed - Carbon [Collector's Edition]
+SLUS_211.15 0000000CF10DA145	Okami
+SLUS_200.18 0000001BE11DB11D	Onimusha - Warlords
+SLUS_211.80 0000003CC13D914D	Onimusha - Dawn of Dreams
+SLUS_213.62 0000004CB14DE14D	Onimusha - Dawn of Dreams
+SLES_820.38 000000C8718921AD	Onimusha - Dawn of Dreams - DISC 1
+SLES_820.39 000000C8718921A5	Onimusha - Dawn of Dreams - DISC 2
+SLUS_204.78 0000006B916DC10D	Disney's PK - Out of the Shadows
+SLUS_201.64 00000023D9258995	Project Eden
+SLES_505.53 000000E931C96195	Project Eden
+SLUS_200.64 0000000BF10DA19D	Oni
+SCUS_971.42 00000006B1ADE06D	Primal - Civilization Is Only Skin Deep
+SLUS_212.62 00000054A955F9B5	Radiata Stories
+SCUS_971.99 00000036819DD095	Ratchet & Clank
+SCUS_972.68 00000026918DC05D	Ratchet & Clank - Going Commando
+SCUS_973.53 000000CF7965285D	Ratchet and Clank - Up Your Arsenal
+SCUS_974.65 000000F7415D10E5	Ratchet - Deadlocked
+SLUS_202.72 0000005BA15DF14D	Rayman Arena
+SLUS_206.01 0000008C718D21D5	Rayman 3 - Hoodlum Havoc
+SCUS_972.79 00000026918DC005	Jet Li - Rise to Honor
+SLUS_208.90 000000F409F559B5	Rocky - Legends
+SLUS_201.74 00000023D92589C5	Rumble Racing
+SLUS_204.71 0000006B916DC145	Rygar - The Legendary Adventure
+SLES_514.45 0000008A51A90195	Rygar - The Legendary Adventure
+SLUS_204.30 000000639965C985	Savage Skies
+SLUS_204.13 0000007B817DD105	Shadow Man - Second Coming
+SLUS_206.20 000000B449B51945	Smash Cars
+SLUS_212.16 0000002CD12D81BD	Soul Calibur III
+SLUS_202.83 0000005BA15DF115	World of Outlaws - Sprint Cars 2002
+SLUS_205.82 0000008C718D212D	Street Racing Syndicate
 SLUS_204.88 0000009469953945	Star Ocean 3 - Till the End of Time [Disc1of2]
-SLUS_208.91 000000f409f559bd	Star Ocean 3 - Till the End of Time [Disc2of2]
-SLES_820.28 000000c87189217d	Star Ocean 3 - Till the End of Time [Disc1of2]
-SLES_820.29 000000c871892175	Star Ocean 3 - Till the End of Time [Disc2of2]
-SLUS_212.72 00000054a955f905	Super Monkey Ball Adventure
-SLUS_200.74 0000000bf10da1cd	Summoner
-SLUS_214.34 0000007c817dd13d	Superman Returns - The Video Game
-SLES_537.46 000000cc11e941ed	Superman Returns
-SLES_543.48 000000a579812975	Superman Returns
-SLES_543.49 000000a57981297d	Superman Returns
-SLES_543.50 000000a579812965	Superman Returns
-SLES_543.51 000000a57981296d	Superman Returns
-SLUS_202.13 0000002bd12d8115	Test Drive
-SLUS_207.57 000000d429d579ed	Tiger Woods PGA Tour 2004
-SLUS_210.02 00000014e915b9d5	Tiger Woods PGA Tour 2005
-SLUS_203.14 00000043b945e905	TimeSplitters 2
-SLUS_204.67 0000006b916dc165	Tomb Raider - The Angel of Darkness
-SLUS_206.52 000000bc41bd114d	Tom Clancy's Splinter Cell
-SLUS_206.13 000000b449b5190d	Tom Clancy's Ghost Recon
-SLUS_205.04 00000094699539c5	Tony Hawk's Pro Skater 4
-SLUS_207.31 000000ac51ad01e5	Tony Hawk's Underground
-SLUS_209.65 000000ec11ed4155	Tony Hawk's Underground 2
-SLUS_212.08 00000024d9258975	Tony Hawk's American Wasteland
-SLUS_212.95 0000005ca15df1b5	Tony Hawk's American Wasteland [Collector's Edition]
-SLUS_214.44 000000649965c9d5	Tony Hawk's Project 8
-SLUS_214.56 000000649965c975	Tony Hawk's Downhill Jam
-SLUS_216.16 0000008d718d219d	Tony Hawk's Proving Ground
-SLES_511.30 000000598179d13d	Tony Hawk's Pro Skater 4
-SLES_511.31 000000598179d135	Tony Hawk's Pro Skater 4
-SLES_511.32 000000598179d10d	Tony Hawk's Pro Skater 4
-SLES_518.48 00000012c93199e5	Tony Hawk's Underground
-SLES_518.51 00000012c93199fd	Tony Hawk's Underground
-SLES_518.52 00000012c93199c5	Thug MOTX [Demo]
-SLES_518.53 00000012c93199cd	Tony Hawk's Underground
-SLES_518.54 00000012c93199d5	Tony Hawk Underground
-SLES_526.21 000000d309f1590d	Tony Hawk's Underground 2
-SLES_526.22 000000d309f15915	Tony Hawk's Underground 2
-SLES_543.89 000000ad718921b5	Tony Hawk's Project 8
-SLES_543.90 000000ad718921ad	Tony Hawk's Project 8
-SLES_517.20 00000032e911b9c5	Disney's Extreme Skate Adventure
-SLES_517.21 00000032e911b9cd	DISNEY'S EXTREME SKATE ADVENTURE
-SLUS_211.68 0000003cc13d912d	Castlevania - Curse of Dakness
-SLES_537.55 000000cc11e941a5	Castlevania - Curse Of Darkness
-SLUS_204.89 000000946995394d	Whirl Tour
-SLES_511.26 000000598179d15d	Whirl Tour
-SLUS_204.62 0000006b916dc18d	Wipeout Fusion
-SCES_500.05 00000060b9a1e87d	Wipeout Fusion
-SCUS_975.02 000000ef594508c5	Tourist Trophy
-SLUS_206.68 000000bc41bd11cd	Transformers
-SLUS_214.52 000000649965c995	Valkyrie Profile 2 - Silmeria
-SLUS_208.94 000000f409f55995	Worms 3D
-SLUS_203.16 00000043b945e935	WWF SmackDown! - Just Bring It!
-SLES_504.77 000000f921d97125	WWF Smackdown! - Just Bring It
-SLUS_206.59 000000bc41bd11b5	Piglet's Big Game
-SLES_516.67 000000c219e149ed	Piglet's Big Game
-SLES_516.68 000000c219e149d5	Piglet's Big Game
-SLUS_210.84 00000004f905a975	Winnie the Pooh's Rumbly Tumbly Adventure
-SLUS_213.67 0000004cb14de165	MVP '06 - NCAA Baseball
-SCES_540.41 00000074a9b1f80d	Ace Combat - The Belkan War
+SLUS_208.91 000000F409F559BD	Star Ocean 3 - Till the End of Time [Disc2of2]
+SLES_820.28 000000C87189217D	Star Ocean 3 - Till the End of Time [Disc1of2]
+SLES_820.29 000000C871892175	Star Ocean 3 - Till the End of Time [Disc2of2]
+SLUS_212.72 00000054A955F905	Super Monkey Ball Adventure
+SLUS_200.74 0000000BF10DA1CD	Summoner
+SLUS_214.34 0000007C817DD13D	Superman Returns - The Video Game
+SLES_537.46 000000CC11E941ED	Superman Returns
+SLES_543.48 000000A579812975	Superman Returns
+SLES_543.49 000000A57981297D	Superman Returns
+SLES_543.50 000000A579812965	Superman Returns
+SLES_543.51 000000A57981296D	Superman Returns
+SLUS_202.13 0000002BD12D8115	Test Drive
+SLUS_207.57 000000D429D579ED	Tiger Woods PGA Tour 2004
+SLUS_210.02 00000014E915B9D5	Tiger Woods PGA Tour 2005
+SLUS_203.14 00000043B945E905	TimeSplitters 2
+SLUS_204.67 0000006B916DC165	Tomb Raider - The Angel of Darkness
+SLUS_206.52 000000BC41BD114D	Tom Clancy's Splinter Cell
+SLUS_206.13 000000B449B5190D	Tom Clancy's Ghost Recon
+SLUS_205.04 00000094699539C5	Tony Hawk's Pro Skater 4
+SLUS_207.31 000000AC51AD01E5	Tony Hawk's Underground
+SLUS_209.65 000000EC11ED4155	Tony Hawk's Underground 2
+SLUS_212.08 00000024D9258975	Tony Hawk's American Wasteland
+SLUS_212.95 0000005CA15DF1B5	Tony Hawk's American Wasteland [Collector's Edition]
+SLUS_214.44 000000649965C9D5	Tony Hawk's Project 8
+SLUS_214.56 000000649965C975	Tony Hawk's Downhill Jam
+SLUS_216.16 0000008D718D219D	Tony Hawk's Proving Ground
+SLES_511.30 000000598179D13D	Tony Hawk's Pro Skater 4
+SLES_511.31 000000598179D135	Tony Hawk's Pro Skater 4
+SLES_511.32 000000598179D10D	Tony Hawk's Pro Skater 4
+SLES_518.48 00000012C93199E5	Tony Hawk's Underground
+SLES_518.51 00000012C93199FD	Tony Hawk's Underground
+SLES_518.52 00000012C93199C5	Thug MOTX [Demo]
+SLES_518.53 00000012C93199CD	Tony Hawk's Underground
+SLES_518.54 00000012C93199D5	Tony Hawk Underground
+SLES_526.21 000000D309F1590D	Tony Hawk's Underground 2
+SLES_526.22 000000D309F15915	Tony Hawk's Underground 2
+SLES_543.89 000000AD718921B5	Tony Hawk's Project 8
+SLES_543.90 000000AD718921AD	Tony Hawk's Project 8
+SLES_517.20 00000032E911B9C5	Disney's Extreme Skate Adventure
+SLES_517.21 00000032E911B9CD	DISNEY'S EXTREME SKATE ADVENTURE
+SLUS_211.68 0000003CC13D912D	Castlevania - Curse of Dakness
+SLES_537.55 000000CC11E941A5	Castlevania - Curse Of Darkness
+SLUS_204.89 000000946995394D	Whirl Tour
+SLES_511.26 000000598179D15D	Whirl Tour
+SLUS_204.62 0000006B916DC18D	Wipeout Fusion
+SCES_500.05 00000060B9A1E87D	Wipeout Fusion
+SCUS_975.02 000000EF594508C5	Tourist Trophy
+SLUS_206.68 000000BC41BD11CD	Transformers
+SLUS_214.52 000000649965C995	Valkyrie Profile 2 - Silmeria
+SLUS_208.94 000000F409F55995	Worms 3D
+SLUS_203.16 00000043B945E935	WWF SmackDown! - Just Bring It!
+SLES_504.77 000000F921D97125	WWF Smackdown! - Just Bring It
+SLUS_206.59 000000BC41BD11B5	Piglet's Big Game
+SLES_516.67 000000C219E149ED	Piglet's Big Game
+SLES_516.68 000000C219E149D5	Piglet's Big Game
+SLUS_210.84 00000004F905A975	Winnie the Pooh's Rumbly Tumbly Adventure
+SLUS_213.67 0000004CB14DE165	MVP '06 - NCAA Baseball
+SCES_540.41 00000074A9B1F80D	Ace Combat - The Belkan War
 SCES_524.24 0000008359410875	Ace Combat - Squadron Leader
-SCES_504.10 000000895149006d	Ace Combat - Distant Thunder
-SLUS_205.24 0000009c619d316d	Fighter Maker 2
-SLUS_210.15 00000014e915b93d	Madagascar
-SLUS_208.73 000000f409f5592d	Silent Hill 4 - The Room
-SLES_524.45 0000008359a109dd	Silent Hill 4 - The Room
-SCUS_972.64 00000026918dc07d	Syphon Filter - The Omega Strain
-SCUS_973.62 000000cf79652885	Syphon Filter - Dark Mirror
-SLUS_212.40 0000002cd12d817d	Star Wars Battlefront II
-SLUS_208.98 000000fc01fd517d	Star Wars Battlefront
-SLUS_200.71 0000000bf10da1a5	Dead or Alive 2
-SLUS_210.28 0000001ce11db1ad	World Championship Poker
-SCUS_971.67 0000003e8995d89d	Parappa the Rapper 2
-SLUS_214.23 0000007c817dd195	Grand Theft Auto - Liberty City Stories
-SLUS_215.90 00000085798529a5	Grand Theft Auto - Vice City Stories
-SLUS_202.45 00000053a955f96d	Jeremy McGrath - Supercross World 2002
-SLUS_200.01 0000001be11db185	Tekken Tag Tournament
-SLUS_203.28 0000004bb14de19d	Tekken 4
-SLUS_203.74 000000738975d955	Hitman 2 - Silent Assassin
-SLUS_206.58 000000bc41bd11bd	Freedom Fighters - The Battle for Liberty Island
-SLUS_206.94 000000a459a50985	Onimusha 3 - Demon Siege
-SLUS_209.46 000000e419e549e5	Grand Theft Auto - San Andreas
-SLUS_200.62 00000003f905a965	Grand Theft Auto III
+SCES_504.10 000000895149006D	Ace Combat - Distant Thunder
+SLUS_205.24 0000009C619D316D	Fighter Maker 2
+SLUS_210.15 00000014E915B93D	Madagascar
+SLUS_208.73 000000F409F5592D	Silent Hill 4 - The Room
+SLES_524.45 0000008359A109DD	Silent Hill 4 - The Room
+SCUS_972.64 00000026918DC07D	Syphon Filter - The Omega Strain
+SCUS_973.62 000000CF79652885	Syphon Filter - Dark Mirror
+SCUS_976.20 0000008F392568F5	Syphon Filter - Dark Mirror
+SLUS_212.40 0000002CD12D817D	Star Wars Battlefront II
+SLUS_208.98 000000FC01FD517D	Star Wars Battlefront
+SLUS_200.71 0000000BF10DA1A5	Dead or Alive 2
+SLUS_210.28 0000001CE11DB1AD	World Championship Poker
+SCUS_971.67 0000003E8995D89D	Parappa the Rapper 2
+SLUS_214.23 0000007C817DD195	Grand Theft Auto - Liberty City Stories
+SLUS_215.90 00000085798529A5	Grand Theft Auto - Vice City Stories
+SLUS_202.45 00000053A955F96D	Jeremy McGrath - Supercross World 2002
+SLUS_200.01 0000001BE11DB185	Tekken Tag Tournament
+SLUS_203.28 0000004BB14DE19D	Tekken 4
+SLUS_203.74 000000738975D955	Hitman 2 - Silent Assassin
+SLUS_206.58 000000BC41BD11BD	Freedom Fighters - The Battle for Liberty Island
+SLUS_206.94 000000A459A50985	Onimusha 3 - Demon Siege
+SLUS_209.46 000000E419E549E5	Grand Theft Auto - San Andreas
+SLUS_200.62 00000003F905A965	Grand Theft Auto III
 SLUS_205.52 0000008479852955	Grand Theft Auto - Vice City
-SLUS_211.13 0000000cf10da155	Atelier Iris - Eternal Mana
-SLUS_213.27 00000044b945e9ad	Atelier Iris 2 - The Azoth of Destiny
-SLUS_215.64 0000009d619d31ed	Atelier Iris 3 - Grand Phantasm
-SLUS_214.45 000000649965c9dd	Ar Tonelico
-SLUS_217.88 000000d529d579a5	Ar Tonelico 2 - Melody of Metafalica
-SLUS_208.61 000000cc31cd61b5	MTV Music Generator 3 - This is the Remix
-SLUS_213.00 0000005ca15df16d	Over the Hedge
-SLES_538.66 0000002cf109a1cd	Over the Hedge
-SLES_541.73 000000548971d90d	DreamWorks' På Andra Sidan Häcken (Over the hedge)
-SLES_539.89 0000000cd1298195	Over the Hedge
-SLES_539.88 0000000cd129819d	Over the Hedge
-SLES_539.87 0000000cd12981a5	Over the Hedge
-SLES_539.86 0000000cd12981ad	DreamWorks' La Gang del Bosco (Over the hedge)
-SLUS_213.72 0000004cb14de13d	Legend of Spyro, The - A New Beginning
-SLUS_202.12 0000002bd12d811d	Bloody Roar 3
-SLUS_209.66 000000ec11ed414d	State of Emergency 2
-SLUS_203.93 0000007b817dd1a5	Onimusha 2 - Samurai's Destiny
-SLUS_208.82 000000f409f559f5	Hitman - Contracts
-SLUS_213.58 0000004cb14de1ad	Naruto - Ultimate Ninja
-SLUS_215.75 000000857985292d	Naruto - Ultimate Ninja 2
-SLUS_217.27 000000a559a509cd	Naruto - Ultimate Ninja 3
-SLUS_218.62 000000cd31cd616d	Naruto Shippuden - Ultimate Ninja 4
-SLUS_206.44 000000bc41bd110d	Armored Core - Silent Line
-SLUS_211.62 0000003cc13d91fd	Ford Mustang - The Legend Lives
-SLUS_212.76 00000054a955f925	Ford vs. Chevy
-SLUS_210.86 00000004f905a965	Big Mutha Truckers 2
-SLUS_202.59 0000005ba15df1d5	Wizadry - Tale of the Forsaken
-SLUS_209.93 00000014e915b98d	Ghosthunter
-SLUS_214.18 0000007c817dd1bd	Sprint Cars - Road to Knoxville
-SLUS_211.06 0000000cf10da10d	True Crime - New York City
-SLUS_208.04 000000c439c56975	Forgotten Realms - Demon Stone
-SLUS_200.37 00000003f905a9bd	Run Like Hell - Hunt or Be Hunted
-SLUS_204.25 000000639965c9bd	Spongebob Squarepants - Revenge of the Flying Dutchman
-SLUS_212.52 00000054a955f9e5	SpongeBob Squarepants - Lights, Camera, PANTS!
-SCUS_971.28 00000006b1ade09d	Drakan - The Ancients' Gates
-SLUS_203.78 000000738975d935	Salt Lake 2002
-SLUS_206.36 000000b449b519c5	Suffering, The
-SLUS_211.89 00000024d925899d	Suffering, The - Ties That Bind
-SLUS_207.67 000000d429d579bd	MX Unleashed
-SLUS_211.04 0000000cf10da11d	MX vs. ATV Unleashed
-SLUS_208.78 000000f409f55915	Samurai Warriors
-SLUS_214.62 000000649965c945	Samurai Warriors 2
-SLUS_216.07 0000008d718d2125	Legend of Spyro, The - The Eternal Night
-SLUS_216.72 000000bd41bd116d	Guitar Hero III - Legends of Rock
-SLUS_217.40 000000ad51ad015d	Guitar Hero - Aerosmith
-SLUS_217.81 000000d529d579ed	Guitar Hero - World Tour
-SLUS_218.43 000000c539c569cd	Guitar Hero - Metallica
-SLUS_218.65 000000cd31cd6115	Guitar Hero 5 [Game Only]
-SLUS_218.66 000000cd31cd610d	Guitar Hero - Smash Hits
-SLUS_218.67 000000cd31cd6105	Guitar Hero - Van Halen
-SLUS_218.98 000000f509f55935	Band Hero
+SLUS_211.13 0000000CF10DA155	Atelier Iris - Eternal Mana
+SLUS_213.27 00000044B945E9AD	Atelier Iris 2 - The Azoth of Destiny
+SLUS_215.64 0000009D619D31ED	Atelier Iris 3 - Grand Phantasm
+SLUS_214.45 000000649965C9DD	Ar Tonelico
+SLUS_217.88 000000D529D579A5	Ar Tonelico 2 - Melody of Metafalica
+SLUS_208.61 000000CC31CD61B5	MTV Music Generator 3 - This is the Remix
+SLUS_213.00 0000005CA15DF16D	Over the Hedge
+SLES_538.66 0000002CF109A1CD	Over the Hedge
+SLES_541.73 000000548971D90D	DreamWorks' På Andra Sidan Häcken (Over the hedge)
+SLES_539.89 0000000CD1298195	Over the Hedge
+SLES_539.88 0000000CD129819D	Over the Hedge
+SLES_539.87 0000000CD12981A5	Over the Hedge
+SLES_539.86 0000000CD12981AD	DreamWorks' La Gang del Bosco (Over the hedge)
+SLUS_213.72 0000004CB14DE13D	Legend of Spyro, The - A New Beginning
+SLUS_202.12 0000002BD12D811D	Bloody Roar 3
+SLUS_209.66 000000EC11ED414D	State of Emergency 2
+SLUS_203.93 0000007B817DD1A5	Onimusha 2 - Samurai's Destiny
+SLUS_208.82 000000F409F559F5	Hitman - Contracts
+SLUS_202.91 00000043B945E9CD	Big Mutha Truckers
+SLUS_213.58 0000004CB14DE1AD	Naruto - Ultimate Ninja
+SLUS_215.75 000000857985292D	Naruto - Ultimate Ninja 2
+SLUS_217.27 000000A559A509CD	Naruto - Ultimate Ninja 3
+SLUS_218.62 000000CD31CD616D	Naruto Shippuden - Ultimate Ninja 4
+SLUS_206.44 000000BC41BD110D	Armored Core - Silent Line
+SLUS_211.62 0000003CC13D91FD	Ford Mustang - The Legend Lives
+SLUS_212.76 00000054A955F925	Ford vs. Chevy
+SLUS_210.86 00000004F905A965	Big Mutha Truckers 2
+SLUS_202.59 0000005BA15DF1D5	Wizadry - Tale of the Forsaken
+SLUS_209.93 00000014E915B98D	Ghosthunter
+SLUS_214.18 0000007C817DD1BD	Sprint Cars - Road to Knoxville
+SLUS_211.06 0000000CF10DA10D	True Crime - New York City
+SLUS_208.04 000000C439C56975	Forgotten Realms - Demon Stone
+SLUS_200.37 00000003F905A9BD	Run Like Hell - Hunt or Be Hunted
+SLUS_204.25 000000639965C9BD	Spongebob Squarepants - Revenge of the Flying Dutchman
+SLUS_212.52 00000054A955F9E5	SpongeBob Squarepants - Lights, Camera, PANTS!
+SCUS_971.28 00000006B1ADE09D	Drakan - The Ancients' Gates
+SLUS_203.78 000000738975D935	Salt Lake 2002
+SLUS_206.36 000000B449B519C5	Suffering, The
+SLUS_211.89 00000024D925899D	Suffering, The - Ties That Bind
+SLUS_207.67 000000D429D579BD	MX Unleashed
+SLUS_211.04 0000000CF10DA11D	MX vs. ATV Unleashed
+SLUS_208.78 000000F409F55915	Samurai Warriors
+SLUS_214.62 000000649965C945	Samurai Warriors 2
+SLUS_216.07 0000008D718D2125	Legend of Spyro, The - The Eternal Night
+SLUS_216.72 000000BD41BD116D	Guitar Hero III - Legends of Rock
+SLUS_217.40 000000AD51AD015D	Guitar Hero - Aerosmith
+SLUS_217.81 000000D529D579ED	Guitar Hero - World Tour
+SLUS_218.43 000000C539C569CD	Guitar Hero - Metallica
+SLUS_218.65 000000CD31CD6115	Guitar Hero 5 [Game Only]
+SLUS_218.66 000000CD31CD610D	Guitar Hero - Smash Hits
+SLUS_218.67 000000CD31CD6105	Guitar Hero - Van Halen
+SLUS_218.98 000000F509F55935	Band Hero
 SLUS_215.80 0000008579852975	Pimp my Ride
-SLUS_214.49 000000649965c9bd	Fast and the Furious, The - Tokyo Drift
-SLUS_205.71 00000084798529cd	Ty the Tasmanian Tiger
-SLUS_213.57 0000004cb14de1b5	Hummer Badlands
-SLUS_209.01 000000fc01fd5145	FlatOut
-SLUS_212.51 00000054a955f9dd	FlatOut 2
-SLUS_203.99 0000007b817dd195	MTX Mototrax
-SLUS_203.41 0000004bb14de175	Woody Woodpecker - Escape from Buzz Buzzard Park
-SLUS_203.33 0000004bb14de1b5	Turok - Evolution
-SLUS_214.97 0000006c916dc135	Strawberry Shortcake - Adventures in the Land of Dreams
-SLUS_212.19 0000002cd12d81a5	Pac-Man World 3
-SCUS_972.12 00000036819dd00d	My Street (Online)
-SLUS_200.94 0000000bf10da16d	X Squad
-SLUS_202.75 0000005ba15df155	Kessen 2
-SLUS_211.96 00000024d92589d5	Indigo Prophecy
-SLUS_207.58 000000d429d579f5	Growlanser Generations [Disc1of2]
-SLUS_207.59 000000d429d579fd	Growlanser Generations [Disc2of2]
-SLUS_214.98 0000006c916dc12d	Naruto - Uzumaki Chronicles
-SLUS_215.94 00000085798529c5	Naruto - Uzumaki Chronicles 2
-SLUS_200.28 0000001be11db16d	No One Lives Forever
-SCUS_976.02 0000008f39256845	Buzz! Jr. Jungle Party [Game Only]
-SLUS_216.28 0000008d718d21fd	Hot Wheels - Beat That
-SCPS_150.17 0000002681dc90e5	PaRappa the Rapper 2
-SLPS_200.92 0000000bb10ca17d	Tiger Woods PGA Tour 2001
-SLPS_201.06 00000033893499f5	Growlanser II - The Sense of Justice
-SLPS_202.34 00000053e954f995	Harry Potter to Himitsu no Heya
-SLPS_250.52 000000e859e44995	Ace Combat 4 - Shattered Skies
-SLPS_250.50 000000e859e449a5	Final Fantasy X
-SLPS_250.88 00000018a914b985	Final Fantasy X International
-SLPS_252.50 00000030813c91bd	Final Fantasy X-2
-SLPM_654.78 0000004fd664c9c5	Final Fantasy X-2 International
-SLPS_253.50 00000058e954f9f5	Netsu Chu! Pro Baseball 2004
-SLPM_621.08 0000001c86349945	Growlanser 3 - The Duel Darkness
-SLPM_621.54 0000000c962489e5	DDR Max - Dance Dance Revolution - 6th Mix
-SLPM_624.27 0000004cd664c92d	Dance Dance Revolution - Party Collection
-SLPM_650.38 0000003fa614b9f5	Devil May Cry
-SLPM_653.58 0000006ff644e9a5	Dance Dance Revolution Extreme
-SLPM_652.77 000000079e2c8155	DDR Max 2 - Dance Dance Revolution - 7th Mix
-SLPM_657.90 000000f81eac01cd	Metal Gear Solid 3 - Snake Eater
-SLPM_660.31 000000b85eec4105	Phantasy Star Universe
-SLPM_662.20 000000688e3c91cd	Metal Gear Solid 3 - Subsistence [First Print Limited Edition] [Disc1of3]
-SLPM_662.21 000000688e3c91c5	Metal Gear Solid 3 - Subsistence [First Print Limited Edition] [Disc2of3]
-SLPM_625.55 000000ad368429cd	Momotaro Densetsu
-SLPS_254.18 00000048f944e985	Ace Combat 5 - The Unsung War
-SLPS_256.29 00000099299439ed	Ace Combat Zero - The Belkan War
-SLPM_659.84 000000b056e44975	Grand Theft Auto - San Andreas
-SLPM_666.27 000000d13684290d	WWE SmackDown! vs. RAW 2007
-SLPM_652.84 0000007fe654f9e5	World Rallt Championship II Extreme
-SLPM_654.13 0000005fc674d9cd	Onimusha 3
-SLPM_653.40 00000077ee5cf12d	Shinseiki Evangelion - Ayanami Ikusai Keikaku with Asuka Hokan Keikaku
-SLPM_667.39 000000e90ebc11b5	Burnout Dominator
-SLPS_253.11 000000289924894d	Spy Fiction
-SLPM_654.19 0000005fc674d9bd	Tony Hawk's Pro Skater 2003
-SLPM_661.75 00000058be0ca165	Akumajo Dracula - Yami no Juin
-SLPM_665.76 000000c126943985	Seiken Densetsu 4
-SLPS_251.21 00000010a11cb185	dot Hack Vol.1
-SLPS_251.43 00000010a11cb135	dot Hack Vol.2 - Mutation
-SLPS_251.58 00000008b904a9a5	dot Hack - Vol.3 - Erosion Pollution
-SLPS_252.02 00000000b10ca10d	dot Hack - Vol.4 - Zettai Houi
-SLPS_252.93 00000028992489dd	Naruto - Narutimett Hero
-SLPS_253.98 00000050e15cf17d	Naruto - Narutimett Hero 2
-SLPS_255.89 00000060d16cc155	Naruto Narutimett Hero 3
-SLPM_655.83 000000c82e9c3175	World Rally Championship 3
-SLPM_659.75 000000a84efc51d5	World Rally Championship 4
-SLPS_250.99 00000018a914b9dd	WRC - World Rally Championship
-SLPM_621.02 0000001c86349915	Crazy Taxi
-SCPS_110.12 0000004ae9b4f8e5	Rimoko Koron
-SLPS_202.46 00000053e954f975	Rally Shox
-SCPS_150.56 0000003e99c48835	Ratchet & Clank 2
-SCPS_150.84 0000003691cc80dd	Ratchet & Clank 3
-SCPS_150.99 0000003691cc8065	Ratchet & Clank - Giga Battle
-SLPM_658.01 0000008066d4790d	Crash Bandicoot 5
-SCPS_150.64 0000003e99c48875	Ghost in the Shell - Stand Alone Complex
-SLPM_650.15 000000c75eec41c5	Kessen 2
-SLPM_651.90 000000178e3c919d	トニー・ホーク　プロスケーター3
+SLUS_214.49 000000649965C9BD	Fast and the Furious, The - Tokyo Drift
+SLUS_205.71 00000084798529CD	Ty the Tasmanian Tiger
+SLUS_213.57 0000004CB14DE1B5	Hummer Badlands
+SLUS_209.01 000000FC01FD5145	FlatOut
+SLUS_212.51 00000054A955F9DD	FlatOut 2
+SLUS_203.99 0000007B817DD195	MTX Mototrax
+SLUS_203.41 0000004BB14DE175	Woody Woodpecker - Escape from Buzz Buzzard Park
+SLUS_203.33 0000004BB14DE1B5	Turok - Evolution
+SLUS_214.97 0000006C916DC135	Strawberry Shortcake - Adventures in the Land of Dreams
+SLUS_212.19 0000002CD12D81A5	Pac-Man World 3
+SCUS_972.12 00000036819DD00D	My Street (Online)
+SLUS_200.94 0000000BF10DA16D	X Squad
+SLUS_202.75 0000005BA15DF155	Kessen 2
+SLUS_211.96 00000024D92589D5	Indigo Prophecy
+SLUS_207.58 000000D429D579F5	Growlanser Generations [Disc1of2]
+SLUS_207.59 000000D429D579FD	Growlanser Generations [Disc2of2]
+SLUS_214.98 0000006C916DC12D	Naruto - Uzumaki Chronicles
+SLUS_215.94 00000085798529C5	Naruto - Uzumaki Chronicles 2
+SLUS_200.28 0000001BE11DB16D	No One Lives Forever
+SCUS_976.02 0000008F39256845	Buzz! Jr. Jungle Party [Game Only]
+SLUS_216.28 0000008D718D21FD	Hot Wheels - Beat That
+SLUS_219.42 000000FD01FD51DD	Pro Evolution Soccer 2011
+SCPS_150.17 0000002681DC90E5	PaRappa the Rapper 2
+SLPS_200.92 0000000BB10CA17D	Tiger Woods PGA Tour 2001
+SLPS_201.06 00000033893499F5	Growlanser II - The Sense of Justice
+SLPS_202.34 00000053E954F995	Harry Potter to Himitsu no Heya
+SLPS_250.52 000000E859E44995	Ace Combat 4 - Shattered Skies
+SLPS_250.87 000000E051EC4185	WWF SmackDown! Just Bring It
+SLPS_250.50 000000E859E449A5	Final Fantasy X
+SLPS_250.88 00000018A914B985	Final Fantasy X International
+SLPS_252.50 00000030813C91BD	Final Fantasy X-2
+SLPM_654.78 0000004FD664C9C5	Final Fantasy X-2 International
+SLPS_253.50 00000058E954F9F5	Netsu Chu! Pro Baseball 2004
+SLPM_621.08 0000001C86349945	Growlanser 3 - The Duel Darkness
+SLPM_621.54 0000000C962489E5	DDR Max - Dance Dance Revolution - 6th Mix
+SLPM_624.27 0000004CD664C92D	Dance Dance Revolution - Party Collection
+SLPM_650.38 0000003FA614B9F5	Devil May Cry
+SLPM_653.58 0000006FF644E9A5	Dance Dance Revolution Extreme
+SLPM_652.77 000000079E2C8155	DDR Max 2 - Dance Dance Revolution - 7th Mix
+SLPM_657.90 000000F81EAC01CD	Metal Gear Solid 3 - Snake Eater
+SLPM_660.31 000000B85EEC4105	Phantasy Star Universe
+SLPM_662.20 000000688E3C91CD	Metal Gear Solid 3 - Subsistence [First Print Limited Edition] [Disc1of3]
+SLPM_662.21 000000688E3C91C5	Metal Gear Solid 3 - Subsistence [First Print Limited Edition] [Disc2of3]
+SLPM_625.55 000000AD368429CD	Momotaro Densetsu
+SLPS_254.18 00000048F944E985	Ace Combat 5 - The Unsung War
+SLPS_256.29 00000099299439ED	Ace Combat Zero - The Belkan War
+SLPM_659.84 000000B056E44975	Grand Theft Auto - San Andreas
+SLPM_666.27 000000D13684290D	WWE SmackDown! vs. RAW 2007
+SLPM_652.84 0000007FE654F9E5	World Rallt Championship II Extreme
+SLPM_654.13 0000005FC674D9CD	Onimusha 3
+SLPM_653.40 00000077EE5CF12D	Shinseiki Evangelion - Ayanami Ikusai Keikaku with Asuka Hokan Keikaku
+SLPM_667.39 000000E90EBC11B5	Burnout Dominator
+SLPS_253.11 000000289924894D	Spy Fiction
+SLPM_654.19 0000005FC674D9BD	Tony Hawk's Pro Skater 2003
+SLPM_661.75 00000058BE0CA165	Akumajo Dracula - Yami no Juin
+SLPM_665.76 000000C126943985	Seiken Densetsu 4
+SLPS_251.21 00000010A11CB185	dot Hack Vol.1
+SLPS_251.43 00000010A11CB135	dot Hack Vol.2 - Mutation
+SLPS_251.58 00000008B904A9A5	dot Hack - Vol.3 - Erosion Pollution
+SLPS_252.02 00000000B10CA10D	dot Hack - Vol.4 - Zettai Houi
+SLPS_252.93 00000028992489DD	Naruto - Narutimett Hero
+SLPS_253.98 00000050E15CF17D	Naruto - Narutimett Hero 2
+SLPS_255.89 00000060D16CC155	Naruto Narutimett Hero 3
+SLPM_655.83 000000C82E9C3175	World Rally Championship 3
+SLPM_659.75 000000A84EFC51D5	World Rally Championship 4
+SLPS_250.99 00000018A914B9DD	WRC - World Rally Championship
+SLPM_621.02 0000001C86349915	Crazy Taxi
+SCPS_110.12 0000004AE9B4F8E5	Rimoko Koron
+SLPS_202.46 00000053E954F975	Rally Shox
+SCPS_150.56 0000003E99C48835	Ratchet & Clank 2
+SCPS_150.84 0000003691CC80DD	Ratchet & Clank 3
+SCPS_150.99 0000003691CC8065	Ratchet & Clank - Giga Battle
+SLPM_658.01 0000008066D4790D	Crash Bandicoot 5
+SCPS_150.64 0000003E99C48875	Ghost in the Shell - Stand Alone Complex
+SLPM_650.15 000000C75EEC41C5	Kessen 2
+SLPM_651.90 000000178E3C919D	トニー・ホーク　プロスケーター3
 SLPS_252.46 0000003889349955	Tomb Raider - The Angel of Darkness
-SLPM_663.63 00000008ee5cf115	Dragon Quest - Shounen Yangus no Fushigi na Daibouken
-SLPM_650.05 000000c75eec4115	I am the Coach
-SLPM_650.56 00000037ae1cb18d	Orega Kantoku da Vol.2 - Getitou Pennent Race
-SLPM_661.83 000000608634999d	Getaway, The - Black Monday
-SCUS_971.46 00000006b1ade00d	Disney's Treasure Planet
-SLPM_654.38 0000005fc674d915	Star Ocean 3 [Director's Cut] [Disc1of2]
-SLPM_652.09 000000178e3c9165	Star Ocean 3 [Limited Edition]
+SLPM_663.63 00000008EE5CF115	Dragon Quest - Shounen Yangus no Fushigi na Daibouken
+SLPM_650.05 000000C75EEC4115	I am the Coach
+SLPM_650.56 00000037AE1CB18D	Orega Kantoku da Vol.2 - Getitou Pennent Race
+SLPM_661.83 000000608634999D	Getaway, The - Black Monday
+SCUS_971.46 00000006B1ADE00D	Disney's Treasure Planet
+SLPM_654.38 0000005FC674D915	Star Ocean 3 [Director's Cut] [Disc1of2]
+SLPM_652.09 000000178E3C9165	Star Ocean 3 [Limited Edition]
 SLPS_252.34 0000003889349935	Tenchu 3
-SLPM_664.19 00000018fe4ce145	Valkyrie Profile 2 - Silmeria
-SLPM_658.00 0000008066d47905	Radiata Stories
-SCPS_150.37 0000002681dc9045	Ratchet & Clank
-SCPS_150.58 0000003e99c48825	Arc the Lad - Generation
+SLPM_664.19 00000018FE4CE145	Valkyrie Profile 2 - Silmeria
+SLPM_658.00 0000008066D47905	Radiata Stories
+SCPS_150.37 0000002681DC9045	Ratchet & Clank
+SCPS_150.58 0000003E99C48825	Arc the Lad - Generation
 SLPS_201.78 0000002399248925	Samurai
-SLPS_290.03 000000cc79c4690d	Lord of the Rings - The Two Towers [Collector's Box]
-SLPS_290.04 000000cc79c46935	Lord of the Rings, The - The Two Towers
-SLPM_662.75 000000789e2c81a5	Shin Onimusha - Dawn of Dreams [Disc1of2]
-SLPM_653.80 00000067fe4ce1fd	Samurai Michi 2
-SLPS_257.15 00000081318c2185	Tales of Destiny
-SLUS_212.05 00000024d925891d	Aeon Flux
-SLPS_201.31 0000003b813c91b5	実戦パチスロ必勝法! 獣王 通常版
-SLPS_254.14 00000048f944e9e5	To Heart 2
-SLPM_661.60 00000058be0ca11d	Devil May Cry 3 [Special Edition]
-SLPM_620.98 0000001c86349935	Busin - Wizardry Alternative
-SLPS_200.13 0000001ba11cb1e5	Primal Image Vol.01
-SLPS_250.26 000000e859e44965	Dead or Alive 2 - Hardcore
-SLPS_250.02 000000f041fc513d	Dead or Alive 2
-SLPM_651.31 00000027be0ca1c5	ユーディーのアトリエ～グラムナートの錬金術師～　通常版
-SLPM_653.11 0000007fe654f93d	Viorate no Atelier - The Alchemist of Gramnad
-SLPM_655.94 000000c82e9c31dd	Atelier no Iris - Eternal Mana
-SLPM_659.85 000000b056e4497d	Atelier Iris 2 - Eternal Mana
-SLPM_664.36 00000020c674d9c5	Atelier Iris - Grand Fantasm
-SLPS_250.45 000000e859e449dd	Atelier Lilie
-SLPM_651.16 0000002fb604a975	Lilie no Atelier Plus - Salburg no Renkinjutsushi 3
-SLPM_652.28 0000000f962489d5	Taisho Mononoke Ibunroku
-SLPM_621.22 000000148e3c91fd	ヘルミーナとクルス　～リリーのアトリエ　もう一つの物語～
+SLPS_290.03 000000CC79C4690D	Lord of the Rings - The Two Towers [Collector's Box]
+SLPS_290.04 000000CC79C46935	Lord of the Rings, The - The Two Towers
+SLPM_662.75 000000789E2C81A5	Shin Onimusha - Dawn of Dreams [Disc1of2]
+SLPM_653.80 00000067FE4CE1FD	Samurai Michi 2
+SLPS_257.15 00000081318C2185	Tales of Destiny
+SLUS_212.05 00000024D925891D	Aeon Flux
+SLPS_201.31 0000003B813C91B5	実戦パチスロ必勝法! 獣王 通常版
+SLPS_254.14 00000048F944E9E5	To Heart 2
+SLPM_661.60 00000058BE0CA11D	Devil May Cry 3 [Special Edition]
+SLPM_620.98 0000001C86349935	Busin - Wizardry Alternative
+SLPS_200.13 0000001BA11CB1E5	Primal Image Vol.01
+SLPS_250.26 000000E859E44965	Dead or Alive 2 - Hardcore
+SLPS_250.02 000000F041FC513D	Dead or Alive 2
+SLPM_651.31 00000027BE0CA1C5	ユーディーのアトリエ～グラムナートの錬金術師～　通常版
+SLPM_653.11 0000007FE654F93D	Viorate no Atelier - The Alchemist of Gramnad
+SLPM_655.94 000000C82E9C31DD	Atelier no Iris - Eternal Mana
+SLPM_659.85 000000B056E4497D	Atelier Iris 2 - Eternal Mana
+SLPM_664.36 00000020C674D9C5	Atelier Iris - Grand Fantasm
+SLPS_250.45 000000E859E449DD	Atelier Lilie
+SLPM_651.16 0000002FB604A975	Lilie no Atelier Plus - Salburg no Renkinjutsushi 3
+SLPM_652.28 0000000F962489D5	Taisho Mononoke Ibunroku
+SLPM_621.22 000000148E3C91FD	ヘルミーナとクルス　～リリーのアトリエ　もう一つの物語～
 SLPS_256.04 0000009929943925	Ar tonelico - Melody of Elemia
-SLPM_621.27 000000148e3c91d5	Maximo
-SLPS_251.78 00000008b904a945	Argus no Senshi
-SLPS_255.10 00000070c17cd1dd	Tekken 5
-SCPS_150.04 0000002e89d49845	Dark Cloud
-SLPS_252.69 00000030813c9105	Hitman - Silent Assasin
-SLPM_650.10 000000c75eec41ed	Onimusha
-SLPS_256.51 00000091219c3195	dot Hack G.U. Vol.1 - Saitan
-SLPS_256.55 00000091219c31b5	dot Hack G.U. Vol.2 - Kimi Omou Koe
-SLPS_256.56 00000091219c31cd	dot Hack - G.U. Vol.3 - Aruku Youna Hayasa de
+SLPM_621.27 000000148E3C91D5	Maximo
+SLPS_251.78 00000008B904A945	Argus no Senshi
+SLPS_255.10 00000070C17CD1DD	Tekken 5
+SCPS_150.04 0000002E89D49845	Dark Cloud
+SLPS_252.69 00000030813C9105	Hitman - Silent Assasin
+SLPM_650.10 000000C75EEC41ED	Onimusha
+SLPS_256.51 00000091219C3195	dot Hack G.U. Vol.1 - Saitan
+SLPS_256.55 00000091219C31B5	dot Hack G.U. Vol.2 - Kimi Omou Koe
+SLPS_256.56 00000091219C31CD	dot Hack - G.U. Vol.3 - Aruku Youna Hayasa de
 SLPS_252.44 0000003889349945	Max Payne
-SCPS_170.01 00000008b1eca0d5	Gran Turismo 4
-SCPS_151.05 0000004ee9b4f8cd	Tourist Trophy - The Real Riding Simulator
-SLPM_622.14 0000007ce654f9f5	Ever Blue 2
-SLPM_620.55 00000024be0ca1a5	Bloody Roar 3
-SLPM_651.00 0000002fb604a9f5	Onimusha 2
-SLPM_655.48 000000c026943965	Freedom Fighters
-SCPS_151.06 0000004ee9b4f8d5	Siren 2
-SLPM_620.02 00000034ae1cb11d	Live World Soccer 2000
-SLPM_661.90 00000060863499d5	Star Wars Battlefront II
-SLPM_656.12 000000d036842975	Harry Potter and The Prisoner of Azkaban
-SLPM_664.85 00000028ce7cd145	State of Emergency - Revenge
-SLPS_254.06 00000050e15cf13d	Hitman - Contracts
-SLPM_657.01 000000e80ebc1105	Ghost Hunter
-SLPM_656.03 000000d03684290d	Run Like Hell
-SLPS_255.69 00000060d16cc1f5	Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T.
-SLAJ_250.94 00000098e510b9b5	Burnout Dominator
-SLES_509.19 00000009d1298185	Akira Psycho Ball
-SLES_516.02 000000d209f159f5	All-Stars Baseball 2004
-SCES_517.06 000000ca110940ad	Amplitude
-SCES_538.51 00000024f9e1a84d	Forbidden Siren 2
-SLES_518.15 0000002af109a1a5	Final Fantasy X-2
-SLES_518.16 0000002af109a1dd	Final Fantasy X-2
-SLES_518.17 0000002af109a1d5	Final Fantasy X-2
-SLES_518.18 0000002af109a1cd	Final Fantasy X-2
-SLES_518.19 0000002af109a1c5	Final Fantasy X-2
-SLES_510.44 00000069b149e1fd	Burnout 2 - Point of Impact
-SLES_524.40 0000008359a109f5	Harry Potter and the Prisoner of Azkaban
-SLES_525.27 000000fb21d97135	Harry Potter og Fangen fra Azkaban
-SLES_526.00 000000eb31c9619d	Harry Potter and The Prisoner of Azkaban
-SCES_532.86 000000bc6179303d	Jak X - Combat Racing
-SLES_512.52 000000ba619931ad	Lord of the Rings, The - The Two Towers
-SLES_512.53 000000ba619931a5	Lord of the Rings, The - The Two Towers (Seigneur des Anneaux - Les Deux Tours)
-SLES_512.54 000000ba619931bd	Lord of the Rings, The - The Two Towers (Der Herr der Ringe - Die Zwei Turme)
-SLES_512.55 000000ba619931b5	Lord of the Rings, The - The Two Towers
-SLES_512.56 000000ba619931cd	Lord of the Rings, The - The Two Towers (El Senor de Los Anillos - Las Dos Torres)
-SLUS_211.39 00000034c935993d	Gun
-SLUS_210.89 0000000cf10da195	Karaoke Revolution Vol.3
-SLUS_208.56 000000cc31cd619d	Spy Fiction
-SLUS_211.94 00000024d92589e5	Phantasy Star Universe
-SLUS_216.31 0000008d718d21e5	Phantasy Star Universe - Ambition of the Illuminus
-SLES_535.18 000000f429d17935	Castle Shikigami II
-SLES_517.57 0000003ae119b1e5	Dancing Stage Fever
-SLES_515.10 000000fa21d971fd	Dancing Stage Fever MegaMix
-SLES_525.98 000000eb31c961ed	Dancing Stage Fusion
-SCES_531.33 000000538991d88d	God of War
-SCES_542.06 0000005c8199d01d	God of War II
-SCES_516.07 000000d2091158dd	Ratchet & Clank 2 - Locked & Loaded
-SCES_524.56 0000008b5149007d	Ratchet & Clank 3
-SCES_532.85 000000bc61793025	Ratchet - Gladiator
-SLES_535.60 000000fc21d9718d	Sonic Riders
-SLES_525.84 000000eb31c9611d	Burnout 3 - Takedown
-SLES_525.85 000000eb31c96115	Burnout 3 - Takedown
-SLES_503.58 0000009941b9119d	Devil May Cry
-SLES_512.22 000000b2699139b5	Rayman 3 - Hoodlum Havoc
-SLES_504.57 000000f129d1798d	Rayman M
-SLES_522.37 000000b36991396d	dot Hack - Part 1 - Infection
-SLES_524.67 0000008b51a901a5	dot Hack - Part 2 - Mutation
-SLES_524.69 0000008b51a90195	dot Hack - Part 3 - Outbreak
-SLES_524.68 0000008b51a9019d	dot Hack - Part 4 - Quarantine
-SLES_820.24 000000c87189215d	Metal Gear Solid 3 - Snake Eater
-SLES_820.13 000000c0798129fd	Metal Gear Solid 3 - Snake Eater
-SLES_820.26 000000c87189214d	Metal Gear Solid 3 - Snake Eater
-SLES_820.32 000000c87189219d	Metal Gear Solid 3 - Snake Eater
-SLES_820.42 000000c8718921cd	Metal Gear Solid 3 - Subsistance [Disc1of2]
-SLES_820.43 000000c8718921c5	Metal Gear Solid 3 - Subsistance [Disc2of2]
-SLES_820.44 000000c8718921fd	Metal Gear Solid 3 - Subsistance [Disc1of2]
-SLES_820.45 000000c8718921f5	Metal Gear Solid 3 - Subsistance [Disc2of2]
-SLES_820.46 000000c8718921ed	Metal Gear Solid 3 - Subsistance [Disc1of2]
-SLES_820.47 000000c8718921e5	Metal Gear Solid 3 - Subsistance [Disc2of2]
-SLES_820.48 000000f049b11925	Metal Gear Solid 3 - Subsistance [Disc1of2]
-SLES_820.49 000000f049b1192d	Metal Gear Solid 3 - Subsistance [Disc2of2]
-SCES_504.08 000000895149007d	PaRappa the Rapper 2
-SLES_518.73 0000001ac13991a5	Medal of Honor - Rising Sun
-SLES_518.74 0000001ac13991bd	Medal of Honor - Rising Sun
-SLES_518.75 0000001ac13991b5	Medal of Honor - Rising Sun
-SLES_518.76 0000001ac139918d	Medal of Honor - Rising Sun
-SLES_535.34 000000f429d179b5	Tony Hawk's American Wasteland
-SLES_535.35 000000f429d179bd	Tony Hawk's American Wasteland
-SLES_535.23 000000f429d179dd	Gun
-SLES_536.47 000000d409f1591d	Gun
-SLES_530.09 00000073a951f94d	Dance Factory
-SLES_503.30 0000009149b119f5	Grand Theft Auto III - DISC 1
-SLES_507.93 00000029f109a1d5	Grand Theft Auto III
-SCES_542.19 000000449981c8ad	Buzz! Junior Jungle Party
-SCES_542.20 000000449981c895	Buzz! Junior Jungle Party
-SCES_545.24 0000008d514900dd	Buzz! Junior Jungle Party
-SLES_512.27 000000b2699139dd	Tomb Raider - Angel of Darkness
-SLES_509.92 00000079a159f14d	Hitman 2 - Silent Assassin
-SLES_511.08 000000598179d1cd	Hitman 2 - Silent Assasin
-SLES_511.09 000000598179d1c5	Hitman 2 - Silent Assassin
-SLES_511.07 000000598179d1f5	Hitman 2 - Silent Assasin
-SLES_511.10 000000598179d1dd	Hitman 2 - Silent Assasin
-SCES_511.35 000000598199d015	Primal
-SCES_516.85 000000ca11094055	Primal
-SLES_517.55 0000003ae119b1d5	Disney-Pixar's Finding Nemo
-SLES_518.70 00000012c9319955	Disney/Pixar's Finding Nemo
-SLES_518.71 00000012c931995d	Disney-Pixar's Finding Nemo
-SLES_518.72 0000001ac13991ad	Disney/Pixar's Finding Nemo
-SLES_519.07 00000002d92189ad	Disney/Pixar's Alla Ricerca di Nemo
-SCES_504.90 000000f92139709d	Final Fantasy X
-SCES_504.91 000000f921397095	Final Fantasy X
-SCES_504.92 000000f9213970ad	Final Fantasy X
-SCES_504.93 000000f9213970a5	Final Fantasy X
-SCES_504.94 000000f9213970bd	Final Fantasy X
-SLES_542.53 0000004c9169c195	Tiger Woods PGA Tour '07
-SLES_546.22 000000e539c169a5	GRAND THEFT AUTO - VICE CITY STORIES
-SLES_546.23 000000e539c169ad	Grand Theft Auto - Vice City Stories
-SLES_518.23 0000002af109a1e5	Hunter - The Reckoning Wayward
-SLES_509.88 00000079a159f1ad	Lord of the Rings, The - The Fellowship of the Ring (Der Herr der Ringe - Die Gefahrten)
-SCES_545.35 000000f52931787d	Everybody's Tennis
-SCES_516.84 000000ca1109405d	World Rally Championship 3
-SCES_523.89 0000009b41591005	World Rally Championship 4
-SCES_509.34 00000009d1c9800d	World Rally Championship II Extreme
-SCES_532.47 0000004b9189c005	WRC - World Rally Championship - Rally Evolved
-SLES_541.35 0000006cb149e165	Grand Theft Auto - Liberty City Stories
-SLES_541.36 0000006cb149e11d	Grand Theft Auto - Liberty City Stories
-SCES_509.16 00000009d1c9809d	Ratchet & Clank
-SLES_525.05 000000f329d1798d	Spy Fiction
-SLES_543.08 000000bd6199312d	Phantasy Star Universe
-SLES_548.92 0000002df109a1fd	Phantasy Star Universe - Ambition of the Illuminus
-SLES_544.39 0000009d41b91115	Okami
-SLES_522.78 000000bb619931bd	Mafia
-SLES_522.79 000000bb619931b5	Mafia
-SLES_522.80 000000bb619931cd	Mafia
-SLES_522.81 000000bb619931c5	Mafia
-SLES_522.82 000000bb619931dd	Mafia
-SLES_518.43 00000012c93199bd	Worms 3D
-SLES_519.14 00000002d92189e5	Onimusha 3 - Demon Siege
-SCES_504.59 000000f12931789d	Dropship - United Peace Force
-SLES_539.84 0000000cd12981bd	Ice Age 2 - The Meltdown
-SLES_541.47 000000548971d9fd	Ice Age 2 - The Meltdown [RUS]
-SLPM_622.74 0000006cf644e9c5	Powerful Pro Baseball 9 Ketteiban
-SLES_523.88 0000009b41b9110d	Transformers Armada - Prelude to Energon [Special Edition]
-SCES_520.33 00000062b9a1e8dd	Syphon Filter - The Omega Strain
-SCES_547.94 00000035e9f1b8d5	Syphon Filter – Dark Mirror
-SLES_506.72 000000c911e941fd	Baldur's Gate - Dark Alliance
-SLES_521.87 000000429961c92d	Baldur's Gate - Dark Alliance 2
-SLES_518.00 00000022f901a955	Smash Cars Racing
-SLES_504.46 000000f129d17935	Shadow Man 2 - The Second Coming
-SLES_506.08 000000d901f951ed	Shadow Man 2 - The Second Coming
-SLES_508.50 00000019c13991bd	ATV Off-Road 2
-SLPM_656.30 000000d0368429e5	Jikkyo Powerful Pro Baseball XI
-SLPM_654.45 00000057ce7cd1c5	Powerful Pro Baseball 10 - Decision
-SLPM_660.61 00000040a614b9ed	Jikkyou Powerful Pro Baseball 12
-SLPM_621.92 000000049e2c813d	実況パワフルプロ野球9
-SLPM_655.17 00000047de6cc195	Sengoku Musou
-SCES_517.19 00000032e9f1b8bd	Gran Turismo 4
-SCES_533.72 000000ac716920fd	Tourist Trophy - The Real Riding Simulator
-SLES_513.81 0000009a41b91185	Everblue 2
-SLES_501.34 000000409961c945	Oni
-SLES_501.76 000000b169913905	Oni
-SLES_501.77 000000b16991390d	Oni
-SLES_501.78 000000b169913915	Oni
-SLES_501.79 000000b16991391d	Oni
-SCES_508.78 00000019c1d9905d	Tekken 4
-SLES_541.63 000000548971d97d	Naruto - Ultimate Ninja
-SLES_548.78 00000025f901a965	Naruto - Ultimate Ninja 2
-SLES_552.37 000000459961c9dd	Naruto - Ultimate Ninja 3
-SLES_554.81 0000009e41b911e5	Naruto Shippuden - Ultimate Ninja 4
-SLES_530.38 0000007ba159f1bd	Devil May Cry 3 - Dante's Awakening
-SLES_541.86 0000005c8179d1bd	Devil May Cry 3 - Dante's Awakening [Special Edition]
-SLPS_200.20 0000001ba11cb12d	FIFA 2000 World Championship
-SLPM_665.90 000000c1269439f5	Jikkyou Powerful Pro Yakyuu 13 Chou Ketteiban
-SLPM_658.25 000000886edc7145	Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban
-SCES_500.03 00000060b9a1e84d	Dead or Alive 2 - Hardcore
-SLES_501.20 000000409961c9b5	Rumble Racing
-SLES_531.30 000000538971d9b5	World Championship Poker
-SLES_543.59 000000a5798129ad	Legend of Spyro, The - A New Beginning
-SLES_537.64 00000034e911b9a5	Atelier Iris - Eternal Mana
-SLES_543.85 000000ad71892195	Atelier Iris 2 - The Azoth of Destiny
-SLES_548.22 0000003de119b1bd	Atelier Iris 3 – Grand Phantasm
-SLES_545.86 000000fd21d9719d	Ar Tonelico - Melody of Elemia
-SLES_503.25 0000009149b1198d	Max Payne
-SLES_503.26 0000009149b11995	Max Payne
-SLES_547.14 000000dd01f951bd	Tony Hawk's Downhill Jam
-SLES_547.15 000000dd01f951b5	Tony Hawk's Downhill Jam
-SLES_535.01 0000008c51a901d5	Star Wars - Battlefront II
-SLES_535.02 0000008c51a901cd	Star Wars - Battlefront II
-SLES_535.03 0000008c51a901c5	Star Wars - Battlefront II
-SLES_525.45 000000e339c1695d	Star Wars Battlefront
-SLES_525.47 000000e339c1694d	Star Wars Battlefront
-SLES_525.46 000000e339c16945	Star Wars Battlefront
-SCES_507.60 00000021f9e1a8d5	Ico
-SLES_546.44 000000ed31c961fd	Valkyrie Profile 2 - Silmeria
-SLES_546.45 000000ed31c961f5	Valkyrie Profile 2 - Silmeria
-SLES_546.46 000000ed31c961ed	Valkyrie Profile 2 - Silmeria
-SLES_546.47 000000ed31c961e5	Valkyrie Profile 2 - Silmeria
-SLES_546.48 000000ed31c9619d	Valkyrie Profile 2 - Silmeria
-SLES_541.14 0000006cb149e1cd	Kingdom Hearts II
-SLES_542.32 000000449961c935	Kingdom Hearts II
-SLES_542.35 000000449961c92d	Kingdom Hearts II
-SLES_542.33 000000449961c93d	Kingdom Hearts II
-SLES_542.34 000000449961c925	Kingdom Hearts II
-SLES_525.41 000000fb21d971a5	Grand Theft Auto - San Andreas
-SLES_529.27 0000001bc1399155	Grand Theft Auto - San Andreas
-SLES_502.03 000000b1699139dd	Bloody Roar 3
-SLES_514.67 000000f229d1791d	Freedom Fighters
-SLES_514.68 000000f229d17925	FREEDOM FIGHTERS
-SLES_514.69 000000f229d1792d	Freedom Fighters
-SLES_514.70 000000f229d17935	Freedom Fighters
-SLES_514.71 000000f229d1793d	FREEDOM FIGHTERS
-SLES_540.89 00000064b941e99d	State of Emergency 2
-SLES_540.92 00000064b941e9b5	State of Emergency 2
-SLES_509.78 00000079a159f1dd	Onimusha 2 - Samurai's Destiny
-SLES_521.32 0000005a8179d1cd	Hitman - Contracts
-SLES_521.35 0000005a8179d1d5	Hitman - Contracts
-SLES_521.33 0000005a8179d1c5	Hitman - Contracts
-SLES_521.34 0000005a8179d1dd	Hitman - Contracts
-SLES_521.36 0000005a8179d1ad	Hitman - Contracts
-SLES_513.55 0000009249b119fd	Big Mutha Truckers
-SLES_509.72 00000071a951f925	Barbarian
-SLES_529.80 0000000bd129811d	Big Mutha Truckers 2
-SLES_524.04 0000009b41b9118d	MTV Music Generator 3
-SLES_535.85 000000e439c169dd	Marvel Nemesis - Rise of the Imperfects
-SLES_820.01 000000c07981299d	Summoner
-SLES_820.05 000000c0798129bd	Summoner
-SLES_820.03 000000c07981298d	Summoner
-SLES_511.18 000000598179d19d	Wizardry - Tales of the Forsaken Land
-SCES_511.76 000000499189c0bd	Disney's Treasure Planet
-SCES_511.77 000000499189c0b5	Disney's Treasure Planet
-SCES_514.63 000000f22931787d	Ghosthunter
-SCES_521.56 0000005a8199d00d	Ghosthunter - Hunter on the spectres
-SLES_544.23 0000009549b1199d	Justice League Heroes
-SLES_515.09 000000fa21d971e5	World of Outlaws - Sprint Cars
-SLES_537.01 000000c419e1495d	Super Monkey Ball Adventure
-SLES_536.16 000000ec31c961dd	True Crime - New York City
-SLES_536.17 000000ec31c961d5	TRUE CRIME - NEW YORK CITY
-SLES_536.18 000000ec31c961cd	True Crime - New York City
-SLES_526.69 000000db01f95185	Forgotten Realms - Demon Stone
-SLES_527.61 00000033e911b94d	Rocky - Legends
-SLES_502.67 000000a1798129cd	CART Fury Championship Racing
-SLES_513.45 0000009249b119ad	Run Like Hell
-SLES_512.85 000000a2798129bd	Spongebob Squarepants - Revenge of the Flying Dutchman
-SLES_534.94 0000008c51a9018d	Spongebob Squarepants - Lights, Camera, PANTS!
-SLES_534.95 0000008c51a90185	Bob L'éponge - Silence on Tourne!
-SLES_534.99 0000008c51a901e5	SpongeBob Squarepants - Licht uit, Camera aan!
-SLES_534.98 0000008c51a901ed	Bob Esponja - ¡Luces,Camara ,Esponja!
-SLES_534.96 0000008c51a901fd	Spongebob Squarepants - Lights, Camera, PANTS!
-SCES_500.06 00000060b9a1e865	Drakan - The Ancients' Gates
-SLES_503.56 0000009941b9118d	ESPN International Winter Sports
-SLES_524.39 0000008359a1098d	Suffering, The
-SLES_516.93 000000ca11e94115	Suffering, The
-SLES_525.31 000000fb21d971d5	Suffering, The
-SLES_535.27 000000f429d179fd	Suffering, The - Ties that Bond
-SLES_535.28 000000f429d17985	The Suffering - Ties That Bind
-SLES_535.26 000000f429d179f5	The Suffering - Les liens qui nous unissent
-SLES_536.26 000000ec31c9618d	The Suffering - Ties That Bind
-SLES_520.43 00000062b941e98d	MX Unleashed Migrated
-SLES_531.06 0000006bb149e14d	MX vs. ATV Unleashed
-SLES_525.51 000000e339c1696d	Samurai Warriors
-SLES_525.52 000000e339c16915	Samurai Warriors
-SLES_525.55 000000e339c1690d	Samurai Warriors
-SLES_525.54 000000e339c16905	Samurai Warriors
-SLES_543.40 000000a579812935	Samurai Warriors 2
-SLES_549.62 0000001dc139913d	Guitar Hero III - Legends of Rock
-SLES_549.74 0000001dc139915d	Guitar Hero III - Legends of Rock
-SLES_507.73 00000021f901a93d	Donald Duck - Phantomias Platyrhynchos Kineticus
-SLES_546.07 000000e539c1692d	Pimp my Ride
-SLES_546.32 000000ed31c9611d	MTV Pimp My Ride
-SLES_544.83 0000008559a109ad	The Fast and the Furious
-SLES_512.20 000000b2699139a5	Ty - The Tazmanian Tiger
-SLES_541.58 000000548971d995	Hummer Badlands
-SLES_527.53 00000033e911b90d	Flatout
-SLES_540.02 0000000cd129812d	FlatOut 2
-SLES_540.03 0000000cd1298125	Flatout 2
-SLES_522.89 000000a37981291d	MTX Mototrax
-SLES_522.90 000000a379812905	MTX Mototrax
-SLES_502.76 000000a97189213d	Gift, The
-SLES_502.96 000000a9718921dd	Gift
-SLES_502.97 000000a9718921d5	Gift
-SLES_502.98 000000a9718921cd	GIFT
-SLES_502.99 000000a9718921c5	GIFT
-SLES_506.13 000000d901f951c5	Woody Woodpecker
-SLES_521.79 000000429961c96d	Kaan Barbarian Blade
-SLES_539.56 00000004d9218995	Aeon Flux
-SLES_543.09 000000bd61993125	Strawberry Shortcake - The Sweet Dreams Game
-SLES_539.59 00000004d921898d	Pac-Man World 3
-SLES_504.79 000000f921d97135	Turok Evolution
-SCES_516.77 000000c21901489d	My Street
-SLES_505.44 000000e931c961dd	Jet Ion GP
-SLES_500.31 00000068b149e1a5	X-Squad
-SLES_515.47 000000e239c1698d	Next Generation Tennis 2003
-SLES_505.78 000000d109f159f5	Kessen II
-SLES_500.11 00000060b941e90d	FIFA 2001
-SLES_500.12 00000060b941e935	FIFA 2001
-SLES_500.13 00000060b941e93d	FIFA 2001
-SLES_500.14 00000060b941e925	FIFA 2001
-SLES_500.15 00000060b941e92d	FIFA 2001
-SLES_500.16 00000068b149e1dd	FIFA 2001
-SLES_510.11 00000061b941e9cd	Knight Rider - The Game
-SLES_535.39 000000fc21d97155	Fahrenheit
-SLES_535.40 000000fc21d9716d	Fahrenheit
-SLES_536.98 000000c419e14965	Ford vs. Chevy
-SLES_549.63 0000001dc1399135	Tony Hawk's Proving Ground
-SLES_509.84 00000079a159f18d	Gumball 3000
-SLES_530.45 0000007ba159f165	Street Racing Syndicate
-SLES_544.63 0000009d41b911d5	Sprint Cars - Road to Knoxville
-SLES_514.39 0000008a51a90145	Mortal Kombat – Deadly Alliance
-SLES_507.17 00000031e911b96d	Mortal Kombat - Deadly Alliance
-SLES_551.91 000000558971d95d	GUITAR HERO - AEROSMITH
-SLES_552.00 0000005d8179d1ed	GUITAR HERO - AEROSMITH
-SLES_553.55 000000be619931d5	Guitar Hero - World Tour
-SLES_554.72 0000009e41b911ad	Guitar Hero - Metallica
-SLES_555.33 0000008e51a90155	Guitar Hero 5
-SLES_555.44 0000008e51a901fd	Guitar Hero - Greatest Hits
-SLES_555.78 000000f629d17995	Band Hero
-SLES_547.27 000000c519e1494d	NARUTO - UZUMAKI CHRONICLES
-SLES_550.90 0000007da159f15d	Naruto - Uzumaki Chronicles 2
-SLES_505.92 000000d901f9516d	No One Lives Forever
-SLES_500.39 00000068b149e165	International Superstar Soccer
-SLES_549.71 0000001dc1399175	Hot Wheels - Beat That
-SLES_553.71 000000a67981294d	Barbie - Horse Adventure : Riding Camps
-SCUS_975.71 00000097213d7055	SingStar Rocks! [with Microphone]
-SCUS_975.80 00000097213d702d	SingStar Pop [with Microphone]
-SCUS_976.16 0000008f392568d5	SingStar 80's
-SCUS_976.11 0000008f3925680d	SingStar Amped [with Microphone]
-SCUS_976.26 0000008f39256885	SingStar 90's
-SCES_554.35 000000964951187d	SingStar Abba
-SLES_556.36 000000e639c169f5	Pro Evolution Soccer 2011
-SLES_556.37 000000e639c169fd	Pro Evolution Soccer 2011
-SLES_556.38 000000e639c169e5	Pro Evolution Soccer 2011
-SCES_522.68 000000bb6179306d	Sing-Star
-SCES_522.99 000000a37961284d	SingStar
-SCES_525.66 000000e3392168e5	SingStar
-SCES_525.65 000000e3392168fd	Sing-Star
-SLUS_217.99 000000dd21dd7175	Kingdom Hearts - Re- Chain of Memories
-SLKA_252.51 00000030483a91b5	Metal Gear Solid 3 - Snake Eater
-SLKA_253.28 00000020582a813d	Castlevania - Curse of Darkness
-SLKA_250.80 000000e098ea41bd	.Hack Vol.1 - Infection
-SLKA_251.38 00000010681ab11d	.Hack Vol.2 - Mutation
-SLKA_251.45 00000010681ab145	.Hack Vol.3 - Outbreak
-SLKA_251.74 000000087002a925	.Hack Vol.4 - Quarantine
-SCKA_300.02 000000d5a83a70dd	GOD OF WAR
-SCKA_300.06 000000d5a83a70fd	GOD OF WAR II
-SLKA_251.44 00000010681ab14d	Final Fantasy X-2
-SCKA_200.42 0000000370e2a8c5	Ace Combat 5 - The Unsung War
-SCKA_200.70 0000000b78eaa0ad	Ace Combat Zero - The Belkan War
-SLKA_252.65 00000030483a9125	Devil May Cry 3
-SLKA_250.41 000000e890e249fd	Armored Core 3 - Silent Line
-SLKA_250.71 000000e098ea4105	Tantei Jinguuji Saburo - Innocent Black
-SLKA_250.73 000000e098ea41f5	Lara Croft - Tomb Raider - The Angel of Darkness
-SCKA_200.69 0000000b78eaa0b5	Siren 2
-SLPM_675.13 00000029ce7cd125	Final Fantasy X International
-SLPM_675.07 00000029ce7cd175	Onimusha Wsrlords
-SLPM_675.18 00000029ce7cd11d	Onimusha 2 - Samurai's Destiny
-SLKA_250.93 000000186012b9ad	Onimusha 3 - Demon Siege
-SCKA_300.01 000000d5a83a70c5	Gran Turismo 4
-SLPM_742.32 000000b05eec41bd	Shin Onimusha - Dawn of Dreams [PlayStation 2 The Best]
-SCPS_560.01 0000000699c488bd	Ico
-SCKA_200.06 0000001b68fab0bd	ARGUS NO SENSHI
+SCPS_170.01 00000008B1ECA0D5	Gran Turismo 4
+SCPS_151.05 0000004EE9B4F8CD	Tourist Trophy - The Real Riding Simulator
+SLPM_622.14 0000007CE654F9F5	Ever Blue 2
+SLPM_620.55 00000024BE0CA1A5	Bloody Roar 3
+SLPM_651.00 0000002FB604A9F5	Onimusha 2
+SLPM_655.48 000000C026943965	Freedom Fighters
+SLPM_666.76 000000D93E8C21BD	Kingdom Hearts Re - Chain of Memories
+SCPS_151.06 0000004EE9B4F8D5	Siren 2
+SLPM_620.02 00000034AE1CB11D	Live World Soccer 2000
+SLPM_661.90 00000060863499D5	Star Wars Battlefront II
+SLPM_656.12 000000D036842975	Harry Potter and The Prisoner of Azkaban
+SLPM_664.85 00000028CE7CD145	State of Emergency - Revenge
+SLPS_254.06 00000050E15CF13D	Hitman - Contracts
+SLPM_657.01 000000E80EBC1105	Ghost Hunter
+SLPM_656.03 000000D03684290D	Run Like Hell
+SLPS_250.89 00000018A914B98D	Salt Lake 2002
+SLPS_255.69 00000060D16CC1F5	Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T.
+SLPM_552.76 0000004DDE6CC19D	Pro Evolution Soccer 2011
+SLAJ_250.94 00000098E510B9B5	Burnout Dominator
+SLAJ_251.15 00000098E510B95D	Pro Evolution Soccer 2011
+SLES_509.19 00000009D1298185	Akira Psycho Ball
+SLES_516.02 000000D209F159F5	All-Stars Baseball 2004
+SCES_517.06 000000CA110940AD	Amplitude
+SCES_538.51 00000024F9E1A84D	Forbidden Siren 2
+SLES_518.15 0000002AF109A1A5	Final Fantasy X-2
+SLES_518.16 0000002AF109A1DD	Final Fantasy X-2
+SLES_518.17 0000002AF109A1D5	Final Fantasy X-2
+SLES_518.18 0000002AF109A1CD	Final Fantasy X-2
+SLES_518.19 0000002AF109A1C5	Final Fantasy X-2
+SLES_510.44 00000069B149E1FD	Burnout 2 - Point of Impact
+SLES_524.40 0000008359A109F5	Harry Potter and the Prisoner of Azkaban
+SLES_525.27 000000FB21D97135	Harry Potter og Fangen fra Azkaban
+SLES_526.00 000000EB31C9619D	Harry Potter and The Prisoner of Azkaban
+SCES_532.86 000000BC6179303D	Jak X - Combat Racing
+SLES_512.52 000000BA619931AD	Lord of the Rings, The - The Two Towers
+SLES_512.53 000000BA619931A5	Lord of the Rings, The - The Two Towers (Seigneur des Anneaux - Les Deux Tours)
+SLES_512.54 000000BA619931BD	Lord of the Rings, The - The Two Towers (Der Herr der Ringe - Die Zwei Turme)
+SLES_512.55 000000BA619931B5	Lord of the Rings, The - The Two Towers
+SLES_512.56 000000BA619931CD	Lord of the Rings, The - The Two Towers (El Senor de Los Anillos - Las Dos Torres)
+SLUS_211.39 00000034C935993D	Gun
+SLUS_210.89 0000000CF10DA195	Karaoke Revolution Vol.3
+SLUS_208.56 000000CC31CD619D	Spy Fiction
+SLUS_211.94 00000024D92589E5	Phantasy Star Universe
+SLUS_216.31 0000008D718D21E5	Phantasy Star Universe - Ambition of the Illuminus
+SLES_535.18 000000F429D17935	Castle Shikigami II
+SLES_517.57 0000003AE119B1E5	Dancing Stage Fever
+SLES_515.10 000000FA21D971FD	Dancing Stage Fever MegaMix
+SLES_525.98 000000EB31C961ED	Dancing Stage Fusion
+SCES_531.33 000000538991D88D	God of War
+SCES_542.06 0000005C8199D01D	God of War II
+SCES_516.07 000000D2091158DD	Ratchet & Clank 2 - Locked & Loaded
+SCES_524.56 0000008B5149007D	Ratchet & Clank 3
+SCES_532.85 000000BC61793025	Ratchet - Gladiator
+SLES_535.60 000000FC21D9718D	Sonic Riders
+SLES_525.84 000000EB31C9611D	Burnout 3 - Takedown
+SLES_525.85 000000EB31C96115	Burnout 3 - Takedown
+SLES_503.58 0000009941B9119D	Devil May Cry
+SLES_512.22 000000B2699139B5	Rayman 3 - Hoodlum Havoc
+SLES_504.57 000000F129D1798D	Rayman M
+SLES_522.37 000000B36991396D	dot Hack - Part 1 - Infection
+SLES_524.67 0000008B51A901A5	dot Hack - Part 2 - Mutation
+SLES_524.69 0000008B51A90195	dot Hack - Part 3 - Outbreak
+SLES_524.68 0000008B51A9019D	dot Hack - Part 4 - Quarantine
+SLES_820.24 000000C87189215D	Metal Gear Solid 3 - Snake Eater
+SLES_820.13 000000C0798129FD	Metal Gear Solid 3 - Snake Eater
+SLES_820.26 000000C87189214D	Metal Gear Solid 3 - Snake Eater
+SLES_820.32 000000C87189219D	Metal Gear Solid 3 - Snake Eater
+SLES_820.42 000000C8718921CD	Metal Gear Solid 3 - Subsistance [Disc1of2]
+SLES_820.43 000000C8718921C5	Metal Gear Solid 3 - Subsistance [Disc2of2]
+SLES_820.44 000000C8718921FD	Metal Gear Solid 3 - Subsistance [Disc1of2]
+SLES_820.45 000000C8718921F5	Metal Gear Solid 3 - Subsistance [Disc2of2]
+SLES_820.46 000000C8718921ED	Metal Gear Solid 3 - Subsistance [Disc1of2]
+SLES_820.47 000000C8718921E5	Metal Gear Solid 3 - Subsistance [Disc2of2]
+SLES_820.48 000000F049B11925	Metal Gear Solid 3 - Subsistance [Disc1of2]
+SLES_820.49 000000F049B1192D	Metal Gear Solid 3 - Subsistance [Disc2of2]
+SCES_504.08 000000895149007D	PaRappa the Rapper 2
+SLES_518.73 0000001AC13991A5	Medal of Honor - Rising Sun
+SLES_518.74 0000001AC13991BD	Medal of Honor - Rising Sun
+SLES_518.75 0000001AC13991B5	Medal of Honor - Rising Sun
+SLES_518.76 0000001AC139918D	Medal of Honor - Rising Sun
+SLES_535.34 000000F429D179B5	Tony Hawk's American Wasteland
+SLES_535.35 000000F429D179BD	Tony Hawk's American Wasteland
+SLES_535.23 000000F429D179DD	Gun
+SLES_536.47 000000D409F1591D	Gun
+SLES_530.09 00000073A951F94D	Dance Factory
+SLES_503.30 0000009149B119F5	Grand Theft Auto III - DISC 1
+SLES_507.93 00000029F109A1D5	Grand Theft Auto III
+SCES_542.19 000000449981C8AD	Buzz! Junior Jungle Party
+SCES_542.20 000000449981C895	Buzz! Junior Jungle Party
+SCES_545.24 0000008D514900DD	Buzz! Junior Jungle Party
+SLES_512.27 000000B2699139DD	Tomb Raider - Angel of Darkness
+SLES_509.92 00000079A159F14D	Hitman 2 - Silent Assassin
+SLES_511.08 000000598179D1CD	Hitman 2 - Silent Assasin
+SLES_511.09 000000598179D1C5	Hitman 2 - Silent Assassin
+SLES_511.07 000000598179D1F5	Hitman 2 - Silent Assasin
+SLES_511.10 000000598179D1DD	Hitman 2 - Silent Assasin
+SCES_511.35 000000598199D015	Primal
+SCES_516.85 000000CA11094055	Primal
+SLES_517.55 0000003AE119B1D5	Disney-Pixar's Finding Nemo
+SLES_518.70 00000012C9319955	Disney/Pixar's Finding Nemo
+SLES_518.71 00000012C931995D	Disney-Pixar's Finding Nemo
+SLES_518.72 0000001AC13991AD	Disney/Pixar's Finding Nemo
+SLES_519.07 00000002D92189AD	Disney/Pixar's Alla Ricerca di Nemo
+SLES_519.60 0000000AD129817D	Disney/Pixar Finding Nemo
+SCES_504.90 000000F92139709D	Final Fantasy X
+SCES_504.91 000000F921397095	Final Fantasy X
+SCES_504.92 000000F9213970AD	Final Fantasy X
+SCES_504.93 000000F9213970A5	Final Fantasy X
+SCES_504.94 000000F9213970BD	Final Fantasy X
+SLES_542.53 0000004C9169C195	Tiger Woods PGA Tour '07
+SLES_546.22 000000E539C169A5	GRAND THEFT AUTO - VICE CITY STORIES
+SLES_546.23 000000E539C169AD	Grand Theft Auto - Vice City Stories
+SLES_518.23 0000002AF109A1E5	Hunter - The Reckoning Wayward
+SLES_509.88 00000079A159F1AD	Lord of the Rings, The - The Fellowship of the Ring (Der Herr der Ringe - Die Gefahrten)
+SCES_545.35 000000F52931787D	Everybody's Tennis
+SCES_516.84 000000CA1109405D	World Rally Championship 3
+SCES_523.89 0000009B41591005	World Rally Championship 4
+SCES_509.34 00000009D1C9800D	World Rally Championship II Extreme
+SCES_532.47 0000004B9189C005	WRC - World Rally Championship - Rally Evolved
+SCES_536.80 000000DC011950ED	WRC - Rally Evolved
+SLES_541.35 0000006CB149E165	Grand Theft Auto - Liberty City Stories
+SLES_541.36 0000006CB149E11D	Grand Theft Auto - Liberty City Stories
+SCES_509.16 00000009D1C9809D	Ratchet & Clank
+SLES_525.05 000000F329D1798D	Spy Fiction
+SLES_543.08 000000BD6199312D	Phantasy Star Universe
+SLES_548.92 0000002DF109A1FD	Phantasy Star Universe - Ambition of the Illuminus
+SLES_544.39 0000009D41B91115	Okami
+SLES_522.78 000000BB619931BD	Mafia
+SLES_522.79 000000BB619931B5	Mafia
+SLES_522.80 000000BB619931CD	Mafia
+SLES_522.81 000000BB619931C5	Mafia
+SLES_522.82 000000BB619931DD	Mafia
+SLES_518.43 00000012C93199BD	Worms 3D
+SLES_519.14 00000002D92189E5	Onimusha 3 - Demon Siege
+SCES_504.59 000000F12931789D	Dropship - United Peace Force
+SLES_539.84 0000000CD12981BD	Ice Age 2 - The Meltdown
+SLES_541.47 000000548971D9FD	Ice Age 2 - The Meltdown [RUS]
+SLPM_622.74 0000006CF644E9C5	Powerful Pro Baseball 9 Ketteiban
+SLES_523.88 0000009B41B9110D	Transformers Armada - Prelude to Energon [Special Edition]
+SLES_533.09 000000BC619931E5	Transformers
+SCES_520.33 00000062B9A1E8DD	Syphon Filter - The Omega Strain
+SCES_547.94 00000035E9F1B8D5	Syphon Filter – Dark Mirror
+SLES_506.72 000000C911E941FD	Baldur's Gate - Dark Alliance
+SLES_521.87 000000429961C92D	Baldur's Gate - Dark Alliance 2
+SLES_518.00 00000022F901A955	Smash Cars Racing
+SLES_504.46 000000F129D17935	Shadow Man 2 - The Second Coming
+SLES_506.08 000000D901F951ED	Shadow Man 2 - The Second Coming
+SLES_508.50 00000019C13991BD	ATV Off-Road 2
+SLPM_656.30 000000D0368429E5	Jikkyo Powerful Pro Baseball XI
+SLPM_654.45 00000057CE7CD1C5	Powerful Pro Baseball 10 - Decision
+SLPM_660.61 00000040A614B9ED	Jikkyou Powerful Pro Baseball 12
+SLPM_621.92 000000049E2C813D	実況パワフルプロ野球9
+SLPM_655.17 00000047DE6CC195	Sengoku Musou
+SCES_517.19 00000032E9F1B8BD	Gran Turismo 4
+SCES_533.72 000000AC716920FD	Tourist Trophy - The Real Riding Simulator
+SLES_513.81 0000009A41B91185	Everblue 2
+SLES_501.34 000000409961C945	Oni
+SLES_501.76 000000B169913905	Oni
+SLES_501.77 000000B16991390D	Oni
+SLES_501.78 000000B169913915	Oni
+SLES_501.79 000000B16991391D	Oni
+SCES_508.78 00000019C1D9905D	Tekken 4
+SLES_541.63 000000548971D97D	Naruto - Ultimate Ninja
+SLES_548.78 00000025F901A965	Naruto - Ultimate Ninja 2
+SLES_552.37 000000459961C9DD	Naruto - Ultimate Ninja 3
+SLES_554.81 0000009E41B911E5	Naruto Shippuden - Ultimate Ninja 4
+SLES_530.38 0000007BA159F1BD	Devil May Cry 3 - Dante's Awakening
+SLES_541.86 0000005C8179D1BD	Devil May Cry 3 - Dante's Awakening [Special Edition]
+SLPS_200.20 0000001BA11CB12D	FIFA 2000 World Championship
+SLPM_665.90 000000C1269439F5	Jikkyou Powerful Pro Yakyuu 13 Chou Ketteiban
+SLPM_658.25 000000886EDC7145	Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban
+SCES_500.03 00000060B9A1E84D	Dead or Alive 2 - Hardcore
+SLES_501.20 000000409961C9B5	Rumble Racing
+SLES_531.30 000000538971D9B5	World Championship Poker
+SLES_543.59 000000A5798129AD	Legend of Spyro, The - A New Beginning
+SLES_537.64 00000034E911B9A5	Atelier Iris - Eternal Mana
+SLES_543.85 000000AD71892195	Atelier Iris 2 - The Azoth of Destiny
+SLES_548.22 0000003DE119B1BD	Atelier Iris 3 – Grand Phantasm
+SLES_545.86 000000FD21D9719D	Ar Tonelico - Melody of Elemia
+SLES_503.25 0000009149B1198D	Max Payne
+SLES_503.26 0000009149B11995	Max Payne
+SLES_547.14 000000DD01F951BD	Tony Hawk's Downhill Jam
+SLES_547.15 000000DD01F951B5	Tony Hawk's Downhill Jam
+SLES_535.01 0000008C51A901D5	Star Wars - Battlefront II
+SLES_535.02 0000008C51A901CD	Star Wars - Battlefront II
+SLES_535.03 0000008C51A901C5	Star Wars - Battlefront II
+SLES_525.45 000000E339C1695D	Star Wars Battlefront
+SLES_525.47 000000E339C1694D	Star Wars Battlefront
+SLES_525.46 000000E339C16945	Star Wars Battlefront
+SCES_507.60 00000021F9E1A8D5	Ico
+SLES_546.44 000000ED31C961FD	Valkyrie Profile 2 - Silmeria
+SLES_546.45 000000ED31C961F5	Valkyrie Profile 2 - Silmeria
+SLES_546.46 000000ED31C961ED	Valkyrie Profile 2 - Silmeria
+SLES_546.47 000000ED31C961E5	Valkyrie Profile 2 - Silmeria
+SLES_546.48 000000ED31C9619D	Valkyrie Profile 2 - Silmeria
+SLES_541.14 0000006CB149E1CD	Kingdom Hearts II
+SLES_542.32 000000449961C935	Kingdom Hearts II
+SLES_542.35 000000449961C92D	Kingdom Hearts II
+SLES_542.33 000000449961C93D	Kingdom Hearts II
+SLES_542.34 000000449961C925	Kingdom Hearts II
+SLES_525.41 000000FB21D971A5	Grand Theft Auto - San Andreas
+SLES_529.27 0000001BC1399155	Grand Theft Auto - San Andreas
+SLES_502.03 000000B1699139DD	Bloody Roar 3
+SLES_514.67 000000F229D1791D	Freedom Fighters
+SLES_514.68 000000F229D17925	FREEDOM FIGHTERS
+SLES_514.69 000000F229D1792D	Freedom Fighters
+SLES_514.70 000000F229D17935	Freedom Fighters
+SLES_514.71 000000F229D1793D	FREEDOM FIGHTERS
+SLES_540.89 00000064B941E99D	State of Emergency 2
+SLES_540.92 00000064B941E9B5	State of Emergency 2
+SLES_509.78 00000079A159F1DD	Onimusha 2 - Samurai's Destiny
+SLES_521.32 0000005A8179D1CD	Hitman - Contracts
+SLES_521.35 0000005A8179D1D5	Hitman - Contracts
+SLES_521.33 0000005A8179D1C5	Hitman - Contracts
+SLES_521.34 0000005A8179D1DD	Hitman - Contracts
+SLES_521.36 0000005A8179D1AD	Hitman - Contracts
+SLES_513.55 0000009249B119FD	Big Mutha Truckers
+SLES_509.72 00000071A951F925	Barbarian
+SLES_532.96 000000BC6199318D	Ford Mustang - The Legend Lives
+SLES_529.80 0000000BD129811D	Big Mutha Truckers 2
+SLES_524.04 0000009B41B9118D	MTV Music Generator 3
+SLES_535.85 000000E439C169DD	Marvel Nemesis - Rise of the Imperfects
+SLES_820.01 000000C07981299D	Summoner
+SLES_820.05 000000C0798129BD	Summoner
+SLES_820.03 000000C07981298D	Summoner
+SLES_511.18 000000598179D19D	Wizardry - Tales of the Forsaken Land
+SCES_511.76 000000499189C0BD	Disney's Treasure Planet
+SCES_511.77 000000499189C0B5	Disney's Treasure Planet
+SCES_514.63 000000F22931787D	Ghosthunter
+SCES_521.56 0000005A8199D00D	Ghosthunter - Hunter on the spectres
+SLES_544.23 0000009549B1199D	Justice League Heroes
+SLES_512.13 000000B26991396D	?
+SLES_515.09 000000FA21D971E5	World of Outlaws - Sprint Cars
+SLES_537.01 000000C419E1495D	Super Monkey Ball Adventure
+SLES_536.16 000000EC31C961DD	True Crime - New York City
+SLES_536.17 000000EC31C961D5	TRUE CRIME - NEW YORK CITY
+SLES_536.18 000000EC31C961CD	True Crime - New York City
+SLES_526.69 000000DB01F95185	Forgotten Realms - Demon Stone
+SLES_527.61 00000033E911B94D	Rocky - Legends
+SLES_502.67 000000A1798129CD	CART Fury Championship Racing
+SLES_513.45 0000009249B119AD	Run Like Hell
+SLES_512.85 000000A2798129BD	Spongebob Squarepants - Revenge of the Flying Dutchman
+SLES_534.94 0000008C51A9018D	Spongebob Squarepants - Lights, Camera, PANTS!
+SLES_534.97 0000008C51A901F5	Spongebob Squarepants - Lights, Camera, PANTS!
+SLES_534.95 0000008C51A90185	Bob L'éponge - Silence on Tourne!
+SLES_534.99 0000008C51A901E5	SpongeBob Squarepants - Licht uit, Camera aan!
+SLES_534.98 0000008C51A901ED	Bob Esponja - ¡Luces,Camara ,Esponja!
+SLES_534.96 0000008C51A901FD	Spongebob Squarepants - Lights, Camera, PANTS!
+SLES_535.00 0000008C51A901DD	Spongebob Squarepants - Lights, Camera, PANTS!
+SCES_500.06 00000060B9A1E865	Drakan - The Ancients' Gates
+SLES_503.56 0000009941B9118D	ESPN International Winter Sports
+SLES_524.39 0000008359A1098D	Suffering, The
+SLES_516.93 000000CA11E94115	Suffering, The
+SLES_525.31 000000FB21D971D5	Suffering, The
+SLES_535.27 000000F429D179FD	Suffering, The - Ties that Bond
+SLES_535.28 000000F429D17985	The Suffering - Ties That Bind
+SLES_535.26 000000F429D179F5	The Suffering - Les liens qui nous unissent
+SLES_536.26 000000EC31C9618D	The Suffering - Ties That Bind
+SLES_520.43 00000062B941E98D	MX Unleashed Migrated
+SLES_531.06 0000006BB149E14D	MX vs. ATV Unleashed
+SLES_525.51 000000E339C1696D	Samurai Warriors
+SLES_525.52 000000E339C16915	Samurai Warriors
+SLES_525.55 000000E339C1690D	Samurai Warriors
+SLES_525.54 000000E339C16905	Samurai Warriors
+SLES_543.40 000000A579812935	Samurai Warriors 2
+SLES_549.62 0000001DC139913D	Guitar Hero III - Legends of Rock
+SLES_549.74 0000001DC139915D	Guitar Hero III - Legends of Rock
+SLES_507.73 00000021F901A93D	Donald Duck - Phantomias Platyrhynchos Kineticus
+SLES_546.07 000000E539C1692D	Pimp my Ride
+SLES_546.32 000000ED31C9611D	MTV Pimp My Ride
+SLES_544.83 0000008559A109AD	The Fast and the Furious
+SLES_512.20 000000B2699139A5	Ty - The Tazmanian Tiger
+SLES_541.58 000000548971D995	Hummer Badlands
+SLES_527.53 00000033E911B90D	Flatout
+SLES_540.02 0000000CD129812D	FlatOut 2
+SLES_540.03 0000000CD1298125	Flatout 2
+SLES_522.89 000000A37981291D	MTX Mototrax
+SLES_522.90 000000A379812905	MTX Mototrax
+SLES_502.76 000000A97189213D	Gift, The
+SLES_502.96 000000A9718921DD	Gift
+SLES_502.97 000000A9718921D5	Gift
+SLES_502.98 000000A9718921CD	GIFT
+SLES_502.99 000000A9718921C5	GIFT
+SLES_506.13 000000D901F951C5	Woody Woodpecker
+SLES_521.79 000000429961C96D	Kaan Barbarian Blade
+SLES_539.56 00000004D9218995	Aeon Flux
+SLES_543.09 000000BD61993125	Strawberry Shortcake - The Sweet Dreams Game
+SLES_539.59 00000004D921898D	Pac-Man World 3
+SLES_504.79 000000F921D97135	Turok Evolution
+SCES_516.77 000000C21901489D	My Street
+SLES_505.44 000000E931C961DD	Jet Ion GP
+SLES_500.31 00000068B149E1A5	X-Squad
+SLES_545.59 000000F529D179BD	Free Running
+SLES_515.47 000000E239C1698D	Next Generation Tennis 2003
+SLES_505.78 000000D109F159F5	Kessen II
+SLES_500.11 00000060B941E90D	FIFA 2001
+SLES_500.12 00000060B941E935	FIFA 2001
+SLES_500.13 00000060B941E93D	FIFA 2001
+SLES_500.14 00000060B941E925	FIFA 2001
+SLES_500.15 00000060B941E92D	FIFA 2001
+SLES_500.16 00000068B149E1DD	FIFA 2001
+SLES_510.11 00000061B941E9CD	Knight Rider - The Game
+SLES_535.39 000000FC21D97155	Fahrenheit
+SLES_535.40 000000FC21D9716D	Fahrenheit
+SLES_536.98 000000C419E14965	Ford vs. Chevy
+SLES_549.63 0000001DC1399135	Tony Hawk's Proving Ground
+SLES_509.84 00000079A159F18D	Gumball 3000
+SLES_530.45 0000007BA159F165	Street Racing Syndicate
+SLES_544.63 0000009D41B911D5	Sprint Cars - Road to Knoxville
+SLES_514.39 0000008A51A90145	Mortal Kombat – Deadly Alliance
+SLES_507.17 00000031E911B96D	Mortal Kombat - Deadly Alliance
+SLES_551.91 000000558971D95D	GUITAR HERO - AEROSMITH
+SLES_552.00 0000005D8179D1ED	GUITAR HERO - AEROSMITH
+SLES_553.55 000000BE619931D5	Guitar Hero - World Tour
+SLES_554.72 0000009E41B911AD	Guitar Hero - Metallica
+SLES_555.18 0000008659A109C5	Guitar Hero - Van Halen
+SLES_555.33 0000008E51A90155	Guitar Hero 5
+SLES_555.44 0000008E51A901FD	Guitar Hero - Greatest Hits
+SLES_555.78 000000F629D17995	Band Hero
+SLES_547.27 000000C519E1494D	NARUTO - UZUMAKI CHRONICLES
+SLES_550.90 0000007DA159F15D	Naruto - Uzumaki Chronicles 2
+SLES_505.92 000000D901F9516D	No One Lives Forever
+SLES_500.39 00000068B149E165	International Superstar Soccer
+SLES_549.71 0000001DC1399175	Hot Wheels - Beat That
+SLES_553.71 000000A67981294D	Barbie - Horse Adventure - Riding Camps
+SCUS_975.71 00000097213D7055	SingStar Rocks! [with Microphone]
+SCUS_975.80 00000097213D702D	SingStar Pop [with Microphone]
+SCUS_976.16 0000008F392568D5	SingStar 80's
+SCUS_976.11 0000008F3925680D	SingStar Amped [with Microphone]
+SCUS_976.26 0000008F39256885	SingStar 90's
+SCUS_976.27 0000008F3925688D	Singstar Pop Volume 2
+SCES_554.35 000000964951187D	SingStar Abba
+SLES_556.36 000000E639C169F5	Pro Evolution Soccer 2011
+SLES_556.37 000000E639C169FD	Pro Evolution Soccer 2011
+SLES_556.38 000000E639C169E5	Pro Evolution Soccer 2011
+SCES_522.68 000000BB6179306D	Sing-Star
+SCES_522.99 000000A37961284D	SingStar
+SCES_525.66 000000E3392168E5	SingStar
+SCES_525.65 000000E3392168FD	Sing-Star
+SLUS_217.99 000000DD21DD7175	Kingdom Hearts - Re- Chain of Memories
+SLKA_252.51 00000030483A91B5	Metal Gear Solid 3 - Snake Eater
+SLKA_253.28 00000020582A813D	Castlevania - Curse of Darkness
+SLKA_250.80 000000E098EA41BD	.Hack Vol.1 - Infection
+SLKA_251.38 00000010681AB11D	.Hack Vol.2 - Mutation
+SLKA_251.45 00000010681AB145	.Hack Vol.3 - Outbreak
+SLKA_251.74 000000087002A925	.Hack Vol.4 - Quarantine
+SCKA_300.02 000000D5A83A70DD	GOD OF WAR
+SCKA_300.06 000000D5A83A70FD	GOD OF WAR II
+SLKA_251.44 00000010681AB14D	Final Fantasy X-2
+SCKA_200.42 0000000370E2A8C5	Ace Combat 5 - The Unsung War
+SCKA_200.70 0000000B78EAA0AD	Ace Combat Zero - The Belkan War
+SLKA_252.65 00000030483A9125	Devil May Cry 3
+SLKA_254.02 00000050285AF11D	?
+SLKA_250.41 000000E890E249FD	Armored Core 3 - Silent Line
+SLKA_150.01 0000002E4032996D	Barbarian
+SLKA_250.71 000000E098EA4105	Tantei Jinguuji Saburo - Innocent Black
+SLKA_250.73 000000E098EA41F5	Lara Croft - Tomb Raider - The Angel of Darkness
+SCKA_200.69 0000000B78EAA0B5	Siren 2
+SLPM_675.13 00000029CE7CD125	Final Fantasy X International
+SLPM_675.07 00000029CE7CD175	Onimusha Wsrlords
+SLPM_675.18 00000029CE7CD11D	Onimusha 2 - Samurai's Destiny
+SLKA_250.93 000000186012B9AD	Onimusha 3 - Demon Siege
+SCKA_300.01 000000D5A83A70C5	Gran Turismo 4
+SLPM_742.32 000000B05EEC41BD	Shin Onimusha - Dawn of Dreams [PlayStation 2 The Best]
+SLPM_742.33 000000B05EEC41B5	Shin Onimusha - Dawn of Dreams (Disc 2)
+SCPS_560.01 0000000699C488BD	Ico
+SCKA_200.06 0000001B68FAB0BD	ARGUS NO SENSHI
 SLKA_252.32 0000003840329925	Naruto - Narutimate Hero
-SLKA_253.53 000000582052f98d	Metal Gear Solid 3 - Subsistance [Limited Edition] [Disc1of2]
-SLKA_253.54 000000582052f995	Metal Gear Solid 3 - Subsistance [Limited Edition] [Disc2of2]
-SCKA_200.11 0000001b68fab0d5	Ratchet & Clank 2 - Gagaga! Ginga no Commando-ssu
-SCKA_200.37 0000000370e2a8bd	Ratchet & Clank 2 - Gagaga! Ginga no Commando-ssu [Big Hit Series]
-SCKA_200.60 0000000370e2a875	Ratchet - Deadlocked
-SLKA_252.18 00000038403299b5	Hitman - Contracts
-SLKA_251.72 000000087002a935	Harry Potter and the Prisoner of Azkaban
-SLPM_645.28 000000bf26943985	Harry Potter and the Chamber of Secrets
-SLKA_250.07 000000f088fa5115	SPY FICTION
-SLPM_675.02 00000029ce7cd19d	DEVIL MAY CRY
-SCKA_200.18 0000001b68fab01d	The Getaway
-SCKA_200.27 0000001b68fab055	KOUKAKU KIDOUTAI - STAND ALONE COMPLEX
-SLKA_150.07 0000002e4032995d	Growlanser II - The Sense of Justice
-SLKA_150.21 00000026483a91c5	Growlanser II - The Dual Darkness
-SLKA_250.78 000000e098ea41cd	Rayman 3 - Hoodlum Havoc
-SLKA_252.52 00000030483a918d	Forgotten Realms - Demon Stone
-SLKA_251.23 00000010681ab195	Taisho Mononoke Ibunroku
-SLKA_252.82 00000028502289a5	MX vs. ATV Unleashed
-SCKA_200.25 0000001b68fab045	Katamari Damacy
-SLPM_675.46 00000031d664c925	Lord of the Rings - The Two Towers
-SCKA_200.32 0000000370e2a895	Syphon Filter - The Omega Virus
-SLKA_251.75 000000087002a92d	Transformers
-SLKA_252.74 00000030483a917d	Princess Maker 4
-SLKA_254.01 00000050285af105	FLATOUT 2
-SLKA_253.09 000000285022895d	INDIGO PROPHECY
-SLKA_254.77 000000780072d9cd	World Soccer Winning Eleven 2011
-SCUS_973.40 000000d7617d30ed	Official U.S. PlayStation Magazine Demo Disc 087
-SCUS_973.41 000000d7617d30e5	Official U.S. PlayStation Magazine Demo Disc 088
-SCUS_973.42 000000d7617d30fd	Official U.S. PlayStation Magazine Demo Disc 089
-SCUS_974.42 000000f7415d103d	Official U.S. PlayStation Magazine Demo Disc 090
-SCUS_976.21 0000008f392568fd	Twisted Metal - Head-On [Extra Twisted Edition]
-SCUS_975.89 00000097213d70e5	NBA '08 featuring The Life Vol.3
-SLUS_217.35 000000ad51ad0105	Mana Khemia - Alchemists of Al-Revis
-SLUS_216.01 0000008d718d2115	Sprint Cars 2 - Showdown at Eldora
+SLKA_253.53 000000582052F98D	Metal Gear Solid 3 - Subsistance [Limited Edition] [Disc1of2]
+SLKA_253.54 000000582052F995	Metal Gear Solid 3 - Subsistance [Limited Edition] [Disc2of2]
+SCKA_200.11 0000001B68FAB0D5	Ratchet & Clank 2 - Gagaga! Ginga no Commando-ssu
+SCKA_200.37 0000000370E2A8BD	Ratchet & Clank 2 - Gagaga! Ginga no Commando-ssu [Big Hit Series]
+SCKA_200.60 0000000370E2A875	Ratchet - Deadlocked
+SLKA_250.55 000000E890E2498D	Hitman 2 - Silent Assassin
+SLKA_252.18 00000038403299B5	Hitman - Contracts
+SLKA_251.72 000000087002A935	Harry Potter and the Prisoner of Azkaban
+SLPM_645.28 000000BF26943985	Harry Potter and the Chamber of Secrets
+SLKA_252.60 00000030483A91CD	?
+SLKA_250.07 000000F088FA5115	SPY FICTION
+SLPM_675.02 00000029CE7CD19D	DEVIL MAY CRY
+SCKA_200.18 0000001B68FAB01D	The Getaway
+SCKA_200.27 0000001B68FAB055	KOUKAKU KIDOUTAI - STAND ALONE COMPLEX
+SLKA_150.07 0000002E4032995D	Growlanser II - The Sense of Justice
+SLKA_150.21 00000026483A91C5	Growlanser II - The Dual Darkness
+SLKA_250.78 000000E098EA41CD	Rayman 3 - Hoodlum Havoc
+SLKA_252.52 00000030483A918D	Forgotten Realms - Demon Stone
+SLKA_251.23 00000010681AB195	Taisho Mononoke Ibunroku
+SLKA_252.82 00000028502289A5	MX vs. ATV Unleashed
+SCKA_200.25 0000001B68FAB045	Katamari Damacy
+SLKA_253.63 000000582052F95D	Guitar Hero III - Legends of Rock
+SLKA_253.19 00000020582A8185	Spongebob Squarepants - Lights, Camera, PANTS!
+SLKA_253.67 000000582052F97D	Superman Returns
+SLPM_675.46 00000031D664C925	Lord of the Rings - The Two Towers
+SCKA_200.32 0000000370E2A895	Syphon Filter - The Omega Virus
+SLKA_251.75 000000087002A92D	Transformers
+SLPM_645.19 000000BF2694393D	Woody Woodpecker - Escape from Buzz Buzzard Park
+SLKA_252.74 00000030483A917D	Princess Maker 4
+SLKA_253.14 00000020582A81AD	?
+SLKA_254.01 00000050285AF105	FLATOUT 2
+SCKA_200.88 0000000B78EAA05D	?
+SLKA_150.06 0000002E40329955	Knight Rider - The Game
+SLKA_253.09 000000285022895D	INDIGO PROPHECY
+SLKA_254.77 000000780072D9CD	World Soccer Winning Eleven 2011
+SCUS_973.40 000000D7617D30ED	Official U.S. PlayStation Magazine Demo Disc 087
+SCUS_973.41 000000D7617D30E5	Official U.S. PlayStation Magazine Demo Disc 088
+SCUS_973.42 000000D7617D30FD	Official U.S. PlayStation Magazine Demo Disc 089
+SCUS_974.42 000000F7415D103D	Official U.S. PlayStation Magazine Demo Disc 090
+SCUS_976.21 0000008F392568FD	Twisted Metal - Head-On [Extra Twisted Edition]
+SCUS_975.89 00000097213D70E5	NBA '08 featuring The Life Vol.3
+SLUS_217.35 000000AD51AD0105	Mana Khemia - Alchemists of Al-Revis
+SLUS_216.01 0000008D718D2115	Sprint Cars 2 - Showdown at Eldora

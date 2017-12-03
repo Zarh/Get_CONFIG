@@ -32,7 +32,7 @@ FVGK-0007	L no Kisetsu 2 - Invisible Memories (Limited Edition)
 FVGK-0011	Memories Off #6 T-Wave (Limited Edition)
 FVGK-0015	HAKUSHAKU TO YOUSEI - YUME TO KIZUNA NI OMOI HASETE (Limited Edition)
 FVGK-0024	Memories Off #6 Next Relation (Limited Edition)
-GN-04003	Komorebi no Namikimichi: Utsurikawaru Kisetsu no Chuu de (Limited Edition)
+GN-04003	Komorebi no Namikimichi - Utsurikawaru Kisetsu no Chuu de (Limited Edition)
 GN-04005	APOCRIPHA/0 (Limited Edition)
 GN-05009	ANGEL'S FEATHER - KURO NO ZANEI (Limited Edition)
 GN-05013	Izumo 2 (Limited Edition)
@@ -60,7 +60,7 @@ KOEI-00033	San Goku Shi X (Anniversary Box)
 KOEI-00046	Pachi-Slot Winning Post (With Controller)
 KOEI-00049	Shin Sangoku Musou 4 - Mushouden (Premium Pack)
 KOEI-00050	Shin Sangoku Musou 4 - Mushouden (Treasure Box)
-KOEI-00068	Pachi-Slot Nobunaga no Yabou: Tenka Sousei (Pachi-Slot Set)
+KOEI-00068	Pachi-Slot Nobunaga no Yabou - Tenka Sousei (Pachi-Slot Set)
 KOEI-00110	HARUKANARU TOKI NO NAKA DE - MAIHITOYO [PREMIUM BOX]
 KOEI-00111	HARUKANARU TOKI NO NAKA DE - HACHIYOUSHOU [TWIN PACK]
 KOEI-00112	Sengoku Musou 2 Empires(Treasure Box)
@@ -614,6 +614,7 @@ SCES-53610	Sing-Star '80s
 SCES-53642	Ape Escape 3
 SCES-53663	Buzz! The Music Quiz
 SCES-53669	Buzz! The Music Quiz
+SCES-53680	WRC - Rally Evolved
 SCES-53688	Urban Reign
 SCES-53795	SingStar '80s
 SCES-53851	Forbidden Siren 2
@@ -883,8 +884,8 @@ SCKA-20081	Tekken 5 [PlayStation 2 Big Hit Series]
 SCKA-20082	Ace Combat 5 - The Unsung War [PlayStation 2 Big Hit Series]
 SCKA-20084	MONSTER HOUSE
 SCKA-20085	MINNA NO TENNIS - EVERYBODY'S TENNIS
-SCKA-20086	Shin Onimusha - Dawn of Dreams  - DISC 1
-SCKA-20087	Shin Onimusha - Dawn of Dreams  - DISC 2
+SCKA-20086	Shin Onimusha - Dawn of Dreams - DISC 1
+SCKA-20087	Shin Onimusha - Dawn of Dreams - DISC 2
 SCKA-20089	BioHazard 4
 SCKA-20090	GOD HAND
 SCKA-20092	K-1 World Grand Prix 2006
@@ -1599,11 +1600,13 @@ SCUS-97612	SingStar Amped [Game Only]
 SCUS-97615	Ratchet & Clank - Size Matters
 SCUS-97616	SingStar 80's
 SCUS-97618	SingStar 80's [Game Only]
+SCUS-97620	Syphon Filter - Dark Mirror
 SCUS-97621	Twisted Metal - Head-On [Extra Twisted Edition]
 SCUS-97622	SingStar 80's [with Microphone]
 SCUS-97623	Secret Agent Clank
 SCUS-97625	NBA '09 - The Inside
 SCUS-97626	SingStar 90's
+SCUS-97627	Singstar Pop Volume 2
 SCUS-97633	Buzz! The Hollywood Quiz [Game Only]
 SCUS-97634	Buzz! Jr. RoboJam [Game Only]
 SCUS-97636	SingStar 90's [Game Only]
@@ -1680,6 +1683,7 @@ SLAJ-25095	Medal of Honor - Vanguard
 SLAJ-25096	Musou Orochi
 SLAJ-25099	NBA Live '08
 SLAJ-25104	Shin Sangoku Musou 5 - Special
+SLAJ-25115	Pro Evolution Soccer 2011
 SLAJ-35001	Sakura Wars
 SLAJ-35003	Sakura Taisen - Atsuki Chishioni Ni
 SLAK-25159	Astro Boy
@@ -1689,7 +1693,7 @@ SLED-50478	WWF Smackdown! - Just Bring It [Demo]
 SLED-50488	Spy Hunter [Demo]
 SLED-51211	Burnout 2 - Point of Impact [Demo]
 SLED-54312	Need for Speed - Carbon [Demo]
-SLES-00648	IL-2 Sturmovik: Birds of Prey
+SLES-00648	IL-2 Sturmovik - Birds of Prey
 SLES-50003	Swap Magic DVD Disc v2.0
 SLES-50009	Action Replay MAX
 SLES-50010	Ready 2 Rumble - Round 2
@@ -2687,6 +2691,7 @@ SLES-51956	Bionicle - The Game
 SLES-51957	Terminator 3 - Rise of the Machines
 SLES-51958	Whiplash
 SLES-51959	Football Generation
+SLES-51960	Disney/Pixar Finding Nemo
 SLES-51963	FIFA 2004
 SLES-51964	FIFA 2004
 SLES-51966	Bombastic
@@ -3370,11 +3375,13 @@ SLES-53281	Fantastic Four
 SLES-53282	Harvest Fishing
 SLES-53284	Guilty Gear Isuka
 SLES-53287	Tom Clancy's Splinter Cell - Chaos Theory
+SLES-53296	Ford Mustang - The Legend Lives
 SLES-53297	7 Sins
 SLES-53299	Delta Force - Black Hawk Down
 SLES-53300	SOCOM 3 - U.S. Navy SEALs
 SLES-53301	Bomberman Hardball
 SLES-53303	Skijumping 2006
+SLES-53309	Transformers
 SLES-53311	Graffiti Kingdom
 SLES-53314	Frankie Dettori Racing
 SLES-53317	Black Market Bowling
@@ -3482,6 +3489,8 @@ SLES-53492	Total Overdose
 SLES-53494	Spongebob Squarepants - Lights, Camera, PANTS!
 SLES-53495	Bob L'éponge - Silence on Tourne!
 SLES-53496	Spongebob Squarepants - Lights, Camera, PANTS!
+SLES-53497	Spongebob Squarepants - Lights, Camera, PANTS!
+SLES-53500	Spongebob Squarepants - Lights, Camera, PANTS!
 SLES-53498	Bob Esponja - ¡Luces,Camara ,Esponja!
 SLES-53499	SpongeBob Squarepants - Licht uit, Camera aan!
 SLES-53501	Star Wars - Battlefront II
@@ -4065,6 +4074,7 @@ SLES-54551	Premier Manager 2006-2007
 SLES-54553	Shrek - Smash 'n Crash Racing
 SLES-54554	Star Trek - Encounters
 SLES-54555	Shin Megami Tensei - Digital Devil Saga 2
+SLES-54559	Free Running
 SLES-54560	Alpine Ski Racing 2007
 SLES-54561	Capcom Classics Collection Vol.2
 SLES-54563	Super Fruit Fall
@@ -4461,7 +4471,7 @@ SLES-55289	Go Diego Go - Safari Rescue
 SLES-55292	Samurai Showdown Anthology
 SLES-55293	Disney's Hannah Montana - Spotlight World Tour
 SLES-55294	Ferrari Challenge - Trofeo Pirelli
-SLES-55295	SCORE International Baja 1000: World Championship Off Road Racing
+SLES-55295	SCORE International Baja 1000 - World Championship Off Road Racing
 SLES-55328	The Millenium European Paintball Series - Championship Paintball 2009
 SLES-55329	DreamWorks' Shrek's Carnival Craze - Party Games
 SLES-55330	Secret Service
@@ -4487,9 +4497,9 @@ SLES-55355	Guitar Hero - World Tour
 SLES-55356	Bratz - Girlz Really Rock
 SLES-55358	Bratz - Girlz Really Rock
 SLES-55364	Agent Hugo - Hula Holiday
-SLES-55367	Call of Duty - World at War: Final Fronts
-SLES-55369	Call of Duty - World at War: Final Fronts
-SLES-55371	Barbie - Horse Adventure : Riding Camps
+SLES-55367	Call of Duty - World at War - Final Fronts
+SLES-55369	Call of Duty - World at War - Final Fronts
+SLES-55371	Barbie - Horse Adventure - Riding Camps
 SLES-55372	Spider-Man - Web of Shadows - Amazing Allies Edition
 SLES-55373	The King of Fighters Collection - The Orochi Saga
 SLES-55374	DreamWorks' Madagascar 2 - Escape 2 Africa
@@ -4504,8 +4514,8 @@ SLES-55392	Disney's Sing It
 SLES-55393	Disney's Sing It
 SLES-55394	DISNEY'S TH!NK FAST
 SLES-55395	DISNEY'S TH!NK FAST
-SLES-55396	Disney's Sing It - High School Musical 3: Senior Year
-SLES-55397	Disney's Sing It - High School Musical 3: Senior Year
+SLES-55396	Disney's Sing It - High School Musical 3 - Senior Year
+SLES-55397	Disney's Sing It - High School Musical 3 - Senior Year
 SLES-55405	Pro Evolution Soccer 2009
 SLES-55406	Pro Evolution Soccer 2009
 SLES-55409	TT Superbikes - Legends
@@ -4521,7 +4531,7 @@ SLES-55443	Mana Khemia - Alchemists of Al-Revis
 SLES-55444	Ar Tonelico II - Melody of Metafalica
 SLES-55448	INDIANA JONES & THE STAFF OF KINGS
 SLES-55451	Rock Band 2
-SLES-55457	AC/DC Live: Rock Ban
+SLES-55457	AC/DC Live - Rock Ban
 SLES-55458	Rock Band - Songs Pack 2
 SLES-55459	Jelly Belly - Ballistic Beams
 SLES-55460	DreamWorks' Shrek's Carnival Craze - Party Games
@@ -4548,6 +4558,7 @@ SLES-55509	Music Maker - Rockstar
 SLES-55511	MTV Pimp My Ride - Street Racing
 SLES-55512	Sengoku Anthology
 SLES-55516	L'Era glaciale 3 - L'Alba dei Dinosauri
+SLES-55518	Guitar Hero - Van Halen
 SLES-55520	Transformers -Revenge of the Fallen
 SLES-55522	Disney/Pixar's Up
 SLES-55523	Disney/Pixar's Up
@@ -4661,10 +4672,12 @@ SLES-82052	Metal Gear Solid 3 - Subsistance [Disc1of2]
 SLES-82053	Metal Gear Solid 3 - Subsistance [Disc2of2]
 SLKA 25447	Fifa '09
 SLKA.15035	Saiyuki Reload Gunlock
+SLKA-15001	Barbarian
 SLKA-15002	Space Raiders
 SLKA-15003	Shikigami no Shiro II
 SLKA-15004	Strikers 1945 I & II + Gunbird [Premium Package Shooting Collection] [Disc1of2]
 SLKA-15005	Strikers 1945 I & II + Gunbird [Premium Package Shooting Collection] [Disc2of2]
+SLKA-15006	Knight Rider - The Game
 SLKA-15007	Growlanser II - The Sense of Justice
 SLKA-15008	Choro Q - HG 2
 SLKA-15009	Takahashi Meijin no Adventure Island
@@ -4739,6 +4752,7 @@ SLKA-25051	CLOCK TOWER 3
 SLKA-25052	Air Ranger 2 - Rescue Helicopter
 SLKA-25053	Def Jam - Vendetta
 SLKA-25054	Gran Prix Challenge
+SLKA-25055	Hitman 2 - Silent Assassin
 SLKA-25056	Disney-Pixar's Finding Nemo
 SLKA-25057	All-Star Baseball 2004
 SLKA-25059	Pride FC -Fighting Championships
@@ -4925,6 +4939,7 @@ SLKA-25315	NBA Live '06
 SLKA-25316	Disney-Pixar's Mr. Incredible - Kyouteki Underminer Toujou
 SLKA-25317	Shin Sangoku Musou 3 [PlayStation 2 - Big Hit Series]
 SLKA-25318	THE CHRONICLES OF NARNIA - THE LION, THE WITCH AND THE WARDROBE
+SLKA-25319	Spongebob Squarepants - Lights, Camera, PANTS!
 SLKA-25320	Ikusa Gami
 SLKA-25321	K.League - Winning Eleven 9 - Asia Championship
 SLKA-25322	Guilty Gear XX - Slash
@@ -4950,9 +4965,11 @@ SLKA-25354	Metal Gear Solid 3 - Subsistance [Limited Edition] [Disc2of2]
 SLKA-25355	Metal Gear Solid 3 - Subsistance (Limited Edition) - DISC 3
 SLKA-25359	Winning Eleven 9 - Liveware Edition
 SLKA-25361	Keroro Gunsou - Mero Mero Battle Royale Z
+SLKA-25363	Guitar Hero III - Legends of Rock
 SLKA-25364	Mobile Suit Gundam - Climax U.C.
 SLKA-25365	WWE SmackDown vs. Raw 2008
 SLKA-25366	Naruto - Konoha Spirits
+SLKA-25367	Superman Returns
 SLKA-25371	GA-ROU-DEN BREAKBLOW
 SLKA-25373	FIGHT NIGHT ROUND 3
 SLKA-25374	Fifa Street 2
@@ -5070,12 +5087,12 @@ SLPM-55138	Harukanaru Toki no Naka de - Yumenoukihash Special
 SLPM-55140	Silent Hill 4 - The Room (Konami Dendou Seleection)
 SLPM-55141	DESTROY ALL HUMANS! [THQ COLLECTION]
 SLPM-55142	Pia Carrot e Youkoso!! G.O. Summer Fair (Best Version)
-SLPM-55143	BioHazard - Code: Veronica Kanzenban (Best Prize)
+SLPM-55143	BioHazard - Code - Veronica Kanzenban (Best Prize)
 SLPM-55144	NBA Live '08 (EA Best Hits)
 SLPM-55146	Jikkyou Pro Yakyuu 2009
 SLPM-55148	007 - NAGUSAME NO HOUSHUU
 SLPM-55151	Need for Speed - Pro Street (EA-SY! 1980)
-SLPM-55152	Slotter Up - Core 11 : Kyoujin no Hoshi IV
+SLPM-55152	Slotter Up - Core 11 - Kyoujin no Hoshi IV
 SLPM-55155	Jikkyou Powerful Major League 2009
 SLPM-55157	San Goku Shi X (Koei Teiban Series)
 SLPM-55165	AOISHIRO [SUPERLITE 2000 ADVENTURE]
@@ -5090,8 +5107,8 @@ SLPM-55182	J-League Winning Eleven 2009 Club Championship
 SLPM-55183	MELTY BLOOD - ACTRESS AGAIN [Limited Edition]
 SLPM-55184	MELTY BLOOD - ACTRESS AGAIN
 SLPM-55187	CANVAS 3 - TANSHOKU NO PASTEL
-SLPM-55190	L2: Love x Loop (Limited Edition)
-SLPM-55191	L2: Love x Loop
+SLPM-55190	L2 - Love x Loop (Limited Edition)
+SLPM-55191	L2 - Love x Loop
 SLPM-55197	Memories Off #6 Next Relation
 SLPM-55204	ARIA - THE ORIGINATION ~AOI HOSHI NO EL CIELO~ [ALCHEMIST BEST COLLECTION]
 SLPM-55205	S.Y.K SHINSETSU SAIYUUKI (Limited Edition)
@@ -5106,7 +5123,7 @@ SLPM-55216	Hiiro no Kakera (Aizouban)
 SLPM-55217	Shin Hisui no Shizuku - Hiiro no Kakera 2
 SLPM-55221-2	Beatmania IIDX - 16 - Empress + Premium Best
 SLPM-55224	Sengoku Basara X (Best Price)
-SLPM-55228	Slotter Up - Mania 11 : 2027 vs 2027 II
+SLPM-55228	Slotter Up - Mania 11 - 2027 vs 2027 II
 SLPM-55229	Final Fantasy XI - Vana'diel Collection 2
 SLPM-55231	Silent Hill - Shattered Memories
 SLPM-55232	Nobunaga no Yabou - Tenka Sousei (with Power-Up Kit)(Koei Teiban Series)
@@ -5126,7 +5143,8 @@ SLPM-55262	J-League Winning Eleven 2010 Club Championship
 SLPM-55263	MOUJUUTSUKAI TO OUJISAMA
 SLPM-55272	San Goku Shi XI With Power-Up Kit (Koei Teiban Series)
 SLPM-55273	HAKUOKI - REIMEIROKU
-SLPM-55275	Slotter Up - Core 12 : PinPon
+SLPM-55275	Slotter Up - Core 12 - PinPon
+SLPM-55276	Pro Evolution Soccer 2011
 SLPM-55281	CLOCK ZERO - SHUUEN NO ICHIBYOU
 SLPM-55282	ARMEN NOIR
 SLPM-55283	HAKUOKI - REIMEIROKU (Limited Edition)
@@ -5848,6 +5866,7 @@ SLPM-64510	International Superstar Soccer 2
 SLPM-64512	Super Puzzle Bobble
 SLPM-64513	CRASH BANDICOOT - RETURN OF THE DEMON KING
 SLPM-64517	FREEKSTYLE
+SLPM-64519	Woody Woodpecker - Escape from Buzz Buzzard Park
 SLPM-64521	Raging Bless - Gouma Mokushiroku
 SLPM-64522	La Pucelle
 SLPM-64523	MARVEL VS CAPCOM 2
@@ -7314,8 +7333,8 @@ SLPM-66609	Dance Dance Revolution - SuperNOVA
 SLPM-66610	Prince of Tennis - DokiDoki Survival - Umibe no Secret
 SLPM-66611	Tomoyo After - It's Wonderful Life [CS Edition]
 SLPM-66612	School Love [Limited Edition]
-SLPM-66613	Medal of Honor - Rising Sun & Frontline [EA Best Hits]  - DISC 1
-SLPM-66614	Medal of Honor - Rising Sun & Frontline [EA Best Hits]  - DISC 2
+SLPM-66613	Medal of Honor - Rising Sun & Frontline [EA Best Hits] - DISC 1
+SLPM-66614	Medal of Honor - Rising Sun & Frontline [EA Best Hits] - DISC 2
 SLPM-66615	James Bond 007 - Everything or Nothing & Nightfire [EA Best Hits]
 SLPM-66617	Need for Speed - Carbon
 SLPM-66618	Yumemishi [First Print Limited Edition]
@@ -7371,6 +7390,7 @@ SLPM-66672	Tom Clancy's Splinter Cell - Double Agent
 SLPM-66673	Prince of Persia - Warrior Within [Ubisoft the Best]
 SLPM-66674	Tiger Woods PGA Tour '07
 SLPM-66675	Kingdom Hearts II - Final Mix +
+SLPM-66676	Kingdom Hearts Re - Chain of Memories
 SLPM-66677	Final Fantasy X - International [Ultimate Hits]
 SLPM-66678	Final Fantasy X-2 - International + Last Mission [Ultimate Hits]
 SLPM-66679	Devil Summoner - Kuzunoha Raido tai Abaddon Ou Plus (Limited Edition)
@@ -7777,6 +7797,7 @@ SLPM-74229	BioHazard 4 [PlayStation 2 The Best]
 SLPM-74230	Devil May Cry [PlayStation 2 The Best]
 SLPM-74231	Kessen III [PlayStation 2 The Best]
 SLPM-74232	Shin Onimusha - Dawn of Dreams [PlayStation 2 The Best]
+SLPM-74233	Shin Onimusha - Dawn of Dreams (Disc 2)
 SLPM-74234	Ryu Ga Gotoku [PlayStation 2 The Best]
 SLPM-74235	Sengoku Musou [PlayStation 2 The Best]
 SLPM-74236	Shin Sangoku Musou 4 [PlayStation 2 The Best]
@@ -8317,8 +8338,8 @@ SLPS-25059	G-Breaker - Legend of Cloudia
 SLPS-25060	Mobile Suit Gundam - Megurial Sora [Limited Edition]
 SLPS-25062	Kidou Senshi Gundam - Meguriai Sora
 SLPS-25064	Sea-Man
-SLPS-25065	Seaman - Kindan no Pet: Gaze Hakushi no Jikken Shima (Limited Edition With Microphone9)
-SLPS-25066	Seaman - Kindan no Pet: Gaze Hakushi no Jikken Shima
+SLPS-25065	Seaman - Kindan no Pet - Gaze Hakushi no Jikken Shima (Limited Edition With Microphone9)
+SLPS-25066	Seaman - Kindan no Pet - Gaze Hakushi no Jikken Shima
 SLPS-25068	Jikkyou Jitsumei Keiba Dream Classic 2001 Autumn
 SLPS-25069	FIFA 2002 - Road to World Cup
 SLPS-25070	Tales of the Sunrise Heroes 2
@@ -8335,7 +8356,9 @@ SLPS-25081	Saishuu Densha
 SLPS-25083	Exciting Pro Wrestling 3
 SLPS-25084	Thunder Strike - Operation Phoenix
 SLPS-25085	Soul Reaver 2 - Legacy of Kain
+SLPS-25087	WWF SmackDown! Just Bring It
 SLPS-25088	Final Fantasy X International
+SLPS-25089	Salt Lake 2002
 SLPS-25094	Reveal Fantasia
 SLPS-25095	Uchuu Senkan Yamato - Iscandar he no Tsuioku
 SLPS-25096	Galerians 2 [Limited Edition]
@@ -8532,7 +8555,7 @@ SLPS-25320	InuYasha - Juso no Kamen
 SLPS-25321	Derby Stallion 2004
 SLPS-25323	Usagi - Yasei no Topai - Yamashiro Mahjong-Hen
 SLPS-25324	Rhapsody of Zephyr
-SLPS-25325	Nishikaze no Kyoushikyouku: The Rhapsody of Zephyr
+SLPS-25325	Nishikaze no Kyoushikyouku - The Rhapsody of Zephyr
 SLPS-25326	WWE Smackdown! Here Comes the Pain - Exciting Pro Wrestling 5 [Limited Edition]
 SLPS-25327	Exciting Pro Wrestling 5
 SLPS-25329	Kuon
@@ -9085,8 +9108,8 @@ SLPS-25931	Katekyoushi Hitman Reborn! Nerae Ring x Bongole Trainers (Best Collec
 SLPS-25933	World Heroes - Gorgeous (NeoGeo Online Collection Vol. 9 The Best)
 SLPS-25935	The King of Fighters '98 Ultimate Match (NeoGeo Online Collection The Best)
 SLPS-25937	Metal Slug Complete (SNK Best Collection)
-SLPS-25942	Hisshou Pachinko*Pachi-Slot Kouryoku Series Vol. 14 - CR Shinseiki Evangelion: Saigo no Mono
-SLPS-25943	Hisshou Pachinko*Pachi-Slot Kouryoku Series Vol. 14 - CR Shinseiki Evangelion: Saigo no Mono (Limited Edition)
+SLPS-25942	Hisshou Pachinko*Pachi-Slot Kouryoku Series Vol. 14 - CR Shinseiki Evangelion - Saigo no Mono
+SLPS-25943	Hisshou Pachinko*Pachi-Slot Kouryoku Series Vol. 14 - CR Shinseiki Evangelion - Saigo no Mono (Limited Edition)
 SLPS-25944	Kamen Rider - Climax Heroes
 SLPS-25945	LARA CROFT - TOMB RAIDER - LEGEND [SPIKE THE BEST]
 SLPS-25946	Lara Croft - Tomb Raider - Anniversary [Spike the Best]
@@ -9448,6 +9471,7 @@ SLUS-20285	Moto GP 2
 SLUS-20286	Smash Court Tennis - Pro Tournament
 SLUS-20287	Guilty Gear X
 SLUS-20288	Godai - Elemental Force
+SLUS-20291	Big Mutha Truckers
 SLUS-20292	Tsugunai - Atonement
 SLUS-20293	Star Wars - Jedi Starfighter
 SLUS-20294	Gitaroo Man
@@ -10933,6 +10957,7 @@ SLUS-21938	Ben 10 - Ultimate Alien - Cosmic Destruction
 SLUS-21939	WWE Smackdown! vs. RAW 2011
 SLUS-21940	WWE All Stars
 SLUS-21941	FIFA '11
+SLUS-21942	Pro Evolution Soccer 2011
 SLUS-21945	Major League Baseball 2K11
 SLUS-21946	Madden NFL '12
 SLUS-21947	FIFA '12

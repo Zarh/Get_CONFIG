@@ -69,7 +69,6 @@ int main()
 	
 	FILE *fo;
 	fo = fopen("log.txt", "wb");
-	
 	while(fgets(entry, 255, ft)) {
 		sscanf(entry, "%s %llX", game_ID, (unsigned long long int *) &hash);
 		
@@ -165,6 +164,11 @@ int main()
 									val32=0x03;
 									break;
 								}
+								case 0x33F98 : // ?
+								{
+									val32=0x04;
+									break;
+								}
 								case 0x36CF8 :
 								{
 									val32=0x05;
@@ -180,7 +184,7 @@ int main()
 									val32=0x07;
 									break;
 								}
-								case 0x33E00 :
+								case 0x33DFC :
 								{
 									val32=0x08;
 									break;
@@ -231,9 +235,29 @@ int main()
 									val32=0x11;
 									break;
 								}
-								case 0x366C4 :
+								case 0x34DD0 :
 								{
 									val32=0x12;
+									break;
+								}
+								case 0x366C4 :
+								{
+									val32=0x13;
+									break;
+								}
+								case 0x34EDC :
+								{
+									val32=0x14;
+									break;
+								}
+								case 0x3795C :
+								{
+									val32=0x15;
+									break;
+								}
+								case 0x3521C :
+								{
+									val32=0x16;
 									break;
 								}
 								case 0x347D0 :
@@ -241,7 +265,7 @@ int main()
 									val32=0x17;
 									break;
 								}
-								case 0x373FC :
+								case 0x35300 :
 								{
 									val32=0x18;
 									break;
@@ -251,9 +275,129 @@ int main()
 									val32=0x19;
 									break;
 								}
+								case 0x37614 :
+								{
+									val32=0x1A;
+									break;
+								}
+								case 0x35434 :
+								{
+									val32=0x1B;
+									break;
+								}
+								case 0x354F8 :
+								{
+									val32=0x1C;
+									break;
+								}
+								case 0x355BC :
+								{
+									val32=0x1D;
+									break;
+								}
+								case 0x35680 :
+								{
+									val32=0x1E;
+									break;
+								}
+								case 0x35744 :
+								{
+									val32=0x1F;
+									break;
+								}
+								case 0x35808 :
+								{
+									val32=0x20;
+									break;
+								}
+								case 0x358CC :
+								{
+									val32=0x21;
+									break;
+								}
+								case 0x35990 :
+								{
+									val32=0x22;
+									break;
+								}
+								case 0x35A54 :
+								{
+									val32=0x23;
+									break;
+								}
+								case 0x35B18 :
+								{
+									val32=0x24;
+									break;
+								}
+								case 0x35BDC :
+								{
+									val32=0x25;
+									break;
+								}
+								case 0x35CA0 :
+								{
+									val32=0x26;
+									break;
+								}
+								case 0x35D64 :
+								{
+									val32=0x27;
+									break;
+								}
+								case 0x35E28 :
+								{
+									val32=0x28;
+									break;
+								}
+								case 0x35EEC :
+								{
+									val32=0x29;
+									break;
+								}
+								case 0x35158 :
+								{
+									val32=0x2A;
+									break;
+								}
+								case 0x34994 :
+								{
+									val32=0x2B;
+									break;
+								}
 								case 0x36FC8 :
 								{
 									val32=0x2C;
+									break;
+								}
+								case 0x3607C :
+								{
+									val32=0x2D;
+									break;
+								}
+								case 0x34A70 :
+								{
+									val32=0x2F;
+									break;
+								}
+								case 0x34B48 :
+								{
+									val32=0x30;
+									break;
+								}
+								case 0x34C20 :
+								{
+									val32=0x31;
+									break;
+								}
+								case 0x34CF8 :
+								{
+									val32=0x32;
+									break;
+								}
+								case 0x37714 :
+								{
+									val32=0x33;
 									break;
 								}
 								default :
@@ -988,7 +1132,6 @@ int main()
 		fputs("\n", fo);
 		
 	}
-	
 	fclose(ft);
 	fclose(fo);
 	free(elf_data);

@@ -10,6 +10,7 @@ int main(int argc, char **argv)
 	FILE *fid;
 	FILE *ft;
 	FILE *fr;
+	int title_found=0;
 	
 	char IDhash[128];
 	char ID[32];
@@ -29,16 +30,20 @@ int main(int argc, char **argv)
 		strtok(IDhash, "\r\n");
 		
 		fseek(ft, 0, SEEK_SET);
+		title_found=0;
 		while(fgets(title, 255, ft)){
 
 			if(strstr(title, ID) != NULL) {
 				fputs(IDhash, fr);
 				fputs(strchr(title,'\t'), fr);
+				title_found=1;
 				break;
 			}
 		}
-		
-	
+		if(title_found==0) {
+			fputs(IDhash, fr);
+			fputs("\t?\n", fr);
+		}
 	}
 	fclose(fid);
 	fclose(ft);

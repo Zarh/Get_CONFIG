@@ -202,12 +202,12 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00138FCC
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : 0x12
+		[Net] Function ID : 0x13
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 001394A8
 		[GX] Function offset : 0x34EDC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x14
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
 		Nothing to do
@@ -222,12 +222,12 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 0022D3E0
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : 0x12
+		[Net] Function ID : 0x13
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 0022D830
 		[GX] Function offset : 0x34EDC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x14
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
 		Nothing to do
@@ -351,7 +351,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 001F9F58
 		[GX] Function offset : 0x33F98
-		[Net] Function ID : unk
+		[Net] Function ID : 0x04
 
 Title : Champions of Norrath
 Game ID : SLUS_205.65
@@ -363,12 +363,12 @@ Commands count : 0x4
 	[Net] Command ID : 0x01
 		Param : 00164338
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : 0x12
+		[Net] Function ID : 0x13
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 001646E8
 		[GX] Function offset : 0x3795C
-		[Net] Function ID : unk
+		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
 		Nothing to do
@@ -376,7 +376,7 @@ Commands count : 0x4
 	[Net] Command ID : 0x01
 		Param : 002D0818
 		[GX] Function offset : 0x3521C
-		[Net] Function ID : unk
+		[Net] Function ID : 0x16
 
 Title : Champions of Norrath - Realms of EverQuest
 Game ID : SLES_523.25
@@ -388,12 +388,12 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00166748
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : 0x12
+		[Net] Function ID : 0x13
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00166AF0
 		[GX] Function offset : 0x3795C
-		[Net] Function ID : unk
+		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
 		Nothing to do
@@ -408,12 +408,12 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 001717D8
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : 0x12
+		[Net] Function ID : 0x13
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00171AE0
 		[GX] Function offset : 0x3795C
-		[Net] Function ID : unk
+		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
 		Nothing to do
@@ -428,12 +428,12 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00171940
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : 0x12
+		[Net] Function ID : 0x13
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00171CE0
 		[GX] Function offset : 0x3795C
-		[Net] Function ID : unk
+		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
 		Nothing to do
@@ -642,7 +642,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 00209860
 		[GX] Function offset : 0x37714
-		[Net] Function ID : unk
+		[Net] Function ID : 0x33
 
 Title : Devil May Cry 3 - Dante's Awakening [Special Edition]
 Game ID : SLUS_213.61
@@ -668,7 +668,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 0020A9F0
 		[GX] Function offset : 0x37714
-		[Net] Function ID : unk
+		[Net] Function ID : 0x33
 
 Title : Disney's Extreme Skate Adventure
 Game ID : SLUS_206.07
@@ -947,7 +947,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 00187528
 		[GX] Function offset : 0x34DD0
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x02
 	[Net] Command ID : 0x03
 		Nothing to do
@@ -1350,7 +1350,7 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 002BD45C
 		[GX] Function offset : 0x33DFC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x08
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 002BD620
@@ -1411,12 +1411,12 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00175520
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : 0x12
+		[Net] Function ID : 0x13
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 0017586C
 		[GX] Function offset : 0x3795C
-		[Net] Function ID : unk
+		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
 		Nothing to do
@@ -1803,7 +1803,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 003C3AA4
 		[GX] Function offset : 0x3607C
-		[Net] Function ID : unk
+		[Net] Function ID : 0x2D
 
 Title : Onimusha - Dawn of Dreams - DISC 2
 Game ID : SLES_820.39
@@ -1815,7 +1815,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 003C3AA4
 		[GX] Function offset : 0x3607C
-		[Net] Function ID : unk
+		[Net] Function ID : 0x2D
 
 Title : Disney's PK - Out of the Shadows
 Game ID : SLUS_204.78
@@ -2294,12 +2294,12 @@ Commands count : 0x4
 	[Net] Command ID : 0x01
 		Param : 00105540
 		[GX] Function offset : 0x35434
-		[Net] Function ID : unk
+		[Net] Function ID : 0x1B
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00105668
 		[GX] Function offset : 0x354F8
-		[Net] Function ID : unk
+		[Net] Function ID : 0x1C
 
 Title : Star Ocean 3 - Till the End of Time [Disc1of2]
 Game ID : SLUS_204.88
@@ -3356,6 +3356,22 @@ Commands count : 0x1
 			Param 4 : 18990030
 			Param 5 : 187C0030
 
+Title : Syphon Filter - Dark Mirror
+Game ID : SCUS_976.20
+Hash : 0x8F392568F5
+Hash Offset : 33F128
+Commands offset : 3458F8
+Commands count : 0x1
+	[GX] Command ID : 0x10
+	[Net] Command ID : 0x12
+		Data Offset : 00322F74
+		Data Number : 00000005
+			Param 1 : 00000000
+			Param 2 : 00000000
+			Param 3 : 00020001
+			Param 4 : 18990030
+			Param 5 : 187C0030
+
 Title : Star Wars Battlefront II
 Game ID : SLUS_212.40
 Hash : 0x2CD12D817D
@@ -3853,6 +3869,16 @@ Commands count : 0x1
 	[Net] Command ID : 0x15
 		Param : 00000004
 
+Title : Big Mutha Truckers
+Game ID : SLUS_202.91
+Hash : 0x43B945E9CD
+Hash Offset : 33F470
+Commands offset : 51D138
+Commands count : 0x1
+	[GX] Command ID : 0x13
+	[Net] Command ID : 0x15
+		Param : 00000004
+
 Title : Naruto - Ultimate Ninja
 Game ID : SLUS_213.58
 Hash : 0x4CB14DE1AD
@@ -3982,12 +4008,12 @@ Commands count : 0x4
 	[Net] Command ID : 0x01
 		Param : 00100448
 		[GX] Function offset : 0x35744
-		[Net] Function ID : unk
+		[Net] Function ID : 0x1F
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00100468
 		[GX] Function offset : 0x35808
-		[Net] Function ID : unk
+		[Net] Function ID : 0x20
 
 Title : Big Mutha Truckers 2
 Game ID : SLUS_210.86
@@ -4002,12 +4028,12 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00101228
 		[GX] Function offset : 0x35BDC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x25
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00101378
 		[GX] Function offset : 0x35CA0
-		[Net] Function ID : unk
+		[Net] Function ID : 0x26
 
 Title : Wizadry - Tale of the Forsaken
 Game ID : SLUS_202.59
@@ -4489,12 +4515,12 @@ Commands count : 0x4
 	[Net] Command ID : 0x01
 		Param : 00101850
 		[GX] Function offset : 0x35D64
-		[Net] Function ID : unk
+		[Net] Function ID : 0x27
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00101990
 		[GX] Function offset : 0x35E28
-		[Net] Function ID : unk
+		[Net] Function ID : 0x28
 
 Title : FlatOut
 Game ID : SLUS_209.01
@@ -4804,6 +4830,17 @@ Commands count : 0x1
 	[Net] Command ID : 0x15
 		Param : 00000004
 
+Title : Pro Evolution Soccer 2011
+Game ID : SLUS_219.42
+Hash : 0xFD01FD51DD
+Hash Offset : 33F9B0
+Commands offset : 51CED0
+Commands count : 0x1
+	[GX] Command ID : 0x0A
+	[Net] Command ID : 0x0C
+		Param 1 : 0001
+		Param 2 : 0400
+
 Title : PaRappa the Rapper 2
 Game ID : SCPS_150.17
 Hash : 0x2681DC90E5
@@ -4877,6 +4914,16 @@ Commands count : 0x1
 			Patched data : 008843482C28E44BFF02004AFF02004AFF02004A
 			Original data offset : 0x51CE28
 			Original data : 2C28E44BFF02004AFF02004AFF02004A00884348
+
+Title : WWF SmackDown! Just Bring It
+Game ID : SLPS_250.87
+Hash : 0xE051EC4185
+Hash Offset : 33FA40
+Commands offset : 51CE10
+Commands count : 0x1
+	[GX] Command ID : 0x0C
+	[Net] Command ID : 0x0E
+		Param : 001264D4
 
 Title : Final Fantasy X
 Game ID : SLPS_250.50
@@ -6583,7 +6630,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 00103838
 		[GX] Function offset : 0x37614
-		[Net] Function ID : unk
+		[Net] Function ID : 0x1A
 	[GX] Command ID : 0x1D
 	[Net] Command ID : 0x20
 		Param : 00000000000000C8
@@ -7110,6 +7157,17 @@ Commands count : 0x1
 	[Net] Command ID : 0x1F
 		Param : 000003E8
 
+Title : Kingdom Hearts Re - Chain of Memories
+Game ID : SLPM_666.76
+Hash : 0xD93E8C21BD
+Hash Offset : 3403D0
+Commands offset : 51C630
+Commands count : 0x1
+	[GX] Command ID : 0x0D
+	[Net] Command ID : 0x0F
+		Param 1 : 00100590
+		Param 2 : 0010C278
+
 Title : Siren 2
 Game ID : SCPS_151.06
 Hash : 0x4EE9B4F8D5
@@ -7238,6 +7296,31 @@ Commands count : 0x1
 			Original data offset : 0x51B730
 			Original data : 9910CA4B1921CA4BACF7FE4BFF02004A00884248
 
+Title : Salt Lake 2002
+Game ID : SLPS_250.89
+Hash : 0x18A914B98D
+Hash Offset : 3404A8
+Commands offset : 344230
+Commands count : 0x1
+	[GX] Command ID : 0x09
+	[Net] Command ID : 0x0B
+		Data Offset : 00344248
+		Data Number : 00000002
+			Sector : 00000324
+			Offset : 00000444
+			Size : 00000008
+			Patched data offset : 0x51B728
+			Patched data : 1000A7DA3800004A
+			Original data offset : 0x51B720
+			Original data : 3800004A1000A7DA
+			Sector : 00000324
+			Offset : 00000518
+			Size : 00000008
+			Patched data offset : 0x51B728
+			Patched data : 1000A7DA3800004A
+			Original data offset : 0x51B720
+			Original data : 3800004A1000A7DA
+
 Title : Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T.
 Game ID : SLPS_255.69
 Hash : 0x60D16CC1F5
@@ -7263,6 +7346,17 @@ Commands count : 0x1
 			Original data offset : 0x51AF40
 			Original data : 0301044B00804848
 
+Title : Pro Evolution Soccer 2011
+Game ID : SLPM_552.76
+Hash : 0x4DDE6CC19D
+Hash Offset : 3404D8
+Commands offset : 51CED0
+Commands count : 0x1
+	[GX] Command ID : 0x0A
+	[Net] Command ID : 0x0C
+		Param 1 : 0001
+		Param 2 : 0400
+
 Title : Burnout Dominator
 Game ID : SLAJ_250.94
 Hash : 0x98E510B9B5
@@ -7272,6 +7366,17 @@ Commands count : 0x1
 	[GX] Command ID : 0x11
 	[Net] Command ID : 0x13
 		Param : 0000000000009BDC
+
+Title : Pro Evolution Soccer 2011
+Game ID : SLAJ_251.15
+Hash : 0x98E510B95D
+Hash Offset : 340508
+Commands offset : 51CED0
+Commands count : 0x1
+	[GX] Command ID : 0x0A
+	[Net] Command ID : 0x0C
+		Param 1 : 0001
+		Param 2 : 0400
 
 Title : Akira Psycho Ball
 Game ID : SLES_509.19
@@ -7772,7 +7877,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 001F99C0
 		[GX] Function offset : 0x33F98
-		[Net] Function ID : unk
+		[Net] Function ID : 0x04
 
 Title : Dancing Stage Fever
 Game ID : SLES_517.57
@@ -8709,7 +8814,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 00187528
 		[GX] Function offset : 0x34DD0
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x02
 	[Net] Command ID : 0x03
 		Nothing to do
@@ -8724,7 +8829,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 001405B8
 		[GX] Function offset : 0x34DD0
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x02
 	[Net] Command ID : 0x03
 		Nothing to do
@@ -8739,7 +8844,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 001405B8
 		[GX] Function offset : 0x34DD0
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x02
 	[Net] Command ID : 0x03
 		Nothing to do
@@ -8754,7 +8859,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 001405B8
 		[GX] Function offset : 0x34DD0
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x02
 	[Net] Command ID : 0x03
 		Nothing to do
@@ -8769,7 +8874,22 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 001405B8
 		[GX] Function offset : 0x34DD0
-		[Net] Function ID : unk
+		[Net] Function ID : 0x12
+	[GX] Command ID : 0x02
+	[Net] Command ID : 0x03
+		Nothing to do
+
+Title : Disney/Pixar Finding Nemo
+Game ID : SLES_519.60
+Hash : 0xAD129817D
+Hash Offset : 340CE8
+Commands offset : 33AE50
+Commands count : 0x2
+	[GX] Command ID : 0x00
+	[Net] Command ID : 0x01
+		Param : 001405B8
+		[GX] Function offset : 0x34DD0
+		[Net] Function ID : 0x12
 	[GX] Command ID : 0x02
 	[Net] Command ID : 0x03
 		Nothing to do
@@ -9205,6 +9325,65 @@ Commands count : 0x2
 	[Net] Command ID : 0x07
 		Param : 00000004
 
+Title : WRC - Rally Evolved
+Game ID : SCES_536.80
+Hash : 0xDC011950ED
+Hash Offset : 340E68
+Commands offset : 343E20
+Commands count : 0x2
+	[GX] Command ID : 0x08
+	[Net] Command ID : 0x09
+		Data Offset : 0051C158
+		Data Number : 00000009
+			Offset : 003D1778
+			Original 1 : 00000000
+			Original 2 : 01CE7026
+			Patched 1 : 19A0006D
+			Patched 2 : 19A0006C
+			Offset : 003D1F68
+			Original 1 : 00000000
+			Original 2 : 19A00010
+			Patched 1 : 19800011
+			Patched 2 : 01CE7026
+			Offset : 003D1F70
+			Original 1 : 00000000
+			Original 2 : 00085020
+			Patched 1 : 01CE7026
+			Patched 2 : 00085020
+			Offset : 003D2028
+			Original 1 : 00000000
+			Original 2 : 01CE7026
+			Patched 1 : 19A0000D
+			Patched 2 : 19A0000C
+			Offset : 003D2200
+			Original 1 : 00000000
+			Original 2 : 19A00010
+			Patched 1 : 19800011
+			Patched 2 : 01CE7026
+			Offset : 003D2208
+			Original 1 : 00000000
+			Original 2 : 00085020
+			Patched 1 : 01CE7026
+			Patched 2 : 00085020
+			Offset : 003D2398
+			Original 1 : 00000000
+			Original 2 : 0318C026
+			Patched 1 : 19E00047
+			Patched 2 : 19E00046
+			Offset : 003D26B0
+			Original 1 : 00000000
+			Original 2 : 19A00012
+			Patched 1 : 19800013
+			Patched 2 : 01CE7026
+			Offset : 003D26B8
+			Original 1 : 00000000
+			Original 2 : 4BE0006C
+			Patched 1 : 01CE7026
+			Patched 2 : 4BE0006C
+	[GX] Command ID : 0x06
+	[Net] Command ID : 0x07
+		Param : 00000004
+
 Title : Grand Theft Auto - Liberty City Stories
 Game ID : SLES_541.35
 Hash : 0x6CB149E165
@@ -9301,7 +9480,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 00183E00
 		[GX] Function offset : 0x35300
-		[Net] Function ID : unk
+		[Net] Function ID : 0x18
 	[GX] Command ID : 0x1E
 	[Net] Command ID : 0x21
 		Param : 00000000
@@ -9557,6 +9736,20 @@ Commands count : 0x1
 			OriginalDataMask : FFFFFFFFFFFFFFFF
 			OriginalData : 81E1344B43A00000
 
+Title : Transformers
+Game ID : SLES_533.09
+Hash : 0xBC619931E5
+Hash Offset : 341048
+Commands offset : 33B3D8
+Commands count : 0x1
+	[GX] Command ID : 0x07
+	[Net] Command ID : 0x08
+		Data Offset : 003229E0
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 81E1344B46FA0000
+			OriginalDataMask : FFFFFFFFFFFFFFFF
+			OriginalData : 81E1344B43A00000
+
 Title : Syphon Filter - The Omega Strain
 Game ID : SCES_520.33
 Hash : 0x62B9A1E8DD
@@ -9608,12 +9801,12 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 001390F0
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : 0x12
+		[Net] Function ID : 0x13
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 001395F0
 		[GX] Function offset : 0x34EDC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x14
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
 		Nothing to do
@@ -9628,12 +9821,12 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 0022D870
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : 0x12
+		[Net] Function ID : 0x13
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 0022DCD0
 		[GX] Function offset : 0x34EDC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x14
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
 		Nothing to do
@@ -10126,7 +10319,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 00209CE0
 		[GX] Function offset : 0x37714
-		[Net] Function ID : unk
+		[Net] Function ID : 0x33
 
 Title : Devil May Cry 3 - Dante's Awakening [Special Edition]
 Game ID : SLES_541.86
@@ -10152,7 +10345,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 0020AD40
 		[GX] Function offset : 0x37714
-		[Net] Function ID : unk
+		[Net] Function ID : 0x33
 
 Title : FIFA 2000 World Championship
 Game ID : SLPS_200.20
@@ -10950,6 +11143,16 @@ Commands count : 0x1
 			Param 18 : 001FE4C4
 			Param 19 : 001FE4E0
 
+Title : Ford Mustang - The Legend Lives
+Game ID : SLES_532.96
+Hash : 0xBC6199318D
+Hash Offset : 3417B0
+Commands offset : 51D138
+Commands count : 0x1
+	[GX] Command ID : 0x13
+	[Net] Command ID : 0x15
+		Param : 00000004
+
 Title : Big Mutha Truckers 2
 Game ID : SLES_529.80
 Hash : 0xBD129811D
@@ -10974,12 +11177,12 @@ Commands count : 0x4
 	[Net] Command ID : 0x01
 		Param : 001014E0
 		[GX] Function offset : 0x35A54
-		[Net] Function ID : unk
+		[Net] Function ID : 0x23
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00101638
 		[GX] Function offset : 0x35B18
-		[Net] Function ID : unk
+		[Net] Function ID : 0x24
 
 Title : MTV Music Generator 3
 Game ID : SLES_524.04
@@ -11145,15 +11348,25 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00175870
 		[GX] Function offset : 0x366C4
-		[Net] Function ID : 0x12
+		[Net] Function ID : 0x13
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00175DA8
 		[GX] Function offset : 0x3795C
-		[Net] Function ID : unk
+		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
 	[Net] Command ID : 0x22
 		Nothing to do
+
+Title : ?
+Game ID : SLES_512.13
+Hash : 0xB26991396D
+Hash Offset : 3418E8
+Commands offset : 51DAC0
+Commands count : 0x1
+	[GX] Command ID : 0x06
+	[Net] Command ID : 0x07
+		Param : 00000008
 
 Title : World of Outlaws - Sprint Cars
 Game ID : SLES_515.09
@@ -11300,6 +11513,16 @@ Commands count : 0x1
 	[Net] Command ID : 0x15
 		Param : 00000004
 
+Title : Spongebob Squarepants - Lights, Camera, PANTS!
+Game ID : SLES_534.97
+Hash : 0x8C51A901F5
+Hash Offset : 341A08
+Commands offset : 51D138
+Commands count : 0x1
+	[GX] Command ID : 0x13
+	[Net] Command ID : 0x15
+		Param : 00000004
+
 Title : Bob L'éponge - Silence on Tourne!
 Game ID : SLES_534.95
 Hash : 0x8C51A90185
@@ -11334,6 +11557,16 @@ Title : Spongebob Squarepants - Lights, Camera, PANTS!
 Game ID : SLES_534.96
 Hash : 0x8C51A901FD
 Hash Offset : 341A68
+Commands offset : 51D138
+Commands count : 0x1
+	[GX] Command ID : 0x13
+	[Net] Command ID : 0x15
+		Param : 00000004
+
+Title : Spongebob Squarepants - Lights, Camera, PANTS!
+Game ID : SLES_535.00
+Hash : 0x8C51A901DD
+Hash Offset : 341A80
 Commands offset : 51D138
 Commands count : 0x1
 	[GX] Command ID : 0x13
@@ -11687,12 +11920,12 @@ Commands count : 0x4
 	[Net] Command ID : 0x01
 		Param : 00101AF0
 		[GX] Function offset : 0x35EEC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x29
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00101C38
 		[GX] Function offset : 0x35158
-		[Net] Function ID : unk
+		[Net] Function ID : 0x2A
 
 Title : Flatout
 Game ID : SLES_527.53
@@ -12078,6 +12311,31 @@ Commands count : 0x1
 	[Net] Command ID : 0x15
 		Param : 00000004
 
+Title : Free Running
+Game ID : SLES_545.59
+Hash : 0xF529D179BD
+Hash Offset : 341EA0
+Commands offset : 3434F8
+Commands count : 0x1
+	[GX] Command ID : 0x09
+	[Net] Command ID : 0x0B
+		Data Offset : 00343510
+		Data Number : 00000002
+			Sector : 000AF33F
+			Offset : 00000528
+			Size : 00000010
+			Patched data offset : 0x51B4B8
+			Patched data : 00884248EC28E24BFF02004AFF02004A
+			Original data offset : 0x51B4A8
+			Original data : EC28E24BFF02004AFF02004A00884248
+			Sector : 000AF398
+			Offset : 000005CC
+			Size : 00000010
+			Patched data offset : 0x51B498
+			Patched data : 008842486C69E34BFF02004AFF02004A
+			Original data offset : 0x51B488
+			Original data : 6C69E34BFF02004AFF02004A00884248
+
 Title : Next Generation Tennis 2003
 Game ID : SLES_515.47
 Hash : 0xE239C1698D
@@ -12243,12 +12501,12 @@ Commands count : 0x4
 	[Net] Command ID : 0x01
 		Param : 00100458
 		[GX] Function offset : 0x358CC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x21
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00100478
 		[GX] Function offset : 0x35990
-		[Net] Function ID : unk
+		[Net] Function ID : 0x22
 
 Title : Tony Hawk's Proving Ground
 Game ID : SLES_549.63
@@ -12311,12 +12569,12 @@ Commands count : 0x3
 	[Net] Command ID : 0x01
 		Param : 00105730
 		[GX] Function offset : 0x355BC
-		[Net] Function ID : unk
+		[Net] Function ID : 0x1D
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
 		Param : 00105834
 		[GX] Function offset : 0x35680
-		[Net] Function ID : unk
+		[Net] Function ID : 0x1E
 
 Title : Sprint Cars - Road to Knoxville
 Game ID : SLES_544.63
@@ -12454,6 +12712,23 @@ Commands count : 0x2
 	[Net] Command ID : 0x14
 		Nothing to do
 
+Title : Guitar Hero - Van Halen
+Game ID : SLES_555.18
+Hash : 0x8659A109C5
+Hash Offset : 3420C8
+Commands offset : 33B720
+Commands count : 0x2
+	[GX] Command ID : 0x07
+	[Net] Command ID : 0x08
+		Data Offset : 00322A40
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 8000000053400000
+			OriginalDataMask : 80000000FFFFFFFF
+			OriginalData : 80000000D3400000
+	[GX] Command ID : 0x12
+	[Net] Command ID : 0x14
+		Nothing to do
+
 Title : Guitar Hero 5
 Game ID : SLES_555.33
 Hash : 0x8E51A90155
@@ -12573,7 +12848,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x15
 		Param : 00000004
 
-Title : Barbie - Horse Adventure : Riding Camps
+Title : Barbie - Horse Adventure - Riding Camps
 Game ID : SLES_553.71
 Hash : 0xA67981294D
 Hash Offset : 3421A0
@@ -12598,7 +12873,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 00100BBC
 		[GX] Function offset : 0x34A70
-		[Net] Function ID : unk
+		[Net] Function ID : 0x2F
 	[GX] Command ID : 0x0A
 	[Net] Command ID : 0x0C
 		Param 1 : 0001
@@ -12614,7 +12889,7 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 00100BBC
 		[GX] Function offset : 0x34A70
-		[Net] Function ID : unk
+		[Net] Function ID : 0x2F
 	[GX] Command ID : 0x0A
 	[Net] Command ID : 0x0C
 		Param 1 : 0001
@@ -12630,7 +12905,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 00100BBC
 		[GX] Function offset : 0x34B48
-		[Net] Function ID : unk
+		[Net] Function ID : 0x30
 
 Title : SingStar Amped [with Microphone]
 Game ID : SCUS_976.11
@@ -12642,7 +12917,7 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 00100BBC
 		[GX] Function offset : 0x34B48
-		[Net] Function ID : unk
+		[Net] Function ID : 0x30
 
 Title : SingStar 90's
 Game ID : SCUS_976.26
@@ -12654,7 +12929,19 @@ Commands count : 0x1
 	[Net] Command ID : 0x01
 		Param : 00100BCC
 		[GX] Function offset : 0x34C20
-		[Net] Function ID : unk
+		[Net] Function ID : 0x31
+
+Title : Singstar Pop Volume 2
+Game ID : SCUS_976.27
+Hash : 0x8F3925688D
+Hash Offset : 342230
+Commands offset : 33A8C8
+Commands count : 0x1
+	[GX] Command ID : 0x00
+	[Net] Command ID : 0x01
+		Param : 00100BCC
+		[GX] Function offset : 0x34CF8
+		[Net] Function ID : 0x32
 
 Title : SingStar Abba
 Game ID : SCES_554.35
@@ -13008,7 +13295,33 @@ Commands count : 0x2
 	[Net] Command ID : 0x01
 		Param : 00209860
 		[GX] Function offset : 0x37714
-		[Net] Function ID : unk
+		[Net] Function ID : 0x33
+
+Title : ?
+Game ID : SLKA_254.02
+Hash : 0x50285AF11D
+Hash Offset : 342440
+Commands offset : 33A898
+Commands count : 0x2
+	[GX] Command ID : 0x08
+	[Net] Command ID : 0x09
+		Data Offset : 0051B160
+		Data Number : 00000002
+			Offset : 004186A0
+			Original 1 : 00000000
+			Original 2 : 1062FFFA
+			Patched 1 : 00000000
+			Patched 2 : 00000000
+			Offset : 00418758
+			Original 1 : 00000000
+			Original 2 : 1062FFFA
+			Patched 1 : 00000000
+			Patched 2 : 00000000
+	[GX] Command ID : 0x00
+	[Net] Command ID : 0x01
+		Param : 00209860
+		[GX] Function offset : 0x37714
+		[Net] Function ID : 0x33
 
 Title : Armored Core 3 - Silent Line
 Game ID : SLKA_250.41
@@ -13020,6 +13333,36 @@ Commands count : 0x1
 	[Net] Command ID : 0x27
 		Param 1 : 001863A8
 		Param 2 : 00186C08
+
+Title : Barbarian
+Game ID : SLKA_150.01
+Hash : 0x2E4032996D
+Hash Offset : 342470
+Commands offset : 343178
+Commands count : 0x1
+	[GX] Command ID : 0x10
+	[Net] Command ID : 0x12
+		Data Offset : 00322B04
+		Data Number : 00000013
+			Param 1 : 04000000
+			Param 2 : 00000000
+			Param 3 : 00040002
+			Param 4 : 00000000
+			Param 5 : 4EE97EC6
+			Param 6 : 00000200
+			Param 7 : 00000212
+			Param 8 : 00040003
+			Param 9 : 001FDDC0
+			Param 10 : 001FDE04
+			Param 11 : 001FDE50
+			Param 12 : 001FDEA0
+			Param 13 : 00060003
+			Param 14 : 001FE2BC
+			Param 15 : 001FE31C
+			Param 16 : 001FE368
+			Param 17 : 001FE3B0
+			Param 18 : 001FE3DC
+			Param 19 : 001FE3F8
 
 Title : Tantei Jinguuji Saburo - Innocent Black
 Game ID : SLKA_250.71
@@ -13152,6 +13495,18 @@ Title : Shin Onimusha - Dawn of Dreams [PlayStation 2 The Best]
 Game ID : SLPM_742.32
 Hash : 0xB05EEC41BD
 Hash Offset : 342548
+Commands offset : 33A868
+Commands count : 0x1
+	[GX] Command ID : 0x00
+	[Net] Command ID : 0x01
+		Param : 003C0894
+		[GX] Function offset : 0x36FC8
+		[Net] Function ID : 0x2C
+
+Title : Shin Onimusha - Dawn of Dreams (Disc 2)
+Game ID : SLPM_742.33
+Hash : 0xB05EEC41B5
+Hash Offset : 342560
 Commands offset : 33A868
 Commands count : 0x1
 	[GX] Command ID : 0x00
@@ -13349,6 +13704,16 @@ Commands count : 0x3
 	[Net] Command ID : 0x07
 		Param : 00000002
 
+Title : Hitman 2 - Silent Assassin
+Game ID : SLKA_250.55
+Hash : 0xE890E2498D
+Hash Offset : 342638
+Commands offset : 51D2A0
+Commands count : 0x1
+	[GX] Command ID : 0x1C
+	[Net] Command ID : 0x1F
+		Param : 000003E8
+
 Title : Hitman - Contracts
 Game ID : SLKA_252.18
 Hash : 0x38403299B5
@@ -13378,6 +13743,16 @@ Commands count : 0x1
 	[GX] Command ID : 0x06
 	[Net] Command ID : 0x07
 		Param : 00000008
+
+Title : ?
+Game ID : SLKA_252.60
+Hash : 0x30483A91CD
+Hash Offset : 342698
+Commands offset : 51CD08
+Commands count : 0x1
+	[GX] Command ID : 0x11
+	[Net] Command ID : 0x13
+		Param : 0000000000009BDC
 
 Title : SPY FICTION
 Game ID : SLKA_250.07
@@ -13783,6 +14158,47 @@ Commands count : 0x1
 			Original data offset : 0x51AF88
 			Original data : 00000000
 
+Title : Guitar Hero III - Legends of Rock
+Game ID : SLKA_253.63
+Hash : 0x582052F95D
+Hash Offset : 3427B8
+Commands offset : 33B720
+Commands count : 0x2
+	[GX] Command ID : 0x07
+	[Net] Command ID : 0x08
+		Data Offset : 00322A40
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 8000000053400000
+			OriginalDataMask : 80000000FFFFFFFF
+			OriginalData : 80000000D3400000
+	[GX] Command ID : 0x12
+	[Net] Command ID : 0x14
+		Nothing to do
+
+Title : Spongebob Squarepants - Lights, Camera, PANTS!
+Game ID : SLKA_253.19
+Hash : 0x20582A8185
+Hash Offset : 3427D0
+Commands offset : 51D138
+Commands count : 0x1
+	[GX] Command ID : 0x13
+	[Net] Command ID : 0x15
+		Param : 00000004
+
+Title : Superman Returns
+Game ID : SLKA_253.67
+Hash : 0x582052F97D
+Hash Offset : 3427E8
+Commands offset : 345BB0
+Commands count : 0x1
+	[GX] Command ID : 0x07
+	[Net] Command ID : 0x08
+		Data Offset : 00322F88
+			PatchedDataMask : 00000000FE000000
+			PatchedData : 000000002C000000
+			OriginalDataMask : 00000000FE000000
+			OriginalData : 0000000010000000
+
 Title : Lord of the Rings - The Two Towers
 Game ID : SLPM_675.46
 Hash : 0x31D664C925
@@ -13839,6 +14255,29 @@ Commands count : 0x1
 			OriginalDataMask : FFFFFFFFFFFFFFFF
 			OriginalData : 81E1344B43A00000
 
+Title : Woody Woodpecker - Escape from Buzz Buzzard Park
+Game ID : SLPM_645.19
+Hash : 0xBF2694393D
+Hash Offset : 342848
+Commands offset : 342AF0
+Commands count : 0x1
+	[GX] Command ID : 0x10
+	[Net] Command ID : 0x12
+		Data Offset : 00322AC0
+		Data Number : 0000000C
+			Param 1 : 04000000
+			Param 2 : 00000000
+			Param 3 : 00030002
+			Param 4 : 00000000
+			Param 5 : C359746E
+			Param 6 : 00000206
+			Param 7 : 00050003
+			Param 8 : 10171450
+			Param 9 : 10171514
+			Param 10 : 10171534
+			Param 11 : 101715EC
+			Param 12 : 10171630
+
 Title : Princess Maker 4
 Game ID : SLKA_252.74
 Hash : 0x30483A917D
@@ -13850,6 +14289,31 @@ Commands count : 0x1
 		Param 1 : 001F76C0
 		Param 2 : 001F7838
 
+Title : ?
+Game ID : SLKA_253.14
+Hash : 0x20582A81AD
+Hash Offset : 342878
+Commands offset : 342A98
+Commands count : 0x1
+	[GX] Command ID : 0x09
+	[Net] Command ID : 0x0B
+		Data Offset : 00342AB0
+		Data Number : 00000002
+			Sector : 000004A4
+			Offset : 000001C4
+			Size : 00000008
+			Patched data offset : 0x51AF58
+			Patched data : 008048488301044B
+			Original data offset : 0x51AF50
+			Original data : 8301044B00804848
+			Sector : 000004A4
+			Offset : 00000278
+			Size : 00000008
+			Patched data offset : 0x51AF48
+			Patched data : 008048480301044B
+			Original data offset : 0x51AF40
+			Original data : 0301044B00804848
+
 Title : FLATOUT 2
 Game ID : SLKA_254.01
 Hash : 0x50285AF105
@@ -13860,6 +14324,33 @@ Commands count : 0x1
 	[Net] Command ID : 0x26
 		Param 1 : 00230E24
 		Param 2 : 00230E9C
+
+Title : ?
+Game ID : SCKA_200.88
+Hash : 0xB78EAA05D
+Hash Offset : 3428A8
+Commands offset : 342A80
+Commands count : 0x1
+	[GX] Command ID : 0x08
+	[Net] Command ID : 0x09
+		Data Offset : 0051AF10
+		Data Number : 00000001
+			Offset : 0038E5B8
+			Original 1 : 00000000
+			Original 2 : 3C020044
+			Patched 1 : 3C0343A0
+			Patched 2 : 3C020044
+
+Title : Knight Rider - The Game
+Game ID : SLKA_150.06
+Hash : 0x2E40329955
+Hash Offset : 3428C0
+Commands offset : 51AEF8
+Commands count : 0x1
+	[GX] Command ID : 0x23
+	[Net] Command ID : 0x27
+		Param 1 : 00365168
+		Param 2 : 003651A0
 
 Title : INDIGO PROPHECY
 Game ID : SLKA_253.09
