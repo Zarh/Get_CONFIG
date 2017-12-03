@@ -147,6 +147,16 @@ int main()
 							fputs("\t\t[Net] Function ID : ", fo);
 							switch(func_offset)
 							{
+								case 0x2FEF0 :
+								{
+									val32=0x00;
+									break;
+								}
+								case 0x31E38 :
+								{
+									val32=0x01;
+									break;
+								}
 								case 0x30220 :
 								{
 									val32=0x02;
@@ -157,14 +167,44 @@ int main()
 									val32=0x03;
 									break;
 								}
+								case 0x30150 :
+								{
+									val32=0x04;
+									break;
+								}
+								case 0x31D08 :
+								{
+									val32=0x05;
+									break;
+								}
 								case 0x303DC :
 								{
 									val32=0x06;
 									break;
 								}
+								case 0x2FFB4 :
+								{
+									val32=0x08;
+									break;
+								}
+								case 0x31C14 :
+								{
+									val32=0x09;
+									break;
+								}
 								case 0x31FCC :
 								{
 									val32=0x0A;
+									break;
+								}
+								case 0x30518 :
+								{
+									val32=0x0C;
+									break;
+								}
+								case 0x306F0 :
+								{
+									val32=0x0E;
 									break;
 								}
 								case 0x31124 :
@@ -180,6 +220,61 @@ int main()
 								case 0x30F64 :
 								{
 									val32=0x11;
+									break;
+								}
+								case 0x311F8 :
+								{
+									val32=0x12;
+									break;
+								}
+								case 0x30C28 :
+								{
+									val32=0x13;
+									break;
+								}
+								case 0x31304 :
+								{
+									val32=0x14;
+									break;
+								}
+								case 0x327B4 :
+								{
+									val32=0x15;
+									break;
+								}
+								case 0x31580 :
+								{
+									val32=0x16;
+									break;
+								}
+								case 0x308C4 :
+								{
+									val32=0x17;
+									break;
+								}
+								case 0x31664 :
+								{
+									val32=0x18;
+									break;
+								}
+								case 0x31F04 :
+								{
+									val32=0x19;
+									break;
+								}
+								case 0x325B4 :
+								{
+									val32=0x1A;
+									break;
+								}
+								case 0x31798 :
+								{
+									val32=0x1B;
+									break;
+								}
+								case 0x30A88 :
+								{
+									val32=0x1C;
 									break;
 								}
 								default :
