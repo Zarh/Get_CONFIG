@@ -553,22 +553,22 @@ int main()
 								fwrite(&val32, 1, sizeof(u32), cfg);
 								sprintf(temp, "\t\t\tOffset : %08X\n", val32); fputs(temp, fo);
 								
-								memcpy(&val32, &elf_data[Data_offset+0x10000+4], sizeof(u32));
+								memcpy(&val32, &elf_data[Data_offset+0x10000+8], sizeof(u32));
 								val32 = swap32(val32);
 								fwrite(&val32, 1, sizeof(u32), cfg);
 								sprintf(temp, "\t\t\tOriginal 1 : %08X\n", val32); fputs(temp, fo);
 								
-								memcpy(&val32, &elf_data[Data_offset+0x10000+8], sizeof(u32));
+								memcpy(&val32, &elf_data[Data_offset+0x10000+0xC], sizeof(u32));
 								val32 = swap32(val32);
 								fwrite(&val32, 1, sizeof(u32), cfg);
 								sprintf(temp, "\t\t\tOriginal 2 : %08X\n", val32); fputs(temp, fo);
 								
-								memcpy(&val32, &elf_data[Data_offset+0x10000+0xC], sizeof(u32));
+								memcpy(&val32, &elf_data[Data_offset+0x10000+0x10], sizeof(u32));
 								val32 = swap32(val32);
 								fwrite(&val32, 1, sizeof(u32), cfg);
 								sprintf(temp, "\t\t\tPatched 1 : %08X\n", val32); fputs(temp, fo);
 								
-								memcpy(&val32, &elf_data[Data_offset+0x10000+0x10], sizeof(u32));
+								memcpy(&val32, &elf_data[Data_offset+0x10000+0x14], sizeof(u32));
 								val32 = swap32(val32);
 								fwrite(&val32, 1, sizeof(u32), cfg);
 								sprintf(temp, "\t\t\tPatched 2 : %08X\n", val32); fputs(temp, fo);
@@ -1121,6 +1121,12 @@ int main()
 				
 				val32 = 0;
 				fwrite(&val32, 1, sizeof(u32), cfg);
+				game_ID[4]='-';
+				game_ID[8]=game_ID[9];
+				game_ID[9]=game_ID[10];
+				game_ID[10]=0;
+				fputs(game_ID, cfg);
+				
 				fclose(cfg);
 				
 				if(tofix) rename(config_file, config_file_tofix);

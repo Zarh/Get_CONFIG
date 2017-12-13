@@ -544,9 +544,9 @@ Commands count : 0x2
 		Data Offset : 0051DBC8
 		Data Number : 00000001
 			Offset : 001923E8
-			Original 1 : 00000000
-			Original 2 : 0071182F
-			Patched 1 : 5440FFFB
+			Original 1 : 0071182F
+			Original 2 : 5440FFFB
+			Patched 1 : 00000000
 			Patched 2 : 00000000
 
 Title : Dance Dance Revolution Extreme
@@ -629,13 +629,13 @@ Commands count : 0x2
 		Data Offset : 0051DB08
 		Data Number : 00000002
 			Offset : 00418750
-			Original 1 : 00000000
-			Original 2 : 1062FFFA
+			Original 1 : 1062FFFA
+			Original 2 : 00000000
 			Patched 1 : 00000000
 			Patched 2 : 00000000
 			Offset : 00418808
-			Original 1 : 00000000
-			Original 2 : 1062FFFA
+			Original 1 : 1062FFFA
+			Original 2 : 00000000
 			Patched 1 : 00000000
 			Patched 2 : 00000000
 	[GX] Command ID : 0x00
@@ -655,13 +655,13 @@ Commands count : 0x2
 		Data Offset : 0051DAD8
 		Data Number : 00000002
 			Offset : 004290E0
-			Original 1 : 00000000
-			Original 2 : 1062FFFA
+			Original 1 : 1062FFFA
+			Original 2 : 00000000
 			Patched 1 : 00000000
 			Patched 2 : 00000000
 			Offset : 00429198
-			Original 1 : 00000000
-			Original 2 : 1062FFFA
+			Original 1 : 1062FFFA
+			Original 2 : 00000000
 			Patched 1 : 00000000
 			Patched 2 : 00000000
 	[GX] Command ID : 0x00
@@ -1368,10 +1368,10 @@ Commands count : 0x1
 		Data Offset : 0051DA10
 		Data Number : 00000001
 			Offset : 0038DA08
-			Original 1 : 00000000
-			Original 2 : 3C020044
-			Patched 1 : 3C0343A0
-			Patched 2 : 3C020044
+			Original 1 : 3C020044
+			Original 2 : 3C0343A0
+			Patched 1 : 3C020044
+			Patched 2 : 3C034320
 
 Title : Ice Age 2 - The Meltdown
 Game ID : SLUS_213.07
@@ -1898,10 +1898,10 @@ Commands count : 0x1
 		Data Offset : 0051D760
 		Data Number : 00000001
 			Offset : 001CF3C8
-			Original 1 : 00000000
-			Original 2 : 4100FFFF
-			Patched 1 : AC430000
-			Patched 2 : 00000000
+			Original 1 : 4100FFFF
+			Original 2 : AC430000
+			Patched 1 : 00000000
+			Patched 2 : AC430000
 
 Title : Primal - Civilization Is Only Skin Deep
 Game ID : SCUS_971.42
@@ -2230,19 +2230,19 @@ Commands count : 0x1
 		Data Number : 00000003
 			Offset : 00220658
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 08088194
-			Patched 2 : 00000000
+			Original 2 : 08088194
+			Patched 1 : 00000000
+			Patched 2 : 4901FFFD
 			Offset : 00220828
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 08088208
-			Patched 2 : 00000000
+			Original 2 : 08088208
+			Patched 1 : 00000000
+			Patched 2 : 4901FFFD
 			Offset : 002209C8
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 08088270
-			Patched 2 : 00000000
+			Original 2 : 08088270
+			Patched 1 : 00000000
+			Patched 2 : 4901FFFD
 
 Title : Soul Calibur III
 Game ID : SLUS_212.16
@@ -2255,10 +2255,10 @@ Commands count : 0x1
 		Data Offset : 0051D688
 		Data Number : 00000001
 			Offset : 00422718
-			Original 1 : 00000000
-			Original 2 : 0000102D
-			Patched 1 : 1044002D
-			Patched 2 : 0000102D
+			Original 1 : 0000102D
+			Original 2 : 1044002D
+			Patched 1 : 0000102D
+			Patched 2 : 00000000
 
 Title : World of Outlaws - Sprint Cars 2002
 Game ID : SLUS_202.83
@@ -2573,10 +2573,10 @@ Commands count : 0x2
 		Data Offset : 0051D470
 		Data Number : 00000001
 			Offset : 001D90E0
-			Original 1 : 00000000
-			Original 2 : 48489000
+			Original 1 : 48489000
+			Original 2 : 4BC529FF
 			Patched 1 : 4BC529FF
-			Patched 2 : 4BC529FF
+			Patched 2 : 48489000
 
 Title : Tom Clancy's Splinter Cell
 Game ID : SLUS_206.52
@@ -3335,10 +3335,10 @@ Commands count : 0x2
 		Data Offset : 0051D368
 		Data Number : 00000001
 			Offset : 003735F8
-			Original 1 : 00000000
-			Original 2 : 48438000
+			Original 1 : 48438000
+			Original 2 : 4B06521B
 			Patched 1 : 4B06521B
-			Patched 2 : 4B06521B
+			Patched 2 : 48438000
 
 Title : Syphon Filter - Dark Mirror
 Game ID : SCUS_973.62
@@ -3684,10 +3684,10 @@ Commands count : 0x1
 		Data Offset : 0051D210
 		Data Number : 00000001
 			Offset : 00229770
-			Original 1 : 00000000
-			Original 2 : 8CA53020
-			Patched 1 : 3C051000
-			Patched 2 : 00000000
+			Original 1 : 8CA53020
+			Original 2 : 3C051000
+			Patched 1 : 00000000
+			Patched 2 : 0808A5D8
 
 Title : Over the Hedge
 Game ID : SLES_538.66
@@ -3700,10 +3700,10 @@ Commands count : 0x1
 		Data Offset : 0051D1F8
 		Data Number : 00000001
 			Offset : 002298A8
-			Original 1 : 00000000
-			Original 2 : 8CA53020
-			Patched 1 : 3C051000
-			Patched 2 : 00000000
+			Original 1 : 8CA53020
+			Original 2 : 3C051000
+			Patched 1 : 00000000
+			Patched 2 : 1000FFFB
 
 Title : DreamWorks' På Andra Sidan Häcken (Over the hedge)
 Game ID : SLES_541.73
@@ -3716,10 +3716,10 @@ Commands count : 0x1
 		Data Offset : 0051D1E0
 		Data Number : 00000001
 			Offset : 00229DD0
-			Original 1 : 00000000
-			Original 2 : 8CA53020
-			Patched 1 : 3C051000
-			Patched 2 : 00000000
+			Original 1 : 8CA53020
+			Original 2 : 3C051000
+			Patched 1 : 00000000
+			Patched 2 : 1000FFFB
 
 Title : Over the Hedge
 Game ID : SLES_539.89
@@ -3732,10 +3732,10 @@ Commands count : 0x1
 		Data Offset : 0051D1C8
 		Data Number : 00000001
 			Offset : 00229CA0
-			Original 1 : 00000000
-			Original 2 : 8CA53020
-			Patched 1 : 3C051000
-			Patched 2 : 00000000
+			Original 1 : 8CA53020
+			Original 2 : 3C051000
+			Patched 1 : 00000000
+			Patched 2 : 1000FFFB
 
 Title : Over the Hedge
 Game ID : SLES_539.88
@@ -3748,10 +3748,10 @@ Commands count : 0x1
 		Data Offset : 0051D1C8
 		Data Number : 00000001
 			Offset : 00229CA0
-			Original 1 : 00000000
-			Original 2 : 8CA53020
-			Patched 1 : 3C051000
-			Patched 2 : 00000000
+			Original 1 : 8CA53020
+			Original 2 : 3C051000
+			Patched 1 : 00000000
+			Patched 2 : 1000FFFB
 
 Title : Over the Hedge
 Game ID : SLES_539.87
@@ -3764,10 +3764,10 @@ Commands count : 0x1
 		Data Offset : 0051D1C8
 		Data Number : 00000001
 			Offset : 00229CA0
-			Original 1 : 00000000
-			Original 2 : 8CA53020
-			Patched 1 : 3C051000
-			Patched 2 : 00000000
+			Original 1 : 8CA53020
+			Original 2 : 3C051000
+			Patched 1 : 00000000
+			Patched 2 : 1000FFFB
 
 Title : DreamWorks' La Gang del Bosco (Over the hedge)
 Game ID : SLES_539.86
@@ -3780,10 +3780,10 @@ Commands count : 0x1
 		Data Offset : 0051D1B0
 		Data Number : 00000001
 			Offset : 00229D00
-			Original 1 : 00000000
-			Original 2 : 8CA53020
-			Patched 1 : 3C051000
-			Patched 2 : 00000000
+			Original 1 : 8CA53020
+			Original 2 : 3C051000
+			Patched 1 : 00000000
+			Patched 2 : 1000FFFB
 
 Title : Legend of Spyro, The - A New Beginning
 Game ID : SLUS_213.72
@@ -3796,20 +3796,20 @@ Commands count : 0x1
 		Data Offset : 0051D168
 		Data Number : 00000003
 			Offset : 00126638
-			Original 1 : 00000000
-			Original 2 : 0002183C
-			Patched 1 : 344240F4
-			Patched 2 : 70441C88
+			Original 1 : 0002183C
+			Original 2 : 344240F4
+			Patched 1 : 70441C88
+			Patched 2 : 344240F4
 			Offset : 001849B0
-			Original 1 : 00000000
-			Original 2 : 3C0300FF
-			Patched 1 : 3464FFFF
-			Patched 2 : 3C0300FF
+			Original 1 : 3C0300FF
+			Original 2 : 3464FFFF
+			Patched 1 : 3C0300FF
+			Patched 2 : 3464FFF0
 			Offset : 001849B8
-			Original 1 : 00000000
-			Original 2 : 3463FFFE
-			Patched 1 : 44840800
-			Patched 2 : 3463FFFC
+			Original 1 : 3463FFFE
+			Original 2 : 44840800
+			Patched 1 : 3463FFFC
+			Patched 2 : 44840800
 
 Title : Bloody Roar 3
 Game ID : SLUS_202.12
@@ -4852,9 +4852,9 @@ Commands count : 0x2
 		Data Offset : 0051CEB8
 		Data Number : 00000001
 			Offset : 00152B4C
-			Original 1 : 00000000
-			Original 2 : 1480000A
-			Patched 1 : 2CA40008
+			Original 1 : 1480000A
+			Original 2 : 2CA40008
+			Patched 1 : 00000000
 			Patched 2 : 00000000
 	[GX] Command ID : 0x13
 	[Net] Command ID : 0x15
@@ -4999,34 +4999,34 @@ Commands count : 0x1
 		Data Offset : 0051CD80
 		Data Number : 00000006
 			Offset : 00190C28
-			Original 1 : 00000000
-			Original 2 : 4B044005
-			Patched 1 : 4B044004
-			Patched 2 : 48488000
-			Offset : 00190C30
-			Original 1 : 00000000
-			Original 2 : 4A0002FF
-			Patched 1 : 4A0002FF
-			Patched 2 : 4A0002FF
-			Offset : 00190C40
-			Original 1 : 00000000
-			Original 2 : 48498000
+			Original 1 : 4B044005
+			Original 2 : 4B044004
 			Patched 1 : 48488000
-			Patched 2 : 48498000
-			Offset : 00190DC0
-			Original 1 : 00000000
-			Original 2 : 4B044006
-			Patched 1 : 4B044005
-			Patched 2 : 4B044005
-			Offset : 00190DC8
-			Original 1 : 00000000
+			Patched 2 : 4B044004
+			Offset : 00190C30
+			Original 1 : 4A0002FF
 			Original 2 : 4A0002FF
 			Patched 1 : 4A0002FF
-			Patched 2 : 4B044006
+			Patched 2 : 4B044005
+			Offset : 00190C40
+			Original 1 : 48498000
+			Original 2 : 48488000
+			Patched 1 : 48498000
+			Patched 2 : 4A0002FF
+			Offset : 00190DC0
+			Original 1 : 4B044006
+			Original 2 : 4B044005
+			Patched 1 : 4B044005
+			Patched 2 : 48488800
+			Offset : 00190DC8
+			Original 1 : 4A0002FF
+			Original 2 : 4A0002FF
+			Patched 1 : 4B044006
+			Patched 2 : 48498800
 			Offset : 00190DD0
-			Original 1 : 00000000
-			Original 2 : 48498800
-			Patched 1 : 48488800
+			Original 1 : 48498800
+			Original 2 : 48488800
+			Patched 1 : 4A0002FF
 			Patched 2 : 4A0002FF
 
 Title : Final Fantasy X-2 International
@@ -5533,45 +5533,45 @@ Commands count : 0x2
 		Data Offset : 0051CBD0
 		Data Number : 00000008
 			Offset : 002690C0
-			Original 1 : 00000000
-			Original 2 : 1980006E
+			Original 1 : 1980006E
+			Original 2 : 8EB00000
 			Patched 1 : 8EB00000
-			Patched 2 : 8EB00000
+			Patched 2 : 1980006F
 			Offset : 00269BB0
-			Original 1 : 00000000
-			Original 2 : 1980000F
+			Original 1 : 1980000F
+			Original 2 : 8C8D0010
 			Patched 1 : 8C8D0010
-			Patched 2 : 8C8D0010
+			Patched 2 : 19800010
 			Offset : 0026A660
-			Original 1 : 00000000
-			Original 2 : 016B5826
-			Patched 1 : 8E4D0010
-			Patched 2 : 19800014
+			Original 1 : 016B5826
+			Original 2 : 8E4D0010
+			Patched 1 : 19800014
+			Patched 2 : 8E4D0010
 			Offset : 0026A668
-			Original 1 : 00000000
-			Original 2 : 19A00012
-			Patched 1 : 19800013
-			Patched 2 : 19A00012
+			Original 1 : 19A00012
+			Original 2 : 19800013
+			Patched 1 : 19A00012
+			Patched 2 : 016B5826
 			Offset : 00269DA8
-			Original 1 : 00000000
-			Original 2 : 8CAD0010
-			Patched 1 : 8CAC000C
-			Patched 2 : 19800012
+			Original 1 : 8CAD0010
+			Original 2 : 8CAC000C
+			Patched 1 : 19800012
+			Patched 2 : 8CAC000C
 			Offset : 00269DB0
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 19A00010
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 19A00010
+			Patched 2 : 8CAD0010
 			Offset : 00269AE0
-			Original 1 : 00000000
-			Original 2 : 8CAD0010
-			Patched 1 : 8CAC000C
-			Patched 2 : 19800012
+			Original 1 : 8CAD0010
+			Original 2 : 8CAC000C
+			Patched 1 : 19800012
+			Patched 2 : 8CAC000C
 			Offset : 00269AE8
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 19A00010
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 19A00010
+			Patched 2 : 8CAD0010
 	[GX] Command ID : 0x06
 	[Net] Command ID : 0x07
 		Param : 00000004
@@ -5598,50 +5598,50 @@ Commands count : 0x3
 		Data Offset : 0051CAD8
 		Data Number : 00000009
 			Offset : 0030DEA0
-			Original 1 : 00000000
-			Original 2 : 14A30002
+			Original 1 : 14A30002
+			Original 2 : 24E6FFFF
 			Patched 1 : 24E6FFFF
-			Patched 2 : 24E6FFFF
+			Patched 2 : 14A30003
 			Offset : 0030E9D0
-			Original 1 : 00000000
-			Original 2 : 1980006E
+			Original 1 : 1980006E
+			Original 2 : 8EB00000
 			Patched 1 : 8EB00000
-			Patched 2 : 8EB00000
+			Patched 2 : 1980006F
 			Offset : 0030F3F0
-			Original 1 : 00000000
-			Original 2 : 1980000E
+			Original 1 : 1980000E
+			Original 2 : 8C8D0010
 			Patched 1 : 8C8D0010
-			Patched 2 : 8C8D0010
+			Patched 2 : 1980000F
 			Offset : 0030FE18
-			Original 1 : 00000000
-			Original 2 : 19800013
+			Original 1 : 19800013
+			Original 2 : 016B5826
 			Patched 1 : 016B5826
-			Patched 2 : 016B5826
+			Patched 2 : 19800014
 			Offset : 0030F5B8
-			Original 1 : 00000000
-			Original 2 : 8CAD0010
-			Patched 1 : 8CAC000C
-			Patched 2 : 19800012
+			Original 1 : 8CAD0010
+			Original 2 : 8CAC000C
+			Patched 1 : 19800012
+			Patched 2 : 8CAC000C
 			Offset : 0030F5C0
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 19A00010
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 19A00010
+			Patched 2 : 8CAD0010
 			Offset : 0030F330
-			Original 1 : 00000000
-			Original 2 : 8CAD0010
-			Patched 1 : 8CAC000C
-			Patched 2 : 19800012
+			Original 1 : 8CAD0010
+			Original 2 : 8CAC000C
+			Patched 1 : 19800012
+			Patched 2 : 8CAC000C
 			Offset : 0030F338
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 19A00010
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 19A00010
+			Patched 2 : 8CAD0010
 			Offset : 0030FA80
-			Original 1 : 00000000
-			Original 2 : 19C0004C
+			Original 1 : 19C0004C
+			Original 2 : 01AD6826
 			Patched 1 : 01AD6826
-			Patched 2 : 01AD6826
+			Patched 2 : 19C0004D
 	[GX] Command ID : 0x06
 	[Net] Command ID : 0x07
 		Param : 00000004
@@ -6143,10 +6143,10 @@ Commands count : 0x2
 		Data Offset : 0051CAA8
 		Data Number : 00000001
 			Offset : 001DD028
-			Original 1 : 00000000
-			Original 2 : 48489000
+			Original 1 : 48489000
+			Original 2 : 4BC529FF
 			Patched 1 : 4BC529FF
-			Patched 2 : 4BC529FF
+			Patched 2 : 48489000
 
 Title : Dragon Quest - Shounen Yangus no Fushigi na Daibouken
 Game ID : SLPM_663.63
@@ -6647,13 +6647,13 @@ Commands count : 0x1
 		Data Number : 00000002
 			Offset : 004290E4
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 1062FFFA
+			Original 2 : 1062FFFA
+			Patched 1 : 00000000
 			Patched 2 : 00000000
 			Offset : 0042919C
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 1062FFFA
+			Original 2 : 1062FFFA
+			Patched 1 : 00000000
 			Patched 2 : 00000000
 
 Title : Busin - Wizardry Alternative
@@ -6667,9 +6667,9 @@ Commands count : 0x1
 		Data Offset : 0051C8C8
 		Data Number : 00000001
 			Offset : 003FB3D0
-			Original 1 : 00000000
-			Original 2 : 1040FFFC
-			Patched 1 : 30420200
+			Original 1 : 1040FFFC
+			Original 2 : 30420200
+			Patched 1 : 00000000
 			Patched 2 : 00000000
 
 Title : Primal Image Vol.01
@@ -6683,9 +6683,9 @@ Commands count : 0x1
 		Data Offset : 0051C8B0
 		Data Number : 00000001
 			Offset : 002FD500
-			Original 1 : 00000000
-			Original 2 : 1040FFFC
-			Patched 1 : 30420200
+			Original 1 : 1040FFFC
+			Original 2 : 30420200
+			Patched 1 : 00000000
 			Patched 2 : 00000000
 
 Title : Dead or Alive 2 - Hardcore
@@ -6699,10 +6699,10 @@ Commands count : 0x2
 		Data Offset : 0051C898
 		Data Number : 00000001
 			Offset : 002B666C
-			Original 1 : 00000000
-			Original 2 : 24080080
-			Patched 1 : 24060001
-			Patched 2 : 24080080
+			Original 1 : 24080080
+			Original 2 : 24060001
+			Patched 1 : 24080080
+			Patched 2 : 24060000
 	[GX] Command ID : 0x09
 	[Net] Command ID : 0x0B
 		Data Offset : 00344510
@@ -6768,10 +6768,10 @@ Commands count : 0x2
 		Data Offset : 0051C880
 		Data Number : 00000001
 			Offset : 00290408
-			Original 1 : 00000000
-			Original 2 : 24080080
-			Patched 1 : 24060001
-			Patched 2 : 24080080
+			Original 1 : 24080080
+			Original 2 : 24060001
+			Patched 1 : 24080080
+			Patched 2 : 24060000
 	[GX] Command ID : 0x09
 	[Net] Command ID : 0x0B
 		Data Offset : 00344420
@@ -6956,20 +6956,20 @@ Commands count : 0x1
 		Data Offset : 0051C7F0
 		Data Number : 00000003
 			Offset : 00139AF8
-			Original 1 : 00000000
-			Original 2 : 1440FFFD
-			Patched 1 : 0000282D
-			Patched 2 : 00000000
+			Original 1 : 1440FFFD
+			Original 2 : 0000282D
+			Patched 1 : 00000000
+			Patched 2 : 0000282D
 			Offset : 0011B774
-			Original 1 : 00000000
-			Original 2 : 2404000A
-			Patched 1 : 1440FFFD
-			Patched 2 : 2404000A
+			Original 1 : 2404000A
+			Original 2 : 1440FFFD
+			Patched 1 : 2404000A
+			Patched 2 : 00000000
 			Offset : 001D5EC4
-			Original 1 : 00000000
-			Original 2 : 2404000A
-			Patched 1 : 1440FFFD
-			Patched 2 : 2404000A
+			Original 1 : 2404000A
+			Original 2 : 1440FFFD
+			Patched 1 : 2404000A
+			Patched 2 : 00000000
 
 Title : Dark Cloud
 Game ID : SCPS_150.04
@@ -8701,10 +8701,10 @@ Commands count : 0x2
 		Data Offset : 0051C500
 		Data Number : 00000001
 			Offset : 001DB3A0
-			Original 1 : 00000000
-			Original 2 : 48489000
+			Original 1 : 48489000
+			Original 2 : 4BC529FF
 			Patched 1 : 4BC529FF
-			Patched 2 : 4BC529FF
+			Patched 2 : 48489000
 
 Title : Hitman 2 - Silent Assassin
 Game ID : SLES_509.92
@@ -9141,15 +9141,15 @@ Commands count : 0x2
 		Data Offset : 0051C4A0
 		Data Number : 00000002
 			Offset : 002AA578
-			Original 1 : 00000000
-			Original 2 : 0318C026
-			Patched 1 : 19E0004B
-			Patched 2 : 19E0004A
+			Original 1 : 0318C026
+			Original 2 : 19E0004B
+			Patched 1 : 19E0004A
+			Patched 2 : 0318C026
 			Offset : 002AA938
-			Original 1 : 00000000
-			Original 2 : 01CE7026
-			Patched 1 : 19A00013
-			Patched 2 : 19A00012
+			Original 1 : 01CE7026
+			Original 2 : 19A00013
+			Patched 1 : 19A00012
+			Patched 2 : 01CE7026
 	[GX] Command ID : 0x06
 	[Net] Command ID : 0x07
 		Param : 00000004
@@ -9165,85 +9165,85 @@ Commands count : 0x2
 		Data Offset : 0051C320
 		Data Number : 00000010
 			Offset : 002D8D40
-			Original 1 : 00000000
-			Original 2 : 1980000E
+			Original 1 : 1980000E
+			Original 2 : 8C8D0010
 			Patched 1 : 8C8D0010
-			Patched 2 : 8C8D0010
+			Patched 2 : 1980000F
 			Offset : 002D8F08
-			Original 1 : 00000000
-			Original 2 : 8CAD0010
-			Patched 1 : 8CAC000C
-			Patched 2 : 19800012
+			Original 1 : 8CAD0010
+			Original 2 : 8CAC000C
+			Patched 1 : 19800012
+			Patched 2 : 8CAC000C
 			Offset : 002D8F10
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 19A00010
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 19A00010
+			Patched 2 : 8CAD0010
 			Offset : 002D8320
-			Original 1 : 00000000
-			Original 2 : 1980006E
+			Original 1 : 1980006E
+			Original 2 : 8EB00000
 			Patched 1 : 8EB00000
-			Patched 2 : 8EB00000
+			Patched 2 : 1980006F
 			Offset : 002D9768
-			Original 1 : 00000000
-			Original 2 : 19800013
+			Original 1 : 19800013
+			Original 2 : 016B5826
 			Patched 1 : 016B5826
-			Patched 2 : 016B5826
+			Patched 2 : 19800014
 			Offset : 002D8C80
-			Original 1 : 00000000
-			Original 2 : 8CAD0010
-			Patched 1 : 8CAC000C
-			Patched 2 : 19800011
+			Original 1 : 8CAD0010
+			Original 2 : 8CAC000C
+			Patched 1 : 19800011
+			Patched 2 : 8CAC000C
 			Offset : 002D8C88
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 19A00010
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 19A00010
+			Patched 2 : 8CAD0010
 			Offset : 002D77F0
-			Original 1 : 00000000
-			Original 2 : 14A30002
+			Original 1 : 14A30002
+			Original 2 : 24E6FFFF
 			Patched 1 : 24E6FFFF
-			Patched 2 : 24E6FFFF
+			Patched 2 : 14A30003
 			Offset : 002D8E30
-			Original 1 : 00000000
-			Original 2 : 1980000E
+			Original 1 : 1980000E
+			Original 2 : 8C8D0010
 			Patched 1 : 8C8D0010
-			Patched 2 : 8C8D0010
+			Patched 2 : 1980000F
 			Offset : 002D8FF8
-			Original 1 : 00000000
-			Original 2 : 8CAD0010
-			Patched 1 : 8CAC000C
-			Patched 2 : 19800012
+			Original 1 : 8CAD0010
+			Original 2 : 8CAC000C
+			Patched 1 : 19800012
+			Patched 2 : 8CAC000C
 			Offset : 002D9000
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 19A00010
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 19A00010
+			Patched 2 : 8CAD0010
 			Offset : 002D8410
-			Original 1 : 00000000
-			Original 2 : 1980006E
+			Original 1 : 1980006E
+			Original 2 : 8EB00000
 			Patched 1 : 8EB00000
-			Patched 2 : 8EB00000
+			Patched 2 : 1980006F
 			Offset : 002D9858
-			Original 1 : 00000000
-			Original 2 : 19800013
+			Original 1 : 19800013
+			Original 2 : 016B5826
 			Patched 1 : 016B5826
-			Patched 2 : 016B5826
+			Patched 2 : 19800014
 			Offset : 002D78E0
-			Original 1 : 00000000
-			Original 2 : 14A30002
+			Original 1 : 14A30002
+			Original 2 : 24E6FFFF
 			Patched 1 : 24E6FFFF
-			Patched 2 : 24E6FFFF
+			Patched 2 : 14A30003
 			Offset : 002D8D70
-			Original 1 : 00000000
-			Original 2 : 8CAD0010
-			Patched 1 : 8CAC000C
-			Patched 2 : 19800012
+			Original 1 : 8CAD0010
+			Original 2 : 8CAC000C
+			Patched 1 : 19800012
+			Patched 2 : 8CAC000C
 			Offset : 002D8D78
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 19A00010
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 19A00010
+			Patched 2 : 8CAD0010
 	[GX] Command ID : 0x06
 	[Net] Command ID : 0x07
 		Param : 00000004
@@ -9272,55 +9272,55 @@ Commands count : 0x2
 		Data Offset : 0051C230
 		Data Number : 0000000A
 			Offset : 003CC898
-			Original 1 : 00000000
-			Original 2 : 0318C026
-			Patched 1 : 19E00047
-			Patched 2 : 19E00046
+			Original 1 : 0318C026
+			Original 2 : 19E00047
+			Patched 1 : 19E00046
+			Patched 2 : 0318C026
 			Offset : 003CC700
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 01CE7026
-			Offset : 003CC708
-			Original 1 : 00000000
-			Original 2 : 00085020
+			Original 1 : 19A00010
+			Original 2 : 19800011
 			Patched 1 : 01CE7026
-			Patched 2 : 00085020
-			Offset : 003CCBA8
-			Original 1 : 00000000
-			Original 2 : 016B5826
-			Patched 1 : 8E2D0010
-			Patched 2 : 19800014
-			Offset : 003CCBB0
-			Original 1 : 00000000
-			Original 2 : 19A00012
-			Patched 1 : 19800013
-			Patched 2 : 19A00012
-			Offset : 003CC520
-			Original 1 : 00000000
-			Original 2 : 1980000E
-			Patched 1 : 8C8D0010
-			Patched 2 : 8C8D0010
-			Offset : 003CC460
-			Original 1 : 00000000
-			Original 2 : 8CAD0010
-			Patched 1 : 8CAC000C
-			Patched 2 : 19800012
-			Offset : 003CC468
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 19A00010
-			Offset : 003CBC70
-			Original 1 : 00000000
-			Original 2 : 1980006E
-			Patched 1 : 8EB00000
-			Patched 2 : 8EB00000
-			Offset : 003CBC78
-			Original 1 : 00000000
+			Patched 2 : 19800011
+			Offset : 003CC708
+			Original 1 : 00085020
 			Original 2 : 01CE7026
-			Patched 1 : 19A0006D
-			Patched 2 : 01CE7026
+			Patched 1 : 00085020
+			Patched 2 : 19A0000F
+			Offset : 003CCBA8
+			Original 1 : 016B5826
+			Original 2 : 8E2D0010
+			Patched 1 : 19800014
+			Patched 2 : 8E2D0010
+			Offset : 003CCBB0
+			Original 1 : 19A00012
+			Original 2 : 19800013
+			Patched 1 : 19A00012
+			Patched 2 : 016B5826
+			Offset : 003CC520
+			Original 1 : 1980000E
+			Original 2 : 8C8D0010
+			Patched 1 : 8C8D0010
+			Patched 2 : 1980000F
+			Offset : 003CC460
+			Original 1 : 8CAD0010
+			Original 2 : 8CAC000C
+			Patched 1 : 19800012
+			Patched 2 : 8CAC000C
+			Offset : 003CC468
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 19A00010
+			Patched 2 : 8CAD0010
+			Offset : 003CBC70
+			Original 1 : 1980006E
+			Original 2 : 8EB00000
+			Patched 1 : 8EB00000
+			Patched 2 : 1980006F
+			Offset : 003CBC78
+			Original 1 : 01CE7026
+			Original 2 : 19A0006D
+			Patched 1 : 01CE7026
+			Patched 2 : 19A0006D
 	[GX] Command ID : 0x06
 	[Net] Command ID : 0x07
 		Param : 00000004
@@ -9336,50 +9336,50 @@ Commands count : 0x2
 		Data Offset : 0051C158
 		Data Number : 00000009
 			Offset : 003D1778
-			Original 1 : 00000000
-			Original 2 : 01CE7026
-			Patched 1 : 19A0006D
-			Patched 2 : 19A0006C
+			Original 1 : 01CE7026
+			Original 2 : 19A0006D
+			Patched 1 : 19A0006C
+			Patched 2 : 01CE7026
 			Offset : 003D1F68
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 01CE7026
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 01CE7026
+			Patched 2 : 19800011
 			Offset : 003D1F70
-			Original 1 : 00000000
-			Original 2 : 00085020
-			Patched 1 : 01CE7026
-			Patched 2 : 00085020
-			Offset : 003D2028
-			Original 1 : 00000000
+			Original 1 : 00085020
 			Original 2 : 01CE7026
-			Patched 1 : 19A0000D
-			Patched 2 : 19A0000C
+			Patched 1 : 00085020
+			Patched 2 : 19A0000F
+			Offset : 003D2028
+			Original 1 : 01CE7026
+			Original 2 : 19A0000D
+			Patched 1 : 19A0000C
+			Patched 2 : 01CE7026
 			Offset : 003D2200
-			Original 1 : 00000000
-			Original 2 : 19A00010
-			Patched 1 : 19800011
-			Patched 2 : 01CE7026
+			Original 1 : 19A00010
+			Original 2 : 19800011
+			Patched 1 : 01CE7026
+			Patched 2 : 19800011
 			Offset : 003D2208
-			Original 1 : 00000000
-			Original 2 : 00085020
-			Patched 1 : 01CE7026
-			Patched 2 : 00085020
+			Original 1 : 00085020
+			Original 2 : 01CE7026
+			Patched 1 : 00085020
+			Patched 2 : 19A0000F
 			Offset : 003D2398
-			Original 1 : 00000000
-			Original 2 : 0318C026
-			Patched 1 : 19E00047
-			Patched 2 : 19E00046
+			Original 1 : 0318C026
+			Original 2 : 19E00047
+			Patched 1 : 19E00046
+			Patched 2 : 0318C026
 			Offset : 003D26B0
-			Original 1 : 00000000
-			Original 2 : 19A00012
-			Patched 1 : 19800013
-			Patched 2 : 01CE7026
-			Offset : 003D26B8
-			Original 1 : 00000000
-			Original 2 : 4BE0006C
+			Original 1 : 19A00012
+			Original 2 : 19800013
 			Patched 1 : 01CE7026
-			Patched 2 : 4BE0006C
+			Patched 2 : 19800013
+			Offset : 003D26B8
+			Original 1 : 4BE0006C
+			Original 2 : 01CE7026
+			Patched 1 : 4BE0006C
+			Patched 2 : 19A00011
 	[GX] Command ID : 0x06
 	[Net] Command ID : 0x07
 		Param : 00000004
@@ -9496,20 +9496,20 @@ Commands count : 0x1
 		Data Offset : 0051C0F8
 		Data Number : 00000003
 			Offset : 003E68B0
-			Original 1 : 00000000
-			Original 2 : 0C0FA334
-			Patched 1 : 8F84909C
-			Patched 2 : 3C011000
-			Offset : 003E68B8
-			Original 1 : 00000000
-			Original 2 : 24020008
-			Patched 1 : 24050001
-			Patched 2 : 8F84909C
-			Offset : 003E68C0
-			Original 1 : 00000000
-			Original 2 : AC223C10
+			Original 1 : 0C0FA334
+			Original 2 : 8F84909C
 			Patched 1 : 3C011000
-			Patched 2 : 24050001
+			Patched 2 : 24020008
+			Offset : 003E68B8
+			Original 1 : 24020008
+			Original 2 : 24050001
+			Patched 1 : 8F84909C
+			Patched 2 : AC223C10
+			Offset : 003E68C0
+			Original 1 : AC223C10
+			Original 2 : 3C011000
+			Patched 1 : 24050001
+			Patched 2 : 0C0FA334
 
 Title : Mafia
 Game ID : SLES_522.79
@@ -9522,20 +9522,20 @@ Commands count : 0x1
 		Data Offset : 0051C0B0
 		Data Number : 00000003
 			Offset : 003E6150
-			Original 1 : 00000000
-			Original 2 : 0C0FA15C
-			Patched 1 : 8F84909C
-			Patched 2 : 3C011000
-			Offset : 003E6158
-			Original 1 : 00000000
-			Original 2 : 24020008
-			Patched 1 : 24050001
-			Patched 2 : 8F84909C
-			Offset : 003E6160
-			Original 1 : 00000000
-			Original 2 : AC223C10
+			Original 1 : 0C0FA15C
+			Original 2 : 8F84909C
 			Patched 1 : 3C011000
-			Patched 2 : 24050001
+			Patched 2 : 24020008
+			Offset : 003E6158
+			Original 1 : 24020008
+			Original 2 : 24050001
+			Patched 1 : 8F84909C
+			Patched 2 : AC223C10
+			Offset : 003E6160
+			Original 1 : AC223C10
+			Original 2 : 3C011000
+			Patched 1 : 24050001
+			Patched 2 : 0C0FA15C
 
 Title : Mafia
 Game ID : SLES_522.80
@@ -9548,20 +9548,20 @@ Commands count : 0x1
 		Data Offset : 0051C068
 		Data Number : 00000003
 			Offset : 003E60D0
-			Original 1 : 00000000
-			Original 2 : 0C0FA13C
-			Patched 1 : 8F84909C
-			Patched 2 : 3C011000
-			Offset : 003E60D8
-			Original 1 : 00000000
-			Original 2 : 24020008
-			Patched 1 : 24050001
-			Patched 2 : 8F84909C
-			Offset : 003E60E0
-			Original 1 : 00000000
-			Original 2 : AC223C10
+			Original 1 : 0C0FA13C
+			Original 2 : 8F84909C
 			Patched 1 : 3C011000
-			Patched 2 : 24050001
+			Patched 2 : 24020008
+			Offset : 003E60D8
+			Original 1 : 24020008
+			Original 2 : 24050001
+			Patched 1 : 8F84909C
+			Patched 2 : AC223C10
+			Offset : 003E60E0
+			Original 1 : AC223C10
+			Original 2 : 3C011000
+			Patched 1 : 24050001
+			Patched 2 : 0C0FA13C
 
 Title : Mafia
 Game ID : SLES_522.81
@@ -9574,20 +9574,20 @@ Commands count : 0x1
 		Data Offset : 0051C020
 		Data Number : 00000003
 			Offset : 003E62C0
-			Original 1 : 00000000
-			Original 2 : 0C0FA1B8
-			Patched 1 : 8F84909C
-			Patched 2 : 3C011000
-			Offset : 003E62C8
-			Original 1 : 00000000
-			Original 2 : 24020008
-			Patched 1 : 24050001
-			Patched 2 : 8F84909C
-			Offset : 003E62D0
-			Original 1 : 00000000
-			Original 2 : AC223C10
+			Original 1 : 0C0FA1B8
+			Original 2 : 8F84909C
 			Patched 1 : 3C011000
-			Patched 2 : 24050001
+			Patched 2 : 24020008
+			Offset : 003E62C8
+			Original 1 : 24020008
+			Original 2 : 24050001
+			Patched 1 : 8F84909C
+			Patched 2 : AC223C10
+			Offset : 003E62D0
+			Original 1 : AC223C10
+			Original 2 : 3C011000
+			Patched 1 : 24050001
+			Patched 2 : 0C0FA1B8
 
 Title : Mafia
 Game ID : SLES_522.82
@@ -9600,20 +9600,20 @@ Commands count : 0x1
 		Data Offset : 0051BFD8
 		Data Number : 00000003
 			Offset : 003E62F0
-			Original 1 : 00000000
-			Original 2 : 0C0FA15C
-			Patched 1 : 8F84909C
-			Patched 2 : 3C011000
-			Offset : 003E62F8
-			Original 1 : 00000000
-			Original 2 : 24020008
-			Patched 1 : 24050001
-			Patched 2 : 8F84909C
-			Offset : 003E6160
-			Original 1 : 00000000
-			Original 2 : AC223C10
+			Original 1 : 0C0FA15C
+			Original 2 : 8F84909C
 			Patched 1 : 3C011000
-			Patched 2 : 24050001
+			Patched 2 : 24020008
+			Offset : 003E62F8
+			Original 1 : 24020008
+			Original 2 : 24050001
+			Patched 1 : 8F84909C
+			Patched 2 : AC223C10
+			Offset : 003E6160
+			Original 1 : AC223C10
+			Original 2 : 3C011000
+			Patched 1 : 24050001
+			Patched 2 : 0C0FA1C4
 
 Title : Worms 3D
 Game ID : SLES_518.43
@@ -9702,25 +9702,25 @@ Commands count : 0x1
 		Data Offset : 0051BDC8
 		Data Number : 00000004
 			Offset : 00105500
-			Original 1 : 00000000
-			Original 2 : 3C01005C
-			Patched 1 : A0430000
-			Patched 2 : 24020002
+			Original 1 : 3C01005C
+			Original 2 : A0430000
+			Patched 1 : 24020002
+			Patched 2 : A0430000
 			Offset : 00105508
-			Original 1 : 00000000
-			Original 2 : 0C05831C
-			Patched 1 : 8C228E08
-			Patched 2 : FC221000
+			Original 1 : 0C05831C
+			Original 2 : 8C228E08
+			Patched 1 : FC221000
+			Patched 2 : 3C011200
 			Offset : 00105510
-			Original 1 : 00000000
-			Original 2 : 24020002
-			Patched 1 : 8C450004
-			Patched 2 : 8C228E08
+			Original 1 : 24020002
+			Original 2 : 8C450004
+			Patched 1 : 8C228E08
+			Patched 2 : 3C01005C
 			Offset : 00105518
-			Original 1 : 00000000
-			Original 2 : FC221000
-			Patched 1 : 3C011200
-			Patched 2 : 8C450004
+			Original 1 : FC221000
+			Original 2 : 3C011200
+			Patched 1 : 8C450004
+			Patched 2 : 0C05831C
 
 Title : Transformers Armada - Prelude to Energon [Special Edition]
 Game ID : SLES_523.88
@@ -9770,10 +9770,10 @@ Commands count : 0x2
 		Data Offset : 0051BDB0
 		Data Number : 00000001
 			Offset : 003953F8
-			Original 1 : 00000000
-			Original 2 : 48438000
+			Original 1 : 48438000
+			Original 2 : 4B06521B
 			Patched 1 : 4B06521B
-			Patched 2 : 4B06521B
+			Patched 2 : 48438000
 
 Title : Syphon Filter – Dark Mirror
 Game ID : SCES_547.94
@@ -9843,19 +9843,19 @@ Commands count : 0x1
 		Data Number : 00000003
 			Offset : 002232A8
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 08088CA8
-			Patched 2 : 00000000
+			Original 2 : 08088CA8
+			Patched 1 : 00000000
+			Patched 2 : 4901FFFD
 			Offset : 00223478
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 08088D1C
-			Patched 2 : 00000000
+			Original 2 : 08088D1C
+			Patched 1 : 00000000
+			Patched 2 : 4901FFFD
 			Offset : 0022361C
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 08088D84
-			Patched 2 : 00000000
+			Original 2 : 08088D84
+			Patched 1 : 00000000
+			Patched 2 : 4901FFFD
 
 Title : Shadow Man 2 - The Second Coming
 Game ID : SLES_504.46
@@ -9932,25 +9932,25 @@ Commands count : 0x1
 		Data Offset : 0051BD08
 		Data Number : 00000004
 			Offset : 0010E420
-			Original 1 : 00000000
-			Original 2 : 3C01004F
-			Patched 1 : A0430000
-			Patched 2 : 24020002
+			Original 1 : 3C01004F
+			Original 2 : A0430000
+			Patched 1 : 24020002
+			Patched 2 : A0430000
 			Offset : 0010E428
-			Original 1 : 00000000
-			Original 2 : 0C054EAE
-			Patched 1 : 8C225CA8
-			Patched 2 : FC221000
+			Original 1 : 0C054EAE
+			Original 2 : 8C225CA8
+			Patched 1 : FC221000
+			Patched 2 : 3C011200
 			Offset : 0010E430
-			Original 1 : 00000000
-			Original 2 : 24020002
-			Patched 1 : 8C450004
-			Patched 2 : 8C225CA8
+			Original 1 : 24020002
+			Original 2 : 8C450004
+			Patched 1 : 8C225CA8
+			Patched 2 : 3C01004F
 			Offset : 0010E438
-			Original 1 : 00000000
-			Original 2 : FC221000
-			Patched 1 : 3C011200
-			Patched 2 : 8C450004
+			Original 1 : FC221000
+			Original 2 : 3C011200
+			Patched 1 : 8C450004
+			Patched 2 : 0C054EAE
 
 Title : Powerful Pro Baseball 10 - Decision
 Game ID : SLPM_654.45
@@ -9963,25 +9963,25 @@ Commands count : 0x1
 		Data Offset : 0051BCA8
 		Data Number : 00000004
 			Offset : 00109020
-			Original 1 : 00000000
-			Original 2 : 3C01005D
-			Patched 1 : A0430000
-			Patched 2 : 24020002
+			Original 1 : 3C01005D
+			Original 2 : A0430000
+			Patched 1 : 24020002
+			Patched 2 : A0430000
 			Offset : 00109028
-			Original 1 : 00000000
-			Original 2 : 0C058E5E
-			Patched 1 : 8C223E18
-			Patched 2 : FC221000
+			Original 1 : 0C058E5E
+			Original 2 : 8C223E18
+			Patched 1 : FC221000
+			Patched 2 : 3C011200
 			Offset : 00109030
-			Original 1 : 00000000
-			Original 2 : 24020002
-			Patched 1 : 8C450004
-			Patched 2 : 8C223E18
+			Original 1 : 24020002
+			Original 2 : 8C450004
+			Patched 1 : 8C223E18
+			Patched 2 : 3C01005D
 			Offset : 00109038
-			Original 1 : 00000000
-			Original 2 : FC221000
-			Patched 1 : 3C011200
-			Patched 2 : 8C450004
+			Original 1 : FC221000
+			Original 2 : 3C011200
+			Patched 1 : 8C450004
+			Patched 2 : 0C058E5E
 
 Title : Jikkyou Powerful Pro Baseball 12
 Game ID : SLPM_660.61
@@ -9994,45 +9994,45 @@ Commands count : 0x1
 		Data Offset : 0051BBE8
 		Data Number : 00000008
 			Offset : 0010CE50
-			Original 1 : 00000000
-			Original 2 : 3C020051
-			Patched 1 : 0040802D
-			Patched 2 : 24030002
-			Offset : 0010CE58
-			Original 1 : 00000000
-			Original 2 : 8C46D560
-			Patched 1 : 3C030051
-			Patched 2 : FC431000
-			Offset : 0010CE60
-			Original 1 : 00000000
-			Original 2 : AC66D568
-			Patched 1 : 24050001
-			Patched 2 : 3C030051
-			Offset : 0010CE68
-			Original 1 : 00000000
-			Original 2 : A0C50000
-			Patched 1 : 3C020051
-			Patched 2 : 24050001
-			Offset : 0010CE70
-			Original 1 : 00000000
-			Original 2 : 8C450004
-			Patched 1 : 8C42D568
-			Patched 2 : 3C020051
-			Offset : 0010CE78
-			Original 1 : 00000000
-			Original 2 : 0200202D
-			Patched 1 : 0C05DCD2
-			Patched 2 : 8C42D568
-			Offset : 0010CE80
-			Original 1 : 00000000
-			Original 2 : 3C021200
+			Original 1 : 3C020051
+			Original 2 : 0040802D
 			Patched 1 : 24030002
-			Patched 2 : 0C05DCD2
-			Offset : 0010CE88
-			Original 1 : 00000000
-			Original 2 : 3C020051
+			Patched 2 : 0040802D
+			Offset : 0010CE58
+			Original 1 : 8C46D560
+			Original 2 : 3C030051
 			Patched 1 : FC431000
+			Patched 2 : 3C021200
+			Offset : 0010CE60
+			Original 1 : AC66D568
+			Original 2 : 24050001
+			Patched 1 : 3C030051
 			Patched 2 : 3C020051
+			Offset : 0010CE68
+			Original 1 : A0C50000
+			Original 2 : 3C020051
+			Patched 1 : 24050001
+			Patched 2 : 8C46D560
+			Offset : 0010CE70
+			Original 1 : 8C450004
+			Original 2 : 8C42D568
+			Patched 1 : 3C020051
+			Patched 2 : AC66D568
+			Offset : 0010CE78
+			Original 1 : 0200202D
+			Original 2 : 0C05DCD2
+			Patched 1 : 8C42D568
+			Patched 2 : A0C50000
+			Offset : 0010CE80
+			Original 1 : 3C021200
+			Original 2 : 24030002
+			Patched 1 : 0C05DCD2
+			Patched 2 : 8C450004
+			Offset : 0010CE88
+			Original 1 : 3C020051
+			Original 2 : FC431000
+			Patched 1 : 3C020051
+			Patched 2 : 0200202D
 
 Title : 実況パワフルプロ野球9
 Game ID : SLPM_621.92
@@ -10045,25 +10045,25 @@ Commands count : 0x1
 		Data Offset : 0051BB88
 		Data Number : 00000004
 			Offset : 00105500
-			Original 1 : 00000000
-			Original 2 : 3C01005B
-			Patched 1 : A0430000
-			Patched 2 : 24020002
+			Original 1 : 3C01005B
+			Original 2 : A0430000
+			Patched 1 : 24020002
+			Patched 2 : A0430000
 			Offset : 00105508
-			Original 1 : 00000000
-			Original 2 : 0C057C54
-			Patched 1 : 8C226388
-			Patched 2 : FC221000
+			Original 1 : 0C057C54
+			Original 2 : 8C226388
+			Patched 1 : FC221000
+			Patched 2 : 3C011200
 			Offset : 00105510
-			Original 1 : 00000000
-			Original 2 : 24020002
-			Patched 1 : 8C450004
-			Patched 2 : 8C226388
+			Original 1 : 24020002
+			Original 2 : 8C450004
+			Patched 1 : 8C226388
+			Patched 2 : 3C01005B
 			Offset : 00105518
-			Original 1 : 00000000
-			Original 2 : FC221000
-			Patched 1 : 3C011200
-			Patched 2 : 8C450004
+			Original 1 : FC221000
+			Original 2 : 3C011200
+			Patched 1 : 8C450004
+			Patched 2 : 0C057C54
 
 Title : Sengoku Musou
 Game ID : SLPM_655.17
@@ -10132,10 +10132,10 @@ Commands count : 0x1
 		Data Offset : 0051BB58
 		Data Number : 00000001
 			Offset : 001CEF78
-			Original 1 : 00000000
-			Original 2 : 4100FFFF
-			Patched 1 : AC430000
-			Patched 2 : 00000000
+			Original 1 : 4100FFFF
+			Original 2 : AC430000
+			Patched 1 : 00000000
+			Patched 2 : AC430000
 
 Title : Oni
 Game ID : SLES_501.76
@@ -10148,10 +10148,10 @@ Commands count : 0x1
 		Data Offset : 0051BB58
 		Data Number : 00000001
 			Offset : 001CEF78
-			Original 1 : 00000000
-			Original 2 : 4100FFFF
-			Patched 1 : AC430000
-			Patched 2 : 00000000
+			Original 1 : 4100FFFF
+			Original 2 : AC430000
+			Patched 1 : 00000000
+			Patched 2 : AC430000
 
 Title : Oni
 Game ID : SLES_501.77
@@ -10164,10 +10164,10 @@ Commands count : 0x1
 		Data Offset : 0051BB58
 		Data Number : 00000001
 			Offset : 001CEF78
-			Original 1 : 00000000
-			Original 2 : 4100FFFF
-			Patched 1 : AC430000
-			Patched 2 : 00000000
+			Original 1 : 4100FFFF
+			Original 2 : AC430000
+			Patched 1 : 00000000
+			Patched 2 : AC430000
 
 Title : Oni
 Game ID : SLES_501.78
@@ -10180,10 +10180,10 @@ Commands count : 0x1
 		Data Offset : 0051BB58
 		Data Number : 00000001
 			Offset : 001CEF78
-			Original 1 : 00000000
-			Original 2 : 4100FFFF
-			Patched 1 : AC430000
-			Patched 2 : 00000000
+			Original 1 : 4100FFFF
+			Original 2 : AC430000
+			Patched 1 : 00000000
+			Patched 2 : AC430000
 
 Title : Oni
 Game ID : SLES_501.79
@@ -10196,10 +10196,10 @@ Commands count : 0x1
 		Data Offset : 0051BB58
 		Data Number : 00000001
 			Offset : 001CEF78
-			Original 1 : 00000000
-			Original 2 : 4100FFFF
-			Patched 1 : AC430000
-			Patched 2 : 00000000
+			Original 1 : 4100FFFF
+			Original 2 : AC430000
+			Patched 1 : 00000000
+			Patched 2 : AC430000
 
 Title : Tekken 4
 Game ID : SCES_508.78
@@ -10307,13 +10307,13 @@ Commands count : 0x2
 		Data Number : 00000002
 			Offset : 004195EC
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 1062FFFA
+			Original 2 : 1062FFFA
+			Patched 1 : 00000000
 			Patched 2 : 00000000
 			Offset : 004196A4
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 1062FFFA
+			Original 2 : 1062FFFA
+			Patched 1 : 00000000
 			Patched 2 : 00000000
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
@@ -10333,13 +10333,13 @@ Commands count : 0x2
 		Data Number : 00000002
 			Offset : 00429DFC
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 1062FFFA
+			Original 2 : 1062FFFA
+			Patched 1 : 00000000
 			Patched 2 : 00000000
 			Offset : 00429EB4
 			Original 1 : 00000000
-			Original 2 : 00000000
-			Patched 1 : 1062FFFA
+			Original 2 : 1062FFFA
+			Patched 1 : 00000000
 			Patched 2 : 00000000
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
@@ -10375,25 +10375,25 @@ Commands count : 0x1
 		Data Offset : 0051BA98
 		Data Number : 00000004
 			Offset : 00108420
-			Original 1 : 00000000
-			Original 2 : A0C50000
-			Patched 1 : 3C020051
-			Patched 2 : 24030002
+			Original 1 : A0C50000
+			Original 2 : 3C020051
+			Patched 1 : 24030002
+			Patched 2 : A0C50000
 			Offset : 00108428
-			Original 1 : 00000000
-			Original 2 : 0C05EE16
-			Patched 1 : 8C42F238
-			Patched 2 : FC431000
+			Original 1 : 0C05EE16
+			Original 2 : 8C42F238
+			Patched 1 : FC431000
+			Patched 2 : 3C021200
 			Offset : 00108430
-			Original 1 : 00000000
-			Original 2 : 24030002
-			Patched 1 : 8C450004
-			Patched 2 : 8C42F238
+			Original 1 : 24030002
+			Original 2 : 8C450004
+			Patched 1 : 8C42F238
+			Patched 2 : 3C020051
 			Offset : 00108438
-			Original 1 : 00000000
-			Original 2 : FC431000
-			Patched 1 : 3C021200
-			Patched 2 : 8C450004
+			Original 1 : FC431000
+			Original 2 : 3C021200
+			Patched 1 : 8C450004
+			Patched 2 : 0C05EE16
 
 Title : Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban
 Game ID : SLPM_658.25
@@ -10406,40 +10406,40 @@ Commands count : 0x1
 		Data Offset : 0051B9F0
 		Data Number : 00000007
 			Offset : 0010EA30
-			Original 1 : 00000000
-			Original 2 : 3C030050
-			Patched 1 : 0040202D
-			Patched 2 : 24030002
+			Original 1 : 3C030050
+			Original 2 : 0040202D
+			Patched 1 : 24030002
+			Patched 2 : 0040202D
 			Offset : 0010EA38
-			Original 1 : 00000000
-			Original 2 : 24050001
-			Patched 1 : 3C020050
-			Patched 2 : FC431000
+			Original 1 : 24050001
+			Original 2 : 3C020050
+			Patched 1 : FC431000
+			Patched 2 : 3C021200
 			Offset : 0010EA40
-			Original 1 : 00000000
-			Original 2 : AC6609A8
-			Patched 1 : 8C4609A0
-			Patched 2 : 3C020050
-			Offset : 0010EA48
-			Original 1 : 00000000
-			Original 2 : A0C50000
+			Original 1 : AC6609A8
+			Original 2 : 8C4609A0
 			Patched 1 : 3C020050
-			Patched 2 : 8C4609A0
+			Patched 2 : 3C030050
+			Offset : 0010EA48
+			Original 1 : A0C50000
+			Original 2 : 3C020050
+			Patched 1 : 8C4609A0
+			Patched 2 : 24050001
 			Offset : 0010EA50
-			Original 1 : 00000000
-			Original 2 : 0C05604A
-			Patched 1 : 8C4209A8
-			Patched 2 : 3C020050
+			Original 1 : 0C05604A
+			Original 2 : 8C4209A8
+			Patched 1 : 3C020050
+			Patched 2 : AC6609A8
 			Offset : 0010EA58
-			Original 1 : 00000000
-			Original 2 : 24030002
-			Patched 1 : 8C450004
-			Patched 2 : 8C4209A8
+			Original 1 : 24030002
+			Original 2 : 8C450004
+			Patched 1 : 8C4209A8
+			Patched 2 : A0C50000
 			Offset : 0010EA60
-			Original 1 : 00000000
-			Original 2 : FC431000
-			Patched 1 : 3C021200
-			Patched 2 : 8C450004
+			Original 1 : FC431000
+			Original 2 : 3C021200
+			Patched 1 : 8C450004
+			Patched 2 : 0C05604A
 
 Title : Dead or Alive 2 - Hardcore
 Game ID : SCES_500.03
@@ -10452,10 +10452,10 @@ Commands count : 0x2
 		Data Offset : 0051B9D8
 		Data Number : 00000001
 			Offset : 002B4C44
-			Original 1 : 00000000
-			Original 2 : 24080080
-			Patched 1 : 24060001
-			Patched 2 : 24080080
+			Original 1 : 24080080
+			Original 2 : 24060001
+			Patched 1 : 24080080
+			Patched 2 : 24060000
 	[GX] Command ID : 0x09
 	[Net] Command ID : 0x0B
 		Data Offset : 00343B00
@@ -10549,20 +10549,20 @@ Commands count : 0x1
 		Data Offset : 0051B910
 		Data Number : 00000003
 			Offset : 001849B0
-			Original 1 : 00000000
-			Original 2 : 3C0300FF
-			Patched 1 : 3464FFFF
-			Patched 2 : 3C0300FF
+			Original 1 : 3C0300FF
+			Original 2 : 3464FFFF
+			Patched 1 : 3C0300FF
+			Patched 2 : 3464FFF0
 			Offset : 001849B8
-			Original 1 : 00000000
-			Original 2 : 3463FFFE
-			Patched 1 : 44840800
-			Patched 2 : 3463FFFC
+			Original 1 : 3463FFFE
+			Original 2 : 44840800
+			Patched 1 : 3463FFFC
+			Patched 2 : 44840800
 			Offset : 00126638
-			Original 1 : 00000000
-			Original 2 : 0002183C
-			Patched 1 : 344240F4
-			Patched 2 : 70441C88
+			Original 1 : 0002183C
+			Original 2 : 344240F4
+			Patched 1 : 70441C88
+			Patched 2 : 344240F4
 
 Title : Atelier Iris - Eternal Mana
 Game ID : SLES_537.64
@@ -13282,13 +13282,13 @@ Commands count : 0x2
 		Data Offset : 0051B160
 		Data Number : 00000002
 			Offset : 004186A0
-			Original 1 : 00000000
-			Original 2 : 1062FFFA
+			Original 1 : 1062FFFA
+			Original 2 : 00000000
 			Patched 1 : 00000000
 			Patched 2 : 00000000
 			Offset : 00418758
-			Original 1 : 00000000
-			Original 2 : 1062FFFA
+			Original 1 : 1062FFFA
+			Original 2 : 00000000
 			Patched 1 : 00000000
 			Patched 2 : 00000000
 	[GX] Command ID : 0x00
@@ -13308,13 +13308,13 @@ Commands count : 0x2
 		Data Offset : 0051B160
 		Data Number : 00000002
 			Offset : 004186A0
-			Original 1 : 00000000
-			Original 2 : 1062FFFA
+			Original 1 : 1062FFFA
+			Original 2 : 00000000
 			Patched 1 : 00000000
 			Patched 2 : 00000000
 			Offset : 00418758
-			Original 1 : 00000000
-			Original 2 : 1062FFFA
+			Original 1 : 1062FFFA
+			Original 2 : 00000000
 			Patched 1 : 00000000
 			Patched 2 : 00000000
 	[GX] Command ID : 0x00
@@ -13389,10 +13389,10 @@ Commands count : 0x2
 		Data Offset : 0051B130
 		Data Number : 00000001
 			Offset : 001DCF68
-			Original 1 : 00000000
-			Original 2 : 48489000
+			Original 1 : 48489000
+			Original 2 : 4BC529FF
 			Patched 1 : 4BC529FF
-			Patched 2 : 4BC529FF
+			Patched 2 : 48489000
 
 Title : Siren 2
 Game ID : SCKA_200.69
@@ -14336,10 +14336,10 @@ Commands count : 0x1
 		Data Offset : 0051AF10
 		Data Number : 00000001
 			Offset : 0038E5B8
-			Original 1 : 00000000
-			Original 2 : 3C020044
-			Patched 1 : 3C0343A0
-			Patched 2 : 3C020044
+			Original 1 : 3C020044
+			Original 2 : 3C0343A0
+			Patched 1 : 3C020044
+			Patched 2 : 3C034320
 
 Title : Knight Rider - The Game
 Game ID : SLKA_150.06
@@ -14387,7 +14387,7 @@ Commands count : 0x1
 			Original 1 : 00000000
 			Original 2 : 00000000
 			Patched 1 : 00000000
-			Patched 2 : 00000000
+			Patched 2 : 10000001
 
 Title : Official U.S. PlayStation Magazine Demo Disc 088
 Game ID : SCUS_973.41
@@ -14403,7 +14403,7 @@ Commands count : 0x1
 			Original 1 : 00000000
 			Original 2 : 00000000
 			Patched 1 : 00000000
-			Patched 2 : 00000000
+			Patched 2 : 10000001
 
 Title : Official U.S. PlayStation Magazine Demo Disc 089
 Game ID : SCUS_973.42
@@ -14419,7 +14419,7 @@ Commands count : 0x1
 			Original 1 : 00000000
 			Original 2 : 00000000
 			Patched 1 : 00000000
-			Patched 2 : 00000000
+			Patched 2 : 10000001
 
 Title : Official U.S. PlayStation Magazine Demo Disc 090
 Game ID : SCUS_974.42
@@ -14435,7 +14435,7 @@ Commands count : 0x1
 			Original 1 : 00000000
 			Original 2 : 00000000
 			Patched 1 : 00000000
-			Patched 2 : 00000000
+			Patched 2 : 10000001
 
 Title : Twisted Metal - Head-On [Extra Twisted Edition]
 Game ID : SCUS_976.21
