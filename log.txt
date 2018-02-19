@@ -209,7 +209,7 @@ Commands count : 0x3
 		[GX] Function offset : 0x34EDC
 		[Net] Function ID : 0x14
 	[GX] Command ID : 0x1F
-	[Net] Command ID : 0x22
+	[Net] Command ID : 0x23
 		Nothing to do
 
 Title : Baldur's Gate - Dark Alliance 2
@@ -229,7 +229,7 @@ Commands count : 0x3
 		[GX] Function offset : 0x34EDC
 		[Net] Function ID : 0x14
 	[GX] Command ID : 0x1F
-	[Net] Command ID : 0x22
+	[Net] Command ID : 0x23
 		Nothing to do
 
 Title : Barbarian
@@ -370,7 +370,7 @@ Commands count : 0x4
 		[GX] Function offset : 0x3795C
 		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
-	[Net] Command ID : 0x22
+	[Net] Command ID : 0x23
 		Nothing to do
 	[GX] Command ID : 0x00
 	[Net] Command ID : 0x01
@@ -395,7 +395,7 @@ Commands count : 0x3
 		[GX] Function offset : 0x3795C
 		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
-	[Net] Command ID : 0x22
+	[Net] Command ID : 0x23
 		Nothing to do
 
 Title : Champions - Return to Arms
@@ -415,7 +415,7 @@ Commands count : 0x3
 		[GX] Function offset : 0x3795C
 		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
-	[Net] Command ID : 0x22
+	[Net] Command ID : 0x23
 		Nothing to do
 
 Title : Champions - Return to Arms
@@ -435,7 +435,7 @@ Commands count : 0x3
 		[GX] Function offset : 0x3795C
 		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
-	[Net] Command ID : 0x22
+	[Net] Command ID : 0x23
 		Nothing to do
 
 Title : Commandos - Strike Force
@@ -1418,7 +1418,7 @@ Commands count : 0x3
 		[GX] Function offset : 0x3795C
 		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
-	[Net] Command ID : 0x22
+	[Net] Command ID : 0x23
 		Nothing to do
 
 Title : Katamari Damacy
@@ -9808,7 +9808,7 @@ Commands count : 0x3
 		[GX] Function offset : 0x34EDC
 		[Net] Function ID : 0x14
 	[GX] Command ID : 0x1F
-	[Net] Command ID : 0x22
+	[Net] Command ID : 0x23
 		Nothing to do
 
 Title : Baldur's Gate - Dark Alliance 2
@@ -9828,7 +9828,7 @@ Commands count : 0x3
 		[GX] Function offset : 0x34EDC
 		[Net] Function ID : 0x14
 	[GX] Command ID : 0x1F
-	[Net] Command ID : 0x22
+	[Net] Command ID : 0x23
 		Nothing to do
 
 Title : Smash Cars Racing
@@ -11355,7 +11355,7 @@ Commands count : 0x3
 		[GX] Function offset : 0x3795C
 		[Net] Function ID : 0x15
 	[GX] Command ID : 0x1F
-	[Net] Command ID : 0x22
+	[Net] Command ID : 0x23
 		Nothing to do
 
 Title : ?

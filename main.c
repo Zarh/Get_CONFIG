@@ -947,7 +947,7 @@ int main()
 						}
 						case 0x1F :
 						{
-							val32 = 0x22;
+							val32 = 0x23;
 							fwrite(&val32, 1, sizeof(u32), cfg);
 							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
