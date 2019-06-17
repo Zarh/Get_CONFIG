@@ -2319,6 +2319,7 @@ SLES-51202	Wreckless - The Yakuza Missions
 SLES-51203	Enter the Matrix
 SLES-51208	Rocky
 SLES-51209	Haven - Call of the King
+SLES-51213	World of Outlaws - SprintCars
 SLES-51214	18 Wheeler - American Pro Trucker
 SLES-51217	Harry Potter och Hemligheternas Kammare
 SLES-51218	Harry Potter en de Geheime Kamer
@@ -2466,7 +2467,7 @@ SLES-51503	Ace Lightning
 SLES-51504	Chessmaster
 SLES-51507	Futurama
 SLES-51508	Hulk, The
-SLES-51509	World of Outlaws - Sprint Cars
+SLES-51509	World of Outlaws - SprintCars
 SLES-51510	Dancing Stage Fever MegaMix
 SLES-51511	Crash Nitro Kart
 SLES-51522	RETURN TO CASTLE WOLFENSTEIN - OPERATION RESURRECTION

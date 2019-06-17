@@ -367,7 +367,7 @@ int main()
 							memcpy(&val32, &elf_data[Data_offset+0x10000+4*0], sizeof(u32));
 							val32 = swap32(val32);
 							fwrite(&val32, 1, sizeof(u32), cfg);
-							sprintf(temp, "\t\t\tPatchedDataMask : %08X", val32); fputs(temp, fo);
+							sprintf(temp, "\t\t\tOriginalDataMask : %08X", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[Data_offset+0x10000+4*1], sizeof(u32));
 							val32 = swap32(val32);
@@ -377,7 +377,7 @@ int main()
 							memcpy(&val32, &elf_data[Data_offset+0x10000+4*2], sizeof(u32));
 							val32 = swap32(val32);
 							fwrite(&val32, 1, sizeof(u32), cfg);
-							sprintf(temp, "\t\t\tPatchedData : %08X", val32); fputs(temp, fo);
+							sprintf(temp, "\t\t\tOriginalData : %08X", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[Data_offset+0x10000+4*3], sizeof(u32));
 							val32 = swap32(val32);
@@ -387,7 +387,7 @@ int main()
 							memcpy(&val32, &elf_data[Data_offset+0x10000+4*4], sizeof(u32));
 							val32 = swap32(val32);
 							fwrite(&val32, 1, sizeof(u32), cfg);
-							sprintf(temp, "\t\t\tOriginalDataMask : %08X", val32); fputs(temp, fo);
+							sprintf(temp, "\t\t\tPatchedDataMask : %08X", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[Data_offset+0x10000+4*5], sizeof(u32));
 							val32 = swap32(val32);
@@ -397,7 +397,7 @@ int main()
 							memcpy(&val32, &elf_data[Data_offset+0x10000+4*6], sizeof(u32));
 							val32 = swap32(val32);
 							fwrite(&val32, 1, sizeof(u32), cfg);
-							sprintf(temp, "\t\t\tOriginalData : %08X", val32); fputs(temp, fo);
+							sprintf(temp, "\t\t\tPatchedData : %08X", val32); fputs(temp, fo);
 							
 							memcpy(&val32, &elf_data[Data_offset+0x10000+4*7], sizeof(u32));
 							val32 = swap32(val32);
