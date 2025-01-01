@@ -27,7 +27,7 @@ static uint64_t swap64(uint64_t data)
 	return ret;
 }
 
-int main()
+void main()
 {	
 	int n, i, j, k;
 	char entry[255];
@@ -65,33 +65,47 @@ int main()
 	}
 	
 	system("rm -r files");
-	mkdir("files");
+	system("rm -r eGX");
+	mkdir("files", 0777);
+	mkdir("eGX", 0777);
 	
 	FILE *fo;
+	
 	fo = fopen("log.txt", "wb");
 	while(fgets(entry, 255, ft)) {
 		sscanf(entry, "%s %llX", game_ID, (unsigned long long int *) &hash);
-		
+
 		sprintf(temp, "Title : %s", &strchr(entry, '\t')[1]); fputs(temp, fo);
 		sprintf(temp, "Game ID : %s\n", game_ID); fputs(temp, fo);
 		sprintf(temp, "Hash : 0x%llX\n", hash); fputs(temp, fo);
-		
+
 		hash = swap64(hash);
-		
+
 		for(n=0; n<elf_size; n++) {
 			if(!memcmp(&elf_data[n], &hash, 8)) {
 			
-				FILE *cfg;
+				FILE *cfg=NULL;
+				FILE *gx=NULL;
 				char config_file[64];
 				char config_file_tofix[64];
-				
+				char gx_file[64];
+
 				sprintf(config_file, "files/%s.CONFIG", game_ID);
 				sprintf(config_file_tofix, "files/[tofix]%s.CONFIG", game_ID);
-				
+				sprintf(gx_file, "eGX/%s", game_ID);
+
 				u8 tofix=0;
 				
+				gx = fopen(gx_file, "wb");
+				if(gx==NULL) {
+					printf("Failed to create GX config file");
+					return;
+				}
 				cfg = fopen(config_file, "wb");
-				
+				if(cfg==NULL) {
+					printf("Failed to create config file");
+					return;
+				}
 				val32 = 0x3D;
 				fwrite(&val32, 1, sizeof(u32), cfg);
 		
@@ -103,15 +117,25 @@ int main()
 				memcpy(&cmd_offset, &elf_data[n+8], sizeof(u64));
 				cmd_offset = swap64(cmd_offset);
 				sprintf(temp, "Commands offset : %llX\n", cmd_offset); fputs(temp, fo);
-				
+
 				memcpy(&cmd_count, &elf_data[n+16], sizeof(u32));
+
 				cmd_count = swap32(cmd_count);
 				sprintf(temp, "Commands count : 0x%X\n", cmd_count); fputs(temp, fo);
-				
+
 				//memcpy(&val32, &elf_data[n+20], sizeof(u32));
 				//val32 = swap32(val32);
 				//sprintf(temp, "unk : 0x%X\n", val32); fputs(temp, fo);
+
+				// GX //////////////////////////////////////////////////////////////////
+				fwrite(&elf_data[n], sizeof(u8), 8, gx); // hash
+				fwrite(&elf_data[n+0xC], sizeof(u8), 4, gx); // cmd_offset
+				fwrite(&elf_data[n+0x10], sizeof(u8), 4, gx); // cmd_count
+				fwrite(&elf_data[cmd_offset+0x10000], sizeof(u8), 0x18*cmd_count, gx);
+				////////////////////////////////////////////////////////////////////////
 				
+				u64 gx_cmd_offset = cmd_offset;
+
 				for(i=0; i < cmd_count ; i++) {
 					
 					memcpy(&cmd_id, &elf_data[cmd_offset+0x10000], sizeof(u32));
@@ -487,12 +511,25 @@ int main()
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
 							Data_offset = swap64(Data_offset);
 							sprintf(temp, "\t\tData Offset : %08X\n", Data_offset); fputs(temp, fo);
-											
+							
+							// GX //////////////////////////////////////////////////////////////////
+							// virtual offset of the data in the GX config file
+							u64 gx_Data_offset =  gx_cmd_offset + ftell(gx) - 0x10;
+							u32 gx_PointerOffset = i*0x18 + 8 + 0x10;
+							fseek(gx, gx_PointerOffset, SEEK_SET);
+							gx_Data_offset = swap64(gx_Data_offset);
+							// change the pointer to the data in the GX config file
+							fwrite(&gx_Data_offset, sizeof(u64), 1, gx);
+							// write the data at the end of GX config file
+							fseek(gx, 0, SEEK_END);
+							fwrite(&elf_data[Data_offset+0x10000], sizeof(u8), 8*4, gx);
+							////////////////////////////////////////////////////////////////////////
+
 							memcpy(&val32, &elf_data[Data_offset+0x10000+4*0], sizeof(u32));
 							val32 = swap32(val32);
 							fwrite(&val32, 1, sizeof(u32), cfg);
 							sprintf(temp, "\t\t\tOriginalDataMask : %08X", val32); fputs(temp, fo);
-							
+
 							memcpy(&val32, &elf_data[Data_offset+0x10000+4*1], sizeof(u32));
 							val32 = swap32(val32);
 							fwrite(&val32, 1, sizeof(u32), cfg);
@@ -540,13 +577,26 @@ int main()
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
 							Data_offset = swap64(Data_offset);
 							sprintf(temp, "\t\tData Offset : %08X\n", Data_offset); fputs(temp, fo);
-							
+
 							u32 Data_Number;
 							memcpy(&Data_Number, &elf_data[cmd_offset+0x10000+0x10], sizeof(u32));
 							Data_Number = swap32(Data_Number);
 							fwrite(&Data_Number, 1, sizeof(u32), cfg);
 							sprintf(temp, "\t\tData Number : %08X\n", Data_Number); fputs(temp, fo);
-							
+
+							// GX //////////////////////////////////////////////////////////////////
+							// virtual offset of the data in the GX config file
+							u64 gx_Data_offset =  gx_cmd_offset + ftell(gx) - 0x10;
+							u32 gx_PointerOffset = i*0x18 + 8 + 0x10;
+							fseek(gx, gx_PointerOffset, SEEK_SET);
+							gx_Data_offset = swap64(gx_Data_offset);
+							// change the pointer to the data in the GX config file
+							fwrite(&gx_Data_offset, sizeof(u64), 1, gx);
+							// write the data at the end of GX config file
+							fseek(gx, 0, SEEK_END);
+							fwrite(&elf_data[Data_offset+0x10000], sizeof(u8), 0x18*Data_Number, gx);
+							////////////////////////////////////////////////////////////////////////
+
 							for(j=0; j < Data_Number; j++) {
 								memcpy(&val32, &elf_data[Data_offset+0x10000], sizeof(u32));
 								val32 = swap32(val32);
@@ -588,13 +638,27 @@ int main()
 							memcpy(&Data_offset, &elf_data[cmd_offset+0x10000+8], sizeof(u64));
 							Data_offset = swap64(Data_offset);
 							sprintf(temp, "\t\tData Offset : %08X\n", Data_offset); fputs(temp, fo);
-														
+
 							u32 Data_Number;
 							memcpy(&Data_Number, &elf_data[cmd_offset+0x10000+0x10], sizeof(u32));
 							Data_Number = swap32(Data_Number);
 							fwrite(&Data_Number, 1, sizeof(u32), cfg);
 							sprintf(temp, "\t\tData Number : %08X\n", Data_Number); fputs(temp, fo);
-														
+							
+							// GX //////////////////////////////////////////////////////////////////
+							// virtual offset of the data in the GX config file
+							u64 gx_Data_offset =  gx_cmd_offset + ftell(gx) - 0x10;
+							u32 gx_PointerOffset = i*0x18 + 8 + 0x10;
+							fseek(gx, gx_PointerOffset, SEEK_SET);
+							gx_Data_offset = swap64(gx_Data_offset);
+							// change the pointer to the data in the GX config file
+							fwrite(&gx_Data_offset, sizeof(u64), 1, gx);
+							// write the data at the end of GX config file
+							fseek(gx, 0, SEEK_END);
+							u32 gx_DataTable_offset = ftell(gx);
+							fwrite(&elf_data[Data_offset+0x10000], sizeof(u8), 0x20*Data_Number, gx);
+							////////////////////////////////////////////////////////////////////////
+
 							for(j=0; j < Data_Number; j++) {
 								
 								memcpy(&val32, &elf_data[Data_offset+0x10000], sizeof(u32));
@@ -626,7 +690,16 @@ int main()
 								memcpy(&val64, &elf_data[Data_offset+0x10000+0x8], sizeof(u64));
 								val64 = swap64(val64);
 								sprintf(temp, "\t\t\tPatched data offset : 0x%X\n", val64); fputs(temp, fo);
-								
+	
+								// GX //////////////////////////////////////////////////////////////////
+								u64 cur_Data_offset = gx_cmd_offset + ftell(gx) - 0x10;
+								cur_Data_offset = swap64(cur_Data_offset);
+								fseek(gx, gx_DataTable_offset + j*0x20 + 0x8, SEEK_SET);
+								fwrite(&cur_Data_offset, sizeof(u64), 1, gx);
+								fseek(gx, 0, SEEK_END);
+								fwrite(&elf_data[val64+0x10000], sizeof(u8), data_size, gx);
+								////////////////////////////////////////////////////////////////////////
+
 								memcpy(data, &elf_data[val64+0x10000], data_size);
 								
 								fputs("\t\t\tPatched data : ", fo);
@@ -642,6 +715,15 @@ int main()
 								val64 = swap64(val64);
 								sprintf(temp, "\t\t\tOriginal data offset : 0x%X\n", val64); fputs(temp, fo);
 								
+								// GX //////////////////////////////////////////////////////////////////
+								cur_Data_offset = gx_cmd_offset + ftell(gx) - 0x10;
+								cur_Data_offset = swap64(cur_Data_offset);
+								fseek(gx, gx_DataTable_offset + j*0x20 + 0x10, SEEK_SET);
+								fwrite(&cur_Data_offset, sizeof(u64), 1, gx);
+								fseek(gx, 0, SEEK_END);
+								fwrite(&elf_data[val64+0x10000], sizeof(u8), data_size, gx);
+								////////////////////////////////////////////////////////////////////////
+
 								memcpy(data, &elf_data[val64+0x10000], data_size);
 															
 								fputs("\t\t\tOriginal data : ", fo);
@@ -670,7 +752,7 @@ int main()
 							fwrite(&val32, 1, sizeof(u32), cfg);
 							sprintf(temp, "\t\tParam 1 : %04X\n", val32 >> 16); fputs(temp, fo);
 							sprintf(temp, "\t\tParam 2 : %04X\n", val32 & 0xFFFF); fputs(temp, fo);
-														
+							
 							break;
 						}
 						case 0x0B :
@@ -762,6 +844,19 @@ int main()
 							fwrite(&Data_Number, 1, sizeof(u32), cfg);
 							sprintf(temp, "\t\tData Number : %08X\n", Data_Number); fputs(temp, fo);
 							
+							// GX //////////////////////////////////////////////////////////////////
+							// virtual offset of the data in the GX config file
+							u64 gx_Data_offset =  gx_cmd_offset + ftell(gx) - 0x10;
+							u32 gx_PointerOffset = i*0x18 + 8 + 0x10;
+							fseek(gx, gx_PointerOffset, SEEK_SET);
+							gx_Data_offset = swap64(gx_Data_offset);
+							// change the pointer to the data in the GX config file
+							fwrite(&gx_Data_offset, sizeof(u64), 1, gx);
+							// write the data at the end of GX config file
+							fseek(gx, 0, SEEK_END);
+							fwrite(&elf_data[Data_offset+0x10000], sizeof(u8), 0x4*Data_Number, gx);
+							////////////////////////////////////////////////////////////////////////
+
 							for(j=0; j < Data_Number; j++) {
 								
 								memcpy(&val32, &elf_data[Data_offset+0x10000], sizeof(u32));
@@ -1114,8 +1209,6 @@ int main()
 							fputs("\t\tCommand unknown\n", fo);
 							break;
 					}
-					
-				
 					cmd_offset += 0x18;
 				}
 				
@@ -1128,6 +1221,7 @@ int main()
 				fputs(game_ID, cfg);
 				
 				fclose(cfg);
+				fclose(gx);
 				
 				if(tofix) rename(config_file, config_file_tofix);
 				break;
@@ -1141,6 +1235,4 @@ int main()
 	fclose(ft);
 	fclose(fo);
 	free(elf_data);
-	
-	return 0;
 }

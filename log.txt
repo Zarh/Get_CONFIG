@@ -679,10 +679,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -758,17 +758,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack - Part 2 - Mutation
 Game ID : SLUS_205.62
@@ -779,17 +779,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack - Part 3 - Outbreak
 Game ID : SLUS_205.63
@@ -800,17 +800,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack - Part 4 - Quarantine
 Game ID : SLUS_205.64
@@ -821,17 +821,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack - G.U. Vol.1 - Rebirth
 Game ID : SLUS_212.58
@@ -1269,10 +1269,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 003229C0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 000002FF003E604E
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01C039D0003E604E
+			OriginalData : 000002FF003E604E
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01C039D0003E604E
 
 Title : God of War II
 Game ID : SCUS_974.81
@@ -1283,10 +1283,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 003229C0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 000002FF003E604E
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01C039D0003E604E
+			OriginalData : 000002FF003E604E
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01C039D0003E604E
 
 Title : Gran Turismo 4
 Game ID : SCUS_973.28
@@ -2411,10 +2411,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322F88
-			PatchedDataMask : 00000000FE000000
-			PatchedData : 000000002C000000
 			OriginalDataMask : 00000000FE000000
-			OriginalData : 0000000010000000
+			OriginalData : 000000002C000000
+			PatchedDataMask : 00000000FE000000
+			PatchedData : 0000000010000000
 
 Title : Superman Returns
 Game ID : SLES_537.46
@@ -2425,10 +2425,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322F88
-			PatchedDataMask : 00000000FE000000
-			PatchedData : 000000002C000000
 			OriginalDataMask : 00000000FE000000
-			OriginalData : 0000000010000000
+			OriginalData : 000000002C000000
+			PatchedDataMask : 00000000FE000000
+			PatchedData : 0000000010000000
 
 Title : Superman Returns
 Game ID : SLES_543.48
@@ -2439,10 +2439,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322F88
-			PatchedDataMask : 00000000FE000000
-			PatchedData : 000000002C000000
 			OriginalDataMask : 00000000FE000000
-			OriginalData : 0000000010000000
+			OriginalData : 000000002C000000
+			PatchedDataMask : 00000000FE000000
+			PatchedData : 0000000010000000
 
 Title : Superman Returns
 Game ID : SLES_543.49
@@ -2453,10 +2453,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322F88
-			PatchedDataMask : 00000000FE000000
-			PatchedData : 000000002C000000
 			OriginalDataMask : 00000000FE000000
-			OriginalData : 0000000010000000
+			OriginalData : 000000002C000000
+			PatchedDataMask : 00000000FE000000
+			PatchedData : 0000000010000000
 
 Title : Superman Returns
 Game ID : SLES_543.50
@@ -2467,10 +2467,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322F88
-			PatchedDataMask : 00000000FE000000
-			PatchedData : 000000002C000000
 			OriginalDataMask : 00000000FE000000
-			OriginalData : 0000000010000000
+			OriginalData : 000000002C000000
+			PatchedDataMask : 00000000FE000000
+			PatchedData : 0000000010000000
 
 Title : Superman Returns
 Game ID : SLES_543.51
@@ -2481,10 +2481,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322F88
-			PatchedDataMask : 00000000FE000000
-			PatchedData : 000000002C000000
 			OriginalDataMask : 00000000FE000000
-			OriginalData : 0000000010000000
+			OriginalData : 000000002C000000
+			PatchedDataMask : 00000000FE000000
+			PatchedData : 0000000010000000
 
 Title : Test Drive
 Game ID : SLUS_202.13
@@ -2607,10 +2607,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2624,10 +2624,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2641,10 +2641,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2658,10 +2658,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2675,10 +2675,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2692,10 +2692,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2709,10 +2709,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2726,10 +2726,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2743,10 +2743,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2760,10 +2760,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2777,10 +2777,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2794,10 +2794,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2811,10 +2811,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2828,10 +2828,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2845,10 +2845,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2862,10 +2862,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2879,10 +2879,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2896,10 +2896,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2913,10 +2913,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2930,10 +2930,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2947,10 +2947,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2964,10 +2964,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -2981,10 +2981,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A20
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 80000000FFFF8000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000FFFF8001
+			OriginalData : 80000000FFFF8000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000FFFF8001
 
 Title : Castlevania - Curse Of Darkness
 Game ID : SLES_537.55
@@ -2995,10 +2995,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A20
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 80000000FFFF8000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000FFFF8001
+			OriginalData : 80000000FFFF8000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000FFFF8001
 
 Title : Whirl Tour
 Game ID : SLUS_204.89
@@ -3045,10 +3045,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A00
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01C62968500B07FB
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01C62968500B07FA
+			OriginalData : 01C62968500B07FB
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01C62968500B07FA
 
 Title : Wipeout Fusion
 Game ID : SCES_500.05
@@ -3059,10 +3059,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A00
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01C62968500B07FB
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01C62968500B07FA
+			OriginalData : 01C62968500B07FB
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01C62968500B07FA
 
 Title : Tourist Trophy
 Game ID : SCUS_975.02
@@ -3084,10 +3084,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 003229E0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 81E1344B46FA0000
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 81E1344B43A00000
+			OriginalData : 81E1344B46FA0000
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 81E1344B43A00000
 
 Title : Valkyrie Profile 2 - Silmeria
 Game ID : SLUS_214.52
@@ -3274,10 +3274,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322AA0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 8040D6A54B000000
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 8040D6A54B000001
+			OriginalData : 8040D6A54B000000
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 8040D6A54B000001
 
 Title : Silent Hill 4 - The Room
 Game ID : SLUS_208.73
@@ -3888,17 +3888,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Naruto - Ultimate Ninja 2
 Game ID : SLUS_215.75
@@ -3909,17 +3909,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Naruto - Ultimate Ninja 3
 Game ID : SLUS_217.27
@@ -3930,17 +3930,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Naruto Shippuden - Ultimate Ninja 4
 Game ID : SLUS_218.62
@@ -3951,17 +3951,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Armored Core - Silent Line
 Game ID : SLUS_206.44
@@ -4326,10 +4326,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -4343,10 +4343,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -4360,10 +4360,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -4377,10 +4377,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -4394,10 +4394,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -4411,10 +4411,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -4432,10 +4432,10 @@ Commands count : 0x3
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -4453,10 +4453,10 @@ Commands count : 0x3
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -4553,10 +4553,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 
 Title : Woody Woodpecker - Escape from Buzz Buzzard Park
 Game ID : SLUS_203.41
@@ -5338,10 +5338,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -5355,10 +5355,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A20
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 80000000FFFF8000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000FFFF8001
+			OriginalData : 80000000FFFF8000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000FFFF8001
 
 Title : Seiken Densetsu 4
 Game ID : SLPM_665.76
@@ -5384,17 +5384,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack Vol.2 - Mutation
 Game ID : SLPS_251.43
@@ -5405,17 +5405,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack - Vol.3 - Erosion Pollution
 Game ID : SLPS_251.58
@@ -5426,17 +5426,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack - Vol.4 - Zettai Houi
 Game ID : SLPS_252.02
@@ -5447,17 +5447,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Naruto - Narutimett Hero
 Game ID : SLPS_252.93
@@ -5468,17 +5468,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Naruto - Narutimett Hero 2
 Game ID : SLPS_253.98
@@ -5489,17 +5489,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Naruto Narutimett Hero 3
 Game ID : SLPS_255.89
@@ -5510,17 +5510,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : World Rally Championship 3
 Game ID : SLPM_655.83
@@ -6121,10 +6121,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -7012,17 +7012,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack G.U. Vol.2 - Kimi Omou Koe
 Game ID : SLPS_256.55
@@ -7033,17 +7033,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack - G.U. Vol.3 - Aruku Youna Hayasa de
 Game ID : SLPS_256.56
@@ -7054,17 +7054,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Max Payne
 Game ID : SLPS_252.44
@@ -7818,10 +7818,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -7921,10 +7921,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 003229C0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 000002FF003E604E
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01C039D0003E604E
+			OriginalData : 000002FF003E604E
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01C039D0003E604E
 
 Title : God of War II
 Game ID : SCES_542.06
@@ -7935,10 +7935,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 003229C0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 000002FF003E604E
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01C039D0003E604E
+			OriginalData : 000002FF003E604E
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01C039D0003E604E
 
 Title : Ratchet & Clank 2 - Locked & Loaded
 Game ID : SCES_516.07
@@ -8154,17 +8154,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack - Part 2 - Mutation
 Game ID : SLES_524.67
@@ -8175,17 +8175,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack - Part 3 - Outbreak
 Game ID : SLES_524.69
@@ -8196,17 +8196,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : dot Hack - Part 4 - Quarantine
 Game ID : SLES_524.68
@@ -8217,17 +8217,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Metal Gear Solid 3 - Snake Eater
 Game ID : SLES_820.24
@@ -8555,10 +8555,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -8572,10 +8572,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -8589,10 +8589,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -8606,10 +8606,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -9731,10 +9731,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 003229E0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 81E1344B46FA0000
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 81E1344B43A00000
+			OriginalData : 81E1344B46FA0000
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 81E1344B43A00000
 
 Title : Transformers
 Game ID : SLES_533.09
@@ -9745,10 +9745,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 003229E0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 81E1344B46FA0000
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 81E1344B43A00000
+			OriginalData : 81E1344B46FA0000
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 81E1344B43A00000
 
 Title : Syphon Filter - The Omega Strain
 Game ID : SCES_520.33
@@ -10220,17 +10220,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Naruto - Ultimate Ninja 2
 Game ID : SLES_548.78
@@ -10241,17 +10241,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Naruto - Ultimate Ninja 3
 Game ID : SLES_552.37
@@ -10262,17 +10262,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Naruto Shippuden - Ultimate Ninja 4
 Game ID : SLES_554.81
@@ -10283,17 +10283,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Devil May Cry 3 - Dante's Awakening
 Game ID : SLES_530.38
@@ -10647,10 +10647,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -10664,10 +10664,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -11803,10 +11803,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -11820,10 +11820,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -11969,10 +11969,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 
 Title : MTX Mototrax
 Game ID : SLES_522.90
@@ -11983,10 +11983,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 
 Title : Gift, The
 Game ID : SLES_502.76
@@ -12517,10 +12517,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -12653,10 +12653,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -12670,10 +12670,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -12687,10 +12687,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -12704,10 +12704,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -12721,10 +12721,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -12738,10 +12738,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -12755,10 +12755,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -12772,10 +12772,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -13072,10 +13072,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A20
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 80000000FFFF8000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000FFFF8001
+			OriginalData : 80000000FFFF8000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000FFFF8001
 
 Title : .Hack Vol.1 - Infection
 Game ID : SLKA_250.80
@@ -13086,17 +13086,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : .Hack Vol.2 - Mutation
 Game ID : SLKA_251.38
@@ -13107,17 +13107,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : .Hack Vol.3 - Outbreak
 Game ID : SLKA_251.45
@@ -13128,17 +13128,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : .Hack Vol.4 - Quarantine
 Game ID : SLKA_251.74
@@ -13149,17 +13149,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : GOD OF WAR
 Game ID : SCKA_300.02
@@ -13170,10 +13170,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 003229C0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 000002FF003E604E
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01C039D0003E604E
+			OriginalData : 000002FF003E604E
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01C039D0003E604E
 
 Title : GOD OF WAR II
 Game ID : SCKA_300.06
@@ -13184,10 +13184,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 003229C0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 000002FF003E604E
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01C039D0003E604E
+			OriginalData : 000002FF003E604E
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01C039D0003E604E
 
 Title : Final Fantasy X-2
 Game ID : SLKA_251.44
@@ -13545,17 +13545,17 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A80
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 0111948D80000EFC
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 0111948D10030203
+			OriginalData : 0111948D80000EFC
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 0111948D10030203
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A60
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 01E0A7408000033C
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 01E0A74080001EFC
+			OriginalData : 01E0A7408000033C
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 01E0A74080001EFC
 
 Title : Metal Gear Solid 3 - Subsistance [Limited Edition] [Disc1of2]
 Game ID : SLKA_253.53
@@ -14167,10 +14167,10 @@ Commands count : 0x2
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322A40
-			PatchedDataMask : 80000000FFFFFFFF
-			PatchedData : 8000000053400000
 			OriginalDataMask : 80000000FFFFFFFF
-			OriginalData : 80000000D3400000
+			OriginalData : 8000000053400000
+			PatchedDataMask : 80000000FFFFFFFF
+			PatchedData : 80000000D3400000
 	[GX] Command ID : 0x12
 	[Net] Command ID : 0x14
 		Nothing to do
@@ -14194,10 +14194,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 00322F88
-			PatchedDataMask : 00000000FE000000
-			PatchedData : 000000002C000000
 			OriginalDataMask : 00000000FE000000
-			OriginalData : 0000000010000000
+			OriginalData : 000000002C000000
+			PatchedDataMask : 00000000FE000000
+			PatchedData : 0000000010000000
 
 Title : Lord of the Rings - The Two Towers
 Game ID : SLPM_675.46
@@ -14250,10 +14250,10 @@ Commands count : 0x1
 	[GX] Command ID : 0x07
 	[Net] Command ID : 0x08
 		Data Offset : 003229E0
-			PatchedDataMask : FFFFFFFFFFFFFFFF
-			PatchedData : 81E1344B46FA0000
 			OriginalDataMask : FFFFFFFFFFFFFFFF
-			OriginalData : 81E1344B43A00000
+			OriginalData : 81E1344B46FA0000
+			PatchedDataMask : FFFFFFFFFFFFFFFF
+			PatchedData : 81E1344B43A00000
 
 Title : Woody Woodpecker - Escape from Buzz Buzzard Park
 Game ID : SLPM_645.19
