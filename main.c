@@ -11,6 +11,62 @@ typedef uint16_t 	u16;
 typedef uint32_t	u32;
 typedef uint64_t 	u64;
 
+#define GX_DATA_OFFSET 0x00341178
+u32 GxFuncHackIdOffsetNew[]={};
+u32 GxFuncHackIdOffset[] = {0x36B40,
+							0x35FB0,
+							0x34068,
+							0x34144,
+							0x33F98,
+							0x36CF8,
+							0x34224,
+							0x37850,
+							0x33DFC,
+							0x36C04,
+							0x36EF0,
+							0x34354,
+							0x34424,
+							0x34520,
+							0x345FC,
+							0x365F0,
+							0x36510,
+							0x36430,
+							0x34DD0,
+							0x366C4,
+							0x34EDC,
+							0x3795C,
+							0x3521C,
+							0x347D0,
+							0x35300,
+							0x36E28,
+							0x37614,
+							0x35434,
+							0x354F8,
+							0x355BC,
+							0x35680,
+							0x35744,
+							0x35808,
+							0x358CC,
+							0x35990,
+							0x35A54,
+							0x35B18,
+							0x35BDC,
+							0x35CA0,
+							0x35D64,
+							0x35E28,
+							0x35EEC,
+							0x35158,
+							0x34994,
+							0x36FC8,
+							0x3607C,
+						 0xFFFFFFFF,							
+							0x34A70,
+							0x34B48,
+							0x34C20,
+							0x34CF8,
+							0x37714
+						};
+
 #define swap16(x) ((((u16)(x))>>8) | ((x) << 8))
 #define swap32(x) ((((x) & 0xff) << 24) | (((x) & 0xff00) << 8) | (((x) & 0xff0000) >> 8) | (((x) >> 24) & 0xff))
 
@@ -26,6 +82,8 @@ static uint64_t swap64(uint64_t data)
 	ret |= ((data >> 56) & 0x00000000000000ffULL);
 	return ret;
 }
+
+#define DATA_OFFSET
 
 void main()
 {	
@@ -129,13 +187,15 @@ void main()
 
 				// GX //////////////////////////////////////////////////////////////////
 				fwrite(&elf_data[n], sizeof(u8), 8, gx); // hash
-				fwrite(&elf_data[n+0xC], sizeof(u8), 4, gx); // cmd_offset
+				u64 gx_cmd_offset = GX_DATA_OFFSET;
+				gx_cmd_offset = swap64(gx_cmd_offset);
+				fwrite((u32 *) &gx_cmd_offset+1, 1, 4, gx); // cmd_offset
+				gx_cmd_offset = swap64(gx_cmd_offset);
 				fwrite(&elf_data[n+0x10], sizeof(u8), 4, gx); // cmd_count
 				fwrite(&elf_data[cmd_offset+0x10000], sizeof(u8), 0x18*cmd_count, gx);
+				u64 start = cmd_offset;
 				////////////////////////////////////////////////////////////////////////
 				
-				u64 gx_cmd_offset = cmd_offset;
-
 				for(i=0; i < cmd_count ; i++) {
 					
 					memcpy(&cmd_id, &elf_data[cmd_offset+0x10000], sizeof(u32));
@@ -165,269 +225,12 @@ void main()
 							sprintf(temp, "\t\t[GX] Function offset : 0x%X\n", func_offset); fputs(temp, fo);
 							
 							fputs("\t\t[Net] Function ID : ", fo);
-							switch(func_offset)
-							{
-								
-								case 0x36B40 :
-								{
-									val32=0x00;
+							val32==0xFFFFFFFF;
+							for(j=0; j<=0x33; j++) {
+								if(GxFuncHackIdOffset[j]==func_offset) {
+									val32=j;
 									break;
 								}
-								case 0x35FB0:
-								{
-									val32=0x01;
-									break;
-								}
-								case 0x34068 :
-								{
-									val32=0x02;
-									break;
-								}
-								case 0x34144 :
-								{
-									val32=0x03;
-									break;
-								}
-								case 0x33F98 : // ?
-								{
-									val32=0x04;
-									break;
-								}
-								case 0x36CF8 :
-								{
-									val32=0x05;
-									break;
-								}
-								case 0x34224 :
-								{
-									val32=0x06;
-									break;
-								}
-								case 0x37850 :
-								{
-									val32=0x07;
-									break;
-								}
-								case 0x33DFC :
-								{
-									val32=0x08;
-									break;
-								}
-								case 0x36C04 :
-								{
-									val32=0x09;
-									break;
-								}
-								case 0x36EF0 :
-								{
-									val32=0x0A;
-									break;
-								}
-								case 0x34354 :
-								{
-									val32=0x0B;
-									break;
-								}
-								case 0x34424 :
-								{
-									val32=0x0C;
-									break;
-								}
-								case 0x34520 :
-								{
-									val32=0x0D;
-									break;
-								}
-								case 0x345FC :
-								{
-									val32=0x0E;
-									break;
-								}
-								
-								case 0x365F0 :
-								{
-									val32=0x0F;
-									break;
-								}
-								case 0x36510 :
-								{
-									val32=0x10;
-									break;
-								}
-								case 0x36430 :
-								{
-									val32=0x11;
-									break;
-								}
-								case 0x34DD0 :
-								{
-									val32=0x12;
-									break;
-								}
-								case 0x366C4 :
-								{
-									val32=0x13;
-									break;
-								}
-								case 0x34EDC :
-								{
-									val32=0x14;
-									break;
-								}
-								case 0x3795C :
-								{
-									val32=0x15;
-									break;
-								}
-								case 0x3521C :
-								{
-									val32=0x16;
-									break;
-								}
-								case 0x347D0 :
-								{
-									val32=0x17;
-									break;
-								}
-								case 0x35300 :
-								{
-									val32=0x18;
-									break;
-								}
-								case 0x36E28 :
-								{
-									val32=0x19;
-									break;
-								}
-								case 0x37614 :
-								{
-									val32=0x1A;
-									break;
-								}
-								case 0x35434 :
-								{
-									val32=0x1B;
-									break;
-								}
-								case 0x354F8 :
-								{
-									val32=0x1C;
-									break;
-								}
-								case 0x355BC :
-								{
-									val32=0x1D;
-									break;
-								}
-								case 0x35680 :
-								{
-									val32=0x1E;
-									break;
-								}
-								case 0x35744 :
-								{
-									val32=0x1F;
-									break;
-								}
-								case 0x35808 :
-								{
-									val32=0x20;
-									break;
-								}
-								case 0x358CC :
-								{
-									val32=0x21;
-									break;
-								}
-								case 0x35990 :
-								{
-									val32=0x22;
-									break;
-								}
-								case 0x35A54 :
-								{
-									val32=0x23;
-									break;
-								}
-								case 0x35B18 :
-								{
-									val32=0x24;
-									break;
-								}
-								case 0x35BDC :
-								{
-									val32=0x25;
-									break;
-								}
-								case 0x35CA0 :
-								{
-									val32=0x26;
-									break;
-								}
-								case 0x35D64 :
-								{
-									val32=0x27;
-									break;
-								}
-								case 0x35E28 :
-								{
-									val32=0x28;
-									break;
-								}
-								case 0x35EEC :
-								{
-									val32=0x29;
-									break;
-								}
-								case 0x35158 :
-								{
-									val32=0x2A;
-									break;
-								}
-								case 0x34994 :
-								{
-									val32=0x2B;
-									break;
-								}
-								case 0x36FC8 :
-								{
-									val32=0x2C;
-									break;
-								}
-								case 0x3607C :
-								{
-									val32=0x2D;
-									break;
-								}
-								case 0x34A70 :
-								{
-									val32=0x2F;
-									break;
-								}
-								case 0x34B48 :
-								{
-									val32=0x30;
-									break;
-								}
-								case 0x34C20 :
-								{
-									val32=0x31;
-									break;
-								}
-								case 0x34CF8 :
-								{
-									val32=0x32;
-									break;
-								}
-								case 0x37714 :
-								{
-									val32=0x33;
-									break;
-								}
-								default :
-									val32=0xFFFFFFFF;
-									break;
-									
 							}
 							if(val32==0xFFFFFFFF) {
 								tofix=1;
@@ -435,8 +238,20 @@ void main()
 							} else {
 								sprintf(temp, "0x%02X\n", val32); fputs(temp, fo);
 							}
-
 							fwrite(&val32, 1, sizeof(u32), cfg);
+
+							// GX //////////////////////////////////////////////////////////////////
+							// if GxFuncHackIdOffset are differents from 2 emulators
+							// define GxFuncHackIdOffsetNew[] with the new offsets and uncomment the lines bellow
+							/*
+							if( val32 != 0xFFFFFFFF ) {
+								u32 gx_func_offset = i*0x18+0x10 + 0x10;
+								fseek(gx, gx_func_offset, SEEK_SET);
+								fwrite(&GxFuncHackIdOffsetNew[val32], sizeof(u32), 1, gx);
+								fseek(gx, 0, SEEK_END);
+							}
+							*/
+							////////////////////////////////////////////////////////////////////////
 							break;
 						}
 						case 0x01 :
@@ -1073,7 +888,10 @@ void main()
 							fwrite(&val32, 1, sizeof(u32), cfg);
 							sprintf(temp, "\t[Net] Command ID : 0x%02X\n", val32); fputs(temp, fo);
 							
-							fputs("\t\tNothing to do\n", fo);
+							memcpy(&val32, &elf_data[cmd_offset+0x10000+8], sizeof(val32));
+							val32 = swap32(val32);
+							fwrite(&val32, 1, sizeof(u32), cfg);
+							sprintf(temp, "\t\tParam : %08X\n", val32); fputs(temp, fo);
 							break;
 						}
 						case 0x22 :

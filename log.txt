@@ -2157,7 +2157,7 @@ Commands offset : 51D748
 Commands count : 0x1
 	[GX] Command ID : 0x21
 	[Net] Command ID : 0x25
-		Nothing to do
+		Param : 00000049
 
 Title : Rumble Racing
 Game ID : SLUS_201.74
@@ -3572,7 +3572,7 @@ Commands offset : 51D288
 Commands count : 0x1
 	[GX] Command ID : 0x21
 	[Net] Command ID : 0x25
-		Nothing to do
+		Param : 00000009
 
 Title : Grand Theft Auto - San Andreas
 Game ID : SLUS_209.46
@@ -4122,7 +4122,7 @@ Commands offset : 51D748
 Commands count : 0x1
 	[GX] Command ID : 0x21
 	[Net] Command ID : 0x25
-		Nothing to do
+		Param : 00000049
 
 Title : Run Like Hell - Hunt or Be Hunted
 Game ID : SLUS_200.37
@@ -5296,7 +5296,7 @@ Commands offset : 51D288
 Commands count : 0x1
 	[GX] Command ID : 0x21
 	[Net] Command ID : 0x25
-		Nothing to do
+		Param : 00000009
 
 Title : Shinseiki Evangelion - Ayanami Ikusai Keikaku with Asuka Hokan Keikaku
 Game ID : SLPM_653.40
@@ -9635,7 +9635,7 @@ Commands offset : 51D288
 Commands count : 0x1
 	[GX] Command ID : 0x21
 	[Net] Command ID : 0x25
-		Nothing to do
+		Param : 00000009
 
 Title : Dropship - United Peace Force
 Game ID : SCES_504.59
@@ -11438,7 +11438,7 @@ Commands offset : 51D748
 Commands count : 0x1
 	[GX] Command ID : 0x21
 	[Net] Command ID : 0x25
-		Nothing to do
+		Param : 00000049
 
 Title : Rocky - Legends
 Game ID : SLES_527.61
@@ -11448,7 +11448,7 @@ Commands offset : 51D748
 Commands count : 0x1
 	[GX] Command ID : 0x21
 	[Net] Command ID : 0x25
-		Nothing to do
+		Param : 00000049
 
 Title : CART Fury Championship Racing
 Game ID : SLES_502.67
@@ -13478,7 +13478,7 @@ Commands offset : 51D288
 Commands count : 0x1
 	[GX] Command ID : 0x21
 	[Net] Command ID : 0x25
-		Nothing to do
+		Param : 00000009
 
 Title : Gran Turismo 4
 Game ID : SCKA_300.01
@@ -14110,7 +14110,7 @@ Commands offset : 51D748
 Commands count : 0x1
 	[GX] Command ID : 0x21
 	[Net] Command ID : 0x25
-		Nothing to do
+		Param : 00000049
 
 Title : Taisho Mononoke Ibunroku
 Game ID : SLKA_251.23
